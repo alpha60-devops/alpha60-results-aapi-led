@@ -16,23 +16,20 @@
   - brothers-sun-01
   - everything-everywhere-all-at-once
   - interior-chinatown-01
-  - kung-fu-101
-  - kung-fu-113
+  - kung-fu-101, kung-fu-113
   - laid-01
-  - monarch-legacy-of-monsters-101
-  - monarch-legacy-of-monsters-110
+  - monarch-legacy-of-monsters-101, monarch-legacy-of-monsters-110
   - mr-and-mrs-smith-2024-01
   - shang-chi-and-the-legend-of-the-ten-rings
-  - shogun-2024-101
-  - shogun-2024-110
-  - squid-game-02
+  - shogun-2024-101, shogun-2024-110
+  - squid-game-02, squid-game-03
   - summer-i-turned-pretty-311
   - warrior-310
   - wu-assassins-01
 
 
 - Dates
-  - 2019 to 2025
+  - 2019 to 2026
 <!-- - [analysis notebook](/notebooks/analysis_2025.ipynb) -->
 
 
@@ -52,9 +49,8 @@
 - [Media Object Metadata](https://github.com/alpha60-devops/alpha60-btiha/tree/main/metadata) (title.json)
 - [2026 JSON API](docs/data-json.2026.md)
 
-### [Source](https://github.com/alpha60-devops/alpha60-results-aapi/tree/main/data.v2)
+### [Source](https://github.com/alpha60-devops/alpha60-results-aapi/tree/main/data)
 
-<!-- - [analysis notebook](/notebooks/analysis_2025.ipynb) -->
 
 {::nomarkdown}
 <svg width="100" height=100>

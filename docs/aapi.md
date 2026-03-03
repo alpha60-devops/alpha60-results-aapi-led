@@ -16,10 +16,28 @@ layout: default
 
 ### Tables
 
+{% include aapi-meta-collection-table.html %}
+<div style="height: 50px;"></div>
+
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+        src="../resources/izzi-script-table-sort-inline.js">
+</script>
+
+{% include aapi-media-objects-table.html %}
 <div style="height: 50px;"></div>
 
 
 ### Graphs
+
+{::nomarkdown}
+{% include aapi-downloads-by-week-cumulative-normalized-start.svg %}
+{:/}
+
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+        src="../resources/izzi-script-graph-hover-txt-polyline.js">
+</script>
+<div style="height: 50px;"></div>
+
 
 ### Maps
 
@@ -28,9 +46,9 @@ layout: default
 
 ## Commentary, Questions
 
-### Global Media by Week
+### Asian Country and Region Slices 
 
-
+{% include aapi-geo-slices-aapi.html %}
 <div style="height: 50px;"></div>
 
 {::nomarkdown}
