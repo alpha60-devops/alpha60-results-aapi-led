@@ -10,20 +10,26 @@
 - [Alpha60](http://alpha60.co) Grouping: AAPI
 - Media Objects
   - 3-body-problem-01
-  - american-born-chinese-01
+  - all-of-us-are-dead-01
+  - american-born-chinese-01  
   - avatar-the-last-airbender-2024-01
   - ballard-01
   - brothers-sun-01
+  - devs-108  
   - everything-everywhere-all-at-once
+  - human-flow
   - interior-chinatown-01
   - kung-fu-101, kung-fu-113
   - laid-01
   - monarch-legacy-of-monsters-101, monarch-legacy-of-monsters-110
   - mr-and-mrs-smith-2024-01
+  - no-more-bets
   - shang-chi-and-the-legend-of-the-ten-rings
   - shogun-2024-101, shogun-2024-110
+  - space-sweepers
   - squid-game-02, squid-game-03
   - summer-i-turned-pretty-311
+  - vanguard
   - warrior-310
   - wu-assassins-01
 
