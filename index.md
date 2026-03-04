@@ -15,7 +15,8 @@
   - avatar-the-last-airbender-2024-01
   - ballard-01
   - brothers-sun-01
-  - devs-108  
+  - devs-108
+  - eternals   
   - everything-everywhere-all-at-once
   - human-flow
   - interior-chinatown-01
