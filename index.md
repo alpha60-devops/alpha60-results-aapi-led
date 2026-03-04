@@ -7,7 +7,7 @@
 
 
 ## About
-- [Alpha60](http://alpha60.co) Grouping: AAPI
+- [Alpha60](http://alpha60.co) Grouping: AAPI-led
 - Media Objects
   - 3-body-problem-01
   - all-of-us-are-dead-01
