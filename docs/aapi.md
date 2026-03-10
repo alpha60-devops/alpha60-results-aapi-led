@@ -3,53 +3,64 @@ layout: default
 ---
 
 {::nomarkdown}
-<img src="../image/a60-logo-block-gray.simple.svg?sanitize=true" height="50" width="100">
+<img src="../resources/a60-logo-block-gray.simple.svg?sanitize=true" height="50" width="100">
 {:/}
 
 <div style="height: 50px;"></div>
 
 
-# AAPI
+# AAPI-Led
 
 ## Results
 <div style="height: 50px;"></div>
 
-### Tables
-
-{% include aapi-meta-collection-table.html %}
-<div style="height: 50px;"></div>
-
-<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
-        src="../resources/izzi-script-table-sort-inline.js">
-</script>
-
-{% include aapi-media-objects-table.html %}
-<div style="height: 50px;"></div>
-
-
 ### Graphs
 
-{::nomarkdown}
-{% include aapi-downloads-by-week-cumulative-normalized-start.svg %}
-{:/}
-
 <script type="text/javascript" crossorigin="anonymous" id="graph-hover"
-        src="../resources/izzi-script-graph-hover-txt-polyline.js">
+	src="../resources/izzi-graph-hover-txt-polyline-red.js">
 </script>
+
+{::nomarkdown}
+{% include aapiled-downloads-by-week-cumulative-normalized-start.svg %}
+{:/}
 <div style="height: 50px;"></div>
 
 
 ### Maps
 
-[Ballard](https://felt.com/map/Ballard-01-54NzLbLRRTOki0yj7v9CNUB?share=1&loc=0,-9,2.22z)
+<script type="text/javascript" crossorigin="anonymous" id="geojson-map"
+	src="../resources/izzi-leaflet-map-geojson.js">
+</script>
+
+{% include aapiled-image-table.md %}
 <div style="height: 50px;"></div>
+
+
+### Tables
+
+<script type="text/javascript" crossorigin="anonymous" id="table-sort"
+	src="../resources/izzi-script-table-sort-inline.js">
+</script>
+
+{% include aapiled-meta-collection-table.html %}
+<div style="height: 50px;"></div>
+
+{% include aapiled-media-objects-table.html %}
+<div style="height: 50px;"></div>
+
+{% include aapi-led-geo-slices-usa-weeks-1-5-10-20.html %}
+<div style="height: 50px;"></div>
+
+{% include aapi-led-geo-slices-africa.html %}
+<div style="height: 50px;"></div>
+
+{% include aapi-led-geo-slices-asia.html %}
+<div style="height: 50px;"></div>
+
 
 ## Commentary, Questions
 
-### Asian Country and Region Slices 
-
-{% include aapi-geo-slices-aapi.html %}
-<div style="height: 50px;"></div>
+### Summer I Turned Pretty and others
 
 {::nomarkdown}
 <svg width="100" height=100>
