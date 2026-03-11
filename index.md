@@ -7,41 +7,18 @@
 
 
 ## About
-- [Alpha60](http://alpha60.co) Grouping: AAPI-led
-- Media Objects
-  - 3-body-problem-01
-  - all-of-us-are-dead-01
-  - american-born-chinese-01  
-  - avatar-the-last-airbender-2024-01
-  - ballard-01
-  - brothers-sun-01
-  - devs-108
-  - eternals   
-  - everything-everywhere-all-at-once
-  - human-flow
-  - interior-chinatown-01
-  - kung-fu-101, kung-fu-113
-  - laid-01
-  - monarch-legacy-of-monsters-101, monarch-legacy-of-monsters-110
-  - mr-and-mrs-smith-2024-01
-  - no-more-bets
-  - shang-chi-and-the-legend-of-the-ten-rings
-  - shogun-2024-101, shogun-2024-110
-  - space-sweepers
-  - squid-game-02, squid-game-03
-  - summer-i-turned-pretty-311
-  - vanguard
-  - warrior-310
-  - wu-assassins-01
 
+These are results from sampling peer swarms associated with *media objects* being *shared* on the internet. In this case *media objects* means any instances of media (film, television, books, streaming video, podcast, any video really) that that represent a specific film, television series or episode, or recorded event as a file or archive. And *sharing* means any peer-to-peer file sharing protocol used on the internet, namely BitTorrent.
 
-- Dates
-  - 2019 to 2026
-<!-- - [analysis notebook](/notebooks/analysis_2025.ipynb) -->
+Sample dates: 2019 to 2026
+
+{% include aapi-media-objects-list.html %}
+<div style="height: 50px;"></div>
 
 
 ## Results, Commentary
 - [aapi](/docs/aapi.md)
+<div style="height: 50px;"></div>
 
 
 ## Data
