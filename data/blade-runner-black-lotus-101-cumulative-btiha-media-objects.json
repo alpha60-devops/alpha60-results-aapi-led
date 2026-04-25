@@ -1,0 +1,3795 @@
+{
+    "collection_name": "Blade Runner Black Lotus",
+    "collection_id": "101",
+    "collection_key": "blade-runner-black-lotus-101",
+    "collection_notes": "",
+    "data_version": "2025-09-22",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "3:1756800417",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "3917ca458e04f95180402ea454bd3274f7915fa1",
+            "duplicate_0_0": "Blade Runner - Black Lotus - 01 [PT-BR].mp4",
+            "duplicate_0_1": "Blade-Runner--Black-Lotus--01-[PT-BR]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "a805322dea3583e789a66c966ddca897ab3383b3",
+            "duplicate_1_0": "Blade Runner - Black Lotus - 02 [PT-BR].mp4",
+            "duplicate_1_1": "Blade-Runner--Black-Lotus--02-[PT-BR]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "d473a3c8a70256664243975083ffa77e6da5fb96",
+            "duplicate_2_0": "Blade Runner Black Lotus - S01E01-02 (1080p AS WEB-DL KaiDubs)-NYAA",
+            "duplicate_2_1": "Blade-Runner-Black-Lotus--S01E01-02-(1080p-AS-WEB-DL-KaiDubs)"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "bf89fcf435e2c18f3041f4d0507675a67ce17d4d",
+            "duplicate_3_0": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)-NYAA",
+            "duplicate_3_1": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)",
+            "duplicate_3_2": "Blade-Runner-Black-Lotus--S01E01-02-(720p-AS-WEB-DL-KaiDubs)"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "c5ad518d54615428ec40681926ca79a506309b31",
+            "duplicate_4_0": "Blade Runner Black Lotus S01E01 (WEBDL x264 1080p AAC) Ukr DVO SUB.mkv",
+            "duplicate_4_1": "Blade-Runner-Black-Lotus-S01E01-(WEBDL-x264-1080p-AAC)-Ukr-DVO-SUB"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "a9b50cb4c16997d7eacaa2fb77b289852673e94e",
+            "duplicate_5_0": "Blade Runner Black Lotus S01E01 (WEBDL x265 1080p AAC) Ukr DVO SUB.mkv",
+            "duplicate_5_1": "Blade-Runner-Black-Lotus-S01E01-(WEBDL-x265-1080p-AAC)-Ukr-DVO-SUB"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "64b120d6623a3457a5b901dfa99c8749fc500146",
+            "duplicate_6_0": "Blade Runner Black Lotus S01E02 (WEBDL x265 1080p AAC) Ukr DVO SUB.mkv",
+            "duplicate_6_1": "Blade-Runner-Black-Lotus-S01E02-(WEBDL-x265-1080p-AAC)-Ukr-DVO-SUB"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "a9677634d8c9b840ab9012f25d80071530ad9e06",
+            "duplicate_7_0": "Blade-Runner-Black-Lotus-S01E01-1080p-WEB-DL-AAC2-0-x264-HENiL",
+            "duplicate_7_1": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB-DL.AAC2.0.x264-HENiL"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "98570ae942851da8e7122e93f94cd5b41d87c0f3",
+            "duplicate_8_0": "Blade-Runner-Black-Lotus-S01E01-1080p-WEB-H264-SENPAI[TGx]",
+            "duplicate_8_1": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI[TGx]"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "48c530aabbaa0e136929eb678b38c8774d3ea741",
+            "duplicate_9_0": "Blade-Runner-Black-Lotus-S01E01-480p-x264-mSD[eztv-re]",
+            "duplicate_9_1": "Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "74129fa20f0fe1489ff935b5b63c7a8664be302b",
+            "duplicate_10_0": "Blade-Runner-Black-Lotus-S01E01-720p-HEVC-x265-MeGusta[eztv-re]",
+            "duplicate_10_1": "Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "c1e754a60345d58aa52dafa9bb3addbbcad13682",
+            "duplicate_11_0": "Blade-Runner-Black-Lotus-S01E01-City-of-Angels-1080p-AMZN-WEBRip-DDP2-0-x264",
+            "duplicate_11_1": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "7dfe5c204fa881b0ceac3f0aebc54e0c69861137",
+            "duplicate_12_0": "Blade-Runner-Black-Lotus-S01E01-XviD",
+            "duplicate_12_1": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG[TGx]"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "abd187a1ce96b6af445b7e8ee8d75d4a4557cc20",
+            "duplicate_13_0": "Blade-Runner-Black-Lotus-S01E01-XviD-AFG[eztv-re]",
+            "duplicate_13_1": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG[eztv.re].avi"
+        },
+        {
+            "duplicate_id": 14,
+            "duplicate_btih": "2f1918a800b4e2d3cabfb3b076efeaa99419beaa",
+            "duplicate_14_0": "Blade-Runner-Black-Lotus-S01E02-1080p-WEB-DL-AAC2-0-x264-HENiL",
+            "duplicate_14_1": "Blade.Runner.Black.Lotus.S01E02.1080p.WEB-DL.AAC2.0.x264-HENiL"
+        },
+        {
+            "duplicate_id": 15,
+            "duplicate_btih": "f5e1260ab3ec6c79cbae3ac6c23d9b4dc3b8c49e",
+            "duplicate_15_0": "Blade-Runner-Black-Lotus-S01E02-WEBRip-x264",
+            "duplicate_15_1": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10"
+        },
+        {
+            "duplicate_id": 16,
+            "duplicate_btih": "372e134124b81258a028503c9c504842c5da7ed6",
+            "duplicate_16_0": "[DJB] BLADE RUNNER – BLACK LOTUS - 01 VOSTFR [1080p].mp4",
+            "duplicate_16_1": "[DJB]-BLADE-RUNNER-–-BLACK-LOTUS--01-VOSTFR-(1080p)"
+        },
+        {
+            "duplicate_id": 17,
+            "duplicate_btih": "f3da3afd6fada80f0d068effb0877d711e67ca8f",
+            "duplicate_17_0": "[DJB] BLADE RUNNER – BLACK LOTUS - 02 VOSTFR [1080p].mp4",
+            "duplicate_17_1": "[DJB]-BLADE-RUNNER-–-BLACK-LOTUS--02-VOSTFR-(1080p)"
+        },
+        {
+            "duplicate_id": 18,
+            "duplicate_btih": "3ec4b40a1c231820c62e7e12a0854dffd62bf89f",
+            "duplicate_18_0": "[SubsPlease] Blade Runner - Black Lotus - 01 (1080p) [D05AD07A].mkv",
+            "duplicate_18_1": "Blade-Runner--Black-Lotus--01-(1080p)-[D05AD07A]"
+        },
+        {
+            "duplicate_id": 19,
+            "duplicate_btih": "3592355e5a023ad902cca67cf5d3fdc632b84a82",
+            "duplicate_19_0": "[SubsPlease] Blade Runner - Black Lotus - 01 (480p) [77813130].mkv",
+            "duplicate_19_1": "Blade-Runner--Black-Lotus--01-(480p)-[77813130]"
+        },
+        {
+            "duplicate_id": 20,
+            "duplicate_btih": "d457fed570aa86d0d993c54397d3750079f3d43d",
+            "duplicate_20_0": "[SubsPlease] Blade Runner - Black Lotus - 01 (720p) [56D46548].mkv",
+            "duplicate_20_1": "Blade-Runner--Black-Lotus--01-(720p)-[56D46548]"
+        },
+        {
+            "duplicate_id": 21,
+            "duplicate_btih": "62f1b2cfd79ecef9efb5af642b251fcca0a346b5",
+            "duplicate_21_0": "[SubsPlease] Blade Runner - Black Lotus - 02 (1080p) [6F036141].mkv",
+            "duplicate_21_1": "Blade-Runner--Black-Lotus--02-(1080p)-[6F036141]"
+        },
+        {
+            "duplicate_id": 22,
+            "duplicate_btih": "5a1ea983cbb48900388c0099577e0badef4fdc8d",
+            "duplicate_22_0": "[SubsPlease] Blade Runner - Black Lotus - 02 (480p) [03FDBD33].mkv",
+            "duplicate_22_1": "Blade-Runner--Black-Lotus--02-(480p)-[03FDBD33]"
+        },
+        {
+            "duplicate_id": 23,
+            "duplicate_btih": "546b0d4417e9465c5ef285a1ac350c1284931732",
+            "duplicate_23_0": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p) [A1FB883E].mkv(1)",
+            "duplicate_23_1": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p) [A1FB883E].mkv",
+            "duplicate_23_2": "Blade-Runner--Black-Lotus--02-(720p)-[A1FB883E]"
+        },
+        {
+            "duplicate_id": 24,
+            "duplicate_btih": "d42adcaa8b921134f59b00fe88cb62852302f8d9",
+            "duplicate_24_0": "[YuiSubs] Blade Runner - Black Lotus - 01 (NVENC H.265 1080p)",
+            "duplicate_24_1": "[YuiSubs]-Blade-Runner--Black-Lotus--01-(NVENC-H-265-1080p)"
+        },
+        {
+            "duplicate_id": 25,
+            "duplicate_btih": "b47c4321f2a38d1c8c565958aa1ea0b6f6579107",
+            "duplicate_25_0": "[YuiSubs] Blade Runner - Black Lotus - 02  (NVENC H.265 1080p).mkv",
+            "duplicate_25_1": "[YuiSubs] Blade Runner - Black Lotus - 02 (NVENC H.265 1080p)",
+            "duplicate_25_2": "[YuiSubs]-Blade-Runner--Black-Lotus--02-(NVENC-H-265-1080p)"
+        },
+        {
+            "duplicate_id": 26,
+            "duplicate_btih": "52249385f4d5b6361877f335373a2d90f630c062",
+            "duplicate_26_0": "[rutor.is]Beguschiy_po_lezviyu_Cherny_lotos_-_Sezon_1_-_V",
+            "duplicate_26_1": "Бегущий по лезвию Чёрный лотос Blade Runner Black Lotus Сезон 1 Серии 1 из 13 (Синдзи Арамаки, Кэндзи Камияма) [2021, СШ [rutracker-6136715]"
+        },
+        {
+            "duplicate_id": 27,
+            "duplicate_btih": "d0a4e78854c4cb78c2f85034c2870b27feeacc07",
+            "duplicate_27_0": "[rutor.is]Blade.Runner.Black.Lotus.S01.720p.LakeFilms",
+            "duplicate_27_1": "Blade.Runner.Black.Lotus.S01.720p.LakeFilms"
+        },
+        {
+            "duplicate_id": 28,
+            "duplicate_btih": "aff8669ae86eeeccb7eb9be461861f5f552eea22",
+            "duplicate_28_0": "blade-runner-black-lotus-s01e01-1080p-web-h264-senpai[eztv-re]",
+            "duplicate_28_1": "blade.runner.black.lotus.s01e01.1080p.web.h264-senpai[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 29,
+            "duplicate_btih": "7bf71ce34f1e1e42b4b009804f8d7001b2d35687",
+            "duplicate_29_0": "blade-runner-black-lotus-s01e01-720p-web-h264-senpai[eztv-re]",
+            "duplicate_29_1": "blade.runner.black.lotus.s01e01.720p.web.h264-senpai[eztv.re].mkv"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[DJB] BLADE RUNNER – BLACK LOTUS - 01 VOSTFR [1080p].mp4",
+            "size_total": 1.345501924,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.345501924,
+                    "path": "[DJB] BLADE RUNNER – BLACK LOTUS - 01 VOSTFR [1080p].mp4"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[DJB] BLADE RUNNER – BLACK LOTUS - 02 VOSTFR [1080p].mp4",
+            "size_total": 1.357505756,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.357505756,
+                    "path": "[DJB] BLADE RUNNER – BLACK LOTUS - 02 VOSTFR [1080p].mp4"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[DJB]-BLADE-RUNNER-–-BLACK-LOTUS--01-VOSTFR-(1080p)",
+            "size_total": 1.345501924,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.345501924,
+                    "path": "[DJB] BLADE RUNNER – BLACK LOTUS - 01 VOSTFR [1080p].mp4"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[DJB]-BLADE-RUNNER-–-BLACK-LOTUS--02-VOSTFR-(1080p)",
+            "size_total": 1.357505756,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.357505756,
+                    "path": "[DJB] BLADE RUNNER – BLACK LOTUS - 02 VOSTFR [1080p].mp4"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Beguschiy_po_lezviyu_Cherny_lotos_-_Sezon_1_-_V",
+            "size_total": 1.398045823,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.398045823,
+                    "path": "Бегущий по лезвию. Черный лотос - Сезон 1 - VHSник/Бегущий по лезвию. Черный лотос - Сезон 1, серия 1 - VHSник.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Blade.Runner.Black.Lotus.S01.1080p.LakeFilms",
+            "size_total": 1.427885378,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.704336403,
+                    "path": "Blade.Runner.Black.Lotus.S01.1080p.LakeFilms/Blade.Runner.Black.Lotus.S01E01.1080p.LakeFilms.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.723548975,
+                    "path": "Blade.Runner.Black.Lotus.S01.1080p.LakeFilms/Blade.Runner.Black.Lotus.S01E02.1080p.LakeFilms.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Blade.Runner.Black.Lotus.S01.400p.FilmsClub",
+            "size_total": 0.57766509,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.290693442,
+                    "path": "Blade.Runner.Black.Lotus.S01.400p.FilmsClub/Blade.Runner.Black.Lotus.S01E02.400p.FilmsClub.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.286971648,
+                    "path": "Blade.Runner.Black.Lotus.S01.400p.FilmsClub/Blade.Runner.Black.Lotus.S01E01.400p.FilmsClub.avi"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]Blade.Runner.Black.Lotus.S01.720p.LakeFilms",
+            "size_total": 0.763221679,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.383857252,
+                    "path": "Blade.Runner.Black.Lotus.S01.720p.LakeFilms/Blade.Runner.Black.Lotus.S01E01.720p.LakeFilms.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.379364427,
+                    "path": "Blade.Runner.Black.Lotus.S01.720p.LakeFilms/Blade.Runner.Black.Lotus.S01E02.720p.LakeFilms.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]Blade.Runner.Black.Lotus.S01.SD.LakeFilms",
+            "size_total": 0.406900002,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.20018078,
+                    "path": "Blade.Runner.Black.Lotus.S01.SD.LakeFilms/Blade.Runner.Black.Lotus.S01E01.SD.LakeFilms.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.206719222,
+                    "path": "Blade.Runner.Black.Lotus.S01.SD.LakeFilms/Blade.Runner.Black.Lotus.S01E02.SD.LakeFilms.avi"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 01 (1080p) [D05AD07A].mkv",
+            "size_total": 1.350612519,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.350612519,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (1080p) [D05AD07A].mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 01 (1080p) [IPT]",
+            "size_total": 1.358130919,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002083999,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (1080p)/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001197617,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (1080p)/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002105974,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (1080p)/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00212964,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (1080p)/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.350612519,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (1080p)/[SubsPlease] Blade Runner - Black Lotus - 01 (1080p).mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000117,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (1080p)/[SubsPlease] Blade Runner - Black Lotus - 01 (1080p).nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 01 (480p) [77813130].mkv",
+            "size_total": 0.354192192,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.354192192,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (480p) [77813130].mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 01 (480p) [IPT]",
+            "size_total": 0.355874439,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000470043,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (480p)/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000203458,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (480p)/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000506542,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (480p)/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000501038,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (480p)/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.354192192,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (480p)/[SubsPlease] Blade Runner - Black Lotus - 01 (480p).mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001166,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (480p)/[SubsPlease] Blade Runner - Black Lotus - 01 (480p).nfo"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 01 (720p) [56D46548].mkv",
+            "size_total": 0.688744554,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.688744554,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (720p) [56D46548].mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 01 (720p) [IPT]",
+            "size_total": 0.692248607,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000952689,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (720p)/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000491836,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (720p)/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001022462,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (720p)/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.0010359,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (720p)/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.688744554,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (720p)/[SubsPlease] Blade Runner - Black Lotus - 01 (720p).mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001166,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (720p)/[SubsPlease] Blade Runner - Black Lotus - 01 (720p).nfo"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 02 (1080p) [6F036141].mkv",
+            "size_total": 1.36237799,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.36237799,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (1080p) [6F036141].mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 02 (1080p) [IPT]",
+            "size_total": 1.368159725,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000956215,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (1080p)/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001250732,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (1080p)/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00179694,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (1080p)/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001776677,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (1080p)/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.36237799,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (1080p)/[SubsPlease] Blade Runner - Black Lotus - 02 (1080p).mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001171,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (1080p)/[SubsPlease] Blade Runner - Black Lotus - 02 (1080p).nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 02 (480p) [03FDBD33].mkv",
+            "size_total": 0.357568575,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.357568575,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (480p) [03FDBD33].mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 02 (480p) [IPT]",
+            "size_total": 0.358919947,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000213873,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (480p)/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000319892,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (480p)/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000398099,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (480p)/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000418341,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (480p)/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.357568575,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (480p)/[SubsPlease] Blade Runner - Black Lotus - 02 (480p).mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001167,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (480p)/[SubsPlease] Blade Runner - Black Lotus - 02 (480p).nfo"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p) [A1FB883E].mkv(1)",
+            "size_total": 0.697922549,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.697922549,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p) [A1FB883E].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p) [A1FB883E].mkv",
+            "size_total": 0.697922549,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.697922549,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p) [A1FB883E].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p) [IPT]",
+            "size_total": 0.700716326,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000453203,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p)/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00065268,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p)/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000830593,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p)/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000856132,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p)/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.697922549,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p)/[SubsPlease] Blade Runner - Black Lotus - 02 (720p).mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001169,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p)/[SubsPlease] Blade Runner - Black Lotus - 02 (720p).nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "[YuiSubs] Blade Runner - Black Lotus - 01 (NVENC H.265 1080p)",
+            "size_total": 0.413246675,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.413246675,
+                    "path": "[YuiSubs] Blade Runner - Black Lotus - 01  (NVENC H.265 1080p).mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "[YuiSubs] Blade Runner - Black Lotus - 02  (NVENC H.265 1080p).mkv",
+            "size_total": 0.4208002,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.4208002,
+                    "path": "[YuiSubs] Blade Runner - Black Lotus - 02  (NVENC H.265 1080p).mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "[YuiSubs] Blade Runner - Black Lotus - 02 (NVENC H.265 1080p)",
+            "size_total": 0.4208002,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.4208002,
+                    "path": "[YuiSubs] Blade Runner - Black Lotus - 02  (NVENC H.265 1080p).mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "[YuiSubs]-Blade-Runner--Black-Lotus--01-(NVENC-H-265-1080p)",
+            "size_total": 0.413246675,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.413246675,
+                    "path": "[YuiSubs] Blade Runner - Black Lotus - 01  (NVENC H.265 1080p).mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "[YuiSubs]-Blade-Runner--Black-Lotus--02-(NVENC-H-265-1080p)",
+            "size_total": 0.4208002,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.4208002,
+                    "path": "[YuiSubs] Blade Runner - Black Lotus - 02  (NVENC H.265 1080p).mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Blade Runner - Black Lotus - 01 [PT-BR].mp4",
+            "size_total": 0.189641515,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.189641515,
+                    "path": "Blade Runner - Black Lotus - 01 [PT-BR].mp4"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Blade Runner - Black Lotus - 02 [PT-BR].mp4",
+            "size_total": 0.251152622,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.251152622,
+                    "path": "Blade Runner - Black Lotus - 02 [PT-BR].mp4"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Blade Runner 2049 (2017) 1080p HEVC 7-Rip.mkv",
+            "size_total": 0.566973472,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.566973472,
+                    "path": "Blade Runner 2049 (2017) 1080p HEVC 7-Rip.mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Blade Runner Black Lotus - S01E01-02 (1080p AS WEB-DL KaiDubs)-NYAA",
+            "size_total": 1.640733293,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.815476067,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (1080p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E01 - City of Angels (1080p AS WEB-DL KaiDubs).mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 2.7e-7,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (1080p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E01-02 (1080p AS WEB-DL KaiDubs).sfv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.825256956,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (1080p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E02 - All We Are Not (1080p AS WEB-DL KaiDubs).mp4"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)-NYAA",
+            "size_total": 1.162980121,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.577772872,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E01 - City of Angels (720p AS WEB-DL KaiDubs).mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 2.68e-7,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs).sfv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.585206981,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E02 - All We Are Not (720p AS WEB-DL KaiDubs).mp4"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)",
+            "size_total": 1.162980121,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.577772872,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E01 - City of Angels (720p AS WEB-DL KaiDubs).mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 2.68e-7,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs).sfv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.585206981,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E02 - All We Are Not (720p AS WEB-DL KaiDubs).mp4"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Blade Runner Black Lotus - Temporada 1 [HDTV 720p][Cap.101][AC3 5.1 Castellano][www.AtomixHQ.one]",
+            "size_total": 0.792595819,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.792595584,
+                    "path": "Blade Runner Black Lotus - Temporada 1 [HDTV 720p][Cap.101][AC3 5.1 Castellano][www.AtomixHQ.one]/Blade Runner Black Lotus - Temporada 1 [HDTV 720p][Cap.101][AC3 5.1 Castellano][www.AtomixHQ.one].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.21e-7,
+                    "path": "Blade Runner Black Lotus - Temporada 1 [HDTV 720p][Cap.101][AC3 5.1 Castellano][www.AtomixHQ.one]/ATOMIXHQ.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.14e-7,
+                    "path": "Blade Runner Black Lotus - Temporada 1 [HDTV 720p][Cap.101][AC3 5.1 Castellano][www.AtomixHQ.one]/PCTNOTICIAS TELEGRAM.url"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Blade Runner Black Lotus - Temporada 1 [HDTV 720p][Cap.102][AC3 5.1 Castellano][www.AtomixHQ.one]",
+            "size_total": 0.800462832,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.800462597,
+                    "path": "Blade Runner Black Lotus - Temporada 1 [HDTV 720p][Cap.102][AC3 5.1 Castellano][www.AtomixHQ.one]/Blade Runner Black Lotus - Temporada 1 [HDTV 720p][Cap.102][AC3 5.1 Castellano][www.AtomixHQ.one].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.21e-7,
+                    "path": "Blade Runner Black Lotus - Temporada 1 [HDTV 720p][Cap.102][AC3 5.1 Castellano][www.AtomixHQ.one]/ATOMIXHQ.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.14e-7,
+                    "path": "Blade Runner Black Lotus - Temporada 1 [HDTV 720p][Cap.102][AC3 5.1 Castellano][www.AtomixHQ.one]/PCTNOTICIAS TELEGRAM.url"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Blade Runner Black Lotus - Temporada 1 [HDTV][Cap.102][Castellano][www.atomixHQ.ONE]",
+            "size_total": 1.460251522,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.21e-7,
+                    "path": "Blade Runner Black Lotus - Temporada 1 [HDTV][Cap.102][Castellano][www.atomixHQ.ONE]/ATOMIXHQ ONE.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.460251287,
+                    "path": "Blade Runner Black Lotus - Temporada 1 [HDTV][Cap.102][Castellano][www.atomixHQ.ONE]/Blade Runner Black Lotus - Temporada 1 [HDTV][Cap.102][Castellano][www.atomixHQ.ONE].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.14e-7,
+                    "path": "Blade Runner Black Lotus - Temporada 1 [HDTV][Cap.102][Castellano][www.atomixHQ.ONE]/PCTNOTICIAS TELEGRAM.url"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Blade Runner Black Lotus 1X1X2 HDTV XviD www.peliculasgratis.nom.es",
+            "size_total": 0.511744337,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.24220932,
+                    "path": "Blade Runner Black Lotus 1X1X2 HDTV XviD www.peliculasgratis.nom.es/Blade Runner Black Lotus 1X1 HDTV XviD www.peliculasgratis.nom.es.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.269534138,
+                    "path": "Blade Runner Black Lotus 1X1X2 HDTV XviD www.peliculasgratis.nom.es/Blade Runner Black Lotus 1X2 HDTV XviD www.peliculasgratis.nom.es.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 2.09e-7,
+                    "path": "Blade Runner Black Lotus 1X1X2 HDTV XviD www.peliculasgratis.nom.es/Canal de Noticias@yadixv.URL"
+                },
+                {
+                    "number": 4,
+                    "size": 2.17e-7,
+                    "path": "Blade Runner Black Lotus 1X1X2 HDTV XviD www.peliculasgratis.nom.es/Descargar Torrent Gratis.URL"
+                },
+                {
+                    "number": 5,
+                    "size": 2.25e-7,
+                    "path": "Blade Runner Black Lotus 1X1X2 HDTV XviD www.peliculasgratis.nom.es/Peliculas Gratis Portal De Peliculas Gratuitas.URL"
+                },
+                {
+                    "number": 6,
+                    "size": 2.28e-7,
+                    "path": "Blade Runner Black Lotus 1X1X2 HDTV XviD www.peliculasgratis.nom.es/YaDixv Facebook.URL"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Blade Runner Black Lotus S01E01 (WEBDL x264 1080p AAC) Ukr DVO SUB.mkv",
+            "size_total": 1.387725748,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.387725748,
+                    "path": "Blade Runner Black Lotus S01E01 (WEBDL x264 1080p AAC) Ukr DVO SUB.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Blade Runner Black Lotus S01E01 (WEBDL x265 1080p AAC) Ukr DVO SUB.mkv",
+            "size_total": 0.455840028,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.455840028,
+                    "path": "Blade Runner Black Lotus S01E01 (WEBDL x265 1080p AAC) Ukr DVO SUB.mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Blade Runner Black Lotus S01E02 (WEBDL x265 1080p AAC) Ukr DVO SUB.mkv",
+            "size_total": 0.459775827,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.459775827,
+                    "path": "Blade Runner Black Lotus S01E02 (WEBDL x265 1080p AAC) Ukr DVO SUB.mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Blade-Runner--Black-Lotus--01-(1080p)-[D05AD07A]",
+            "size_total": 1.350612519,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.350612519,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (1080p) [D05AD07A].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Blade-Runner--Black-Lotus--01-(480p)-[77813130]",
+            "size_total": 0.354192192,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.354192192,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (480p) [77813130].mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Blade-Runner--Black-Lotus--01-(720p)-[56D46548]",
+            "size_total": 0.688744554,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.688744554,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 01 (720p) [56D46548].mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Blade-Runner--Black-Lotus--01-[PT-BR]",
+            "size_total": 0.189641515,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.189641515,
+                    "path": "Blade Runner - Black Lotus - 01 [PT-BR].mp4"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Blade-Runner--Black-Lotus--02-(1080p)-[6F036141]",
+            "size_total": 1.36237799,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.36237799,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (1080p) [6F036141].mkv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Blade-Runner--Black-Lotus--02-(480p)-[03FDBD33]",
+            "size_total": 0.357568575,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.357568575,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (480p) [03FDBD33].mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Blade-Runner--Black-Lotus--02-(720p)-[A1FB883E]",
+            "size_total": 0.697922549,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.697922549,
+                    "path": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p) [A1FB883E].mkv"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Blade-Runner--Black-Lotus--02-[PT-BR]",
+            "size_total": 0.251152622,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.251152622,
+                    "path": "Blade Runner - Black Lotus - 02 [PT-BR].mp4"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Blade-Runner-Black-Lotus--S01E01-02-(1080p-AS-WEB-DL-KaiDubs)",
+            "size_total": 1.640733293,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.815476067,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (1080p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E01 - City of Angels (1080p AS WEB-DL KaiDubs).mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 2.7e-7,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (1080p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E01-02 (1080p AS WEB-DL KaiDubs).sfv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.825256956,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (1080p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E02 - All We Are Not (1080p AS WEB-DL KaiDubs).mp4"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Blade-Runner-Black-Lotus--S01E01-02-(720p-AS-WEB-DL-KaiDubs)",
+            "size_total": 1.162980121,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.577772872,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E01 - City of Angels (720p AS WEB-DL KaiDubs).mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 2.68e-7,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs).sfv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.585206981,
+                    "path": "Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)/Blade Runner Black Lotus - S01E02 - All We Are Not (720p AS WEB-DL KaiDubs).mp4"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Blade-Runner-Black-Lotus-S01E01-(WEBDL-x264-1080p-AAC)-Ukr-DVO-SUB",
+            "size_total": 1.387725748,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.387725748,
+                    "path": "Blade Runner Black Lotus S01E01 (WEBDL x264 1080p AAC) Ukr DVO SUB.mkv"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Blade-Runner-Black-Lotus-S01E01-(WEBDL-x265-1080p-AAC)-Ukr-DVO-SUB",
+            "size_total": 0.455840028,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.455840028,
+                    "path": "Blade Runner Black Lotus S01E01 (WEBDL x265 1080p AAC) Ukr DVO SUB.mkv"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Blade-Runner-Black-Lotus-S01E01-1080p-WEB-DL-AAC2-0-x264-HENiL",
+            "size_total": 1.34484246,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.344841885,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB-DL.AAC2.0.x264-HENiL/Blade.Runner.Black.Lotus.S01E01.1080p.WEB-DL.AAC2.0.x264-HENiL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.75e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB-DL.AAC2.0.x264-HENiL/Blade.Runner.Black.Lotus.S01E01.1080p.WEB-DL.AAC2.0.x264-HENiL.nfo"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "blade-runner-black-lotus-s01e01-1080p-web-h264-senpai[eztv-re]",
+            "size_total": 1.344914756,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.344914756,
+                    "path": "blade.runner.black.lotus.s01e01.1080p.web.h264-senpai[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Blade-Runner-Black-Lotus-S01E01-1080p-WEB-H264-SENPAI[rarbg]",
+            "size_total": 1.344914939,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.344914756,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI[rarbg]/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.4e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI[rarbg]/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.nfo"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Blade-Runner-Black-Lotus-S01E01-1080p-WEB-H264-SENPAI[TGx]",
+            "size_total": 1.344915528,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.344914756,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI[TGx]/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.4e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI[TGx]/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.nfo"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Blade-Runner-Black-Lotus-S01E01-480p-x264-mSD[eztv-re]",
+            "size_total": 0.067091832,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.067091832,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Blade-Runner-Black-Lotus-S01E01-720p-HEVC-x265-MeGusta[eztv-re]",
+            "size_total": 0.083413163,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.083413163,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "blade-runner-black-lotus-s01e01-720p-web-h264-senpai[eztv-re]",
+            "size_total": 0.683048819,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.683048819,
+                    "path": "blade.runner.black.lotus.s01e01.720p.web.h264-senpai[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Blade-Runner-Black-Lotus-S01E01-720p-WEB-H264-SENPAI[rarbg]",
+            "size_total": 0.683049001,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.683048819,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI[rarbg]/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI[rarbg]/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.nfo"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Blade-Runner-Black-Lotus-S01E01-720p-WEB-H264-SENPAI[TGx]",
+            "size_total": 0.68304959,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.683048819,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI[TGx]/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI[TGx]/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.nfo"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Blade-Runner-Black-Lotus-S01E01-City-of-Angels-1080p-AMZN-WEBRip-DDP2-0-x264",
+            "size_total": 0.428995044,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.428994915,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEB-DL.DD+2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Blade-Runner-Black-Lotus-S01E01-City-of-Angels-1080p-HULU-WEBRip-AAC2-0-H264",
+            "size_total": 1.144202834,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.144202705,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.HULU.WEBRip.AAC2.0.H264-Cinefeel[rarbg]/Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.HULU.WEB-DL.AAC2.0.H.264-Cinefeel.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.HULU.WEBRip.AAC2.0.H264-Cinefeel[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.HULU.WEBRip.AAC2.0.H264-Cinefeel[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Blade-Runner-Black-Lotus-S01E01-JAPANESE-720p-WEB-x265",
+            "size_total": 0.081530044,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.081529273,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.JAPANESE.720p.WEB.x265-MiNX[TGx]/Blade.Runner.Black.Lotus.S01E01.JAPANESE.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.JAPANESE.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 5.3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.JAPANESE.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Blade-Runner-Black-Lotus-S01E01-JAPANESE-WEB-x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.115671666,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.115670895,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.JAPANESE.WEB.x264-TORRENTGALAXY[TGx]/Blade.Runner.Black.Lotus.S01E01.JAPANESE.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.JAPANESE.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 5.3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.JAPANESE.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Blade-Runner-Black-Lotus-S01E01-WEBRip-x264",
+            "size_total": 0.219794702,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.219758067,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.WEBRip.x264-ION10/Blade.Runner.Black.Lotus.S01E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000015249,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000021257,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.WEBRip.x264-ION10/Subs/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Blade-Runner-Black-Lotus-S01E01-XviD-AFG[eztv-re]",
+            "size_total": 0.149382048,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.149382048,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Blade-Runner-Black-Lotus-S01E01-XviD",
+            "size_total": 0.149383892,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.149382048,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG[TGx]/Blade.Runner.Black.Lotus.S01E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001126,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG[TGx]/Blade.Runner.Black.Lotus.S01E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Blade-Runner-Black-Lotus-S01E02-(WEBDL-x265-1080p-AAC)-Ukr-DVO-SUB",
+            "size_total": 0.459775827,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.459775827,
+                    "path": "Blade Runner Black Lotus S01E02 (WEBDL x265 1080p AAC) Ukr DVO SUB.mkv"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Blade-Runner-Black-Lotus-S01E02-1080p-WEB-DL-AAC2-0-x264-HENiL",
+            "size_total": 1.356607892,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.356607316,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.1080p.WEB-DL.AAC2.0.x264-HENiL/Blade.Runner.Black.Lotus.S01E02.1080p.WEB-DL.AAC2.0.x264-HENiL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.76e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.1080p.WEB-DL.AAC2.0.x264-HENiL/Blade.Runner.Black.Lotus.S01E02.1080p.WEB-DL.AAC2.0.x264-HENiL.nfo"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Blade-Runner-Black-Lotus-S01E02-All-We-Are-Not-1080p-HULU-WEBRip-AAC2-0-H264",
+            "size_total": 1.356564131,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.356564002,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.HULU.WEBRip.AAC2.0.H264-Cinefeel[rarbg]/Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.HULU.WEB-DL.AAC2.0.H.264-Cinefeel.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.HULU.WEBRip.AAC2.0.H264-Cinefeel[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.HULU.WEBRip.AAC2.0.H264-Cinefeel[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Blade-Runner-Black-Lotus-S01E02-All-We-Are-Not-720p-AMZN-WEBRip-DDP5-1-x264",
+            "size_total": 0.329330787,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.329330658,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEB-DL.DD+5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Blade-Runner-Black-Lotus-S01E02-WEBRip-x264",
+            "size_total": 0.223256019,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.223223013,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10/Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000014431,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000018446,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10/Subs/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Blade.Runner.Black.Lotus.S01.720p.LakeFilms",
+            "size_total": 0.763221679,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.383857252,
+                    "path": "Blade.Runner.Black.Lotus.S01.720p.LakeFilms/Blade.Runner.Black.Lotus.S01E01.720p.LakeFilms.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.379364427,
+                    "path": "Blade.Runner.Black.Lotus.S01.720p.LakeFilms/Blade.Runner.Black.Lotus.S01E02.720p.LakeFilms.mkv"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Blade.Runner.Black.Lotus.s01.HD1080p.WEBRip.Rus.BaibaKo.tv",
+            "size_total": 2.485539488,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.235784056,
+                    "path": "Blade.Runner.Black.Lotus.s01.HD1080p.WEBRip.Rus.BaibaKo.tv/Blade.Runner.Black.Lotus.s01e01.HD1080p.WEBRip.Rus.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.249755432,
+                    "path": "Blade.Runner.Black.Lotus.s01.HD1080p.WEBRip.Rus.BaibaKo.tv/Blade.Runner.Black.Lotus.s01e02.HD1080p.WEBRip.Rus.BaibaKo.tv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Blade.Runner.Black.Lotus.S01E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.131394712,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.114495089,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.HEVC.x265-MeGusta/Blade.Runner.Black.Lotus.S01E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001157,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.HEVC.x265-MeGusta/Blade.Runner.Black.Lotus.S01E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.006280684,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004508702,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00610908,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Blade.Runner.Black.Lotus.S01E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.114495089,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.114495089,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB-DL.AAC2.0.x264-HENiL",
+            "size_total": 1.34484246,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.344841885,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB-DL.AAC2.0.x264-HENiL/Blade.Runner.Black.Lotus.S01E01.1080p.WEB-DL.AAC2.0.x264-HENiL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.75e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB-DL.AAC2.0.x264-HENiL/Blade.Runner.Black.Lotus.S01E01.1080p.WEB-DL.AAC2.0.x264-HENiL.nfo"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI [IPT]",
+            "size_total": 1.414258529,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.4e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.15,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.15,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.15,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.15,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.15,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.15,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.15,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.144915962,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.15,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.rar"
+                },
+                {
+                    "number": 11,
+                    "size": 6.12e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.sfv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.069341901,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/Sample/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai-sample.mkv"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.mkv",
+            "size_total": 1.344914756,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.344914756,
+                    "path": "blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.mkv"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI",
+            "size_total": 1.34491481,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.344914756,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.4e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.nfo"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "blade.runner.black.lotus.s01e01.1080p.web.h264-senpai[eztv.re].mkv",
+            "size_total": 1.344914756,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.344914756,
+                    "path": "blade.runner.black.lotus.s01e01.1080p.web.h264-senpai[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI[TGx]",
+            "size_total": 1.344915528,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.344914756,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI[TGx]/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 5.4e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI[TGx]/blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.nfo"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD [IPT]",
+            "size_total": 0.06754618,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.067091832,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD/Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.89e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD/Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000169012,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000101988,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000182359,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.067091832,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.067091832,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Blade.Runner.Black.Lotus.S01E01.720p.HDTV.mp4",
+            "size_total": 0.235133986,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.235133986,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.HDTV.mp4"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "name": "Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.092268983,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.083413163,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta/Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001154,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta/Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003320195,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00249269,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003041781,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.083413163,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.083413163,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "name": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI [IPT]",
+            "size_total": 0.719029927,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.08304975,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.rar"
+                },
+                {
+                    "number": 9,
+                    "size": 4.69e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.sfv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.035979655,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI/Sample/blade.runner.black.lotus.s01e01.720p.web.h264-senpai-sample.mkv"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "name": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI",
+            "size_total": 0.683048872,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.683048819,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI/blade.runner.black.lotus.s01e01.720p.web.h264-senpai.nfo"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "name": "blade.runner.black.lotus.s01e01.720p.web.h264-senpai[eztv.re].mkv",
+            "size_total": 0.683048819,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.683048819,
+                    "path": "blade.runner.black.lotus.s01e01.720p.web.h264-senpai[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "name": "Blade.Runner.Black.Lotus.S01E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.072073787,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.071551294,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.AAC.MP4-Mobile/Blade.Runner.Black.Lotus.S01E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000125,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.AAC.MP4-Mobile/Blade.Runner.Black.Lotus.S01E01.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000192279,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000120534,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00020843,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.203548291,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.203548291,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb [IPT]",
+            "size_total": 0.434029168,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.428994915,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb/Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEB-DL.DD+2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001326,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb/Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEB-DL.DD+2.0.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000025808,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00065271,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002771518,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001582891,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]",
+            "size_total": 0.428995044,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.428994915,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEB-DL.DD+2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]",
+            "size_total": 0.428996959,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.428994915,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]/Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEB-DL.DD+2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001326,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]/Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEB-DL.DD+2.0.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEB-DL.DD+2.0.H.264-NTb[eztv.re].mkv",
+            "size_total": 0.199927258,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.199927258,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEB-DL.DD+2.0.H.264-NTb[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb [IPT]",
+            "size_total": 0.202335469,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.199927258,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb/Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEB-DL.DD+2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001322,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb/Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEB-DL.DD+2.0.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000012315,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000278421,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001354837,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000761316,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]",
+            "size_total": 0.199929298,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.199927258,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]/Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEB-DL.DD+2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001322,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]/Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEB-DL.DD+2.0.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "name": "Blade.Runner.Black.Lotus.S01E01.ENGLISH.720p.WEBRip.x265-MiNX[TGx]",
+            "size_total": 0.080594752,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.080593954,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.ENGLISH.720p.WEBRip.x265-MiNX[TGx]/Blade.Runner.Black.Lotus.S01E01.ENGLISH.720p.WEBRip.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.ENGLISH.720p.WEBRip.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 8e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.ENGLISH.720p.WEBRip.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "name": "Blade.Runner.Black.Lotus.S01E01.ENGLISH.WEB.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.114259674,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.114258876,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.ENGLISH.WEB.x264-TORRENTGALAXY[TGx]/Blade.Runner.Black.Lotus.S01E01.ENGLISH.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.ENGLISH.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 8e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.ENGLISH.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "name": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG [IPT]",
+            "size_total": 0.14989851,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.149382048,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG/Blade.Runner.Black.Lotus.S01E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001126,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG/Blade.Runner.Black.Lotus.S01E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00018062,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000116966,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00021775,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "name": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG[eztv.re].avi",
+            "size_total": 0.149382048,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.149382048,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "name": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG[TGx]",
+            "size_total": 0.149383892,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.149382048,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG[TGx]/Blade.Runner.Black.Lotus.S01E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001126,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG[TGx]/Blade.Runner.Black.Lotus.S01E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "name": "Blade.Runner.Black.Lotus.S01E02.1080p.WEB-DL.AAC2.0.x264-HENiL",
+            "size_total": 1.356607892,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.356607316,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.1080p.WEB-DL.AAC2.0.x264-HENiL/Blade.Runner.Black.Lotus.S01E02.1080p.WEB-DL.AAC2.0.x264-HENiL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.76e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.1080p.WEB-DL.AAC2.0.x264-HENiL/Blade.Runner.Black.Lotus.S01E02.1080p.WEB-DL.AAC2.0.x264-HENiL.nfo"
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.273960978,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.273960978,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEB-DL.DD+5.1.H.264-NTb.chs.eng.mp4",
+            "size_total": 0.42268944,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.42268944,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEB-DL.DD+5.1.H.264-NTb.chs.eng.mp4"
+                }
+            ]
+        },
+        {
+            "id": 108,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb [IPT]",
+            "size_total": 0.65174663,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.648330614,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb/Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEB-DL.DD+5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001328,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb/Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEB-DL.DD+5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000025841,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000970766,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001301539,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001116542,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb",
+            "size_total": 0.648330614,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.648330614,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb/Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEB-DL.DD+5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "size_total": 0.648330743,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.648330614,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEB-DL.DD+5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 0.64833266,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.648330614,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEB-DL.DD+5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001328,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEB-DL.DD+5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb [IPT]",
+            "size_total": 0.330943194,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.329330658,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb/Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEB-DL.DD+5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001327,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb/Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEB-DL.DD+5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000012192,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000495769,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000606903,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000496345,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "name": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10",
+            "size_total": 0.223256019,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.223223013,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10/Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000014431,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000018446,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-ION10/Subs/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "name": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.140926939,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.140926141,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-TORRENTGALAXY[TGx]/Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 8e-8,
+                    "path": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "name": "Бегущий по лезвию Чёрный лотос Blade Runner Black Lotus Сезон 1 Серии 1 из 13 (Синдзи Арамаки, Кэндзи Камияма) [2021, СШ [rutracker-6136715]",
+            "size_total": 1.398045823,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.398045823,
+                    "path": "Бегущий по лезвию. Черный лотос - Сезон 1 - VHSник/Бегущий по лезвию. Черный лотос - Сезон 1, серия 1 - VHSник.mkv"
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "name": "Бегущий по лезвию Чёрный лотос Blade Runner Black Lotus Сезон 1 Серии 2 из 13 (Синдзи Арамаки, Кэндзи Камияма) [2021, СШ [rutracker-6136715]",
+            "size_total": 2.100619565,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.702573742,
+                    "path": "Бегущий по лезвию. Черный лотос - Сезон 1 - VHSник/Бегущий по лезвию. Черный лотос - Сезон 1, серия 2 - VHSник.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.398045823,
+                    "path": "Бегущий по лезвию. Черный лотос - Сезон 1 - VHSник/Бегущий по лезвию. Черный лотос - Сезон 1, серия 1 - VHSник.mkv"
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "name": "银翼杀手.黑莲花.Blade.Runner.Black.Lotus.S01E01.mp4",
+            "size_total": 0.14607037,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.14607037,
+                    "path": "银翼杀手.黑莲花.Blade.Runner.Black.Lotus.S01E01.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 1446,
+            "name": "multi-btih-8-2-x-Blade-Runner-Black-Lotus-S01E01-1080p-WEB-H264-SENPAI[TGx]",
+            "btih": "98570ae942851da8e7122e93f94cd5b41d87c0f3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.344915528,
+            "creation": "2021-11-14T05:55:50.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38885,
+            "uuploaders": 7464
+        },
+        {
+            "id": 1458,
+            "name": "multi-btih-20-2-x-[SubsPlease] Blade Runner - Black Lotus - 01 (720p) [56D46548].mkv",
+            "btih": "d457fed570aa86d0d993c54397d3750079f3d43d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.688744554,
+            "creation": "2021-11-15T02:08:31.000000000Z,NyaaV2,https://nyaa.si/view/1456332",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34372,
+            "uuploaders": 4845
+        },
+        {
+            "id": 1456,
+            "name": "multi-btih-18-2-x-[SubsPlease] Blade Runner - Black Lotus - 01 (1080p) [D05AD07A].mkv",
+            "btih": "3ec4b40a1c231820c62e7e12a0854dffd62bf89f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.350612519,
+            "creation": "2021-11-15T02:08:57.000000000Z,NyaaV2,https://nyaa.si/view/1456333",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29648,
+            "uuploaders": 6337
+        },
+        {
+            "id": 107,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEB-DL.DD+5.1.H.264-NTb.chs.eng.mp4",
+            "btih": "b4faeccb246a634b742b3ba2be1c54fccf9f3243",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.42268944,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28589,
+            "uuploaders": 6133
+        },
+        {
+            "id": 1461,
+            "name": "multi-btih-23-3-x-[SubsPlease] Blade Runner - Black Lotus - 02 (720p) [A1FB883E].mkv(1)",
+            "btih": "546b0d4417e9465c5ef285a1ac350c1284931732",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.697922549,
+            "creation": "2021-11-15T02:09:52.000000000Z,NyaaV2,https://nyaa.si/view/1456335",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28219,
+            "uuploaders": 4543
+        },
+        {
+            "id": 55,
+            "name": "Blade-Runner-Black-Lotus-S01E01-1080p-WEB-H264-SENPAI[rarbg]",
+            "btih": "348e774dfce5dec8160a0d9ab9fa99f26f3161a4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.344914939,
+            "creation": "2021-11-14T12:05:58.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27930,
+            "uuploaders": 6827
+        },
+        {
+            "id": 1450,
+            "name": "multi-btih-12-2-x-Blade-Runner-Black-Lotus-S01E01-XviD",
+            "btih": "7dfe5c204fa881b0ceac3f0aebc54e0c69861137",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.149383892,
+            "creation": "2021-11-14T05:55:57.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27857,
+            "uuploaders": 4074
+        },
+        {
+            "id": 1444,
+            "name": "multi-btih-6-2-x-Blade Runner Black Lotus S01E02 (WEBDL x265 1080p AAC) Ukr DVO SUB.mkv",
+            "btih": "64b120d6623a3457a5b901dfa99c8749fc500146",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.459775827,
+            "creation": "2021-11-15T19:38:54.000000000Z,NyaaV2,https://nyaa.si/view/1456674",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24868,
+            "uuploaders": 353
+        },
+        {
+            "id": 1465,
+            "name": "multi-btih-27-2-x-[rutor.is]Blade.Runner.Black.Lotus.S01.720p.LakeFilms",
+            "btih": "d0a4e78854c4cb78c2f85034c2870b27feeacc07",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.763221679,
+            "creation": "2021-11-14T19:20:51.000000000Z,BitTorrent/7.10.5,http://rutor.is/torrent/845632",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24175,
+            "uuploaders": 666
+        },
+        {
+            "id": 1459,
+            "name": "multi-btih-21-2-x-[SubsPlease] Blade Runner - Black Lotus - 02 (1080p) [6F036141].mkv",
+            "btih": "62f1b2cfd79ecef9efb5af642b251fcca0a346b5",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.36237799,
+            "creation": "2021-11-15T02:10:21.000000000Z,NyaaV2,https://nyaa.si/view/1456336",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23592,
+            "uuploaders": 5179
+        },
+        {
+            "id": 1449,
+            "name": "multi-btih-11-2-x-Blade-Runner-Black-Lotus-S01E01-City-of-Angels-1080p-AMZN-WEBRip-DDP2-0-x264",
+            "btih": "c1e754a60345d58aa52dafa9bb3addbbcad13682",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.428995044,
+            "creation": "2021-11-15T00:25:13.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23075,
+            "uuploaders": 4226
+        },
+        {
+            "id": 71,
+            "name": "Blade-Runner-Black-Lotus-S01E02-All-We-Are-Not-1080p-HULU-WEBRip-AAC2-0-H264",
+            "btih": "9064e9f3990e20f7a7e426e8ea51f8b3fe7da55c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.356564131,
+            "creation": "2021-11-14T10:35:02.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22399,
+            "uuploaders": 5354
+        },
+        {
+            "id": 110,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "btih": "86bce01008ed0b051984ab649de7debacef5896d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.648330743,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22005,
+            "uuploaders": 2880
+        },
+        {
+            "id": 101,
+            "name": "Blade.Runner.Black.Lotus.S01E01.ENGLISH.WEB.x264-TORRENTGALAXY[TGx]",
+            "btih": "c1285b3706481cf7e2f9df2b60b3c3aeb7049231",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.114259674,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21521,
+            "uuploaders": 3266
+        },
+        {
+            "id": 1453,
+            "name": "multi-btih-15-2-x-Blade-Runner-Black-Lotus-S01E02-WEBRip-x264",
+            "btih": "f5e1260ab3ec6c79cbae3ac6c23d9b4dc3b8c49e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.223256019,
+            "creation": "2021-11-15T01:45:14.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20998,
+            "uuploaders": 4523
+        },
+        {
+            "id": 1448,
+            "name": "multi-btih-10-2-x-Blade-Runner-Black-Lotus-S01E01-720p-HEVC-x265-MeGusta[eztv-re]",
+            "btih": "74129fa20f0fe1489ff935b5b63c7a8664be302b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.083413163,
+            "creation": "2021-11-14T05:36:01.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20135,
+            "uuploaders": 1558
+        },
+        {
+            "id": 117,
+            "name": "银翼杀手.黑莲花.Blade.Runner.Black.Lotus.S01E01.mp4",
+            "btih": "38c47aa0d9d550bedd6439783303fd8b247e3174",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.14607037,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19901,
+            "uuploaders": 3031
+        },
+        {
+            "id": 60,
+            "name": "Blade-Runner-Black-Lotus-S01E01-720p-WEB-H264-SENPAI[rarbg]",
+            "btih": "f9b13f00630be258ef43134de4990fe7b367c8f2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.683049001,
+            "creation": "2021-11-14T13:06:16.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19570,
+            "uuploaders": 4317
+        },
+        {
+            "id": 66,
+            "name": "Blade-Runner-Black-Lotus-S01E01-WEBRip-x264",
+            "btih": "0035072faa849247577d71904061d47178018d57",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.219794702,
+            "creation": "2021-11-15T10:16:05.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18015,
+            "uuploaders": 3713
+        },
+        {
+            "id": 1441,
+            "name": "multi-btih-3-3-x-Blade Runner Black Lotus - S01E01-02 (720p AS WEB-DL KaiDubs)-NYAA",
+            "btih": "bf89fcf435e2c18f3041f4d0507675a67ce17d4d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.162980121,
+            "creation": "2021-11-14T07:17:49.000000000Z,NyaaV2,https://nyaa.si/view/1455874",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17057,
+            "uuploaders": 1330
+        },
+        {
+            "id": 1452,
+            "name": "multi-btih-14-2-x-Blade-Runner-Black-Lotus-S01E02-1080p-WEB-DL-AAC2-0-x264-HENiL",
+            "btih": "2f1918a800b4e2d3cabfb3b076efeaa99419beaa",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.356607892,
+            "creation": "2021-11-14T06:55:23.000000000Z,NyaaV2,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16850,
+            "uuploaders": 2308
+        },
+        {
+            "id": 1466,
+            "name": "multi-btih-28-2-x-blade-runner-black-lotus-s01e01-1080p-web-h264-senpai[eztv-re]",
+            "btih": "aff8669ae86eeeccb7eb9be461861f5f552eea22",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.344914756,
+            "creation": "2021-11-14T05:25:05.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15952,
+            "uuploaders": 3766
+        },
+        {
+            "id": 1440,
+            "name": "multi-btih-2-2-x-Blade Runner Black Lotus - S01E01-02 (1080p AS WEB-DL KaiDubs)-NYAA",
+            "btih": "d473a3c8a70256664243975083ffa77e6da5fb96",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.640733293,
+            "creation": "2021-11-14T07:17:51.000000000Z,NyaaV2,https://nyaa.si/view/1455875",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14648,
+            "uuploaders": 1559
+        },
+        {
+            "id": 1451,
+            "name": "multi-btih-13-2-x-Blade-Runner-Black-Lotus-S01E01-XviD-AFG[eztv-re]",
+            "btih": "abd187a1ce96b6af445b7e8ee8d75d4a4557cc20",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.149382048,
+            "creation": "2021-11-14T05:36:05.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14523,
+            "uuploaders": 1425
+        },
+        {
+            "id": 1445,
+            "name": "multi-btih-7-2-x-Blade-Runner-Black-Lotus-S01E01-1080p-WEB-DL-AAC2-0-x264-HENiL",
+            "btih": "a9677634d8c9b840ab9012f25d80071530ad9e06",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.34484246,
+            "creation": "2021-11-14T06:45:35.000000000Z,NyaaV2,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14082,
+            "uuploaders": 2052
+        },
+        {
+            "id": 1463,
+            "name": "multi-btih-25-3-x-[YuiSubs] Blade Runner - Black Lotus - 02  (NVENC H.265 1080p).mkv",
+            "btih": "b47c4321f2a38d1c8c565958aa1ea0b6f6579107",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.4208002,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13916,
+            "uuploaders": 1666
+        },
+        {
+            "id": 1467,
+            "name": "multi-btih-29-2-x-blade-runner-black-lotus-s01e01-720p-web-h264-senpai[eztv-re]",
+            "btih": "7bf71ce34f1e1e42b4b009804f8d7001b2d35687",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.683048819,
+            "creation": "2021-11-14T05:25:02.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13867,
+            "uuploaders": 2762
+        },
+        {
+            "id": 35,
+            "name": "Blade Runner Black Lotus - Temporada 1 [HDTV 720p][Cap.102][AC3 5.1 Castellano][www.AtomixHQ.one]",
+            "btih": "354d5ea493e912120d55e2a7251c72d3c3e5404f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.800462832,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13800,
+            "uuploaders": 2204
+        },
+        {
+            "id": 111,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "3d1138ddb781021cadb786be16593d34252700de",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.64833266,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13749,
+            "uuploaders": 2405
+        },
+        {
+            "id": 114,
+            "name": "Blade.Runner.Black.Lotus.S01E02.WEBRip.x264-TORRENTGALAXY[TGx]",
+            "btih": "d64c6f054e9acc349384d79da5794bc1f57ae7da",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.140926939,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13383,
+            "uuploaders": 2833
+        },
+        {
+            "id": 34,
+            "name": "Blade Runner Black Lotus - Temporada 1 [HDTV 720p][Cap.101][AC3 5.1 Castellano][www.AtomixHQ.one]",
+            "btih": "c85e395d2742ed8ade259a6741e4b593a00a5fe2",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.792595819,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13376,
+            "uuploaders": 2768
+        },
+        {
+            "id": 1447,
+            "name": "multi-btih-9-2-x-Blade-Runner-Black-Lotus-S01E01-480p-x264-mSD[eztv-re]",
+            "btih": "48c530aabbaa0e136929eb678b38c8774d3ea741",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.067091832,
+            "creation": "2021-11-14T05:55:59.000000000Z,EZTV,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13349,
+            "uuploaders": 1637
+        },
+        {
+            "id": 63,
+            "name": "Blade-Runner-Black-Lotus-S01E01-City-of-Angels-1080p-HULU-WEBRip-AAC2-0-H264",
+            "btih": "f1fbecfbb932da62e7d63a8df7822268eb380332",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.144202834,
+            "creation": "2021-11-14T12:06:19.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13235,
+            "uuploaders": 2669
+        },
+        {
+            "id": 106,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "692d9af69ed5169b89f3b5a8160ce4049a788d38",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.273960978,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12759,
+            "uuploaders": 600
+        },
+        {
+            "id": 96,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]",
+            "btih": "02a1ea8c18c442e82dfb44a8239f4d55b313de91",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.428996959,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12736,
+            "uuploaders": 1964
+        },
+        {
+            "id": 72,
+            "name": "Blade-Runner-Black-Lotus-S01E02-All-We-Are-Not-720p-AMZN-WEBRip-DDP5-1-x264",
+            "btih": "630d32b36aad9b0a0e01bac44cf27b863aa66730",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.329330787,
+            "creation": "2021-11-15T00:25:46.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12121,
+            "uuploaders": 2867
+        },
+        {
+            "id": 1462,
+            "name": "multi-btih-24-2-x-[YuiSubs] Blade Runner - Black Lotus - 01 (NVENC H.265 1080p)",
+            "btih": "d42adcaa8b921134f59b00fe88cb62852302f8d9",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.413246675,
+            "creation": "2021-11-15T02:24:06.000000000Z,NyaaV2,https://nyaa.si/view/1456338",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11807,
+            "uuploaders": 1556
+        },
+        {
+            "id": 1455,
+            "name": "multi-btih-17-2-x-[DJB] BLADE RUNNER – BLACK LOTUS - 02 VOSTFR [1080p].mp4",
+            "btih": "f3da3afd6fada80f0d068effb0877d711e67ca8f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.357505756,
+            "creation": "2021-11-15T08:33:20.000000000Z,NyaaV2,https://nyaa.si/view/1456406",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11783,
+            "uuploaders": 1010
+        },
+        {
+            "id": 1457,
+            "name": "multi-btih-19-2-x-[SubsPlease] Blade Runner - Black Lotus - 01 (480p) [77813130].mkv",
+            "btih": "3592355e5a023ad902cca67cf5d3fdc632b84a82",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.354192192,
+            "creation": "2021-11-15T02:08:17.000000000Z,NyaaV2,https://nyaa.si/view/1456331",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11774,
+            "uuploaders": 2870
+        },
+        {
+            "id": 100,
+            "name": "Blade.Runner.Black.Lotus.S01E01.ENGLISH.720p.WEBRip.x265-MiNX[TGx]",
+            "btih": "179587c6f0c7f59398f3f86c4796454160dcb05f",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.080594752,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11077,
+            "uuploaders": 1865
+        },
+        {
+            "id": 1454,
+            "name": "multi-btih-16-2-x-[DJB] BLADE RUNNER – BLACK LOTUS - 01 VOSTFR [1080p].mp4",
+            "btih": "372e134124b81258a028503c9c504842c5da7ed6",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.345501924,
+            "creation": "2021-11-15T08:33:13.000000000Z,NyaaV2,https://nyaa.si/view/1456405",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10897,
+            "uuploaders": 1111
+        },
+        {
+            "id": 1464,
+            "name": "multi-btih-26-2-x-[rutor.is]Beguschiy_po_lezviyu_Cherny_lotos_-_Sezon_1_-_V",
+            "btih": "52249385f4d5b6361877f335373a2d90f630c062",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.398045823,
+            "creation": "2021-11-14T09:57:36.000000000Z,uTorrent/3.5.5,http://rutor.is/torrent/845537",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9911,
+            "uuploaders": 2116
+        },
+        {
+            "id": 77,
+            "name": "Blade.Runner.Black.Lotus.S01E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "99170266f733a2918ce83dda552776abeed633bf",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.114495089,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9857,
+            "uuploaders": 1922
+        },
+        {
+            "id": 65,
+            "name": "Blade-Runner-Black-Lotus-S01E01-JAPANESE-WEB-x264-TORRENTGALAXY[TGx]",
+            "btih": "4e640f01e4d3c1d6eb9b161b10aee9fb86a1481b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.115671666,
+            "creation": "2021-11-14T05:55:52.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9567,
+            "uuploaders": 1894
+        },
+        {
+            "id": 64,
+            "name": "Blade-Runner-Black-Lotus-S01E01-JAPANESE-720p-WEB-x265",
+            "btih": "bbca2ec887639276523ff85c14452210be856114",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.081530044,
+            "creation": "2021-11-14T06:15:14.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9472,
+            "uuploaders": 1548
+        },
+        {
+            "id": 1460,
+            "name": "multi-btih-22-2-x-[SubsPlease] Blade Runner - Black Lotus - 02 (480p) [03FDBD33].mkv",
+            "btih": "5a1ea983cbb48900388c0099577e0badef4fdc8d",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.357568575,
+            "creation": "2021-11-15T02:09:33.000000000Z,NyaaV2,https://nyaa.si/view/1456334",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9180,
+            "uuploaders": 2545
+        },
+        {
+            "id": 97,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEB-DL.DD+2.0.H.264-NTb[eztv.re].mkv",
+            "btih": "36bb6ef4587dcc21deb169a6d59e53780225f50c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.199927258,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8594,
+            "uuploaders": 1509
+        },
+        {
+            "id": 81,
+            "name": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI",
+            "btih": "a66bddaf9e413aa7a94f28e8f5bafc2695638c4d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.34491481,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8290,
+            "uuploaders": 349
+        },
+        {
+            "id": 99,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]",
+            "btih": "a4c7c94e255af8ace36b3ad2e1a981b7fad5a51d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.199929298,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8167,
+            "uuploaders": 921
+        },
+        {
+            "id": 1439,
+            "name": "multi-btih-1-2-x-Blade Runner - Black Lotus - 02 [PT-BR].mp4",
+            "btih": "a805322dea3583e789a66c966ddca897ab3383b3",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.251152622,
+            "creation": "2021-11-16T05:05:35.000000000Z,NyaaV2,https://nyaa.si/view/1456779",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7994,
+            "uuploaders": 245
+        },
+        {
+            "id": 1442,
+            "name": "multi-btih-4-2-x-Blade Runner Black Lotus S01E01 (WEBDL x264 1080p AAC) Ukr DVO SUB.mkv",
+            "btih": "c5ad518d54615428ec40681926ca79a506309b31",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.387725748,
+            "creation": "2021-11-14T18:11:58.000000000Z,NyaaV2,https://nyaa.si/view/1456144",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7789,
+            "uuploaders": 732
+        },
+        {
+            "id": 1438,
+            "name": "multi-btih-0-2-x-Blade Runner - Black Lotus - 01 [PT-BR].mp4",
+            "btih": "3917ca458e04f95180402ea454bd3274f7915fa1",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.189641515,
+            "creation": "2021-11-16T05:05:13.000000000Z,NyaaV2,https://nyaa.si/view/1456778",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7740,
+            "uuploaders": 346
+        },
+        {
+            "id": 61,
+            "name": "Blade-Runner-Black-Lotus-S01E01-720p-WEB-H264-SENPAI[TGx]",
+            "btih": "b06ac2c9f2b07332c3808a6fb4e0e4cab6aa5041",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.68304959,
+            "creation": "2021-11-14T05:55:36.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7132,
+            "uuploaders": 1338
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Blade.Runner.Black.Lotus.S01.1080p.LakeFilms",
+            "btih": "5cd47447e9695e0953b84ebe7a7172c52048f198",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.427885378,
+            "creation": "2021-11-14T19:20:26.000000000Z,BitTorrent/7.10.5,http://rutor.is/torrent/845631",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7044,
+            "uuploaders": 1516
+        },
+        {
+            "id": 93,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "9be13407b927e8aa631e83d266b28999637512f1",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.203548291,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6619,
+            "uuploaders": 485
+        },
+        {
+            "id": 30,
+            "name": "Blade Runner 2049 (2017) 1080p HEVC 7-Rip.mkv",
+            "btih": "3981025ab80597498e42c89970d44652affc481c",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.566973472,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6482,
+            "uuploaders": 322
+        },
+        {
+            "id": 90,
+            "name": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI",
+            "btih": "5467ea98aabd09389d6134961593d26b5322f825",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.683048872,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6320,
+            "uuploaders": 317
+        },
+        {
+            "id": 116,
+            "name": "Бегущий по лезвию Чёрный лотос Blade Runner Black Lotus Сезон 1 Серии 2 из 13 (Синдзи Арамаки, Кэндзи Камияма) [2021, СШ [rutracker-6136715]",
+            "btih": "54c9b4c0dcd1f801195741406a17e47f6f528fd2",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 2.100619565,
+            "creation": "2021-11-15T10:40:33.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=6136715",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6024,
+            "uuploaders": 1139
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]Blade.Runner.Black.Lotus.S01.SD.LakeFilms",
+            "btih": "0fa7949d6816ecad2444e3a70dafa5b64da001a6",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.406900002,
+            "creation": "2021-11-14T19:21:16.000000000Z,BitTorrent/7.10.5,http://rutor.is/torrent/845633",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6024,
+            "uuploaders": 866
+        },
+        {
+            "id": 1443,
+            "name": "multi-btih-5-2-x-Blade Runner Black Lotus S01E01 (WEBDL x265 1080p AAC) Ukr DVO SUB.mkv",
+            "btih": "a9b50cb4c16997d7eacaa2fb77b289852673e94e",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.455840028,
+            "creation": "2021-11-15T19:51:54.000000000Z,NyaaV2,https://nyaa.si/view/1456677",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5614,
+            "uuploaders": 227
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Blade.Runner.Black.Lotus.S01.400p.FilmsClub",
+            "btih": "c218d44649154b669efcf9b5de4a772268287d84",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.57766509,
+            "creation": "2021-11-16T16:55:04.000000000Z,qBittorrent v4.3.9,http://rutor.is/torrent/845909",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4934,
+            "uuploaders": 1153
+        },
+        {
+            "id": 37,
+            "name": "Blade Runner Black Lotus 1X1X2 HDTV XviD www.peliculasgratis.nom.es",
+            "btih": "94bedc8226393a5a04c516df08cc856670a8d789",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.511744337,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4683,
+            "uuploaders": 308
+        },
+        {
+            "id": 36,
+            "name": "Blade Runner Black Lotus - Temporada 1 [HDTV][Cap.102][Castellano][www.atomixHQ.ONE]",
+            "btih": "71fb21798720594ab1911c9a92aa60ae4fa6d00a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.460251522,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4501,
+            "uuploaders": 722
+        },
+        {
+            "id": 86,
+            "name": "Blade.Runner.Black.Lotus.S01E01.720p.HDTV.mp4",
+            "btih": "de9c15af2552dfe5b3e806154390ba42ec6dcb8c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.235133986,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4324,
+            "uuploaders": 425
+        },
+        {
+            "id": 109,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb",
+            "btih": "a81b33c113056f7f1eea77c768511e2678f21774",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.648330614,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3936,
+            "uuploaders": 327
+        },
+        {
+            "id": 108,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.1080p.AMZN.WEBRip.DDP5.1.x264-NTb [IPT]",
+            "btih": "d3f71d8a885f3e5045f554c42b2c851d8604df40",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.65174663,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3415,
+            "uuploaders": 1580
+        },
+        {
+            "id": 80,
+            "name": "blade.runner.black.lotus.s01e01.1080p.web.h264-senpai.mkv",
+            "btih": "7201d3af3184fa14aa8ab78b7a714b3c353ce08e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.344914756,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3119,
+            "uuploaders": 168
+        },
+        {
+            "id": 75,
+            "name": "Blade.Runner.Black.Lotus.s01.HD1080p.WEBRip.Rus.BaibaKo.tv",
+            "btih": "bb85c5ad3cea6bbed99ca4ec95993dad8d5ee27a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.485539488,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3116,
+            "uuploaders": 221
+        },
+        {
+            "id": 79,
+            "name": "Blade.Runner.Black.Lotus.S01E01.1080p.WEB.H264-SENPAI [IPT]",
+            "btih": "07b23f18192ea3eaa0441165051efb4ee570f0da",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.414258529,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1913,
+            "uuploaders": 791
+        },
+        {
+            "id": 76,
+            "name": "Blade.Runner.Black.Lotus.S01E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "70aa107f9beed17a91b69ab63576e27fe4707519",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.131394712,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1869,
+            "uuploaders": 804
+        },
+        {
+            "id": 94,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.1080p.AMZN.WEBRip.DDP2.0.x264-NTb [IPT]",
+            "btih": "71b7ceed2c6ea554ba363cad0b63a40fabd019af",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.434029168,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1561,
+            "uuploaders": 666
+        },
+        {
+            "id": 112,
+            "name": "Blade.Runner.Black.Lotus.S01E02.All.We.Are.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb [IPT]",
+            "btih": "c95f57a73cfad3a77f549ab28b999be929f15757",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.330943194,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1136,
+            "uuploaders": 569
+        },
+        {
+            "id": 87,
+            "name": "Blade.Runner.Black.Lotus.S01E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "ad0ec30103e0bebd9f79b5398c8ab50dbcbb2322",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.092268983,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1127,
+            "uuploaders": 447
+        },
+        {
+            "id": 102,
+            "name": "Blade.Runner.Black.Lotus.S01E01.XviD-AFG [IPT]",
+            "btih": "55f084d2d43c157f7ffe96319646bcd65eb9e344",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.14989851,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 991,
+            "uuploaders": 506
+        },
+        {
+            "id": 17,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 02 (1080p) [IPT]",
+            "btih": "ba3274f6e2df544e51099054bd8ce54ee27aebf5",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.368159725,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 679,
+            "uuploaders": 417
+        },
+        {
+            "id": 84,
+            "name": "Blade.Runner.Black.Lotus.S01E01.480p.x264-mSD [IPT]",
+            "btih": "8146415d5dc7fb7244ceb7df3d26a8605895db9c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.06754618,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 611,
+            "uuploaders": 393
+        },
+        {
+            "id": 11,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 01 (1080p) [IPT]",
+            "btih": "bb81d2dc725bdcf62a82447933d33e058841f326",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.358130919,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 512,
+            "uuploaders": 336
+        },
+        {
+            "id": 89,
+            "name": "Blade.Runner.Black.Lotus.S01E01.720p.WEB.H264-SENPAI [IPT]",
+            "btih": "c3e8429fa88ae783906ce81182555eeb21c5002a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.719029927,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 367,
+            "uuploaders": 217
+        },
+        {
+            "id": 98,
+            "name": "Blade.Runner.Black.Lotus.S01E01.City.of.Angels.720p.AMZN.WEBRip.DDP2.0.x264-NTb [IPT]",
+            "btih": "a39e3694775c9a9efd2ac6d238340008bad7dc03",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.202335469,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 231,
+            "uuploaders": 155
+        },
+        {
+            "id": 22,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 02 (720p) [IPT]",
+            "btih": "b762ef90fee5d3bea0bfd0581507b4215e72f3d4",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.700716326,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 222,
+            "uuploaders": 53
+        },
+        {
+            "id": 15,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 01 (720p) [IPT]",
+            "btih": "9543dfeaa1a7e67dee68569e0bf65e397251f2c3",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.692248607,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 219,
+            "uuploaders": 52
+        },
+        {
+            "id": 92,
+            "name": "Blade.Runner.Black.Lotus.S01E01.AAC.MP4-Mobile [IPT]",
+            "btih": "d21acb1d03d77ec0b120e387b41a81533e746e0a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.072073787,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 178,
+            "uuploaders": 140
+        },
+        {
+            "id": 19,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 02 (480p) [IPT]",
+            "btih": "8513a989c150700edf2e64412d0694e116eca384",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.358919947,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 50,
+            "uuploaders": 35
+        },
+        {
+            "id": 13,
+            "name": "[SubsPlease] Blade Runner - Black Lotus - 01 (480p) [IPT]",
+            "btih": "875076e2452091b7656a0ef14c045672794fe89c",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.355874439,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 49,
+            "uuploaders": 34
+        }
+    ]
+}

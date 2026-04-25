@@ -1,0 +1,3965 @@
+{
+    "collection_name": "Invincible",
+    "collection_id": "201,202,203",
+    "collection_key": "invincible-201",
+    "collection_notes": "",
+    "data_version": "2025-09-22",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "3:1756800417",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "9c24dca14810d232a38d4873c9b2c2a5a75768fe",
+            "duplicate_0_0": "Invincible (2023) (S02E01) (1080p)",
+            "duplicate_0_1": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "1f9cd8ffd8e1c47b93ba8787258a4a810324dc92",
+            "duplicate_1_0": "Invincible (2023) (S02E01) (480p)",
+            "duplicate_1_1": "Invincible.2021.S02E01.480p.x264-mSD[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "08fa8ff13fb3b98e34f3296dc4772042e897bc4d",
+            "duplicate_2_0": "Invincible (2023) (S02E01) (720p)",
+            "duplicate_2_1": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "b59d4bcdeae8aa9eaaa0855e3b59504a68bedd97",
+            "duplicate_3_0": "Invincible (2023) (S02E02) (1080p)",
+            "duplicate_3_1": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "25893ea0b7ee72a8e54ca121cdd4fdf98ce23904",
+            "duplicate_4_0": "Invincible (2023) (S02E02) (480p)",
+            "duplicate_4_1": "Invincible.2021.S02E02.480p.x264-mSD[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "6c5377a7019de28952553cc606f55e3cfe699117",
+            "duplicate_5_0": "Invincible (2023) (S02E02) (720p)",
+            "duplicate_5_1": "Invincible.2021.S02E02.720p.WEB.h264-ETHEL[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "c9707af5f69c338c618969d15105718aef72d782",
+            "duplicate_6_0": "Invincible (Season 2) WEB-DL 1080p",
+            "duplicate_6_1": "Непобедимый Неуязвимый Invincible Сезон 2 Серии 1 из 8 (Дэн Дункан Dan Duncan) [2023, США, Мультфильм, фантастика, фэн [rutracker-6439979]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "db840cdef91aea49e5407c6f02a24983b8009ab2",
+            "duplicate_7_0": "Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY",
+            "duplicate_7_1": "Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY[TGx]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "2fe2ecc4fbd23a99cce21f65c9aaaf3838da7629",
+            "duplicate_8_0": "Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY",
+            "duplicate_8_1": "Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY[TGx]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[ Torrent911.io ] Invincible.2021.S02E01.TRUEFRENCH.WEBRip.x264.mp4",
+            "size_total": 0.287054842,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.287054842,
+                    "path": "[ Torrent911.io ] Invincible.2021.S02E01.TRUEFRENCH.WEBRip.x264.mp4"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[ Torrent911.io ] Invincible.2021.S02E01.VOSTFR.WEBRip.x264.mp4",
+            "size_total": 0.292233785,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.292233785,
+                    "path": "[ Torrent911.io ] Invincible.2021.S02E01.VOSTFR.WEBRip.x264.mp4"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[ Torrent911.io ] Invincible.2021.S02E02.TRUEFRENCH.WEBRip.x264.mp4",
+            "size_total": 0.266480505,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.266480505,
+                    "path": "[ Torrent911.io ] Invincible.2021.S02E02.TRUEFRENCH.WEBRip.x264.mp4"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[ Torrent911.io ] Invincible.2021.S02E02.VOSTFR.WEBRip.x264.mp4",
+            "size_total": 0.27187374,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.27187374,
+                    "path": "[ Torrent911.io ] Invincible.2021.S02E02.VOSTFR.WEBRip.x264.mp4"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Invincible.S02.1080p.NewComers",
+            "size_total": 1.755920875,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.755920875,
+                    "path": "Invincible.S02.1080p.NewComers/Invincible.2021.S02E01.1080p.WEB-DL.NewComers.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Invincible.S02.400p.NewComers",
+            "size_total": 0.628807872,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.628807872,
+                    "path": "Invincible.S02.400p.NewComers/Invincible.2021.S02E01.400p.WEB-DLRip.NewComers.avi"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Invincible",
+            "size_total": 5.749970944,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.581732352,
+                    "path": "Invincible.LF_[rutor]/S01/Invincible.S01E01.Its.About.Time.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.5443584,
+                    "path": "Invincible.LF_[rutor]/S01/Invincible.S01E02.Here.Goes.Nothing.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.516610048,
+                    "path": "Invincible.LF_[rutor]/S01/Invincible.S01E03.Who.You.Calling.Ugly.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.551663616,
+                    "path": "Invincible.LF_[rutor]/S01/Invincible.S01E04.Neil.Armstrong.Eat.Your.Heart.Out.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.56768512,
+                    "path": "Invincible.LF_[rutor]/S01/Invincible.S01E05.That.Actually.Hurt.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.54990848,
+                    "path": "Invincible.LF_[rutor]/S01/Invincible.S01E06.You.Look.Kinda.Dead.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.595456,
+                    "path": "Invincible.LF_[rutor]/S01/Invincible.S01E07.We.Need.to.Talk.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.550486016,
+                    "path": "Invincible.LF_[rutor]/S01/Invincible.S01E08.Where.I.Really.Come.From.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.600016896,
+                    "path": "Invincible.LF_[rutor]/S02/Invincible.S02E01.A.Lesson.For.Your.Next.Life.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.692054016,
+                    "path": "Invincible.LF_[rutor]/Invincible.S00E01.Presenting.Atom.Eve.Special.Episode.avi"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]Neujazvimyj_2_sezon_1080p_RHS_scarfilm.org",
+            "size_total": 1.755917204,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.755917204,
+                    "path": "Неуязвимый_2_сезон_1080p_RHS_[scarfilm.org]/Invincible.2021.S02E01_RHS_[scarfilm.org].mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Invincible (2023) (S02E01) (1080p)",
+            "size_total": 1.523948537,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.523948537,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Invincible (2023) (S02E01) (480p)",
+            "size_total": 0.351852,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.351852,
+                    "path": "Invincible.2021.S02E01.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Invincible (2023) (S02E01) (720p)",
+            "size_total": 0.912285435,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.912285435,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Invincible (2023) (S02E02) (1080p)",
+            "size_total": 1.444515297,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.444515297,
+                    "path": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Invincible (2023) (S02E02) (480p)",
+            "size_total": 0.339868989,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.339868989,
+                    "path": "Invincible.2021.S02E02.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Invincible (2023) (S02E02) (720p)",
+            "size_total": 0.880183714,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.880183714,
+                    "path": "Invincible.2021.S02E02.720p.WEB.h264-ETHEL[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Invincible (S02E01)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam",
+            "size_total": 1.705858669,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.0,
+                    "path": "Invincible (S02E01)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/MediaInfo.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.25e-7,
+                    "path": "Invincible (S02E01)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Downloaded from torrentgalaxy.to.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000011007,
+                    "path": "Invincible (S02E01)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Pretorian_PHDTeam_Logo.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000102258,
+                    "path": "Invincible (S02E01)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/TGX_The_Best_Site_PHDTeam.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000241521,
+                    "path": "Invincible (S02E01)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible_poster.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000564351,
+                    "path": "Invincible (S02E01)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible S02E01 – A Lesson For Your Next Life.mkv.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000564351,
+                    "path": "Invincible (S02E01)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible S02E01 – A Lesson For Your Next Life.mkv.vtx"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000843407,
+                    "path": "Invincible (S02E01)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible.jpg"
+                },
+                {
+                    "number": 9,
+                    "size": 1.703531149,
+                    "path": "Invincible (S02E01)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible S02E01 – A Lesson For Your Next Life.mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam",
+            "size_total": 1.775946715,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.25e-7,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Downloaded from torrentgalaxy.to.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000011007,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Pretorian_PHDTeam_Logo.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000042265,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/MediaInfo.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000102258,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/TGX_The_Best_Site_PHDTeam.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000241521,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible_poster.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000572954,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible - S02E02_S2 E2 – ZHRUBA ZA ŠEST HODIN MĚ RYBA PŘIPRAVÍ O VĚNEČEK.mkv.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000572954,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible - S02E02_S2 E2 – ZHRUBA ZA ŠEST HODIN MĚ RYBA PŘIPRAVÍ O VĚNEČEK.mkv.vtx"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000843407,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible.jpg"
+                },
+                {
+                    "number": 9,
+                    "size": 1.773559724,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible - S02E02_S2 E2 – ZHRUBA ZA ŠEST HODIN MĚ RYBA PŘIPRAVÍ O VĚNEČEK.mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(6 lang AC3- 5.1) PHDTeam",
+            "size_total": 1.959433117,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.25e-7,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(6 lang AC3- 5.1) PHDTeam/Downloaded from torrentgalaxy.to.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000011007,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(6 lang AC3- 5.1) PHDTeam/Pretorian_PHDTeam_Logo.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000026642,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(6 lang AC3- 5.1) PHDTeam/MediaInfo.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000102258,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(6 lang AC3- 5.1) PHDTeam/TGX_The_Best_Site_PHDTeam.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000241521,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(6 lang AC3- 5.1) PHDTeam/Invincible_poster.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000578889,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(6 lang AC3- 5.1) PHDTeam/Invincible - S02E02_S2 E2 – ZHRUBA ZA ŠEST HODIN MĚ RYBA PŘIPRAVÍ O VĚNEČEK.mkv.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000578889,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(6 lang AC3- 5.1) PHDTeam/Invincible - S02E02_S2 E2 – ZHRUBA ZA ŠEST HODIN MĚ RYBA PŘIPRAVÍ O VĚNEČEK.mkv.vtx"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000843407,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(6 lang AC3- 5.1) PHDTeam/Invincible.jpg"
+                },
+                {
+                    "number": 9,
+                    "size": 1.957049879,
+                    "path": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(6 lang AC3- 5.1) PHDTeam/Invincible - S02E02_S2 E2 – ZHRUBA ZA ŠEST HODIN MĚ RYBA PŘIPRAVÍ O VĚNEČEK.mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Invincible (S2E01)(Special)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam",
+            "size_total": 2.020275819,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.0,
+                    "path": "Invincible (S2E01)(Special)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/MediaInfo.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.25e-7,
+                    "path": "Invincible (S2E01)(Special)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Downloaded from torrentgalaxy.to.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000011007,
+                    "path": "Invincible (S2E01)(Special)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Pretorian_PHDTeam_Logo.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000102258,
+                    "path": "Invincible (S2E01)(Special)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/TGX_The_Best_Site_PHDTeam.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000241521,
+                    "path": "Invincible (S2E01)(Special)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible_poster.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000596513,
+                    "path": "Invincible (S2E01)(Special)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible S202E01 Special – Atom Eve.mkv.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000596513,
+                    "path": "Invincible (S2E01)(Special)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible S202E01 Special – Atom Eve.mkv.vtx"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000843407,
+                    "path": "Invincible (S2E01)(Special)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible.jpg"
+                },
+                {
+                    "number": 9,
+                    "size": 2.017883975,
+                    "path": "Invincible (S2E01)(Special)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam/Invincible S202E01 Special – Atom Eve.mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Invincible (Season 2) WEB-DL 1080p",
+            "size_total": 2.505372215,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.505372215,
+                    "path": "Invincible (Season 2) WEB-DL 1080p/Invincible.S02E01.1080p.WEB-DL.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Invincible - S02.E01 - A LESSON FOR YOUR NEXT LIFE 1080p AMZN WebRip x265 DDP 5.1 Kira [SEV].mkv",
+            "size_total": 0.879192361,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.879192361,
+                    "path": "Invincible - S02.E01 - A LESSON FOR YOUR NEXT LIFE 1080p AMZN WebRip x265 DDP 5.1 Kira [SEV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Invincible - S02.E02 - IN ABOUT SIX HOURS I LOSE MY VIRGINITY TO A FISH 1080p AMZN WebRip x265 DDP 5.1 Kira [SEV].mkv",
+            "size_total": 0.843044018,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.843044018,
+                    "path": "Invincible - S02.E02 - IN ABOUT SIX HOURS I LOSE MY VIRGINITY TO A FISH 1080p AMZN WebRip x265 DDP 5.1 Kira [SEV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Invincible - S02E01 - A LESSON FOR YOUR NEXT LIFE.mkv",
+            "size_total": 0.394977482,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.394977482,
+                    "path": "Invincible - S02E01 - A LESSON FOR YOUR NEXT LIFE.mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Invincible - S02E02 - IN ABOUT SIX HOURS I LOSE MY VIRGINITY TO A FISH.mkv",
+            "size_total": 0.376803134,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.376803134,
+                    "path": "Invincible - S02E02 - IN ABOUT SIX HOURS I LOSE MY VIRGINITY TO A FISH.mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Invincible - S02E03 - THIS MISSIVE, THIS MACHINATION!.mkv",
+            "size_total": 0.32993138,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.32993138,
+                    "path": "Invincible - S02E03 - THIS MISSIVE, THIS MACHINATION!.mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Invincible S02E01 1080p AMZN - ZeiZ.mkv",
+            "size_total": 1.755946127,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.755946127,
+                    "path": "Invincible S02E01 1080p AMZN - ZeiZ.mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Invincible S02E02 1080p AMZN WEB-DL DD+ 5.1 H.264.mkv",
+            "size_total": 1.680748644,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.680748644,
+                    "path": "Invincible S02E02 1080p AMZN WEB-DL DD+ 5.1 H.264.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Invincible.2021.S01E02.AAC.MP4-Mobile",
+            "size_total": 0.205481266,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.204403239,
+                    "path": "Invincible.2021.S01E02.AAC.MP4-Mobile/Invincible.2021.S01E02.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001226,
+                    "path": "Invincible.2021.S01E02.AAC.MP4-Mobile/Invincible.2021.S01E02.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000298328,
+                    "path": "Invincible.2021.S01E02.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000435003,
+                    "path": "Invincible.2021.S01E02.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00034347,
+                    "path": "Invincible.2021.S01E02.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Invincible.2021.S02E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.319895588,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.319895588,
+                    "path": "Invincible.2021.S02E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Invincible.2021.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.5998775,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.5998775,
+                    "path": "Invincible.2021.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Invincible.2021.S02E01.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.599879433,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.5998775,
+                    "path": "Invincible.2021.S02E01.1080p.HEVC.x265-MeGusta[TGx]/Invincible.2021.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001144,
+                    "path": "Invincible.2021.S02E01.1080p.HEVC.x265-MeGusta[TGx]/Invincible.2021.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E01.1080p.HEVC.x265-MeGusta[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E01.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL [IPT]",
+            "size_total": 1.523952288,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 9.19e-7,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.023950441,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 9.28e-7,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/invincible.2021.s02e01.1080p.web.h264-ethel.sfv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL",
+            "size_total": 1.523948537,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.523948537,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL/Invincible.2021.S02E01.1080p.WEB.h264-ETHEL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL[eztv.re].mkv",
+            "size_total": 1.523948537,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.523948537,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL[TGx]",
+            "size_total": 1.523950245,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.523948537,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL[TGx]/Invincible.2021.S02E01.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 9.19e-7,
+                    "path": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL[TGx]/invincible.2021.s02e01.1080p.web.h264-ethel.nfo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Invincible.2021.S02E01.480p.x264-mSD [IPT]",
+            "size_total": 0.352206403,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.351852,
+                    "path": "Invincible.2021.S02E01.480p.x264-mSD/Invincible.2021.S02E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.73e-7,
+                    "path": "Invincible.2021.S02E01.480p.x264-mSD/Invincible.2021.S02E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000034772,
+                    "path": "Invincible.2021.S02E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000142376,
+                    "path": "Invincible.2021.S02E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000176282,
+                    "path": "Invincible.2021.S02E01.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Invincible.2021.S02E01.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.351852,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.351852,
+                    "path": "Invincible.2021.S02E01.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Invincible.2021.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.15525224,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.15525224,
+                    "path": "Invincible.2021.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Invincible.2021.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.478864019,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.473442751,
+                    "path": "Invincible.2021.S02E01.720p.HEVC.x265-MeGusta/Invincible.2021.S02E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000114,
+                    "path": "Invincible.2021.S02E01.720p.HEVC.x265-MeGusta/Invincible.2021.S02E01.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000808425,
+                    "path": "Invincible.2021.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001915532,
+                    "path": "Invincible.2021.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002696171,
+                    "path": "Invincible.2021.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Invincible.2021.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.473442751,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.473442751,
+                    "path": "Invincible.2021.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL [IPT]",
+            "size_total": 0.912289679,
+            "files_total": 21,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 9.19e-7,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.012287677,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.rar"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000001083,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL/invincible.2021.s02e01.720p.web.h264-ethel.sfv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL[eztv.re].mkv",
+            "size_total": 0.912285435,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.912285435,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL[TGx]",
+            "size_total": 0.912287143,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.912285435,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL[TGx]/Invincible.2021.S02E01.720p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 9.19e-7,
+                    "path": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL[TGx]/invincible.2021.s02e01.720p.web.h264-ethel.nfo"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Invincible.2021.S02E01.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.242842115,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.242841283,
+                    "path": "Invincible.2021.S02E01.720p.WEB.x265-MiNX[TGx]/Invincible.2021.S02E01.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E01.720p.WEB.x265-MiNX[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E01.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.3e-8,
+                    "path": "Invincible.2021.S02E01.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 1.524053018,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.524019901,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000033117,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv.re].mkv",
+            "size_total": 1.524019901,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.524019901,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]",
+            "size_total": 1.524053807,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.524019901,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000033117,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 0.912389998,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.912356884,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000033114,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]",
+            "size_total": 0.912390787,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.912356884,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000033114,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Invincible.2021.S02E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.17095798,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.170562672,
+                    "path": "Invincible.2021.S02E01.AAC.MP4-Mobile/Invincible.2021.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001232,
+                    "path": "Invincible.2021.S02E01.AAC.MP4-Mobile/Invincible.2021.S02E01.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000038316,
+                    "path": "Invincible.2021.S02E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000159437,
+                    "path": "Invincible.2021.S02E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000196323,
+                    "path": "Invincible.2021.S02E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R [IPT]",
+            "size_total": 1.755871865,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r00"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r01"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r02"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r03"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r04"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r05"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r06"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r07"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r08"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r09"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r10"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r11"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r12"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r13"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r14"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r15"
+                },
+                {
+                    "number": 17,
+                    "size": 0.055869787,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.r16"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000001152,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/invincible.2021.s02e01.multi.1080p.web.h264-amb3r.sfv"
+                },
+                {
+                    "number": 20,
+                    "size": 9.26e-7,
+                    "path": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "invincible.2021.s02e01.multi.1080p.web.h264-amb3r[eztv.re].mkv",
+            "size_total": 1.755867447,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.755867447,
+                    "path": "invincible.2021.s02e01.multi.1080p.web.h264-amb3r[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Invincible.2021.S02E01.Una.lezione.per.la.tua.prossima.vita.ITA.ENG.1080p.AMZN.WEB-DL.DDP5.1.H.264-MeM.GP.mkv",
+            "size_total": 1.755920043,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.755920043,
+                    "path": "Invincible.2021.S02E01.Una.lezione.per.la.tua.prossima.vita.ITA.ENG.1080p.AMZN.WEB-DL.DDP5.1.H.264-MeM.GP.mkv"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY",
+            "size_total": 0.264319146,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.264318314,
+                    "path": "Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY[TGx]/Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.3e-8,
+                    "path": "Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.264319146,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.264318314,
+                    "path": "Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY[TGx]/Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.3e-8,
+                    "path": "Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Invincible.2021.S02E01.XviD-AFG [IPT]",
+            "size_total": 0.516278982,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.515813728,
+                    "path": "Invincible.2021.S02E01.XviD-AFG/Invincible.2021.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001098,
+                    "path": "Invincible.2021.S02E01.XviD-AFG/Invincible.2021.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000053734,
+                    "path": "Invincible.2021.S02E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000177926,
+                    "path": "Invincible.2021.S02E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000232496,
+                    "path": "Invincible.2021.S02E01.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Invincible.2021.S02E01.XviD-AFG[eztv.re].avi",
+            "size_total": 0.515813728,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.515813728,
+                    "path": "Invincible.2021.S02E01.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Invincible.2021.S02E01.XviD-AFG[TGx]",
+            "size_total": 0.515815615,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.515813728,
+                    "path": "Invincible.2021.S02E01.XviD-AFG[TGx]/Invincible.2021.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001098,
+                    "path": "Invincible.2021.S02E01.XviD-AFG[TGx]/Invincible.2021.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E01.XviD-AFG[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E01.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Invincible.2021.S02E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.301141095,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.301141095,
+                    "path": "Invincible.2021.S02E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Invincible.2021.S02E02.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.5667132,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.5667132,
+                    "path": "Invincible.2021.S02E02.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Invincible.2021.S02E02.1080p.HEVC.x265-MeGusta[TGx]",
+            "size_total": 0.566715133,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.5667132,
+                    "path": "Invincible.2021.S02E02.1080p.HEVC.x265-MeGusta[TGx]/Invincible.2021.S02E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001144,
+                    "path": "Invincible.2021.S02E02.1080p.HEVC.x265-MeGusta[TGx]/Invincible.2021.S02E02.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E02.1080p.HEVC.x265-MeGusta[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E02.1080p.HEVC.x265-MeGusta[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL",
+            "size_total": 1.444515297,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.444515297,
+                    "path": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL/Invincible.2021.S02E02.1080p.WEB.h264-ETHEL.mkv"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL[eztv.re].mkv",
+            "size_total": 1.444515297,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.444515297,
+                    "path": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL[TGx]",
+            "size_total": 1.444517026,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.444515297,
+                    "path": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL[TGx]/Invincible.2021.S02E02.1080p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 9.4e-7,
+                    "path": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL[TGx]/invincible.2021.s02e02.1080p.web.h264-ethel.nfo"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Invincible.2021.S02E02.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.339868989,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.339868989,
+                    "path": "Invincible.2021.S02E02.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Invincible.2021.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.14352771,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.14352771,
+                    "path": "Invincible.2021.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Invincible.2021.S02E02.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.446662055,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.446662055,
+                    "path": "Invincible.2021.S02E02.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Invincible.2021.S02E02.720p.WEB.h264-ETHEL[eztv.re].mkv",
+            "size_total": 0.880183714,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.880183714,
+                    "path": "Invincible.2021.S02E02.720p.WEB.h264-ETHEL[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Invincible.2021.S02E02.720p.WEB.h264-ETHEL[TGx]",
+            "size_total": 0.880184503,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.880183714,
+                    "path": "Invincible.2021.S02E02.720p.WEB.h264-ETHEL[TGx]/Invincible.2021.S02E02.720p.WEB.h264-ETHEL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E02.720p.WEB.h264-ETHEL[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E02.720p.WEB.h264-ETHEL[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Invincible.2021.S02E02.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.220722196,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.220721364,
+                    "path": "Invincible.2021.S02E02.720p.WEB.x265-MiNX[TGx]/Invincible.2021.S02E02.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E02.720p.WEB.x265-MiNX[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E02.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.3e-8,
+                    "path": "Invincible.2021.S02E02.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Invincible.2021.S02E02.Fra.sei.ore.perdero.la.mia.verginita.con.un.pesce.ITA.ENG.1080p.AMZN.WEB-DL.DDP5.1.H.264-MeM.GP.mkv",
+            "size_total": 1.680736812,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.680736812,
+                    "path": "Invincible.2021.S02E02.Fra.sei.ore.perdero.la.mia.verginita.con.un.pesce.ITA.ENG.1080p.AMZN.WEB-DL.DDP5.1.H.264-MeM.GP.mkv"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv.re].mkv",
+            "size_total": 1.444581555,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.444581555,
+                    "path": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]",
+            "size_total": 1.444615667,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.444581555,
+                    "path": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000033323,
+                    "path": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]",
+            "size_total": 0.880284045,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.880249937,
+                    "path": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000033319,
+                    "path": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "invincible.2021.s02e02.multi.1080p.web.h264-amb3r[eztv.re].mkv",
+            "size_total": 1.680692942,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.680692942,
+                    "path": "invincible.2021.s02e02.multi.1080p.web.h264-amb3r[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY",
+            "size_total": 0.243262859,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.243262027,
+                    "path": "Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY[TGx]/Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.3e-8,
+                    "path": "Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY[TGx]",
+            "size_total": 0.243262859,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.243262027,
+                    "path": "Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY[TGx]/Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.3e-8,
+                    "path": "Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Invincible.2021.S02E02.XviD-AFG[eztv.re].avi",
+            "size_total": 0.46660083,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.46660083,
+                    "path": "Invincible.2021.S02E02.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Invincible.2021.S02E02.XviD-AFG[TGx]",
+            "size_total": 0.466602715,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.46660083,
+                    "path": "Invincible.2021.S02E02.XviD-AFG[TGx]/Invincible.2021.S02E02.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001096,
+                    "path": "Invincible.2021.S02E02.XviD-AFG[TGx]/Invincible.2021.S02E02.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E02.XviD-AFG[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E02.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "invincible.2021.s02e03.1080p.web.h264-successfulcrab[eztv.re].mkv",
+            "size_total": 1.42063344,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.42063344,
+                    "path": "invincible.2021.s02e03.1080p.web.h264-successfulcrab[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Invincible.2021.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.123631817,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.123631817,
+                    "path": "Invincible.2021.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Invincible.2021.S02E03.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.187047124,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.187046292,
+                    "path": "Invincible.2021.S02E03.720p.WEB.x265-MiNX[TGx]/Invincible.2021.S02E03.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.1e-8,
+                    "path": "Invincible.2021.S02E03.720p.WEB.x265-MiNX[TGx]/NEW upcoming releases by Xclusive.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Invincible.2021.S02E03.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 4,
+                    "size": 4.3e-8,
+                    "path": "Invincible.2021.S02E03.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Invincible.S02.1080p.NewComers",
+            "size_total": 3.436680028,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.755920875,
+                    "path": "Invincible.S02.1080p.NewComers/Invincible.2021.S02E01.1080p.NewComers.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.680759153,
+                    "path": "Invincible.S02.1080p.NewComers/Invincible.2021.S02E02.1080p.NewComers.mkv"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Invincible.S02.1080p.Ultradox",
+            "size_total": 3.219863502,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.689806235,
+                    "path": "Invincible.S02.1080p.Ultradox/Invincible.S02E00.1080p.Ultradox.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.530057267,
+                    "path": "Invincible.S02.1080p.Ultradox/Invincible.S02E01.1080p.Ultradox.mkv"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Invincible.S02.400p.NewComers",
+            "size_total": 1.185071164,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.628807872,
+                    "path": "Invincible.S02.400p.NewComers/Invincible.2021.S02E01.400p.NewComers.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.556263292,
+                    "path": "Invincible.S02.400p.NewComers/Invincible.2021.S02E02.400p.NewComers.avi"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Invincible.S02.720p.Ultradox",
+            "size_total": 3.123181389,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.122479006,
+                    "path": "Invincible.S02.720p.Ultradox/Invincible.S02E00.720p.Ultradox.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.991160568,
+                    "path": "Invincible.S02.720p.Ultradox/Invincible.S02E01.720p.Ultradox.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.009541815,
+                    "path": "Invincible.S02.720p.Ultradox/Invincible.S02E02.720p.Ultradox.mkv"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Invincible.s02.HD1080p.WEBRip.Rus.RuDub.tv",
+            "size_total": 2.137797201,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.137797201,
+                    "path": "Invincible.s02.HD1080p.WEBRip.Rus.RuDub.tv/Invincible.s02e01.HD1080p.WEBRip.Rus.RuDub.tv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "name": "Invincible.s02.HD720p.WEBRip.Rus.RuDub.tv",
+            "size_total": 3.081782538,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.524985746,
+                    "path": "Invincible.s02.HD720p.WEBRip.Rus.RuDub.tv/Invincible.s02e01.HD720p.WEBRip.Rus.RuDub.tv.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.556796792,
+                    "path": "Invincible.s02.HD720p.WEBRip.Rus.RuDub.tv/Invincible.s02e02.HD720p.WEBRip.Rus.RuDub.tv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "Invincible.S02",
+            "size_total": 1.755917204,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.755917204,
+                    "path": "Invincible.S02/Invincible.2021.S02E01.mkv"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "name": "Invincible.S02E01.1080p.ColdFilm.mkv",
+            "size_total": 1.556943591,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.556943591,
+                    "path": "Invincible.S02E01.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "name": "Invincible.S02E01.1080p.CondorFilmsStudio.mkv",
+            "size_total": 1.755806609,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.755806609,
+                    "path": "Invincible.S02E01.1080p.CondorFilmsStudio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "name": "Invincible.S02E01.1080p.rus.LostFilm.TV.mkv",
+            "size_total": 2.647158216,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.647158216,
+                    "path": "Invincible.S02E01.1080p.rus.LostFilm.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "name": "Invincible.S02E01.400p.ColdFilm.avi",
+            "size_total": 0.57861016,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.57861016,
+                    "path": "Invincible.S02E01.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "name": "Invincible.S02E01.720p.ColdFilm.mkv",
+            "size_total": 1.185304619,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.185304619,
+                    "path": "Invincible.S02E01.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "name": "Invincible.S02E01.720p.rus.LostFilm.TV.mp4",
+            "size_total": 1.492088328,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.492088328,
+                    "path": "Invincible.S02E01.720p.rus.LostFilm.TV.mp4"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "name": "Invincible.S02E02.1080p.ColdFilm.mkv",
+            "size_total": 2.024744855,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.024744855,
+                    "path": "Invincible.S02E02.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "name": "Invincible.S02E02.1080p.rus.LostFilm.TV.mkv",
+            "size_total": 2.706252015,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.706252015,
+                    "path": "Invincible.S02E02.1080p.rus.LostFilm.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "name": "Invincible.S02E02.720p.ColdFilm.mkv",
+            "size_total": 1.101768521,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.101768521,
+                    "path": "Invincible.S02E02.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "name": "Invincible.S02E02.720p.rus.LostFilm.TV.mp4",
+            "size_total": 1.523730751,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.523730751,
+                    "path": "Invincible.S02E02.720p.rus.LostFilm.TV.mp4"
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "name": "Invincible.S02E02.rus.LostFilm.TV.avi",
+            "size_total": 0.727023616,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.727023616,
+                    "path": "Invincible.S02E02.rus.LostFilm.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "name": "The.Invincible",
+            "size_total": 20.423120781,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part01.rar"
+                },
+                {
+                    "number": 2,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part02.rar"
+                },
+                {
+                    "number": 3,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part03.rar"
+                },
+                {
+                    "number": 4,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part04.rar"
+                },
+                {
+                    "number": 5,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part05.rar"
+                },
+                {
+                    "number": 6,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part06.rar"
+                },
+                {
+                    "number": 7,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part07.rar"
+                },
+                {
+                    "number": 8,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part08.rar"
+                },
+                {
+                    "number": 9,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part09.rar"
+                },
+                {
+                    "number": 10,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part10.rar"
+                },
+                {
+                    "number": 11,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part11.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part12.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part13.rar"
+                },
+                {
+                    "number": 14,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part14.rar"
+                },
+                {
+                    "number": 15,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part15.rar"
+                },
+                {
+                    "number": 16,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part16.rar"
+                },
+                {
+                    "number": 17,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part17.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part18.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 1.073741824,
+                    "path": "The.Invincible/The.Invincible.part19.rar"
+                },
+                {
+                    "number": 20,
+                    "size": 0.022026125,
+                    "path": "The.Invincible/The.Invincible.part20.rar"
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "name": "www.1TamilBlasters.art - Invincible (2023) S02EP01 [720p HQ HDRip - x264 - [Tam + Mal + Tel + Kan + Hin + Eng] - AAC - 450MB - ESub].mkv",
+            "size_total": 0.440891028,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.440891028,
+                    "path": "www.1TamilBlasters.art - Invincible (2023) S02EP01 [720p HQ HDRip - x264 - [Tam + Mal + Tel + Kan + Hin + Eng] - AAC - 450MB - ESub].mkv"
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "name": "www.1TamilBlasters.uno - Invincible (2023) S02E02 [1080p HD AVC - [Tam + Tel + Hin + Kan + Mal + Eng] - x264 - DDP5.1 - 2.4GB - ESub].mkv",
+            "size_total": 2.634717093,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.634717093,
+                    "path": "www.1TamilBlasters.uno - Invincible (2023) S02E02 [1080p HD AVC - [Tam + Tel + Hin + Kan + Mal + Eng] - x264 - DDP5.1 - 2.4GB - ESub].mkv"
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "name": "www.1TamilBlasters.uno - Invincible (2023) S02E02 [720p HDRip - [Tam + Tel + Hin + Kan + Mal + Eng] - x264 - AAC - 600MB - ESub].mkv",
+            "size_total": 0.637183622,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.637183622,
+                    "path": "www.1TamilBlasters.uno - Invincible (2023) S02E02 [720p HDRip - [Tam + Tel + Hin + Kan + Mal + Eng] - x264 - AAC - 600MB - ESub].mkv"
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "name": "www.1TamilMV.phd - Invincible (2023) S02 EP02 WEB-DL - 1080p - AVC - (DD+5.1 - 192Kbps) [Tam + Tel + Hin + Mal + Kan + Eng] - 1.4GB - ESub.mkv",
+            "size_total": 1.633388363,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.633388363,
+                    "path": "www.1TamilMV.phd - Invincible (2023) S02 EP02 WEB-DL - 1080p - AVC - (DD+5.1 - 192Kbps) [Tam + Tel + Hin + Mal + Kan + Eng] - 1.4GB - ESub.mkv"
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "name": "www.1TamilMV.phd - Invincible (2023) S02 EP02 WEB-DL - 360p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - AAC - 200MB - ESub.mkv",
+            "size_total": 0.250208892,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.250208892,
+                    "path": "www.1TamilMV.phd - Invincible (2023) S02 EP02 WEB-DL - 360p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - AAC - 200MB - ESub.mkv"
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "name": "www.1TamilMV.phd - Invincible (2023) S02 EP02 WEB-DL - 720p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - AAC - 600MB - ESub.mkv",
+            "size_total": 0.640072698,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.640072698,
+                    "path": "www.1TamilMV.phd - Invincible (2023) S02 EP02 WEB-DL - 720p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - AAC - 600MB - ESub.mkv"
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "name": "www.1TamilMV.phd - Invincible (2023) S02E01 WEB-DL - 1080p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - 850MB - ESub.mkv",
+            "size_total": 0.8976501,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.8976501,
+                    "path": "www.1TamilMV.phd - Invincible (2023) S02E01 WEB-DL - 1080p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - 850MB - ESub.mkv"
+                }
+            ]
+        },
+        {
+            "id": 108,
+            "name": "Непобедимый Неуязвимый Invincible Сезон 2 Серии 1 из 8 (Дэн Дункан Dan Duncan) [2023, США, Мультфильм, фантастика, фэн [rutracker-6439979]",
+            "size_total": 2.505372215,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.505372215,
+                    "path": "Invincible (Season 2) WEB-DL 1080p/Invincible.S02E01.1080p.WEB-DL.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "name": "【高清剧集网发布 www.DDHDTV.com】十方武圣[第01-02集][国语配音+中文字幕].The.Invincible.S01.2023.2160p.WEB-DL.H264.AAC-DDHDTV",
+            "size_total": 2.793578371,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000636976,
+                    "path": "【高清剧集网发布 www.DDHDTV.com】十方武圣[第01-02集][国语配音+中文字幕].The.Invincible.S01.2023.2160p.WEB-DL.H264.AAC-DDHDTV/【更多电视剧集下载请访问 www.DDHDTV.com】【更多剧集打包下载请访问 www.DDHDTV.com】.MKV"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000636976,
+                    "path": "【高清剧集网发布 www.DDHDTV.com】十方武圣[第01-02集][国语配音+中文字幕].The.Invincible.S01.2023.2160p.WEB-DL.H264.AAC-DDHDTV/【更多高清剧集下载请访问 www.DDHDTV.com】【更多剧集打包下载请访问 www.DDHDTV.com】.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.387618414,
+                    "path": "【高清剧集网发布 www.DDHDTV.com】十方武圣[第01-02集][国语配音+中文字幕].The.Invincible.S01.2023.2160p.WEB-DL.H264.AAC-DDHDTV/十方武圣.The.Invincible.S01E01.2023.2160p.WEB-DL.H264.AAC-DDHDTV.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 1.404686005,
+                    "path": "【高清剧集网发布 www.DDHDTV.com】十方武圣[第01-02集][国语配音+中文字幕].The.Invincible.S01.2023.2160p.WEB-DL.H264.AAC-DDHDTV/十方武圣.The.Invincible.S01E02.2023.2160p.WEB-DL.H264.AAC-DDHDTV.mp4"
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "name": "无敌少侠.Invincible.2021.S02E01",
+            "size_total": 0.679690449,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.679690375,
+                    "path": "无敌少侠.Invincible.2021.S02E01/无敌少侠.Invincible.2021.S02E01.A.LESSON.FOR.YOUR.NEXT.LIFE.1080p.HD中英双字[最新电影www.dygangs.me].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 7.4e-8,
+                    "path": "无敌少侠.Invincible.2021.S02E01/6v电影 地址发布页 www.6v123.net 收藏不迷路.txt"
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "name": "无敌少侠.Invincible.2021.S02E02",
+            "size_total": 0.625716645,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.625716572,
+                    "path": "无敌少侠.Invincible.2021.S02E02/无敌少侠.Invincible.2021.S02E02.1080p.HD中字[最新电影www.dygangs.me].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 7.3e-8,
+                    "path": "无敌少侠.Invincible.2021.S02E02/电影港 地址发布页 www.dygang.me 收藏不迷路.txt"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 63,
+            "name": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL[TGx]",
+            "btih": "c29338c370839d6e9b0b625e540c18677576ba68",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.444517026,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 385366,
+            "uuploaders": 191744
+        },
+        {
+            "id": 34,
+            "name": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL[TGx]",
+            "btih": "2b66d782d5d51acf7dee5b6258f2dbdf06b40f79",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.523950245,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 287659,
+            "uuploaders": 157757
+        },
+        {
+            "id": 79,
+            "name": "invincible.2021.s02e03.1080p.web.h264-successfulcrab[eztv.re].mkv",
+            "btih": "44bda44cc18e8232cc922b49800935e17425e127",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.42063344,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 230365,
+            "uuploaders": 108666
+        },
+        {
+            "id": 508,
+            "name": "multi-btih-0-2-x-Invincible (2023) (S02E01) (1080p)",
+            "btih": "9c24dca14810d232a38d4873c9b2c2a5a75768fe",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.523948537,
+            "creation": "2023-11-03T00:27:44.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 222775,
+            "uuploaders": 80368
+        },
+        {
+            "id": 515,
+            "name": "multi-btih-7-2-x-Invincible.2021.S02E01.WEB.x264-TORRENTGALAXY",
+            "btih": "db840cdef91aea49e5407c6f02a24983b8009ab2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.264319146,
+            "creation": "2023-11-03T00:37:09.000000000Z,mktorrent 1.1,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 146019,
+            "uuploaders": 32254
+        },
+        {
+            "id": 69,
+            "name": "Invincible.2021.S02E02.720p.WEB.x265-MiNX[TGx]",
+            "btih": "4ba7a7edc08177c14ddb92da40cd0cc2d511a65e",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.220722196,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 124457,
+            "uuploaders": 35358
+        },
+        {
+            "id": 23,
+            "name": "Invincible - S02E02 - IN ABOUT SIX HOURS I LOSE MY VIRGINITY TO A FISH.mkv",
+            "btih": "8a1c3390427a50fff0b9797f799e70f362e14da1",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.376803134,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 123568,
+            "uuploaders": 35157
+        },
+        {
+            "id": 22,
+            "name": "Invincible - S02E01 - A LESSON FOR YOUR NEXT LIFE.mkv",
+            "btih": "e0cbeda9645d126383de8afffb83fcf6f8a8c262",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.394977482,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 109238,
+            "uuploaders": 32678
+        },
+        {
+            "id": 510,
+            "name": "multi-btih-2-2-x-Invincible (2023) (S02E01) (720p)",
+            "btih": "08fa8ff13fb3b98e34f3296dc4772042e897bc4d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.912285435,
+            "creation": "2023-11-03T00:18:28.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 101587,
+            "uuploaders": 20925
+        },
+        {
+            "id": 516,
+            "name": "multi-btih-8-2-x-Invincible.2021.S02E02.WEB.x264-TORRENTGALAXY",
+            "btih": "2fe2ecc4fbd23a99cce21f65c9aaaf3838da7629",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.243262859,
+            "creation": "2023-11-10T00:20:42.000000000Z,mktorrent 1.1,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 98853,
+            "uuploaders": 17163
+        },
+        {
+            "id": 43,
+            "name": "Invincible.2021.S02E01.720p.WEB.x265-MiNX[TGx]",
+            "btih": "4ff96b1359a3bfd5791d2f6264536c093716889b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.242842115,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 98337,
+            "uuploaders": 22625
+        },
+        {
+            "id": 511,
+            "name": "multi-btih-3-2-x-Invincible (2023) (S02E02) (1080p)",
+            "btih": "b59d4bcdeae8aa9eaaa0855e3b59504a68bedd97",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.444515297,
+            "creation": "2023-11-10T00:21:43.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 97430,
+            "uuploaders": 35688
+        },
+        {
+            "id": 509,
+            "name": "multi-btih-1-2-x-Invincible (2023) (S02E01) (480p)",
+            "btih": "1f9cd8ffd8e1c47b93ba8787258a4a810324dc92",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.351852,
+            "creation": "2023-11-03T00:36:05.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 94184,
+            "uuploaders": 3510
+        },
+        {
+            "id": 81,
+            "name": "Invincible.2021.S02E03.720p.WEB.x265-MiNX[TGx]",
+            "btih": "7a504d6a4b8e72a494124ed5213b5d1fb3eb13f8",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.187047124,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 91659,
+            "uuploaders": 28171
+        },
+        {
+            "id": 20,
+            "name": "Invincible - S02.E01 - A LESSON FOR YOUR NEXT LIFE 1080p AMZN WebRip x265 DDP 5.1 Kira [SEV].mkv",
+            "btih": "b6422671251a9bd5822bd1f0ddcc6758d1f2dfc9",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.879192361,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 87295,
+            "uuploaders": 22301
+        },
+        {
+            "id": 30,
+            "name": "Invincible.2021.S02E01.1080p.HEVC.x265-MeGusta[TGx]",
+            "btih": "37fbd59eb052624a6aec593a131ca77a3c238d45",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.599879433,
+            "creation": "2023-11-04T11:45:35.000000000Z,mktorrent 1.1,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 79033,
+            "uuploaders": 7939
+        },
+        {
+            "id": 58,
+            "name": "Invincible.2021.S02E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "e1d6bb8638b1648ed5a138ec05c99c4101cd361c",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.301141095,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 71283,
+            "uuploaders": 1754
+        },
+        {
+            "id": 46,
+            "name": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]",
+            "btih": "0ad2b464518a3b52d555bb705e77f06b0ab9a3f1",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.524053807,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 69387,
+            "uuploaders": 13499
+        },
+        {
+            "id": 24,
+            "name": "Invincible - S02E03 - THIS MISSIVE, THIS MACHINATION!.mkv",
+            "btih": "fdca76aaa75e54c4afbd209e4a30b7a267116f9c",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.32993138,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 69354,
+            "uuploaders": 16291
+        },
+        {
+            "id": 60,
+            "name": "Invincible.2021.S02E02.1080p.HEVC.x265-MeGusta[TGx]",
+            "btih": "ba4bdc025f16081b84c4c32747645872b2343e59",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.566715133,
+            "creation": "2023-11-13T09:11:49.000000000Z,mktorrent 1.1,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 62148,
+            "uuploaders": 3773
+        },
+        {
+            "id": 80,
+            "name": "Invincible.2021.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "dafb8c92c32180d4b6920b5f27f5a177bc17fd60",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.123631817,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60391,
+            "uuploaders": 703
+        },
+        {
+            "id": 513,
+            "name": "multi-btih-5-2-x-Invincible (2023) (S02E02) (720p)",
+            "btih": "6c5377a7019de28952553cc606f55e3cfe699117",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.880183714,
+            "creation": "2023-11-10T00:18:42.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 59708,
+            "uuploaders": 8113
+        },
+        {
+            "id": 68,
+            "name": "Invincible.2021.S02E02.720p.WEB.h264-ETHEL[TGx]",
+            "btih": "dfd4f3d4c9d17d160665c15f6b63466dafbd47cb",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.880184503,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 59503,
+            "uuploaders": 9966
+        },
+        {
+            "id": 514,
+            "name": "multi-btih-6-2-x-Invincible (Season 2) WEB-DL 1080p",
+            "btih": "c9707af5f69c338c618969d15105718aef72d782",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.505372215,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 59068,
+            "uuploaders": 1405
+        },
+        {
+            "id": 512,
+            "name": "multi-btih-4-2-x-Invincible (2023) (S02E02) (480p)",
+            "btih": "25893ea0b7ee72a8e54ca121cdd4fdf98ce23904",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.339868989,
+            "creation": "2023-11-10T00:33:05.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 58391,
+            "uuploaders": 3430
+        },
+        {
+            "id": 93,
+            "name": "Invincible.S02E01.720p.ColdFilm.mkv",
+            "btih": "1cb65cdacf8e6a7306f99b4b9851937cbf39b3c9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.185304619,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 57638,
+            "uuploaders": 374
+        },
+        {
+            "id": 72,
+            "name": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]",
+            "btih": "acc86d7d5ed02b6452ffaa16d7cc5c1938934aeb",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.444615667,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 54441,
+            "uuploaders": 7279
+        },
+        {
+            "id": 56,
+            "name": "Invincible.2021.S02E01.XviD-AFG[eztv.re].avi",
+            "btih": "34b78f9e6b8277cd51bfd244d245a255c1ca389b",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.515813728,
+            "creation": "2023-11-03T18:03:10.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53343,
+            "uuploaders": 1846
+        },
+        {
+            "id": 21,
+            "name": "Invincible - S02.E02 - IN ABOUT SIX HOURS I LOSE MY VIRGINITY TO A FISH 1080p AMZN WebRip x265 DDP 5.1 Kira [SEV].mkv",
+            "btih": "09947cfc8b8efd55f4f8b2d98df1d922cabbfc37",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.843044018,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51625,
+            "uuploaders": 4711
+        },
+        {
+            "id": 52,
+            "name": "Invincible.2021.S02E01.Una.lezione.per.la.tua.prossima.vita.ITA.ENG.1080p.AMZN.WEB-DL.DDP5.1.H.264-MeM.GP.mkv",
+            "btih": "fbe31f3894085f1fbd71cfb61d5a0f6f08b9d068",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.755920043,
+            "creation": "2023-11-03T20:05:31.000000000Z,qBittorrent v4.5.4",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 50742,
+            "uuploaders": 2349
+        },
+        {
+            "id": 100,
+            "name": "The.Invincible",
+            "btih": "d2c6b4c650c81870b5c32bef31c57897acca2fb5",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 20.423120781,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48508,
+            "uuploaders": 433
+        },
+        {
+            "id": 66,
+            "name": "Invincible.2021.S02E02.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "5c8796a2ffdd7e2379141bcb0df5eb5a0bf6f048",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.446662055,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47788,
+            "uuploaders": 3570
+        },
+        {
+            "id": 111,
+            "name": "无敌少侠.Invincible.2021.S02E02",
+            "btih": "4e1ccf18d41aef103f19d3b89a7d295ebeb0f114",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.625716645,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47484,
+            "uuploaders": 1837
+        },
+        {
+            "id": 18,
+            "name": "Invincible (S2E01)(Special)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam",
+            "btih": "b58d1c0029dd29f1e20432c2e5b67b041532b7d8",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.020275819,
+            "creation": "2023-11-04T18:14:56.000000000Z,uTorrent/3.6,Riped by Pretorian (PHDTeam) 2023",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46736,
+            "uuploaders": 1238
+        },
+        {
+            "id": 109,
+            "name": "【高清剧集网发布 www.DDHDTV.com】十方武圣[第01-02集][国语配音+中文字幕].The.Invincible.S01.2023.2160p.WEB-DL.H264.AAC-DDHDTV",
+            "btih": "add1476f0e93a813453cb5d04422dd3770d0e9cf",
+            "resolution": "2160",
+            "encoding": "264",
+            "gigabytes": 2.793578371,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46494,
+            "uuploaders": 330
+        },
+        {
+            "id": 105,
+            "name": "www.1TamilMV.phd - Invincible (2023) S02 EP02 WEB-DL - 360p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - AAC - 200MB - ESub.mkv",
+            "btih": "40763dae9e9144c9eb823e9eb4c97f0d61e2f26f",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.250208892,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46215,
+            "uuploaders": 2214
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]Neujazvimyj_2_sezon_1080p_RHS_scarfilm.org",
+            "btih": "3264204c7a35d28dabd2fcccaca6767d1fec5547",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.755917204,
+            "creation": "2023-11-09T13:55:24.000000000Z,uTorrent/3.5.5,http://rutor.is/torrent/952957",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46112,
+            "uuploaders": 2043
+        },
+        {
+            "id": 48,
+            "name": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]",
+            "btih": "549068476e202c5b146e521b5edcb34ba1d70e2b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.912390787,
+            "creation": "2023-11-03T16:42:39.000000000Z,mktorrent 1.1,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 45137,
+            "uuploaders": 2586
+        },
+        {
+            "id": 37,
+            "name": "Invincible.2021.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "db0f545016890218ab2975ee29affebacbf452db",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.15525224,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44880,
+            "uuploaders": 1170
+        },
+        {
+            "id": 2,
+            "name": "[ Torrent911.io ] Invincible.2021.S02E01.VOSTFR.WEBRip.x264.mp4",
+            "btih": "38aeb43225213998795c4c0bd26cd9c3b4ee73ff",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.292233785,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44659,
+            "uuploaders": 1030
+        },
+        {
+            "id": 15,
+            "name": "Invincible (S02E01)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam",
+            "btih": "829e4867ec65eab3739193050d2f0100fdb80344",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.705858669,
+            "creation": "2023-11-04T18:12:07.000000000Z,uTorrent/3.6,Riped by Pretorian (PHDTeam) 2023",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44114,
+            "uuploaders": 1452
+        },
+        {
+            "id": 107,
+            "name": "www.1TamilMV.phd - Invincible (2023) S02E01 WEB-DL - 1080p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - 850MB - ESub.mkv",
+            "btih": "11c0b697b5da81f06a3320eb06fd4e76555f7cc0",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.8976501,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43940,
+            "uuploaders": 3785
+        },
+        {
+            "id": 96,
+            "name": "Invincible.S02E02.1080p.rus.LostFilm.TV.mkv",
+            "btih": "3c3063852b6a6e19ac30750c65b2a5ef381d77a0",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.706252015,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43609,
+            "uuploaders": 4330
+        },
+        {
+            "id": 61,
+            "name": "Invincible.2021.S02E02.1080p.WEB.h264-ETHEL",
+            "btih": "f6b523a3e933213b49b022678e6794dd853e6809",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.444515297,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43285,
+            "uuploaders": 190
+        },
+        {
+            "id": 89,
+            "name": "Invincible.S02E01.1080p.ColdFilm.mkv",
+            "btih": "e0942bc55b47360ef114cb5d45f23e66a2b96549",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.556943591,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43280,
+            "uuploaders": 486
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Invincible",
+            "btih": "1549b43208017b51af68e350098f6efb2f0336ed",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 5.749970944,
+            "creation": "2023-11-07T08:08:57.000000000Z,uTorrent/1820,http://rutor.is/torrent/807615",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42811,
+            "uuploaders": 1388
+        },
+        {
+            "id": 101,
+            "name": "www.1TamilBlasters.art - Invincible (2023) S02EP01 [720p HQ HDRip - x264 - [Tam + Mal + Tel + Kan + Hin + Eng] - AAC - 450MB - ESub].mkv",
+            "btih": "298e98da082edd2dafcf8f9bc4ec9d23d9afb1ae",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.440891028,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42631,
+            "uuploaders": 2159
+        },
+        {
+            "id": 106,
+            "name": "www.1TamilMV.phd - Invincible (2023) S02 EP02 WEB-DL - 720p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - AAC - 600MB - ESub.mkv",
+            "btih": "0638feaf82fbf41639850329daf20348aa4697a9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.640072698,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41706,
+            "uuploaders": 3537
+        },
+        {
+            "id": 91,
+            "name": "Invincible.S02E01.1080p.rus.LostFilm.TV.mkv",
+            "btih": "c75f6ae037606873cc73f748c90d28babf6c0f99",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.647158216,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41432,
+            "uuploaders": 4686
+        },
+        {
+            "id": 39,
+            "name": "Invincible.2021.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "686fa66fb854ddc9f6e5d24b606cbac133961e43",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.473442751,
+            "creation": "2023-11-03T00:57:10.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40938,
+            "uuploaders": 2743
+        },
+        {
+            "id": 94,
+            "name": "Invincible.S02E01.720p.rus.LostFilm.TV.mp4",
+            "btih": "cd2ab38438b9861b3b572fbadfda04c741d5ffb2",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.492088328,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39805,
+            "uuploaders": 875
+        },
+        {
+            "id": 29,
+            "name": "Invincible.2021.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "dc863e4a96223d415b1e81afae741e47080b795f",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.5998775,
+            "creation": "2023-11-04T13:12:06.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39528,
+            "uuploaders": 3081
+        },
+        {
+            "id": 45,
+            "name": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv.re].mkv",
+            "btih": "51fae90496862eafada2f4cd6517c923730defc7",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.524019901,
+            "creation": "2023-11-03T17:12:16.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39190,
+            "uuploaders": 2669
+        },
+        {
+            "id": 4,
+            "name": "[ Torrent911.io ] Invincible.2021.S02E02.VOSTFR.WEBRip.x264.mp4",
+            "btih": "3633daec4a3abee6d49cb080b7017fa554764c34",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.27187374,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37925,
+            "uuploaders": 928
+        },
+        {
+            "id": 57,
+            "name": "Invincible.2021.S02E01.XviD-AFG[TGx]",
+            "btih": "fb1425d2ffa9b2a991e975db877581e069151a6b",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.515815615,
+            "creation": "2023-11-03T17:56:43.000000000Z,mktorrent 1.1,More @ https://torrentgalaxy.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37559,
+            "uuploaders": 1289
+        },
+        {
+            "id": 82,
+            "name": "Invincible.S02.1080p.NewComers",
+            "btih": "ea446440be1f1284c9f9d78c4a8a13baaa40f4b5",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.436680028,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37547,
+            "uuploaders": 2580
+        },
+        {
+            "id": 28,
+            "name": "Invincible.2021.S02E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "67a35d815625ea4f90398af1bc6cd6cf30efc474",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.319895588,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36689,
+            "uuploaders": 2024
+        },
+        {
+            "id": 59,
+            "name": "Invincible.2021.S02E02.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "5943e926d1517da4762c39c0bc17db55b78f62e0",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.5667132,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36082,
+            "uuploaders": 3283
+        },
+        {
+            "id": 102,
+            "name": "www.1TamilBlasters.uno - Invincible (2023) S02E02 [1080p HD AVC - [Tam + Tel + Hin + Kan + Mal + Eng] - x264 - DDP5.1 - 2.4GB - ESub].mkv",
+            "btih": "97a2a38cf83cb221eb2bd83b68bf9a884b80a303",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.634717093,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35882,
+            "uuploaders": 1306
+        },
+        {
+            "id": 85,
+            "name": "Invincible.S02.720p.Ultradox",
+            "btih": "775a30bef54685b4379a3b52ea33fc9543c01723",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.123181389,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34718,
+            "uuploaders": 268
+        },
+        {
+            "id": 97,
+            "name": "Invincible.S02E02.720p.ColdFilm.mkv",
+            "btih": "dafee8852a72fdf1a0027d7517e36c50a238e0cf",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.101768521,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34633,
+            "uuploaders": 376
+        },
+        {
+            "id": 99,
+            "name": "Invincible.S02E02.rus.LostFilm.TV.avi",
+            "btih": "f0a46432fb562c26234b3f1481cbfb646b19b95a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.727023616,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34193,
+            "uuploaders": 1098
+        },
+        {
+            "id": 1,
+            "name": "[ Torrent911.io ] Invincible.2021.S02E01.TRUEFRENCH.WEBRip.x264.mp4",
+            "btih": "6396da8a0318ae0f06d1e92b75f8b80546c48d2f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.287054842,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33433,
+            "uuploaders": 3571
+        },
+        {
+            "id": 103,
+            "name": "www.1TamilBlasters.uno - Invincible (2023) S02E02 [720p HDRip - [Tam + Tel + Hin + Kan + Mal + Eng] - x264 - AAC - 600MB - ESub].mkv",
+            "btih": "279f26a9e94f46135a1481953cb18da5272922d4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.637183622,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33137,
+            "uuploaders": 1248
+        },
+        {
+            "id": 92,
+            "name": "Invincible.S02E01.400p.ColdFilm.avi",
+            "btih": "5c16551b33d9b405a278faab1316e34169167fc1",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.57861016,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32683,
+            "uuploaders": 289
+        },
+        {
+            "id": 83,
+            "name": "Invincible.S02.1080p.Ultradox",
+            "btih": "0eef7186b00937df6e17e60f64b1806beb234037",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.219863502,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32524,
+            "uuploaders": 239
+        },
+        {
+            "id": 74,
+            "name": "invincible.2021.s02e02.multi.1080p.web.h264-amb3r[eztv.re].mkv",
+            "btih": "9b353bfb8034296b3d4c32e06b4d5e57bf6ada91",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.680692942,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32522,
+            "uuploaders": 2291
+        },
+        {
+            "id": 3,
+            "name": "[ Torrent911.io ] Invincible.2021.S02E02.TRUEFRENCH.WEBRip.x264.mp4",
+            "btih": "07a36a3d3ee6ccf9bd1307a45144120548da7e68",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.266480505,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32492,
+            "uuploaders": 2560
+        },
+        {
+            "id": 73,
+            "name": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]",
+            "btih": "f74599e15314e21a33ec2c2c8f5830d96051e733",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.880284045,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32112,
+            "uuploaders": 1920
+        },
+        {
+            "id": 90,
+            "name": "Invincible.S02E01.1080p.CondorFilmsStudio.mkv",
+            "btih": "28980edde9cd25a81d5077f5707cb6afff5872f4",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.755806609,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32038,
+            "uuploaders": 2846
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Invincible.S02.1080p.NewComers",
+            "btih": "3fb68d647bd4312861b45ab523004cb7b92b8c5d",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.755920875,
+            "creation": "2023-11-06T15:43:47.000000000Z,qBittorrent v4.6.0,http://rutor.is/torrent/952428",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31491,
+            "uuploaders": 1803
+        },
+        {
+            "id": 70,
+            "name": "Invincible.2021.S02E02.Fra.sei.ore.perdero.la.mia.verginita.con.un.pesce.ITA.ENG.1080p.AMZN.WEB-DL.DDP5.1.H.264-MeM.GP.mkv",
+            "btih": "a12f20832facf4eb46818cd391b97fd27006534a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.680736812,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31194,
+            "uuploaders": 1798
+        },
+        {
+            "id": 26,
+            "name": "Invincible S02E02 1080p AMZN WEB-DL DD+ 5.1 H.264.mkv",
+            "btih": "91c2fe837b9ecc0232a3aa96e0b9a33b2c30b50a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.680748644,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 30942,
+            "uuploaders": 224
+        },
+        {
+            "id": 51,
+            "name": "invincible.2021.s02e01.multi.1080p.web.h264-amb3r[eztv.re].mkv",
+            "btih": "7c65f8c0077816dcf0b84efd14c2376c0ea74bc6",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.755867447,
+            "creation": "2023-11-03T04:09:52.000000000Z,EZTV,Visit us: https://eztv.re/ (eztvstatus.org, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 30798,
+            "uuploaders": 2306
+        },
+        {
+            "id": 104,
+            "name": "www.1TamilMV.phd - Invincible (2023) S02 EP02 WEB-DL - 1080p - AVC - (DD+5.1 - 192Kbps) [Tam + Tel + Hin + Mal + Kan + Eng] - 1.4GB - ESub.mkv",
+            "btih": "04424664f7b39b0cda19aa3e973d38de2596324d",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.633388363,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 30025,
+            "uuploaders": 2361
+        },
+        {
+            "id": 17,
+            "name": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(6 lang AC3- 5.1) PHDTeam",
+            "btih": "fdfaf6d3a0a020ade229e1d30c734af8bda52d23",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.959433117,
+            "creation": "2023-11-12T23:05:07.000000000Z,uTorrent/3.6,Riped by Pretorian (PHDTeam) 2023",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29965,
+            "uuploaders": 945
+        },
+        {
+            "id": 98,
+            "name": "Invincible.S02E02.720p.rus.LostFilm.TV.mp4",
+            "btih": "c5836e313de9f49d08a344103c6d2ce7e8030460",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.523730751,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29352,
+            "uuploaders": 918
+        },
+        {
+            "id": 25,
+            "name": "Invincible S02E01 1080p AMZN - ZeiZ.mkv",
+            "btih": "4d0d1e139f1457c64c780262af6bfec8d47c215b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.755946127,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28411,
+            "uuploaders": 423
+        },
+        {
+            "id": 110,
+            "name": "无敌少侠.Invincible.2021.S02E01",
+            "btih": "e1eca14a7a2e7ab51854a68dcde8206ed29b56cd",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.679690449,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27848,
+            "uuploaders": 1142
+        },
+        {
+            "id": 95,
+            "name": "Invincible.S02E02.1080p.ColdFilm.mkv",
+            "btih": "2378c12cd0e9f75791c8dce0b079df55438ef009",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.024744855,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27234,
+            "uuploaders": 479
+        },
+        {
+            "id": 88,
+            "name": "Invincible.S02",
+            "btih": "0c26a2b2d32715a2009ac798dcc3aced59c4feee",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.755917204,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27137,
+            "uuploaders": 452
+        },
+        {
+            "id": 84,
+            "name": "Invincible.S02.400p.NewComers",
+            "btih": "ed9d07694fb3dd38f34d2edfdc53b4c8791b5830",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.185071164,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24417,
+            "uuploaders": 990
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Invincible.S02.400p.NewComers",
+            "btih": "1f6e996ed136674546934816d22ba91aa20fb3d2",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.628807872,
+            "creation": "2023-11-06T15:45:10.000000000Z,qBittorrent v4.6.0,http://rutor.is/torrent/952429",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22635,
+            "uuploaders": 765
+        },
+        {
+            "id": 71,
+            "name": "Invincible.2021.S02E02.IN.ABOUT.SIX.HOURS.I.LOSE.MY.VIRGINITY.TO.A.FISH.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv.re].mkv",
+            "btih": "0d67a18229173bd8f9914592f986f6494b6d0f8b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.444581555,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22500,
+            "uuploaders": 2376
+        },
+        {
+            "id": 86,
+            "name": "Invincible.s02.HD1080p.WEBRip.Rus.RuDub.tv",
+            "btih": "b88a824dd5b12232f5909cafd43b01f8b2bf443a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.137797201,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21688,
+            "uuploaders": 273
+        },
+        {
+            "id": 87,
+            "name": "Invincible.s02.HD720p.WEBRip.Rus.RuDub.tv",
+            "btih": "1ba8cf9a6ec651ea5893cb5dbd9803330f1916f3",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.081782538,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21072,
+            "uuploaders": 222
+        },
+        {
+            "id": 16,
+            "name": "Invincible (S02E02)(2023)(Hevc)(1080p)(WebDL)(28 lang AAC- 2.0) PHDTeam",
+            "btih": "7529e7852149b993c8b8dbfa74974a6a4c129332",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.775946715,
+            "creation": "2023-11-12T23:06:08.000000000Z,uTorrent/3.6,Riped by Pretorian (PHDTeam) 2023",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20981,
+            "uuploaders": 865
+        },
+        {
+            "id": 65,
+            "name": "Invincible.2021.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "47d830628c8118d26a0d4ea09d99eb8941d9bea1",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.14352771,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20667,
+            "uuploaders": 692
+        },
+        {
+            "id": 32,
+            "name": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL",
+            "btih": "b290fc626b7b48bcb04e637c1c7440a308f66b11",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.523948537,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20534,
+            "uuploaders": 216
+        },
+        {
+            "id": 31,
+            "name": "Invincible.2021.S02E01.1080p.WEB.h264-ETHEL [IPT]",
+            "btih": "94a3127b567e10251a340770f06a6f3860dd3566",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.523952288,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 17948,
+            "uuploaders": 5112
+        },
+        {
+            "id": 42,
+            "name": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL[TGx]",
+            "btih": "7663ff02970db4c45aa98f75128868fd33f414e7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.912287143,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16779,
+            "uuploaders": 2918
+        },
+        {
+            "id": 38,
+            "name": "Invincible.2021.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "ef5b1bd535317a9422ec7a99befb62e5d1bff904",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.478864019,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5875,
+            "uuploaders": 2001
+        },
+        {
+            "id": 77,
+            "name": "Invincible.2021.S02E02.XviD-AFG[eztv.re].avi",
+            "btih": "4ebed3a70cd4f3b2a3fe19fef7f9a9b0802145fe",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.46660083,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5690,
+            "uuploaders": 435
+        },
+        {
+            "id": 78,
+            "name": "Invincible.2021.S02E02.XviD-AFG[TGx]",
+            "btih": "a552188686272aee067a80249545a685d24af689",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.466602715,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3650,
+            "uuploaders": 563
+        },
+        {
+            "id": 44,
+            "name": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "4a21d07a475de9b85fc3687f4c56619a478157fc",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.524053018,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3606,
+            "uuploaders": 1444
+        },
+        {
+            "id": 40,
+            "name": "Invincible.2021.S02E01.720p.WEB.h264-ETHEL [IPT]",
+            "btih": "ee5d5bc90ba24cb2aa5104198546a234ff378dfa",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.912289679,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2480,
+            "uuploaders": 652
+        },
+        {
+            "id": 50,
+            "name": "Invincible.2021.S02E01.MULTi.1080p.WEB.H264-AMB3R [IPT]",
+            "btih": "fa347138b6f9740fa6072b40eea0673444ea5a44",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.755871865,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1571,
+            "uuploaders": 506
+        },
+        {
+            "id": 55,
+            "name": "Invincible.2021.S02E01.XviD-AFG [IPT]",
+            "btih": "90b49fc0437f6ad1153c168540d270dca6caba63",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.516278982,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1225,
+            "uuploaders": 538
+        },
+        {
+            "id": 49,
+            "name": "Invincible.2021.S02E01.AAC.MP4-Mobile [IPT]",
+            "btih": "e41d7e4e349989048810f278eaf23bcb4cff7945",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.17095798,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1130,
+            "uuploaders": 529
+        },
+        {
+            "id": 47,
+            "name": "Invincible.2021.S02E01.A.Lesson.For.Your.Next.Life.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "9f3a7b794916b754512a130fda19f0a194aac563",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.912389998,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 489,
+            "uuploaders": 200
+        },
+        {
+            "id": 35,
+            "name": "Invincible.2021.S02E01.480p.x264-mSD [IPT]",
+            "btih": "3b660f261c0b2344211ba8e78b13b0219e5d8162",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.352206403,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 482,
+            "uuploaders": 251
+        },
+        {
+            "id": 27,
+            "name": "Invincible.2021.S01E02.AAC.MP4-Mobile",
+            "btih": "82210695efa43f25ac850988e994758b5ce32cef",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.205481266,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 32,
+            "uuploaders": 27
+        }
+    ]
+}
