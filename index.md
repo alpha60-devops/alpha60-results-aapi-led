@@ -10,7 +10,16 @@
 
 These are results from sampling peer swarms associated with *media objects* being *shared* on the internet. In this case *media objects* means any instances of media (film, television, books, streaming video, podcast, any video really) that that represent a specific film, television series or episode, or recorded event as a file or archive. And *sharing* means any peer-to-peer file sharing protocol used on the internet, namely BitTorrent. This is part of a long-term project called [Alpha60](https://alpha60.co/).
 
-Sample dates: 2019 to 2026
+## AAPI-Led
+
+Definition: Texts produced by US production companies (co-productions are acceptable as long as one major partner is a US company) that feature AAPI characters, actors, creators, and/or storylines. A text does not need all four (AAPI characters, actors, creators, and/or storylines) to qualify.
+
+Edge cases to consider: Bojack Horseman - major AAPI character but no other meaningful AAPI involvement; it is VERY difficult, instinctively, to call Bojack Horsemen an AAPI-led text. And so while a text doesn’t need to meet all four AAPI criteria, it likely has to meet more than one… 
+
+This excludes: texts that are not produced by US production companies (regardless of AAPI involvement otherwise); texts that exclusively feature non-US Asian characters, actors, creators, and/or storylines (e.g. a Chinese-British actor would not be counted). 
+
+
+Sample dates: 2018 to 2026
 
 {% include aapi-media-objects-list.html %}
 <div style="height: 50px;"></div>
