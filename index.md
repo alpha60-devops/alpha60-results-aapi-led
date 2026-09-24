@@ -41,6 +41,9 @@ Sample dates: 2018 to 2026
 
 ## Results, Commentary
 - [AAPI-Led](docs/aapi.html)
+- [Asian-global and U.S. context: three geographic pilot cases](docs/asia-asian-where.html)
+- [The Pitt versus The Bear: India, Philippines and Australia](docs/pitt-bear-compare.html)
+- [Godzilla: Japan, USA, China and South Korea](docs/godzilla.html)
 <div style="height: 50px;"></div>
 
 

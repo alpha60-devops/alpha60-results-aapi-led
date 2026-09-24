@@ -1,0 +1,18 @@
+/* Analysis pages reuse the site's typography and spacing. */
+.analysis-figure { margin: 2rem 0; position: relative; }
+.analysis-svg { display: block; width: 100%; height: auto; }
+.analysis-figure figcaption { margin-top: .7rem; line-height: 1.5; }
+.analysis-table-scroll { overflow-x: auto; margin: 1.5rem 0; }
+.analysis-table-scroll table { width: 100%; min-width: 720px; margin: 0; }
+.analysis-table-scroll:focus-visible, [data-tooltip]:focus-visible { outline: 3px solid #175b8c; outline-offset: 3px; }
+.map-tooltip { position: fixed; bottom: .5rem; left: 50%; transform: translateX(-50%); width: calc(100% - 3rem); box-sizing: border-box; padding: .8rem; background: #fff; color: #24292f; border: 2px solid #175b8c; box-shadow: 0 2px 8px #0002; max-width: 55rem; z-index: 3; }
+main { overflow-wrap: anywhere; }
+@media (max-width: 600px) { .analysis-figure { overflow-x: auto; } .analysis-svg { min-width: 680px; } .analysis-table-scroll { max-width: 100%; } }
+/* Keep comparison columns aligned; use a scroll region instead of stacked cells. */
+main code { white-space: normal; overflow-wrap: anywhere; }
+.analysis-table-scroll table { display: table; }
+.analysis-table-scroll thead { display: table-header-group; }
+.analysis-table-scroll tbody { display: table-row-group; }
+.analysis-table-scroll tr { display: table-row; }
+.analysis-table-scroll th, .analysis-table-scroll td { display: table-cell; width: auto; }
+.analysis-table-scroll td::before { display: none; }
