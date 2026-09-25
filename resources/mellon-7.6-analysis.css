@@ -14,5 +14,5 @@ main code { white-space: normal; overflow-wrap: anywhere; }
 .analysis-table-scroll thead { display: table-header-group; }
 .analysis-table-scroll tbody { display: table-row-group; }
 .analysis-table-scroll tr { display: table-row; }
-.analysis-table-scroll th, .analysis-table-scroll td { display: table-cell; width: auto; }
+.analysis-table-scroll th, .analysis-table-scroll td { display: table-cell; width: auto !important; }
 .analysis-table-scroll td::before { display: none; }

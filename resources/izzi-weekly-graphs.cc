@@ -24,8 +24,8 @@ double ceiling(double value) {
   const double base=std::pow(10.,std::floor(std::log10(value)));
   return std::ceil(value/base*2)/2*base;
 }
-// Generator convention: follow the animation Amazon Prime Video subpage.
-// https://alpha60-devops.github.io/alpha60-results-animation/docs/amazon_prime_video.html
+// Generator convention: follow the animation Disney+ subpage.
+// https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html
 // Use native Izzi plates and put media-object names ON their lines (12pt
 // Atkinson Hyperlegible, right aligned); never add a separate series legend.
 // Standard 1920 x 1080 Izzi plates, matching Alpha60 meta-collection graphs.
@@ -81,12 +81,15 @@ void render_standard(const rapidjson::Document& doc, const char* destination) {
       const auto& series=panel["series"][j];
       const style stroke={parse_color(series["color"].GetString()),0,parse_color(series["color"].GetString()),1,2.5};
       graph_rstate state{select::vector,"panel-"+std::to_string(i)+"-series-"+std::to_string(j),
-        plate,chart_line_style_1,"Weeks","2026 adjusted weight","","",stroke,
+        plate,chart_line_style_1,doc["xlabel"].GetString(),panel["ylabel"].GetString(),"","",stroke,
         {"",marker_shape::none,0,series["dash"].GetString(),"","round",""},{0,0},"",""};
       vrange points;
       for(const auto& p:series["points"].GetArray())points.push_back({p["x"].GetDouble(),p["y"].GetDouble()/maximum*100000000});
       if(points.empty())throw std::runtime_error("empty worldwide series");
-      out.add_raw("<g data-series=\""+escape_xml_attribute(series["name"].GetString())+"\">");
+      out.add_raw("<g class=\"izzi-line-series\" tabindex=\"0\" role=\"group\" aria-label=\""+
+        escape_xml_attribute(series["name"].GetString())+"\" data-series=\""+
+        escape_xml_attribute(series["name"].GetString())+"\" data-collection-key=\""+
+        escape_xml_attribute(series.HasMember("collection_key")?series["collection_key"].GetString():series["name"].GetString())+"\">");
       vrange segment;
       auto flush=[&](){if(!segment.empty()){out.add_element(make_line_graph(segment,state,xrange,draw_yrange));segment.clear();}};
       for(const auto& p:points) {
@@ -143,7 +146,7 @@ int main(int argc,char** argv) {
   if(argc!=3)return 2;
   std::ifstream input(argv[1]);string raw((std::istreambuf_iterator<char>(input)),{});
   rapidjson::Document doc;doc.Parse(raw.c_str());if(doc.HasParseError())throw std::runtime_error("invalid chart JSON");
-  if(doc.HasMember("layout") && doc["layout"]=="izzi-standard") {
+  if(!doc.HasMember("layout") || doc["layout"]=="izzi-standard") {
     render_standard(doc,argv[2]);return 0;
   }
   using namespace svg;

@@ -1,9 +1,14 @@
 {
   "renderer": {
     "library": "Izzi",
+    "default_layout": "izzi-standard",
+    "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+    "interaction": "izzi-weekly-graph-hover.js",
     "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
     "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
-    "renderer_sha256": "f0c977a313a58f2b04099b0069fcf38ab1fe36af449684c6a3bfb58433aefcd1",
+    "renderer_sha256": "f9e436fcd5cbda6b59a9fe0b478bed55d595af46d1dd0e26fe8536861efa669f",
+    "wrapper_sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a",
+    "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
     "functions": [
       "svg::make_line_graph",
       "svg::make_line_graph_annotations",
@@ -2351,12 +2356,12 @@
     },
     "mellon-7.6-pitt-bear-compare-world-weekly-itu-2026": {
       "title": "Worldwide weekly circulation",
-      "subtitle": "Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–10",
+      "subtitle": "Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–26",
       "accessible_title": "Weekly worldwide weights at the 2026 Internet-user scale",
-      "description": "Standard Izzi C++ weekly graphs with media-object names directly on the lines. All six Pitt/Bear objects; separate downloader and uploader scales. Media-object names appear directly on their lines; no separate legend.",
+      "description": "Izzi native weekly lines. Separate downloader and uploader scales. Not unique viewers. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
-      "xmax": 10,
+      "xmax": 26,
       "ticks": [
         [
           1,
@@ -2397,14 +2402,78 @@
         [
           10,
           "10"
+        ],
+        [
+          11,
+          "11"
+        ],
+        [
+          12,
+          "12"
+        ],
+        [
+          13,
+          "13"
+        ],
+        [
+          14,
+          "14"
+        ],
+        [
+          15,
+          "15"
+        ],
+        [
+          16,
+          "16"
+        ],
+        [
+          17,
+          "17"
+        ],
+        [
+          18,
+          "18"
+        ],
+        [
+          19,
+          "19"
+        ],
+        [
+          20,
+          "20"
+        ],
+        [
+          21,
+          "21"
+        ],
+        [
+          22,
+          "22"
+        ],
+        [
+          23,
+          "23"
+        ],
+        [
+          24,
+          "24"
+        ],
+        [
+          25,
+          "25"
+        ],
+        [
+          26,
+          "26"
         ]
       ],
-      "xlabel": "Elapsed sampling week (seven-day interval)",
+      "xlabel": "WEEKS",
       "panels": [
         {
           "title": "Worldwide downloaders",
           "unit": "weight",
-          "ylabel": "2026 adjusted weight",
+          "ylabel": "DOWNLOADERS",
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -2460,10 +2529,90 @@
                   "x": 10,
                   "y": 3087203.0,
                   "tooltip": "The Pitt 201–203 · worldwide downloaders · week 10 · 2026-03-13-to-2026-03-19 · 3,087,203.00 adjusted weight"
+                },
+                {
+                  "x": 11,
+                  "y": 3226319.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 11 · 2026-03-20-to-2026-03-26 · 3,226,319.00 adjusted weight"
+                },
+                {
+                  "x": 12,
+                  "y": 3412743.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 12 · 2026-03-27-to-2026-04-02 · 3,412,743.00 adjusted weight"
+                },
+                {
+                  "x": 13,
+                  "y": 3482858.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 13 · 2026-04-03-to-2026-04-09 · 3,482,858.00 adjusted weight"
+                },
+                {
+                  "x": 14,
+                  "y": 3145021.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 14 · 2026-04-10-to-2026-04-16 · 3,145,021.00 adjusted weight"
+                },
+                {
+                  "x": 15,
+                  "y": 3020871.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 15 · 2026-04-17-to-2026-04-23 · 3,020,871.00 adjusted weight"
+                },
+                {
+                  "x": 16,
+                  "y": 2882340.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 16 · 2026-04-24-to-2026-04-30 · 2,882,340.00 adjusted weight"
+                },
+                {
+                  "x": 17,
+                  "y": 2883945.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 17 · 2026-05-01-to-2026-05-07 · 2,883,945.00 adjusted weight"
+                },
+                {
+                  "x": 18,
+                  "y": 2893588.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 18 · 2026-05-08-to-2026-05-14 · 2,893,588.00 adjusted weight"
+                },
+                {
+                  "x": 19,
+                  "y": 3208072.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 19 · 2026-05-15-to-2026-05-21 · 3,208,072.00 adjusted weight"
+                },
+                {
+                  "x": 20,
+                  "y": 3208083.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 20 · 2026-05-22-to-2026-05-28 · 3,208,083.00 adjusted weight"
+                },
+                {
+                  "x": 21,
+                  "y": 3215341.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 21 · 2026-05-29-to-2026-06-04 · 3,215,341.00 adjusted weight"
+                },
+                {
+                  "x": 22,
+                  "y": 2647433.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 22 · 2026-06-05-to-2026-06-11 · 2,647,433.00 adjusted weight"
+                },
+                {
+                  "x": 23,
+                  "y": 3286805.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 23 · 2026-06-12-to-2026-06-18 · 3,286,805.00 adjusted weight"
+                },
+                {
+                  "x": 24,
+                  "y": 3446773.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 24 · 2026-06-19-to-2026-06-25 · 3,446,773.00 adjusted weight"
+                },
+                {
+                  "x": 25,
+                  "y": 3184608.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 25 · 2026-06-26-to-2026-07-02 · 3,184,608.00 adjusted weight"
+                },
+                {
+                  "x": 26,
+                  "y": 2462422.0,
+                  "tooltip": "The Pitt 201–203 · worldwide downloaders · week 26 · 2026-07-03-to-2026-07-09-partial · 2,462,422.00 adjusted weight"
                 }
               ],
-              "line_label": "pitt-201",
-              "collection_key": "pitt-201"
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -2519,10 +2668,75 @@
                   "x": 10,
                   "y": 2901241.0,
                   "tooltip": "The Pitt 213–215 · worldwide downloaders · week 10 · 2026-06-05-to-2026-06-11 · 2,901,241.00 adjusted weight"
+                },
+                {
+                  "x": 11,
+                  "y": 3586597.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 11 · 2026-06-12-to-2026-06-18 · 3,586,597.00 adjusted weight"
+                },
+                {
+                  "x": 12,
+                  "y": 3735541.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 12 · 2026-06-19-to-2026-06-25 · 3,735,541.00 adjusted weight"
+                },
+                {
+                  "x": 13,
+                  "y": 3487662.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 13 · 2026-06-26-to-2026-07-02 · 3,487,662.00 adjusted weight"
+                },
+                {
+                  "x": 14,
+                  "y": 3242048.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 14 · 2026-07-03-to-2026-07-09 · 3,242,048.00 adjusted weight"
+                },
+                {
+                  "x": 15,
+                  "y": 3222138.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 15 · 2026-07-10-to-2026-07-16 · 3,222,138.00 adjusted weight"
+                },
+                {
+                  "x": 16,
+                  "y": 3115666.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 16 · 2026-07-17-to-2026-07-23 · 3,115,666.00 adjusted weight"
+                },
+                {
+                  "x": 17,
+                  "y": 3178901.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 17 · 2026-07-24-to-2026-07-30 · 3,178,901.00 adjusted weight"
+                },
+                {
+                  "x": 18,
+                  "y": 3095259.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 18 · 2026-07-31-to-2026-08-06 · 3,095,259.00 adjusted weight"
+                },
+                {
+                  "x": 19,
+                  "y": 2908782.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 19 · 2026-08-07-to-2026-08-13 · 2,908,782.00 adjusted weight"
+                },
+                {
+                  "x": 20,
+                  "y": 2749965.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 20 · 2026-08-14-to-2026-08-20 · 2,749,965.00 adjusted weight"
+                },
+                {
+                  "x": 21,
+                  "y": 2600733.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 21 · 2026-08-21-to-2026-08-27 · 2,600,733.00 adjusted weight"
+                },
+                {
+                  "x": 22,
+                  "y": 2519071.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 22 · 2026-08-28-to-2026-09-03 · 2,519,071.00 adjusted weight"
+                },
+                {
+                  "x": 23,
+                  "y": 2399926.0,
+                  "tooltip": "The Pitt 213–215 · worldwide downloaders · week 23 · 2026-09-04-to-2026-09-10 · 2,399,926.00 adjusted weight"
                 }
               ],
-              "line_label": "pitt-213",
-              "collection_key": "pitt-213"
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -2578,10 +2792,15 @@
                   "x": 10,
                   "y": 3263467.0,
                   "tooltip": "The Bear S05 · worldwide downloaders · week 10 · 2026-08-28-to-2026-09-03 · 3,263,467.00 adjusted weight"
+                },
+                {
+                  "x": 11,
+                  "y": 3063732.0,
+                  "tooltip": "The Bear S05 · worldwide downloaders · week 11 · 2026-09-04-to-2026-09-10 · 3,063,732.00 adjusted weight"
                 }
               ],
-              "line_label": "bear-05",
-              "collection_key": "bear-05"
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -2637,10 +2856,90 @@
                   "x": 10,
                   "y": 807586.9074074073,
                   "tooltip": "The Bear S02 · worldwide downloaders · week 10 · 2023-08-24-to-2023-08-30 · 807,586.91 adjusted weight"
+                },
+                {
+                  "x": 11,
+                  "y": 796279.3148148147,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 11 · 2023-08-31-to-2023-09-06 · 796,279.31 adjusted weight"
+                },
+                {
+                  "x": 12,
+                  "y": 1087521.5555555555,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 12 · 2023-09-07-to-2023-09-13 · 1,087,521.56 adjusted weight"
+                },
+                {
+                  "x": 13,
+                  "y": 1166305.3148148148,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 13 · 2023-09-14-to-2023-09-20 · 1,166,305.31 adjusted weight"
+                },
+                {
+                  "x": 14,
+                  "y": 1068137.111111111,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 14 · 2023-09-21-to-2023-09-27 · 1,068,137.11 adjusted weight"
+                },
+                {
+                  "x": 15,
+                  "y": 1116602.7407407407,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 15 · 2023-09-28-to-2023-10-04 · 1,116,602.74 adjusted weight"
+                },
+                {
+                  "x": 16,
+                  "y": 1089428.3703703703,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 16 · 2023-10-05-to-2023-10-11 · 1,089,428.37 adjusted weight"
+                },
+                {
+                  "x": 17,
+                  "y": 1065149.2407407407,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 17 · 2023-10-12-to-2023-10-18 · 1,065,149.24 adjusted weight"
+                },
+                {
+                  "x": 18,
+                  "y": 1016463.3333333333,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 18 · 2023-10-19-to-2023-10-25 · 1,016,463.33 adjusted weight"
+                },
+                {
+                  "x": 19,
+                  "y": 1618555.9259259258,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 19 · 2023-10-26-to-2023-11-01 · 1,618,555.93 adjusted weight"
+                },
+                {
+                  "x": 20,
+                  "y": 1696892.3518518517,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 20 · 2023-11-02-to-2023-11-08 · 1,696,892.35 adjusted weight"
+                },
+                {
+                  "x": 21,
+                  "y": 1708465.4074074072,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 21 · 2023-11-09-to-2023-11-15 · 1,708,465.41 adjusted weight"
+                },
+                {
+                  "x": 22,
+                  "y": 1844376.7962962962,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 22 · 2023-11-16-to-2023-11-22 · 1,844,376.80 adjusted weight"
+                },
+                {
+                  "x": 23,
+                  "y": 1744912.9074074072,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 23 · 2023-11-23-to-2023-11-29 · 1,744,912.91 adjusted weight"
+                },
+                {
+                  "x": 24,
+                  "y": 1438416.148148148,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 24 · 2023-11-30-to-2023-12-06 · 1,438,416.15 adjusted weight"
+                },
+                {
+                  "x": 25,
+                  "y": 1812987.7777777775,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 25 · 2023-12-07-to-2023-12-13 · 1,812,987.78 adjusted weight"
+                },
+                {
+                  "x": 26,
+                  "y": 1631475.4999999998,
+                  "tooltip": "The Bear S02 · worldwide downloaders · week 26 · 2023-12-14-to-2023-12-20 · 1,631,475.50 adjusted weight"
                 }
               ],
-              "line_label": "bear-02",
-              "collection_key": "bear-02"
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -2696,10 +2995,90 @@
                   "x": 10,
                   "y": 2146950.4545454546,
                   "tooltip": "The Bear S03 · worldwide downloaders · week 10 · 2024-08-29-to-2024-09-04 · 2,146,950.45 adjusted weight"
+                },
+                {
+                  "x": 11,
+                  "y": 2172399.654545455,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 11 · 2024-09-05-to-2024-09-11 · 2,172,399.65 adjusted weight"
+                },
+                {
+                  "x": 12,
+                  "y": 2097991.8545454545,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 12 · 2024-09-12-to-2024-09-18 · 2,097,991.85 adjusted weight"
+                },
+                {
+                  "x": 13,
+                  "y": 2120141.5090909093,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 13 · 2024-09-19-to-2024-09-25 · 2,120,141.51 adjusted weight"
+                },
+                {
+                  "x": 14,
+                  "y": 1530868.2,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 14 · 2024-09-26-to-2024-10-02-partial · 1,530,868.20 adjusted weight"
+                },
+                {
+                  "x": 15,
+                  "y": 2065860.3818181818,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 15 · 2024-10-03-to-2024-10-09 · 2,065,860.38 adjusted weight"
+                },
+                {
+                  "x": 16,
+                  "y": 2006063.7454545456,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 16 · 2024-10-10-to-2024-10-16 · 2,006,063.75 adjusted weight"
+                },
+                {
+                  "x": 17,
+                  "y": 1974777.4000000001,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 17 · 2024-10-17-to-2024-10-23 · 1,974,777.40 adjusted weight"
+                },
+                {
+                  "x": 18,
+                  "y": 1931837.8363636364,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 18 · 2024-10-24-to-2024-10-30 · 1,931,837.84 adjusted weight"
+                },
+                {
+                  "x": 19,
+                  "y": 1851243.5272727273,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 19 · 2024-10-31-to-2024-11-06 · 1,851,243.53 adjusted weight"
+                },
+                {
+                  "x": 20,
+                  "y": 1761462.6181818182,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 20 · 2024-11-07-to-2024-11-13 · 1,761,462.62 adjusted weight"
+                },
+                {
+                  "x": 21,
+                  "y": 1818640.690909091,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 21 · 2024-11-14-to-2024-11-20 · 1,818,640.69 adjusted weight"
+                },
+                {
+                  "x": 22,
+                  "y": 1968633.0363636364,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 22 · 2024-11-21-to-2024-11-27 · 1,968,633.04 adjusted weight"
+                },
+                {
+                  "x": 23,
+                  "y": 2188469.272727273,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 23 · 2024-11-28-to-2024-12-04 · 2,188,469.27 adjusted weight"
+                },
+                {
+                  "x": 24,
+                  "y": 1823894.4545454546,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 24 · 2024-12-05-to-2024-12-11 · 1,823,894.45 adjusted weight"
+                },
+                {
+                  "x": 25,
+                  "y": 1984796.9272727272,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 25 · 2024-12-12-to-2024-12-18 · 1,984,796.93 adjusted weight"
+                },
+                {
+                  "x": 26,
+                  "y": 2231463.181818182,
+                  "tooltip": "The Bear S03 · worldwide downloaders · week 26 · 2024-12-19-to-2024-12-25 · 2,231,463.18 adjusted weight"
                 }
               ],
-              "line_label": "bear-03",
-              "collection_key": "bear-03"
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -2755,17 +3134,97 @@
                   "x": 10,
                   "y": 2921030.75,
                   "tooltip": "The Bear S04 · worldwide downloaders · week 10 · 2025-08-28-to-2025-09-03 · 2,921,030.75 adjusted weight"
+                },
+                {
+                  "x": 11,
+                  "y": 2671163.5666666664,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 11 · 2025-09-04-to-2025-09-10 · 2,671,163.57 adjusted weight"
+                },
+                {
+                  "x": 12,
+                  "y": 2615482.7666666666,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 12 · 2025-09-11-to-2025-09-17 · 2,615,482.77 adjusted weight"
+                },
+                {
+                  "x": 13,
+                  "y": 2960084.983333333,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 13 · 2025-09-18-to-2025-09-24 · 2,960,084.98 adjusted weight"
+                },
+                {
+                  "x": 14,
+                  "y": 3086225.8666666667,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 14 · 2025-09-25-to-2025-10-01 · 3,086,225.87 adjusted weight"
+                },
+                {
+                  "x": 15,
+                  "y": 3100685.9166666665,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 15 · 2025-10-02-to-2025-10-08 · 3,100,685.92 adjusted weight"
+                },
+                {
+                  "x": 16,
+                  "y": 3329313.9166666665,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 16 · 2025-10-09-to-2025-10-15 · 3,329,313.92 adjusted weight"
+                },
+                {
+                  "x": 17,
+                  "y": 3053284.8499999996,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 17 · 2025-10-16-to-2025-10-22 · 3,053,284.85 adjusted weight"
+                },
+                {
+                  "x": 18,
+                  "y": 3239169.1333333333,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 18 · 2025-10-23-to-2025-10-29 · 3,239,169.13 adjusted weight"
+                },
+                {
+                  "x": 19,
+                  "y": 2775665.7166666663,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 19 · 2025-10-30-to-2025-11-05 · 2,775,665.72 adjusted weight"
+                },
+                {
+                  "x": 20,
+                  "y": 3014517.3166666664,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 20 · 2025-11-06-to-2025-11-12 · 3,014,517.32 adjusted weight"
+                },
+                {
+                  "x": 21,
+                  "y": 2609426.4833333334,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 21 · 2025-11-13-to-2025-11-19 · 2,609,426.48 adjusted weight"
+                },
+                {
+                  "x": 22,
+                  "y": 3106961.8,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 22 · 2025-11-20-to-2025-11-26 · 3,106,961.80 adjusted weight"
+                },
+                {
+                  "x": 23,
+                  "y": 3445883.9,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 23 · 2025-11-27-to-2025-12-03 · 3,445,883.90 adjusted weight"
+                },
+                {
+                  "x": 24,
+                  "y": 3623992.7166666663,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 24 · 2025-12-04-to-2025-12-10 · 3,623,992.72 adjusted weight"
+                },
+                {
+                  "x": 25,
+                  "y": 3961904.25,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 25 · 2025-12-11-to-2025-12-17 · 3,961,904.25 adjusted weight"
+                },
+                {
+                  "x": 26,
+                  "y": 3308147.933333333,
+                  "tooltip": "The Bear S04 · worldwide downloaders · week 26 · 2025-12-18-to-2025-12-24 · 3,308,147.93 adjusted weight"
                 }
               ],
-              "line_label": "bear-04",
-              "collection_key": "bear-04"
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         },
         {
           "title": "Worldwide uploaders",
           "unit": "weight",
-          "ylabel": "2026 adjusted weight",
+          "ylabel": "UPLOADERS",
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -2821,10 +3280,90 @@
                   "x": 10,
                   "y": 134538.0,
                   "tooltip": "The Pitt 201–203 · worldwide uploaders · week 10 · 2026-03-13-to-2026-03-19 · 134,538.00 adjusted weight"
+                },
+                {
+                  "x": 11,
+                  "y": 139280.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 11 · 2026-03-20-to-2026-03-26 · 139,280.00 adjusted weight"
+                },
+                {
+                  "x": 12,
+                  "y": 168636.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 12 · 2026-03-27-to-2026-04-02 · 168,636.00 adjusted weight"
+                },
+                {
+                  "x": 13,
+                  "y": 180060.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 13 · 2026-04-03-to-2026-04-09 · 180,060.00 adjusted weight"
+                },
+                {
+                  "x": 14,
+                  "y": 183651.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 14 · 2026-04-10-to-2026-04-16 · 183,651.00 adjusted weight"
+                },
+                {
+                  "x": 15,
+                  "y": 182480.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 15 · 2026-04-17-to-2026-04-23 · 182,480.00 adjusted weight"
+                },
+                {
+                  "x": 16,
+                  "y": 148032.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 16 · 2026-04-24-to-2026-04-30 · 148,032.00 adjusted weight"
+                },
+                {
+                  "x": 17,
+                  "y": 133921.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 17 · 2026-05-01-to-2026-05-07 · 133,921.00 adjusted weight"
+                },
+                {
+                  "x": 18,
+                  "y": 123689.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 18 · 2026-05-08-to-2026-05-14 · 123,689.00 adjusted weight"
+                },
+                {
+                  "x": 19,
+                  "y": 110477.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 19 · 2026-05-15-to-2026-05-21 · 110,477.00 adjusted weight"
+                },
+                {
+                  "x": 20,
+                  "y": 103703.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 20 · 2026-05-22-to-2026-05-28 · 103,703.00 adjusted weight"
+                },
+                {
+                  "x": 21,
+                  "y": 93801.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 21 · 2026-05-29-to-2026-06-04 · 93,801.00 adjusted weight"
+                },
+                {
+                  "x": 22,
+                  "y": 88728.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 22 · 2026-06-05-to-2026-06-11 · 88,728.00 adjusted weight"
+                },
+                {
+                  "x": 23,
+                  "y": 82293.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 23 · 2026-06-12-to-2026-06-18 · 82,293.00 adjusted weight"
+                },
+                {
+                  "x": 24,
+                  "y": 86408.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 24 · 2026-06-19-to-2026-06-25 · 86,408.00 adjusted weight"
+                },
+                {
+                  "x": 25,
+                  "y": 77160.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 25 · 2026-06-26-to-2026-07-02 · 77,160.00 adjusted weight"
+                },
+                {
+                  "x": 26,
+                  "y": 60707.0,
+                  "tooltip": "The Pitt 201–203 · worldwide uploaders · week 26 · 2026-07-03-to-2026-07-09-partial · 60,707.00 adjusted weight"
                 }
               ],
-              "line_label": "pitt-201",
-              "collection_key": "pitt-201"
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -2880,10 +3419,75 @@
                   "x": 10,
                   "y": 158792.0,
                   "tooltip": "The Pitt 213–215 · worldwide uploaders · week 10 · 2026-06-05-to-2026-06-11 · 158,792.00 adjusted weight"
+                },
+                {
+                  "x": 11,
+                  "y": 146967.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 11 · 2026-06-12-to-2026-06-18 · 146,967.00 adjusted weight"
+                },
+                {
+                  "x": 12,
+                  "y": 138226.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 12 · 2026-06-19-to-2026-06-25 · 138,226.00 adjusted weight"
+                },
+                {
+                  "x": 13,
+                  "y": 130300.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 13 · 2026-06-26-to-2026-07-02 · 130,300.00 adjusted weight"
+                },
+                {
+                  "x": 14,
+                  "y": 123616.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 14 · 2026-07-03-to-2026-07-09 · 123,616.00 adjusted weight"
+                },
+                {
+                  "x": 15,
+                  "y": 118389.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 15 · 2026-07-10-to-2026-07-16 · 118,389.00 adjusted weight"
+                },
+                {
+                  "x": 16,
+                  "y": 107494.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 16 · 2026-07-17-to-2026-07-23 · 107,494.00 adjusted weight"
+                },
+                {
+                  "x": 17,
+                  "y": 100686.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 17 · 2026-07-24-to-2026-07-30 · 100,686.00 adjusted weight"
+                },
+                {
+                  "x": 18,
+                  "y": 96810.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 18 · 2026-07-31-to-2026-08-06 · 96,810.00 adjusted weight"
+                },
+                {
+                  "x": 19,
+                  "y": 90493.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 19 · 2026-08-07-to-2026-08-13 · 90,493.00 adjusted weight"
+                },
+                {
+                  "x": 20,
+                  "y": 76646.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 20 · 2026-08-14-to-2026-08-20 · 76,646.00 adjusted weight"
+                },
+                {
+                  "x": 21,
+                  "y": 68233.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 21 · 2026-08-21-to-2026-08-27 · 68,233.00 adjusted weight"
+                },
+                {
+                  "x": 22,
+                  "y": 71015.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 22 · 2026-08-28-to-2026-09-03 · 71,015.00 adjusted weight"
+                },
+                {
+                  "x": 23,
+                  "y": 67829.0,
+                  "tooltip": "The Pitt 213–215 · worldwide uploaders · week 23 · 2026-09-04-to-2026-09-10 · 67,829.00 adjusted weight"
                 }
               ],
-              "line_label": "pitt-213",
-              "collection_key": "pitt-213"
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -2939,10 +3543,15 @@
                   "x": 10,
                   "y": 126993.0,
                   "tooltip": "The Bear S05 · worldwide uploaders · week 10 · 2026-08-28-to-2026-09-03 · 126,993.00 adjusted weight"
+                },
+                {
+                  "x": 11,
+                  "y": 115781.0,
+                  "tooltip": "The Bear S05 · worldwide uploaders · week 11 · 2026-09-04-to-2026-09-10 · 115,781.00 adjusted weight"
                 }
               ],
-              "line_label": "bear-05",
-              "collection_key": "bear-05"
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -2998,10 +3607,90 @@
                   "x": 10,
                   "y": 203221.49999999997,
                   "tooltip": "The Bear S02 · worldwide uploaders · week 10 · 2023-08-24-to-2023-08-30 · 203,221.50 adjusted weight"
+                },
+                {
+                  "x": 11,
+                  "y": 198336.98148148146,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 11 · 2023-08-31-to-2023-09-06 · 198,336.98 adjusted weight"
+                },
+                {
+                  "x": 12,
+                  "y": 192814.22222222222,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 12 · 2023-09-07-to-2023-09-13 · 192,814.22 adjusted weight"
+                },
+                {
+                  "x": 13,
+                  "y": 174201.3148148148,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 13 · 2023-09-14-to-2023-09-20 · 174,201.31 adjusted weight"
+                },
+                {
+                  "x": 14,
+                  "y": 165517.85185185182,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 14 · 2023-09-21-to-2023-09-27 · 165,517.85 adjusted weight"
+                },
+                {
+                  "x": 15,
+                  "y": 158367.2962962963,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 15 · 2023-09-28-to-2023-10-04 · 158,367.30 adjusted weight"
+                },
+                {
+                  "x": 16,
+                  "y": 144335.03703703702,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 16 · 2023-10-05-to-2023-10-11 · 144,335.04 adjusted weight"
+                },
+                {
+                  "x": 17,
+                  "y": 135728.38888888888,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 17 · 2023-10-12-to-2023-10-18 · 135,728.39 adjusted weight"
+                },
+                {
+                  "x": 18,
+                  "y": 132737.1296296296,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 18 · 2023-10-19-to-2023-10-25 · 132,737.13 adjusted weight"
+                },
+                {
+                  "x": 19,
+                  "y": 129026.29629629629,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 19 · 2023-10-26-to-2023-11-01 · 129,026.30 adjusted weight"
+                },
+                {
+                  "x": 20,
+                  "y": 125943.53703703702,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 20 · 2023-11-02-to-2023-11-08 · 125,943.54 adjusted weight"
+                },
+                {
+                  "x": 21,
+                  "y": 124496.48148148147,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 21 · 2023-11-09-to-2023-11-15 · 124,496.48 adjusted weight"
+                },
+                {
+                  "x": 22,
+                  "y": 115485.42592592591,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 22 · 2023-11-16-to-2023-11-22 · 115,485.43 adjusted weight"
+                },
+                {
+                  "x": 23,
+                  "y": 109412.53703703702,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 23 · 2023-11-23-to-2023-11-29 · 109,412.54 adjusted weight"
+                },
+                {
+                  "x": 24,
+                  "y": 100287.38888888888,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 24 · 2023-11-30-to-2023-12-06 · 100,287.39 adjusted weight"
+                },
+                {
+                  "x": 25,
+                  "y": 104460.24074074073,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 25 · 2023-12-07-to-2023-12-13 · 104,460.24 adjusted weight"
+                },
+                {
+                  "x": 26,
+                  "y": 106229.24074074073,
+                  "tooltip": "The Bear S02 · worldwide uploaders · week 26 · 2023-12-14-to-2023-12-20 · 106,229.24 adjusted weight"
                 }
               ],
-              "line_label": "bear-02",
-              "collection_key": "bear-02"
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -3057,10 +3746,90 @@
                   "x": 10,
                   "y": 220020.34545454546,
                   "tooltip": "The Bear S03 · worldwide uploaders · week 10 · 2024-08-29-to-2024-09-04 · 220,020.35 adjusted weight"
+                },
+                {
+                  "x": 11,
+                  "y": 217599.2,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 11 · 2024-09-05-to-2024-09-11 · 217,599.20 adjusted weight"
+                },
+                {
+                  "x": 12,
+                  "y": 232292.43636363637,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 12 · 2024-09-12-to-2024-09-18 · 232,292.44 adjusted weight"
+                },
+                {
+                  "x": 13,
+                  "y": 218666.14545454548,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 13 · 2024-09-19-to-2024-09-25 · 218,666.15 adjusted weight"
+                },
+                {
+                  "x": 14,
+                  "y": 160990.0909090909,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 14 · 2024-09-26-to-2024-10-02-partial · 160,990.09 adjusted weight"
+                },
+                {
+                  "x": 15,
+                  "y": 177841.6181818182,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 15 · 2024-10-03-to-2024-10-09 · 177,841.62 adjusted weight"
+                },
+                {
+                  "x": 16,
+                  "y": 160676.2181818182,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 16 · 2024-10-10-to-2024-10-16 · 160,676.22 adjusted weight"
+                },
+                {
+                  "x": 17,
+                  "y": 143890.1272727273,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 17 · 2024-10-17-to-2024-10-23 · 143,890.13 adjusted weight"
+                },
+                {
+                  "x": 18,
+                  "y": 136328.34545454546,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 18 · 2024-10-24-to-2024-10-30 · 136,328.35 adjusted weight"
+                },
+                {
+                  "x": 19,
+                  "y": 132230.25454545455,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 19 · 2024-10-31-to-2024-11-06 · 132,230.25 adjusted weight"
+                },
+                {
+                  "x": 20,
+                  "y": 118542.96363636364,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 20 · 2024-11-07-to-2024-11-13 · 118,542.96 adjusted weight"
+                },
+                {
+                  "x": 21,
+                  "y": 114851.90909090909,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 21 · 2024-11-14-to-2024-11-20 · 114,851.91 adjusted weight"
+                },
+                {
+                  "x": 22,
+                  "y": 109790.01818181819,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 22 · 2024-11-21-to-2024-11-27 · 109,790.02 adjusted weight"
+                },
+                {
+                  "x": 23,
+                  "y": 114421.58181818182,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 23 · 2024-11-28-to-2024-12-04 · 114,421.58 adjusted weight"
+                },
+                {
+                  "x": 24,
+                  "y": 95869.81818181819,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 24 · 2024-12-05-to-2024-12-11 · 95,869.82 adjusted weight"
+                },
+                {
+                  "x": 25,
+                  "y": 113552.05454545455,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 25 · 2024-12-12-to-2024-12-18 · 113,552.05 adjusted weight"
+                },
+                {
+                  "x": 26,
+                  "y": 98478.40000000001,
+                  "tooltip": "The Bear S03 · worldwide uploaders · week 26 · 2024-12-19-to-2024-12-25 · 98,478.40 adjusted weight"
                 }
               ],
-              "line_label": "bear-03",
-              "collection_key": "bear-03"
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -3116,10 +3885,90 @@
                   "x": 10,
                   "y": 266190.7833333333,
                   "tooltip": "The Bear S04 · worldwide uploaders · week 10 · 2025-08-28-to-2025-09-03 · 266,190.78 adjusted weight"
+                },
+                {
+                  "x": 11,
+                  "y": 213819.2333333333,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 11 · 2025-09-04-to-2025-09-10 · 213,819.23 adjusted weight"
+                },
+                {
+                  "x": 12,
+                  "y": 176431.31666666665,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 12 · 2025-09-11-to-2025-09-17 · 176,431.32 adjusted weight"
+                },
+                {
+                  "x": 13,
+                  "y": 172855.69999999998,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 13 · 2025-09-18-to-2025-09-24 · 172,855.70 adjusted weight"
+                },
+                {
+                  "x": 14,
+                  "y": 165698.36666666667,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 14 · 2025-09-25-to-2025-10-01 · 165,698.37 adjusted weight"
+                },
+                {
+                  "x": 15,
+                  "y": 168753.44999999998,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 15 · 2025-10-02-to-2025-10-08 · 168,753.45 adjusted weight"
+                },
+                {
+                  "x": 16,
+                  "y": 160701.44999999998,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 16 · 2025-10-09-to-2025-10-15 · 160,701.45 adjusted weight"
+                },
+                {
+                  "x": 17,
+                  "y": 151754.78333333333,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 17 · 2025-10-16-to-2025-10-22 · 151,754.78 adjusted weight"
+                },
+                {
+                  "x": 18,
+                  "y": 143303.23333333334,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 18 · 2025-10-23-to-2025-10-29 · 143,303.23 adjusted weight"
+                },
+                {
+                  "x": 19,
+                  "y": 128409.06666666667,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 19 · 2025-10-30-to-2025-11-05 · 128,409.07 adjusted weight"
+                },
+                {
+                  "x": 20,
+                  "y": 125842.99999999999,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 20 · 2025-11-06-to-2025-11-12 · 125,843.00 adjusted weight"
+                },
+                {
+                  "x": 21,
+                  "y": 118907.29999999999,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 21 · 2025-11-13-to-2025-11-19 · 118,907.30 adjusted weight"
+                },
+                {
+                  "x": 22,
+                  "y": 134209.15,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 22 · 2025-11-20-to-2025-11-26 · 134,209.15 adjusted weight"
+                },
+                {
+                  "x": 23,
+                  "y": 121848.51666666666,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 23 · 2025-11-27-to-2025-12-03 · 121,848.52 adjusted weight"
+                },
+                {
+                  "x": 24,
+                  "y": 108588.13333333333,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 24 · 2025-12-04-to-2025-12-10 · 108,588.13 adjusted weight"
+                },
+                {
+                  "x": 25,
+                  "y": 108848.4,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 25 · 2025-12-11-to-2025-12-17 · 108,848.40 adjusted weight"
+                },
+                {
+                  "x": 26,
+                  "y": 100563.58333333333,
+                  "tooltip": "The Bear S04 · worldwide uploaders · week 26 · 2025-12-18-to-2025-12-24 · 100,563.58 adjusted weight"
                 }
               ],
-              "line_label": "bear-04",
-              "collection_key": "bear-04"
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         }
@@ -3134,7 +3983,7 @@
       "columns": 1,
       "xmin": 1,
       "xmax": 10,
-      "xlabel": "Elapsed sampling week (seven-day interval)",
+      "xlabel": "WEEKS",
       "ticks": [
         [
           1,
@@ -4275,7 +5124,7 @@
       "columns": 1,
       "xmin": 1,
       "xmax": 10,
-      "xlabel": "Elapsed sampling week (seven-day interval)",
+      "xlabel": "WEEKS",
       "ticks": [
         [
           1,
@@ -4322,7 +5171,7 @@
         {
           "title": "India",
           "unit": "weight",
-          "ylabel": "2026 adjusted weight",
+          "ylabel": "DOWNLOADERS",
           "y_max": 200000,
           "series": [
             {
@@ -4684,7 +5533,7 @@
         {
           "title": "Philippines",
           "unit": "weight",
-          "ylabel": "2026 adjusted weight",
+          "ylabel": "DOWNLOADERS",
           "y_max": 200000,
           "series": [
             {
@@ -5046,7 +5895,7 @@
         {
           "title": "Australia",
           "unit": "weight",
-          "ylabel": "2026 adjusted weight",
+          "ylabel": "DOWNLOADERS",
           "y_max": 200000,
           "series": [
             {
@@ -5416,7 +6265,7 @@
       "columns": 1,
       "xmin": 1,
       "xmax": 10,
-      "xlabel": "Elapsed sampling week (seven-day interval)",
+      "xlabel": "WEEKS",
       "ticks": [
         [
           1,
@@ -5463,7 +6312,7 @@
         {
           "title": "India",
           "unit": "weight",
-          "ylabel": "2026 adjusted weight",
+          "ylabel": "UPLOADERS",
           "y_max": 100000,
           "series": [
             {
@@ -5825,7 +6674,7 @@
         {
           "title": "Philippines",
           "unit": "weight",
-          "ylabel": "2026 adjusted weight",
+          "ylabel": "UPLOADERS",
           "y_max": 100000,
           "series": [
             {
@@ -6187,7 +7036,7 @@
         {
           "title": "Australia",
           "unit": "weight",
-          "ylabel": "2026 adjusted weight",
+          "ylabel": "UPLOADERS",
           "y_max": 100000,
           "series": [
             {
@@ -6557,7 +7406,7 @@
       "columns": 1,
       "xmin": 1,
       "xmax": 26,
-      "xlabel": "Elapsed sampling week (seven-day interval)",
+      "xlabel": "WEEKS",
       "ticks": [
         [
           1,
@@ -8852,7 +9701,7 @@
       "columns": 1,
       "xmin": 1,
       "xmax": 26,
-      "xlabel": "Elapsed sampling week (seven-day interval)",
+      "xlabel": "WEEKS",
       "ticks": [
         [
           1,
@@ -8883,7 +9732,7 @@
         {
           "title": "India",
           "unit": "weight",
-          "ylabel": "2026 adjusted weight",
+          "ylabel": "DOWNLOADERS",
           "y_max": 200000,
           "series": [
             {
@@ -9635,7 +10484,7 @@
         {
           "title": "Philippines",
           "unit": "weight",
-          "ylabel": "2026 adjusted weight",
+          "ylabel": "DOWNLOADERS",
           "y_max": 200000,
           "series": [
             {
@@ -10387,7 +11236,7 @@
         {
           "title": "Australia",
           "unit": "weight",
-          "ylabel": "2026 adjusted weight",
+          "ylabel": "DOWNLOADERS",
           "y_max": 200000,
           "series": [
             {
@@ -20222,6 +21071,211 @@
         }
       ],
       "layout": "izzi-standard"
+    }
+  },
+  "chart_renderers": {
+    "mellon-7.6-pair-original-weekly": {
+      "library": "Izzi",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f0c977a313a58f2b04099b0069fcf38ab1fe36af449684c6a3bfb58433aefcd1",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-pair-action-films-weekly": {
+      "library": "Izzi",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f0c977a313a58f2b04099b0069fcf38ab1fe36af449684c6a3bfb58433aefcd1",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-pair-beef-lazarus-weekly": {
+      "library": "Izzi",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f0c977a313a58f2b04099b0069fcf38ab1fe36af449684c6a3bfb58433aefcd1",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-pitt-bear-compare-world-weekly-itu-2026": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f9e436fcd5cbda6b59a9fe0b478bed55d595af46d1dd0e26fe8536861efa669f",
+      "wrapper_sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-pitt-bear-compare-weekly": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f9e436fcd5cbda6b59a9fe0b478bed55d595af46d1dd0e26fe8536861efa669f",
+      "wrapper_sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-pitt-bear-compare-weekly-itu-2026": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f9e436fcd5cbda6b59a9fe0b478bed55d595af46d1dd0e26fe8536861efa669f",
+      "wrapper_sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f9e436fcd5cbda6b59a9fe0b478bed55d595af46d1dd0e26fe8536861efa669f",
+      "wrapper_sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-pitt-bear-extended-shares": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f9e436fcd5cbda6b59a9fe0b478bed55d595af46d1dd0e26fe8536861efa669f",
+      "wrapper_sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-pitt-bear-extended-itu-2026": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f9e436fcd5cbda6b59a9fe0b478bed55d595af46d1dd0e26fe8536861efa669f",
+      "wrapper_sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-pitt-bear-calendar": {
+      "library": "Izzi",
+      "default_layout": "izzi-standard",
+      "reference": "https://alpha60-devops.github.io/alpha60-results-animation/docs/disney_plus.html",
+      "interaction": "izzi-weekly-graph-hover.js",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f9e436fcd5cbda6b59a9fe0b478bed55d595af46d1dd0e26fe8536861efa669f",
+      "wrapper_sha256": "baa36f1dbcc9f1662511b32c9f1c3fbf80b8b89b07b0de068ec0cea03c75ce7a",
+      "interaction_sha256": "eef76202e9f2f05c2732b5b25efba25a9e4ce23bbfcc051a55389d3738f5ed15",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-godzilla-world-weekly-itu-2026": {
+      "library": "Izzi",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f0c977a313a58f2b04099b0069fcf38ab1fe36af449684c6a3bfb58433aefcd1",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-godzilla-weekly": {
+      "library": "Izzi",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f0c977a313a58f2b04099b0069fcf38ab1fe36af449684c6a3bfb58433aefcd1",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-godzilla-weekly-itu-2026": {
+      "library": "Izzi",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f0c977a313a58f2b04099b0069fcf38ab1fe36af449684c6a3bfb58433aefcd1",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
+    },
+    "mellon-7.6-godzilla-weekly-itu-2026-uploaders": {
+      "library": "Izzi",
+      "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+      "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
+      "renderer_sha256": "f0c977a313a58f2b04099b0069fcf38ab1fe36af449684c6a3bfb58433aefcd1",
+      "functions": [
+        "svg::make_line_graph",
+        "svg::make_line_graph_annotations",
+        "svg::transform_to_graph_points",
+        "svg::make_marker_instance"
+      ]
     }
   }
 }

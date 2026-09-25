@@ -17,8 +17,8 @@
  <rect width="100%" height="100%" fill="white" /> <g data-izzi-layout="standard" transform="translate(0 0)"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-annotations-5">
 <text x="960.000000" y="126.000000" font-family="Atkinson Hyperlegible" font-size="26.000000pt" text-anchor="middle" text-align="center" font-weight="600" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> India · Weekly country uploaders</text>
  <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-axes-lines-7">
-<text x="960.000000" y="1007.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> ELAPSED SAMPLING WEEK (SEVEN-DAY INTERVAL)</text>
-<text x="73.000000" y="540.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="500" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5" transform="rotate(-90,73,540)"> 2026 ADJUSTED WEIGHT</text>
+<text x="960.000000" y="1007.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> WEEKS</text>
+<text x="73.000000" y="540.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="500" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5" transform="rotate(-90,73,540)"> UPLOADERS</text>
 <line x1="200.000000" y1="880.000000" x2="1720.000000" y2="880.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
 <line x1="200.000000" y1="880.000000" x2="200.000000" y2="200.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -132,280 +132,280 @@
  </g>
  </g>
 <text x="960.000000" y="163.000000" font-family="Atkinson Hyperlegible" font-size="19.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–10</text>
- <g data-series="The Pitt 201–203"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-0-series-0-119">
+ <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Pitt 201–203" data-series="The Pitt 201–203" data-collection-key="pitt-201"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-0-series-0-119">
 <polyline points="200,869.773 368.889,862.143 537.778,858.906 706.667,865.38 875.556,866.366 1044.44,866.441 1213.33,870.738 1382.22,870.222 1551.11,870.092 1720,869.317 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <circle cx="200.000000" cy="869.772800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="200.000000" cy="869.772800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · India uploaders · week 1 · 2026-01-09-to-2026-01-15-partial · 1,504.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · India uploaders · week 1 · 2026-01-09-to-2026-01-15-partial · 1,504.000 adjusted weight">
 <title>
 The Pitt 201–203 · India uploaders · week 1 · 2026-01-09-to-2026-01-15-partial · 1,504.000 adjusted weight
 </title>
  </circle>
- <circle cx="368.888889" cy="862.143200" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="368.888889" cy="862.143200" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · India uploaders · week 2 · 2026-01-16-to-2026-01-22 · 2,626.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · India uploaders · week 2 · 2026-01-16-to-2026-01-22 · 2,626.000 adjusted weight">
 <title>
 The Pitt 201–203 · India uploaders · week 2 · 2026-01-16-to-2026-01-22 · 2,626.000 adjusted weight
 </title>
  </circle>
- <circle cx="537.777778" cy="858.906400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="537.777778" cy="858.906400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · India uploaders · week 3 · 2026-01-23-to-2026-01-29 · 3,102.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · India uploaders · week 3 · 2026-01-23-to-2026-01-29 · 3,102.000 adjusted weight">
 <title>
 The Pitt 201–203 · India uploaders · week 3 · 2026-01-23-to-2026-01-29 · 3,102.000 adjusted weight
 </title>
  </circle>
- <circle cx="706.666667" cy="865.380000" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="706.666667" cy="865.380000" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · India uploaders · week 4 · 2026-01-30-to-2026-02-05 · 2,150.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · India uploaders · week 4 · 2026-01-30-to-2026-02-05 · 2,150.000 adjusted weight">
 <title>
 The Pitt 201–203 · India uploaders · week 4 · 2026-01-30-to-2026-02-05 · 2,150.000 adjusted weight
 </title>
  </circle>
- <circle cx="875.555556" cy="866.366007" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="875.555556" cy="866.366007" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · India uploaders · week 5 · 2026-02-06-to-2026-02-12 · 2,005.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · India uploaders · week 5 · 2026-02-06-to-2026-02-12 · 2,005.000 adjusted weight">
 <title>
 The Pitt 201–203 · India uploaders · week 5 · 2026-02-06-to-2026-02-12 · 2,005.000 adjusted weight
 </title>
  </circle>
- <circle cx="1044.444444" cy="866.440800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1044.444444" cy="866.440800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · India uploaders · week 6 · 2026-02-13-to-2026-02-19 · 1,994.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · India uploaders · week 6 · 2026-02-13-to-2026-02-19 · 1,994.000 adjusted weight">
 <title>
 The Pitt 201–203 · India uploaders · week 6 · 2026-02-13-to-2026-02-19 · 1,994.000 adjusted weight
 </title>
  </circle>
- <circle cx="1213.333333" cy="870.738400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1213.333333" cy="870.738400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · India uploaders · week 7 · 2026-02-20-to-2026-02-26 · 1,362.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · India uploaders · week 7 · 2026-02-20-to-2026-02-26 · 1,362.000 adjusted weight">
 <title>
 The Pitt 201–203 · India uploaders · week 7 · 2026-02-20-to-2026-02-26 · 1,362.000 adjusted weight
 </title>
  </circle>
- <circle cx="1382.222222" cy="870.221600" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1382.222222" cy="870.221600" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · India uploaders · week 8 · 2026-02-27-to-2026-03-05 · 1,438.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · India uploaders · week 8 · 2026-02-27-to-2026-03-05 · 1,438.000 adjusted weight">
 <title>
 The Pitt 201–203 · India uploaders · week 8 · 2026-02-27-to-2026-03-05 · 1,438.000 adjusted weight
 </title>
  </circle>
- <circle cx="1551.111111" cy="870.092400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1551.111111" cy="870.092400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · India uploaders · week 9 · 2026-03-06-to-2026-03-12 · 1,457.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · India uploaders · week 9 · 2026-03-06-to-2026-03-12 · 1,457.000 adjusted weight">
 <title>
 The Pitt 201–203 · India uploaders · week 9 · 2026-03-06-to-2026-03-12 · 1,457.000 adjusted weight
 </title>
  </circle>
- <circle cx="1720.000000" cy="869.317207" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1720.000000" cy="869.317207" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · India uploaders · week 10 · 2026-03-13-to-2026-03-19 · 1,571.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · India uploaders · week 10 · 2026-03-13-to-2026-03-19 · 1,571.000 adjusted weight">
 <title>
 The Pitt 201–203 · India uploaders · week 10 · 2026-03-13-to-2026-03-19 · 1,571.000 adjusted weight
 </title>
  </circle>
  <g class="series-label" data-label-week="10.00000"><text x="1720.000000" y="862.317207" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> pitt-201</text>
- </g> </g> <g data-series="The Pitt 213–215"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-0-series-1-144">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Pitt 213–215" data-series="The Pitt 213–215" data-collection-key="pitt-213"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-0-series-1-144">
 <polyline points="200,865.298 368.889,858.791 537.778,836.555 706.667,857.132 875.556,865.917 1044.44,868.073 1213.33,870.521 1382.22,872.67 1551.11,874.54 1720,873.703 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <rect x="194.000000" y="859.298400" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="194.000000" y="859.298400" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · India uploaders · week 1 · 2026-04-03-to-2026-04-09-partial · 2,162.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · India uploaders · week 1 · 2026-04-03-to-2026-04-09-partial · 2,162.000 adjusted weight">
 <title>
 The Pitt 213–215 · India uploaders · week 1 · 2026-04-03-to-2026-04-09-partial · 2,162.000 adjusted weight
 </title>
  </rect>
- <rect x="362.888889" y="852.790800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="362.888889" y="852.790800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · India uploaders · week 2 · 2026-04-10-to-2026-04-16 · 3,119.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · India uploaders · week 2 · 2026-04-10-to-2026-04-16 · 3,119.000 adjusted weight">
 <title>
 The Pitt 213–215 · India uploaders · week 2 · 2026-04-10-to-2026-04-16 · 3,119.000 adjusted weight
 </title>
  </rect>
- <rect x="531.777778" y="830.554800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="531.777778" y="830.554800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · India uploaders · week 3 · 2026-04-17-to-2026-04-23 · 6,389.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · India uploaders · week 3 · 2026-04-17-to-2026-04-23 · 6,389.000 adjusted weight">
 <title>
 The Pitt 213–215 · India uploaders · week 3 · 2026-04-17-to-2026-04-23 · 6,389.000 adjusted weight
 </title>
  </rect>
- <rect x="700.666667" y="851.131600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="700.666667" y="851.131600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · India uploaders · week 4 · 2026-04-24-to-2026-04-30 · 3,363.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · India uploaders · week 4 · 2026-04-24-to-2026-04-30 · 3,363.000 adjusted weight">
 <title>
 The Pitt 213–215 · India uploaders · week 4 · 2026-04-24-to-2026-04-30 · 3,363.000 adjusted weight
 </title>
  </rect>
- <rect x="869.555556" y="859.917200" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="869.555556" y="859.917200" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · India uploaders · week 5 · 2026-05-01-to-2026-05-07 · 2,071.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · India uploaders · week 5 · 2026-05-01-to-2026-05-07 · 2,071.000 adjusted weight">
 <title>
 The Pitt 213–215 · India uploaders · week 5 · 2026-05-01-to-2026-05-07 · 2,071.000 adjusted weight
 </title>
  </rect>
- <rect x="1038.444444" y="862.072800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1038.444444" y="862.072800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · India uploaders · week 6 · 2026-05-08-to-2026-05-14 · 1,754.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · India uploaders · week 6 · 2026-05-08-to-2026-05-14 · 1,754.000 adjusted weight">
 <title>
 The Pitt 213–215 · India uploaders · week 6 · 2026-05-08-to-2026-05-14 · 1,754.000 adjusted weight
 </title>
  </rect>
- <rect x="1207.333333" y="864.520800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1207.333333" y="864.520800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · India uploaders · week 7 · 2026-05-15-to-2026-05-21 · 1,394.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · India uploaders · week 7 · 2026-05-15-to-2026-05-21 · 1,394.000 adjusted weight">
 <title>
 The Pitt 213–215 · India uploaders · week 7 · 2026-05-15-to-2026-05-21 · 1,394.000 adjusted weight
 </title>
  </rect>
- <rect x="1376.222222" y="866.669600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1376.222222" y="866.669600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · India uploaders · week 8 · 2026-05-22-to-2026-05-28 · 1,078.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · India uploaders · week 8 · 2026-05-22-to-2026-05-28 · 1,078.000 adjusted weight">
 <title>
 The Pitt 213–215 · India uploaders · week 8 · 2026-05-22-to-2026-05-28 · 1,078.000 adjusted weight
 </title>
  </rect>
- <rect x="1545.111111" y="868.539600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1545.111111" y="868.539600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · India uploaders · week 9 · 2026-05-29-to-2026-06-04 · 803.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · India uploaders · week 9 · 2026-05-29-to-2026-06-04 · 803.000 adjusted weight">
 <title>
 The Pitt 213–215 · India uploaders · week 9 · 2026-05-29-to-2026-06-04 · 803.000 adjusted weight
 </title>
  </rect>
- <rect x="1714.000000" y="867.703207" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1714.000000" y="867.703207" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · India uploaders · week 10 · 2026-06-05-to-2026-06-11 · 926.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · India uploaders · week 10 · 2026-06-05-to-2026-06-11 · 926.000 adjusted weight">
 <title>
 The Pitt 213–215 · India uploaders · week 10 · 2026-06-05-to-2026-06-11 · 926.000 adjusted weight
 </title>
  </rect>
  <g class="series-label" data-label-week="9.00000"><text x="1551.111111" y="867.539600" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> pitt-213</text>
- </g> </g> <g data-series="The Bear S05"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-0-series-2-169">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Bear S05" data-series="The Bear S05" data-collection-key="bear-05"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-0-series-2-169">
 <polyline points="200,814.57 368.889,851.685 537.778,864.924 706.667,867.801 875.556,870.344 1044.44,871.269 1213.33,871.255 1382.22,876.063 1551.11,876.267 1720,876.104 " stroke-dasharray="2 4" stroke-linecap="round" style="fill:rgb(96,106,36); fill-opacity:0; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-171" d="M 205.196 817.57 L 200 808.57 L 194.804 817.57 L 205.196 817.57 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-171" d="M 205.196 817.57 L 200 808.57 L 194.804 817.57 L 205.196 817.57 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · India uploaders · week 1 · 2026-06-26-to-2026-07-02-partial · 9,622.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · India uploaders · week 1 · 2026-06-26-to-2026-07-02-partial · 9,622.000 adjusted weight">
 <title>
 The Bear S05 · India uploaders · week 1 · 2026-06-26-to-2026-07-02-partial · 9,622.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-173" d="M 374.085 854.685 L 368.889 845.685 L 363.693 854.685 L 374.085 854.685 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-173" d="M 374.085 854.685 L 368.889 845.685 L 363.693 854.685 L 374.085 854.685 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · India uploaders · week 2 · 2026-07-03-to-2026-07-09 · 4,164.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · India uploaders · week 2 · 2026-07-03-to-2026-07-09 · 4,164.000 adjusted weight">
 <title>
 The Bear S05 · India uploaders · week 2 · 2026-07-03-to-2026-07-09 · 4,164.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-175" d="M 542.974 867.924 L 537.778 858.924 L 532.582 867.924 L 542.974 867.924 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-175" d="M 542.974 867.924 L 537.778 858.924 L 532.582 867.924 L 542.974 867.924 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · India uploaders · week 3 · 2026-07-10-to-2026-07-16 · 2,217.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · India uploaders · week 3 · 2026-07-10-to-2026-07-16 · 2,217.000 adjusted weight">
 <title>
 The Bear S05 · India uploaders · week 3 · 2026-07-10-to-2026-07-16 · 2,217.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-177" d="M 711.863 870.801 L 706.667 861.801 L 701.471 870.801 L 711.863 870.801 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-177" d="M 711.863 870.801 L 706.667 861.801 L 701.471 870.801 L 711.863 870.801 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · India uploaders · week 4 · 2026-07-17-to-2026-07-23 · 1,794.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · India uploaders · week 4 · 2026-07-17-to-2026-07-23 · 1,794.000 adjusted weight">
 <title>
 The Bear S05 · India uploaders · week 4 · 2026-07-17-to-2026-07-23 · 1,794.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-179" d="M 880.752 873.344 L 875.556 864.344 L 870.359 873.344 L 880.752 873.344 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-179" d="M 880.752 873.344 L 875.556 864.344 L 870.359 873.344 L 880.752 873.344 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · India uploaders · week 5 · 2026-07-24-to-2026-07-30 · 1,420.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · India uploaders · week 5 · 2026-07-24-to-2026-07-30 · 1,420.000 adjusted weight">
 <title>
 The Bear S05 · India uploaders · week 5 · 2026-07-24-to-2026-07-30 · 1,420.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-181" d="M 1049.64 874.269 L 1044.44 865.269 L 1039.25 874.269 L 1049.64 874.269 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-181" d="M 1049.64 874.269 L 1044.44 865.269 L 1039.25 874.269 L 1049.64 874.269 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · India uploaders · week 6 · 2026-07-31-to-2026-08-06 · 1,284.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · India uploaders · week 6 · 2026-07-31-to-2026-08-06 · 1,284.000 adjusted weight">
 <title>
 The Bear S05 · India uploaders · week 6 · 2026-07-31-to-2026-08-06 · 1,284.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-183" d="M 1218.53 874.255 L 1213.33 865.255 L 1208.14 874.255 L 1218.53 874.255 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-183" d="M 1218.53 874.255 L 1213.33 865.255 L 1208.14 874.255 L 1218.53 874.255 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · India uploaders · week 7 · 2026-08-07-to-2026-08-13 · 1,286.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · India uploaders · week 7 · 2026-08-07-to-2026-08-13 · 1,286.000 adjusted weight">
 <title>
 The Bear S05 · India uploaders · week 7 · 2026-08-07-to-2026-08-13 · 1,286.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-185" d="M 1387.42 879.063 L 1382.22 870.063 L 1377.03 879.063 L 1387.42 879.063 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-185" d="M 1387.42 879.063 L 1382.22 870.063 L 1377.03 879.063 L 1387.42 879.063 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · India uploaders · week 8 · 2026-08-14-to-2026-08-20-partial · 579.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · India uploaders · week 8 · 2026-08-14-to-2026-08-20-partial · 579.000 adjusted weight">
 <title>
 The Bear S05 · India uploaders · week 8 · 2026-08-14-to-2026-08-20-partial · 579.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-187" d="M 1556.31 879.267 L 1551.11 870.267 L 1545.91 879.267 L 1556.31 879.267 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-187" d="M 1556.31 879.267 L 1551.11 870.267 L 1545.91 879.267 L 1556.31 879.267 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · India uploaders · week 9 · 2026-08-21-to-2026-08-27 · 549.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · India uploaders · week 9 · 2026-08-21-to-2026-08-27 · 549.000 adjusted weight">
 <title>
 The Bear S05 · India uploaders · week 9 · 2026-08-21-to-2026-08-27 · 549.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-189" d="M 1725.2 879.104 L 1720 870.104 L 1714.8 879.104 L 1725.2 879.104 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-189" d="M 1725.2 879.104 L 1720 870.104 L 1714.8 879.104 L 1725.2 879.104 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · India uploaders · week 10 · 2026-08-28-to-2026-09-03 · 573.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · India uploaders · week 10 · 2026-08-28-to-2026-09-03 · 573.000 adjusted weight">
 <title>
 The Bear S05 · India uploaders · week 10 · 2026-08-28-to-2026-09-03 · 573.000 adjusted weight
 </title>
  </path>
  <g class="series-label" data-label-week="8.00000"><text x="1382.222222" y="869.062800" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> bear-05</text>
- </g> </g> <g data-series="The Bear S02"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-0-series-3-194">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Bear S02" data-series="The Bear S02" data-collection-key="bear-02"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-0-series-3-194">
 <polyline points="200,800.512 368.889,840.264 537.778,847.238 706.667,846.148 875.556,851.44 1044.44,852.354 1213.33,858.561 1382.22,860.036 1551.11,861.918 1720,863.523 " stroke-dasharray="8 3 2 3" stroke-linecap="round" style="fill:rgb(77,64,93); fill-opacity:0; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-196" d="M 205.196 797.512 L 200 794.512 L 194.804 797.512 L 194.804 803.512 L 200 806.512 L 205.196 803.512 L 205.196 797.512 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-196" d="M 205.196 797.512 L 200 794.512 L 194.804 797.512 L 194.804 803.512 L 200 806.512 L 205.196 803.512 L 205.196 797.512 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · India uploaders · week 1 · 2023-06-22-to-2023-06-28-partial · 11,689.407 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · India uploaders · week 1 · 2023-06-22-to-2023-06-28-partial · 11,689.407 adjusted weight">
 <title>
 The Bear S02 · India uploaders · week 1 · 2023-06-22-to-2023-06-28-partial · 11,689.407 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-198" d="M 374.085 837.264 L 368.889 834.264 L 363.693 837.264 L 363.693 843.264 L 368.889 846.264 L 374.085 843.264 L 374.085 837.264 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-198" d="M 374.085 837.264 L 368.889 834.264 L 363.693 837.264 L 363.693 843.264 L 368.889 846.264 L 374.085 843.264 L 374.085 837.264 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · India uploaders · week 2 · 2023-06-29-to-2023-07-05-partial · 5,843.574 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · India uploaders · week 2 · 2023-06-29-to-2023-07-05-partial · 5,843.574 adjusted weight">
 <title>
 The Bear S02 · India uploaders · week 2 · 2023-06-29-to-2023-07-05-partial · 5,843.574 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-200" d="M 542.974 844.238 L 537.778 841.238 L 532.582 844.238 L 532.582 850.238 L 537.778 853.238 L 542.974 850.238 L 542.974 844.238 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-200" d="M 542.974 844.238 L 537.778 841.238 L 532.582 844.238 L 532.582 850.238 L 537.778 853.238 L 542.974 850.238 L 542.974 844.238 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · India uploaders · week 3 · 2023-07-06-to-2023-07-12 · 4,817.870 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · India uploaders · week 3 · 2023-07-06-to-2023-07-12 · 4,817.870 adjusted weight">
 <title>
 The Bear S02 · India uploaders · week 3 · 2023-07-06-to-2023-07-12 · 4,817.870 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-202" d="M 711.863 843.148 L 706.667 840.148 L 701.471 843.148 L 701.471 849.148 L 706.667 852.148 L 711.863 849.148 L 711.863 843.148 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-202" d="M 711.863 843.148 L 706.667 840.148 L 701.471 843.148 L 701.471 849.148 L 706.667 852.148 L 711.863 849.148 L 711.863 843.148 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · India uploaders · week 4 · 2023-07-13-to-2023-07-19 · 4,978.278 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · India uploaders · week 4 · 2023-07-13-to-2023-07-19 · 4,978.278 adjusted weight">
 <title>
 The Bear S02 · India uploaders · week 4 · 2023-07-13-to-2023-07-19 · 4,978.278 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-204" d="M 880.752 848.44 L 875.556 845.44 L 870.359 848.44 L 870.359 854.44 L 875.556 857.44 L 880.752 854.44 L 880.752 848.44 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-204" d="M 880.752 848.44 L 875.556 845.44 L 870.359 848.44 L 870.359 854.44 L 875.556 857.44 L 880.752 854.44 L 880.752 848.44 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · India uploaders · week 5 · 2023-07-20-to-2023-07-26 · 4,199.963 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · India uploaders · week 5 · 2023-07-20-to-2023-07-26 · 4,199.963 adjusted weight">
 <title>
 The Bear S02 · India uploaders · week 5 · 2023-07-20-to-2023-07-26 · 4,199.963 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-206" d="M 1049.64 849.354 L 1044.44 846.354 L 1039.25 849.354 L 1039.25 855.354 L 1044.44 858.354 L 1049.64 855.354 L 1049.64 849.354 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-206" d="M 1049.64 849.354 L 1044.44 846.354 L 1039.25 849.354 L 1039.25 855.354 L 1044.44 858.354 L 1049.64 855.354 L 1049.64 849.354 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · India uploaders · week 6 · 2023-07-27-to-2023-08-02 · 4,065.537 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · India uploaders · week 6 · 2023-07-27-to-2023-08-02 · 4,065.537 adjusted weight">
 <title>
 The Bear S02 · India uploaders · week 6 · 2023-07-27-to-2023-08-02 · 4,065.537 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-208" d="M 1218.53 855.561 L 1213.33 852.561 L 1208.14 855.561 L 1208.14 861.561 L 1213.33 864.561 L 1218.53 861.561 L 1218.53 855.561 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-208" d="M 1218.53 855.561 L 1213.33 852.561 L 1208.14 855.561 L 1208.14 861.561 L 1213.33 864.561 L 1218.53 861.561 L 1218.53 855.561 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · India uploaders · week 7 · 2023-08-03-to-2023-08-09-partial · 3,152.796 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · India uploaders · week 7 · 2023-08-03-to-2023-08-09-partial · 3,152.796 adjusted weight">
 <title>
 The Bear S02 · India uploaders · week 7 · 2023-08-03-to-2023-08-09-partial · 3,152.796 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-210" d="M 1387.42 857.036 L 1382.22 854.036 L 1377.03 857.036 L 1377.03 863.036 L 1382.22 866.036 L 1387.42 863.036 L 1387.42 857.036 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-210" d="M 1387.42 857.036 L 1382.22 854.036 L 1377.03 857.036 L 1377.03 863.036 L 1382.22 866.036 L 1387.42 863.036 L 1387.42 857.036 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · India uploaders · week 8 · 2023-08-10-to-2023-08-16 · 2,935.907 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · India uploaders · week 8 · 2023-08-10-to-2023-08-16 · 2,935.907 adjusted weight">
 <title>
 The Bear S02 · India uploaders · week 8 · 2023-08-10-to-2023-08-16 · 2,935.907 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-212" d="M 1556.31 858.918 L 1551.11 855.918 L 1545.91 858.918 L 1545.91 864.918 L 1551.11 867.918 L 1556.31 864.918 L 1556.31 858.918 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-212" d="M 1556.31 858.918 L 1551.11 855.918 L 1545.91 858.918 L 1545.91 864.918 L 1551.11 867.918 L 1556.31 864.918 L 1556.31 858.918 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · India uploaders · week 9 · 2023-08-17-to-2023-08-23 · 2,659.148 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · India uploaders · week 9 · 2023-08-17-to-2023-08-23 · 2,659.148 adjusted weight">
 <title>
 The Bear S02 · India uploaders · week 9 · 2023-08-17-to-2023-08-23 · 2,659.148 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-214" d="M 1725.2 860.523 L 1720 857.523 L 1714.8 860.523 L 1714.8 866.523 L 1720 869.523 L 1725.2 866.523 L 1725.2 860.523 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-214" d="M 1725.2 860.523 L 1720 857.523 L 1714.8 860.523 L 1714.8 866.523 L 1720 869.523 L 1725.2 866.523 L 1725.2 860.523 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · India uploaders · week 10 · 2023-08-24-to-2023-08-30 · 2,423.056 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · India uploaders · week 10 · 2023-08-24-to-2023-08-30 · 2,423.056 adjusted weight">
 <title>
 The Bear S02 · India uploaders · week 10 · 2023-08-24-to-2023-08-30 · 2,423.056 adjusted weight
 </title>
  </path>
  <g class="series-label" data-label-week="7.00000"><text x="1213.333333" y="851.560987" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> bear-02</text>
- </g> </g> <g data-series="The Bear S03"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-0-series-4-219">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Bear S03" data-series="The Bear S03" data-collection-key="bear-03"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-0-series-4-219">
 <polyline points="200,810.389 368.889,825.073 537.778,829.191 706.667,836.635 875.556,844.727 1044.44,849.456 1213.33,855.61 1382.22,858.611 1551.11,859.215 1720,860.663 " stroke-dasharray="9 4" stroke-linecap="round" style="fill:rgb(140,65,109); fill-opacity:0; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-221" d="M 199,809.389 H 194 V 811.389 H 199 V 816.389 H 201 V 811.389 H 206 V 809.389 H 201 V 804.389 H 199 V 809.389 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,200,810)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-221" d="M 199,809.389 H 194 V 811.389 H 199 V 816.389 H 201 V 811.389 H 206 V 809.389 H 201 V 804.389 H 199 V 809.389 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,200,810)" data-tooltip="The Bear S03 · India uploaders · week 1 · 2024-06-27-to-2024-07-03-partial · 10,236.909 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · India uploaders · week 1 · 2024-06-27-to-2024-07-03-partial · 10,236.909 adjusted weight">
 <title>
 The Bear S03 · India uploaders · week 1 · 2024-06-27-to-2024-07-03-partial · 10,236.909 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-223" d="M 367.889,824.073 H 362.889 V 826.073 H 367.889 V 831.073 H 369.889 V 826.073 H 374.889 V 824.073 H 369.889 V 819.073 H 367.889 V 824.073 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,368,825)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-223" d="M 367.889,824.073 H 362.889 V 826.073 H 367.889 V 831.073 H 369.889 V 826.073 H 374.889 V 824.073 H 369.889 V 819.073 H 367.889 V 824.073 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,368,825)" data-tooltip="The Bear S03 · India uploaders · week 2 · 2024-07-04-to-2024-07-10-partial · 8,077.509 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · India uploaders · week 2 · 2024-07-04-to-2024-07-10-partial · 8,077.509 adjusted weight">
 <title>
 The Bear S03 · India uploaders · week 2 · 2024-07-04-to-2024-07-10-partial · 8,077.509 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-225" d="M 536.778,828.191 H 531.778 V 830.191 H 536.778 V 835.191 H 538.778 V 830.191 H 543.778 V 828.191 H 538.778 V 823.191 H 536.778 V 828.191 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,537,829)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-225" d="M 536.778,828.191 H 531.778 V 830.191 H 536.778 V 835.191 H 538.778 V 830.191 H 543.778 V 828.191 H 538.778 V 823.191 H 536.778 V 828.191 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,537,829)" data-tooltip="The Bear S03 · India uploaders · week 3 · 2024-07-11-to-2024-07-17-partial · 7,471.945 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · India uploaders · week 3 · 2024-07-11-to-2024-07-17-partial · 7,471.945 adjusted weight">
 <title>
 The Bear S03 · India uploaders · week 3 · 2024-07-11-to-2024-07-17-partial · 7,471.945 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-227" d="M 705.667,835.635 H 700.667 V 837.635 H 705.667 V 842.635 H 707.667 V 837.635 H 712.667 V 835.635 H 707.667 V 830.635 H 705.667 V 835.635 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,706,836)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-227" d="M 705.667,835.635 H 700.667 V 837.635 H 705.667 V 842.635 H 707.667 V 837.635 H 712.667 V 835.635 H 707.667 V 830.635 H 705.667 V 835.635 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,706,836)" data-tooltip="The Bear S03 · India uploaders · week 4 · 2024-07-18-to-2024-07-24 · 6,377.273 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · India uploaders · week 4 · 2024-07-18-to-2024-07-24 · 6,377.273 adjusted weight">
 <title>
 The Bear S03 · India uploaders · week 4 · 2024-07-18-to-2024-07-24 · 6,377.273 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-229" d="M 874.556,843.727 H 869.556 V 845.727 H 874.556 V 850.727 H 876.556 V 845.727 H 881.556 V 843.727 H 876.556 V 838.727 H 874.556 V 843.727 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,875,844)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-229" d="M 874.556,843.727 H 869.556 V 845.727 H 874.556 V 850.727 H 876.556 V 845.727 H 881.556 V 843.727 H 876.556 V 838.727 H 874.556 V 843.727 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,875,844)" data-tooltip="The Bear S03 · India uploaders · week 5 · 2024-07-25-to-2024-07-31 · 5,187.218 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · India uploaders · week 5 · 2024-07-25-to-2024-07-31 · 5,187.218 adjusted weight">
 <title>
 The Bear S03 · India uploaders · week 5 · 2024-07-25-to-2024-07-31 · 5,187.218 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-231" d="M 1043.44,848.456 H 1038.44 V 850.456 H 1043.44 V 855.456 H 1045.44 V 850.456 H 1050.44 V 848.456 H 1045.44 V 843.456 H 1043.44 V 848.456 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1044,849)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-231" d="M 1043.44,848.456 H 1038.44 V 850.456 H 1043.44 V 855.456 H 1045.44 V 850.456 H 1050.44 V 848.456 H 1045.44 V 843.456 H 1043.44 V 848.456 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1044,849)" data-tooltip="The Bear S03 · India uploaders · week 6 · 2024-08-01-to-2024-08-07 · 4,491.818 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · India uploaders · week 6 · 2024-08-01-to-2024-08-07 · 4,491.818 adjusted weight">
 <title>
 The Bear S03 · India uploaders · week 6 · 2024-08-01-to-2024-08-07 · 4,491.818 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-233" d="M 1212.33,854.61 H 1207.33 V 856.61 H 1212.33 V 861.61 H 1214.33 V 856.61 H 1219.33 V 854.61 H 1214.33 V 849.61 H 1212.33 V 854.61 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1213,855)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-233" d="M 1212.33,854.61 H 1207.33 V 856.61 H 1212.33 V 861.61 H 1214.33 V 856.61 H 1219.33 V 854.61 H 1214.33 V 849.61 H 1212.33 V 854.61 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1213,855)" data-tooltip="The Bear S03 · India uploaders · week 7 · 2024-08-08-to-2024-08-14 · 3,586.800 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · India uploaders · week 7 · 2024-08-08-to-2024-08-14 · 3,586.800 adjusted weight">
 <title>
 The Bear S03 · India uploaders · week 7 · 2024-08-08-to-2024-08-14 · 3,586.800 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-235" d="M 1381.22,857.611 H 1376.22 V 859.611 H 1381.22 V 864.611 H 1383.22 V 859.611 H 1388.22 V 857.611 H 1383.22 V 852.611 H 1381.22 V 857.611 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1382,858)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-235" d="M 1381.22,857.611 H 1376.22 V 859.611 H 1381.22 V 864.611 H 1383.22 V 859.611 H 1388.22 V 857.611 H 1383.22 V 852.611 H 1381.22 V 857.611 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1382,858)" data-tooltip="The Bear S03 · India uploaders · week 8 · 2024-08-15-to-2024-08-21-partial · 3,145.382 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · India uploaders · week 8 · 2024-08-15-to-2024-08-21-partial · 3,145.382 adjusted weight">
 <title>
 The Bear S03 · India uploaders · week 8 · 2024-08-15-to-2024-08-21-partial · 3,145.382 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-237" d="M 1550.11,858.215 H 1545.11 V 860.215 H 1550.11 V 865.215 H 1552.11 V 860.215 H 1557.11 V 858.215 H 1552.11 V 853.215 H 1550.11 V 858.215 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1551,859)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-237" d="M 1550.11,858.215 H 1545.11 V 860.215 H 1550.11 V 865.215 H 1552.11 V 860.215 H 1557.11 V 858.215 H 1552.11 V 853.215 H 1550.11 V 858.215 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1551,859)" data-tooltip="The Bear S03 · India uploaders · week 9 · 2024-08-22-to-2024-08-28 · 3,056.655 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · India uploaders · week 9 · 2024-08-22-to-2024-08-28 · 3,056.655 adjusted weight">
 <title>
 The Bear S03 · India uploaders · week 9 · 2024-08-22-to-2024-08-28 · 3,056.655 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-239" d="M 1719,859.663 H 1714 V 861.663 H 1719 V 866.663 H 1721 V 861.663 H 1726 V 859.663 H 1721 V 854.663 H 1719 V 859.663 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1720,860)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-239" d="M 1719,859.663 H 1714 V 861.663 H 1719 V 866.663 H 1721 V 861.663 H 1726 V 859.663 H 1721 V 854.663 H 1719 V 859.663 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1720,860)" data-tooltip="The Bear S03 · India uploaders · week 10 · 2024-08-29-to-2024-09-04 · 2,843.709 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · India uploaders · week 10 · 2024-08-29-to-2024-09-04 · 2,843.709 adjusted weight">
 <title>
 The Bear S03 · India uploaders · week 10 · 2024-08-29-to-2024-09-04 · 2,843.709 adjusted weight
 </title>
  </path>
  <g class="series-label" data-label-week="6.00000"><text x="1044.444444" y="842.455638" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> bear-03</text>
- </g> </g> <g data-series="The Bear S04"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-0-series-5-244">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Bear S04" data-series="The Bear S04" data-collection-key="bear-04"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-0-series-5-244">
 <polyline points="200,793.549 368.889,826.429 537.778,842.26 706.667,851.455 875.556,857.089 1044.44,860.919 1213.33,863.498 1382.22,867.729 1551.11,868.234 1720,869.056 " stroke-dasharray="2 3" stroke-linecap="round" style="fill:rgb(82,82,82); fill-opacity:0; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-246">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-246" data-tooltip="The Bear S04 · India uploaders · week 1 · 2025-06-26-to-2025-07-02-partial · 12,713.417 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · India uploaders · week 1 · 2025-06-26-to-2025-07-02-partial · 12,713.417 adjusted weight">
 <title>
 The Bear S04 · India uploaders · week 1 · 2025-06-26-to-2025-07-02-partial · 12,713.417 adjusted weight
 </title>
@@ -422,7 +422,7 @@ The Bear S04 · India uploaders · week 1 · 2025-06-26-to-2025-07-02-partial ·
 <line x1="200.000000" y1="788.352619" x2="196.400000" y2="795.948771" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="200.000000" y1="788.352619" x2="203.600000" y2="791.148771" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-260">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-260" data-tooltip="The Bear S04 · India uploaders · week 2 · 2025-07-03-to-2025-07-09 · 7,878.150 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · India uploaders · week 2 · 2025-07-03-to-2025-07-09 · 7,878.150 adjusted weight">
 <title>
 The Bear S04 · India uploaders · week 2 · 2025-07-03-to-2025-07-09 · 7,878.150 adjusted weight
 </title>
@@ -439,7 +439,7 @@ The Bear S04 · India uploaders · week 2 · 2025-07-03-to-2025-07-09 · 7,878.1
 <line x1="368.888889" y1="821.232434" x2="365.288889" y2="828.828587" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="368.888889" y1="821.232434" x2="372.488889" y2="824.028587" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-274">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-274" data-tooltip="The Bear S04 · India uploaders · week 3 · 2025-07-10-to-2025-07-16 · 5,549.983 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · India uploaders · week 3 · 2025-07-10-to-2025-07-16 · 5,549.983 adjusted weight">
 <title>
 The Bear S04 · India uploaders · week 3 · 2025-07-10-to-2025-07-16 · 5,549.983 adjusted weight
 </title>
@@ -456,7 +456,7 @@ The Bear S04 · India uploaders · week 3 · 2025-07-10-to-2025-07-16 · 5,549.9
 <line x1="537.777778" y1="837.063963" x2="534.177778" y2="844.660116" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="537.777778" y1="837.063963" x2="541.377778" y2="839.860116" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-288">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-288" data-tooltip="The Bear S04 · India uploaders · week 4 · 2025-07-17-to-2025-07-23 · 4,197.817 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · India uploaders · week 4 · 2025-07-17-to-2025-07-23 · 4,197.817 adjusted weight">
 <title>
 The Bear S04 · India uploaders · week 4 · 2025-07-17-to-2025-07-23 · 4,197.817 adjusted weight
 </title>
@@ -473,7 +473,7 @@ The Bear S04 · India uploaders · week 4 · 2025-07-17-to-2025-07-23 · 4,197.8
 <line x1="706.666667" y1="846.258699" x2="703.066667" y2="853.854851" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="706.666667" y1="846.258699" x2="710.266667" y2="849.054851" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-302">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-302" data-tooltip="The Bear S04 · India uploaders · week 5 · 2025-07-24-to-2025-07-30 · 3,369.233 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · India uploaders · week 5 · 2025-07-24-to-2025-07-30 · 3,369.233 adjusted weight">
 <title>
 The Bear S04 · India uploaders · week 5 · 2025-07-24-to-2025-07-30 · 3,369.233 adjusted weight
 </title>
@@ -490,7 +490,7 @@ The Bear S04 · India uploaders · week 5 · 2025-07-24-to-2025-07-30 · 3,369.2
 <line x1="875.555556" y1="851.893063" x2="871.955556" y2="859.489216" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="875.555556" y1="851.893063" x2="879.155556" y2="854.689216" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-316">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-316" data-tooltip="The Bear S04 · India uploaders · week 6 · 2025-07-31-to-2025-08-06 · 2,806.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · India uploaders · week 6 · 2025-07-31-to-2025-08-06 · 2,806.000 adjusted weight">
 <title>
 The Bear S04 · India uploaders · week 6 · 2025-07-31-to-2025-08-06 · 2,806.000 adjusted weight
 </title>
@@ -507,7 +507,7 @@ The Bear S04 · India uploaders · week 6 · 2025-07-31-to-2025-08-06 · 2,806.0
 <line x1="1044.444444" y1="855.723048" x2="1040.844444" y2="863.319200" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="1044.444444" y1="855.723048" x2="1048.044444" y2="858.519200" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-330">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-330" data-tooltip="The Bear S04 · India uploaders · week 7 · 2025-08-07-to-2025-08-13 · 2,426.783 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · India uploaders · week 7 · 2025-08-07-to-2025-08-13 · 2,426.783 adjusted weight">
 <title>
 The Bear S04 · India uploaders · week 7 · 2025-08-07-to-2025-08-13 · 2,426.783 adjusted weight
 </title>
@@ -524,7 +524,7 @@ The Bear S04 · India uploaders · week 7 · 2025-08-07-to-2025-08-13 · 2,426.7
 <line x1="1213.333333" y1="858.301723" x2="1209.733333" y2="865.897876" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="1213.333333" y1="858.301723" x2="1216.933333" y2="861.097876" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-344">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-344" data-tooltip="The Bear S04 · India uploaders · week 8 · 2025-08-14-to-2025-08-20 · 1,804.583 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · India uploaders · week 8 · 2025-08-14-to-2025-08-20 · 1,804.583 adjusted weight">
 <title>
 The Bear S04 · India uploaders · week 8 · 2025-08-14-to-2025-08-20 · 1,804.583 adjusted weight
 </title>
@@ -541,7 +541,7 @@ The Bear S04 · India uploaders · week 8 · 2025-08-14-to-2025-08-20 · 1,804.5
 <line x1="1382.222222" y1="862.532683" x2="1378.622222" y2="870.128836" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="1382.222222" y1="862.532683" x2="1385.822222" y2="865.328836" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-358">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-358" data-tooltip="The Bear S04 · India uploaders · week 9 · 2025-08-21-to-2025-08-27 · 1,730.367 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · India uploaders · week 9 · 2025-08-21-to-2025-08-27 · 1,730.367 adjusted weight">
 <title>
 The Bear S04 · India uploaders · week 9 · 2025-08-21-to-2025-08-27 · 1,730.367 adjusted weight
 </title>
@@ -558,7 +558,7 @@ The Bear S04 · India uploaders · week 9 · 2025-08-21-to-2025-08-27 · 1,730.3
 <line x1="1551.111111" y1="863.037359" x2="1547.511111" y2="870.633511" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="1551.111111" y1="863.037359" x2="1554.711111" y2="865.833511" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-372">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-372" data-tooltip="The Bear S04 · India uploaders · week 10 · 2025-08-28-to-2025-09-03 · 1,609.383 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · India uploaders · week 10 · 2025-08-28-to-2025-09-03 · 1,609.383 adjusted weight">
 <title>
 The Bear S04 · India uploaders · week 10 · 2025-08-28-to-2025-09-03 · 1,609.383 adjusted weight
 </title>
@@ -580,8 +580,8 @@ The Bear S04 · India uploaders · week 10 · 2025-08-28-to-2025-09-03 · 1,609.
  </g> <g data-izzi-layout="standard" transform="translate(0 1080)"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-annotations-390">
 <text x="960.000000" y="126.000000" font-family="Atkinson Hyperlegible" font-size="26.000000pt" text-anchor="middle" text-align="center" font-weight="600" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> Philippines · Weekly country uploaders</text>
  <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-axes-lines-392">
-<text x="960.000000" y="1007.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> ELAPSED SAMPLING WEEK (SEVEN-DAY INTERVAL)</text>
-<text x="73.000000" y="540.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="500" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5" transform="rotate(-90,73,540)"> 2026 ADJUSTED WEIGHT</text>
+<text x="960.000000" y="1007.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> WEEKS</text>
+<text x="73.000000" y="540.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="500" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5" transform="rotate(-90,73,540)"> UPLOADERS</text>
 <line x1="200.000000" y1="880.000000" x2="1720.000000" y2="880.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
 <line x1="200.000000" y1="880.000000" x2="200.000000" y2="200.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -695,280 +695,280 @@ The Bear S04 · India uploaders · week 10 · 2025-08-28-to-2025-09-03 · 1,609.
  </g>
  </g>
 <text x="960.000000" y="163.000000" font-family="Atkinson Hyperlegible" font-size="19.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–10</text>
- <g data-series="The Pitt 201–203"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-1-series-0-504">
+ <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Pitt 201–203" data-series="The Pitt 201–203" data-collection-key="pitt-201"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-1-series-0-504">
 <polyline points="200,871.806 368.889,865.965 537.778,864.734 706.667,867.338 875.556,870.242 1044.44,870.466 1213.33,868.896 1382.22,868.549 1551.11,867.474 1720,867.019 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <circle cx="200.000000" cy="871.806000" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="200.000000" cy="871.806000" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Philippines uploaders · week 1 · 2026-01-09-to-2026-01-15-partial · 1,205.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Philippines uploaders · week 1 · 2026-01-09-to-2026-01-15-partial · 1,205.000 adjusted weight">
 <title>
 The Pitt 201–203 · Philippines uploaders · week 1 · 2026-01-09-to-2026-01-15-partial · 1,205.000 adjusted weight
 </title>
  </circle>
- <circle cx="368.888889" cy="865.964807" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="368.888889" cy="865.964807" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Philippines uploaders · week 2 · 2026-01-16-to-2026-01-22 · 2,064.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Philippines uploaders · week 2 · 2026-01-16-to-2026-01-22 · 2,064.000 adjusted weight">
 <title>
 The Pitt 201–203 · Philippines uploaders · week 2 · 2026-01-16-to-2026-01-22 · 2,064.000 adjusted weight
 </title>
  </circle>
- <circle cx="537.777778" cy="864.734000" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="537.777778" cy="864.734000" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Philippines uploaders · week 3 · 2026-01-23-to-2026-01-29 · 2,245.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Philippines uploaders · week 3 · 2026-01-23-to-2026-01-29 · 2,245.000 adjusted weight">
 <title>
 The Pitt 201–203 · Philippines uploaders · week 3 · 2026-01-23-to-2026-01-29 · 2,245.000 adjusted weight
 </title>
  </circle>
- <circle cx="706.666667" cy="867.338400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="706.666667" cy="867.338400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Philippines uploaders · week 4 · 2026-01-30-to-2026-02-05 · 1,862.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Philippines uploaders · week 4 · 2026-01-30-to-2026-02-05 · 1,862.000 adjusted weight">
 <title>
 The Pitt 201–203 · Philippines uploaders · week 4 · 2026-01-30-to-2026-02-05 · 1,862.000 adjusted weight
 </title>
  </circle>
- <circle cx="875.555556" cy="870.242000" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="875.555556" cy="870.242000" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Philippines uploaders · week 5 · 2026-02-06-to-2026-02-12 · 1,435.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Philippines uploaders · week 5 · 2026-02-06-to-2026-02-12 · 1,435.000 adjusted weight">
 <title>
 The Pitt 201–203 · Philippines uploaders · week 5 · 2026-02-06-to-2026-02-12 · 1,435.000 adjusted weight
 </title>
  </circle>
- <circle cx="1044.444444" cy="870.466400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1044.444444" cy="870.466400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Philippines uploaders · week 6 · 2026-02-13-to-2026-02-19 · 1,402.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Philippines uploaders · week 6 · 2026-02-13-to-2026-02-19 · 1,402.000 adjusted weight">
 <title>
 The Pitt 201–203 · Philippines uploaders · week 6 · 2026-02-13-to-2026-02-19 · 1,402.000 adjusted weight
 </title>
  </circle>
- <circle cx="1213.333333" cy="868.895600" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1213.333333" cy="868.895600" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Philippines uploaders · week 7 · 2026-02-20-to-2026-02-26 · 1,633.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Philippines uploaders · week 7 · 2026-02-20-to-2026-02-26 · 1,633.000 adjusted weight">
 <title>
 The Pitt 201–203 · Philippines uploaders · week 7 · 2026-02-20-to-2026-02-26 · 1,633.000 adjusted weight
 </title>
  </circle>
- <circle cx="1382.222222" cy="868.548800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1382.222222" cy="868.548800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Philippines uploaders · week 8 · 2026-02-27-to-2026-03-05 · 1,684.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Philippines uploaders · week 8 · 2026-02-27-to-2026-03-05 · 1,684.000 adjusted weight">
 <title>
 The Pitt 201–203 · Philippines uploaders · week 8 · 2026-02-27-to-2026-03-05 · 1,684.000 adjusted weight
 </title>
  </circle>
- <circle cx="1551.111111" cy="867.474400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1551.111111" cy="867.474400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Philippines uploaders · week 9 · 2026-03-06-to-2026-03-12 · 1,842.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Philippines uploaders · week 9 · 2026-03-06-to-2026-03-12 · 1,842.000 adjusted weight">
 <title>
 The Pitt 201–203 · Philippines uploaders · week 9 · 2026-03-06-to-2026-03-12 · 1,842.000 adjusted weight
 </title>
  </circle>
- <circle cx="1720.000000" cy="867.018800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1720.000000" cy="867.018800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Philippines uploaders · week 10 · 2026-03-13-to-2026-03-19 · 1,909.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Philippines uploaders · week 10 · 2026-03-13-to-2026-03-19 · 1,909.000 adjusted weight">
 <title>
 The Pitt 201–203 · Philippines uploaders · week 10 · 2026-03-13-to-2026-03-19 · 1,909.000 adjusted weight
 </title>
  </circle>
  <g class="series-label" data-label-week="10.00000"><text x="1720.000000" y="860.018800" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> pitt-201</text>
- </g> </g> <g data-series="The Pitt 213–215"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-1-series-1-529">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Pitt 213–215" data-series="The Pitt 213–215" data-collection-key="pitt-213"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-1-series-1-529">
 <polyline points="200,862.66 368.889,856.424 537.778,843.171 706.667,861.504 875.556,867.019 1044.44,869.147 1213.33,870.507 1382.22,871.656 1551.11,873.268 1720,873.962 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <rect x="194.000000" y="856.660000" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="194.000000" y="856.660000" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Philippines uploaders · week 1 · 2026-04-03-to-2026-04-09-partial · 2,550.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Philippines uploaders · week 1 · 2026-04-03-to-2026-04-09-partial · 2,550.000 adjusted weight">
 <title>
 The Pitt 213–215 · Philippines uploaders · week 1 · 2026-04-03-to-2026-04-09-partial · 2,550.000 adjusted weight
 </title>
  </rect>
- <rect x="362.888889" y="850.424400" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="362.888889" y="850.424400" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Philippines uploaders · week 2 · 2026-04-10-to-2026-04-16 · 3,467.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Philippines uploaders · week 2 · 2026-04-10-to-2026-04-16 · 3,467.000 adjusted weight">
 <title>
 The Pitt 213–215 · Philippines uploaders · week 2 · 2026-04-10-to-2026-04-16 · 3,467.000 adjusted weight
 </title>
  </rect>
- <rect x="531.777778" y="837.171200" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="531.777778" y="837.171200" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Philippines uploaders · week 3 · 2026-04-17-to-2026-04-23 · 5,416.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Philippines uploaders · week 3 · 2026-04-17-to-2026-04-23 · 5,416.000 adjusted weight">
 <title>
 The Pitt 213–215 · Philippines uploaders · week 3 · 2026-04-17-to-2026-04-23 · 5,416.000 adjusted weight
 </title>
  </rect>
- <rect x="700.666667" y="855.504000" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="700.666667" y="855.504000" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Philippines uploaders · week 4 · 2026-04-24-to-2026-04-30 · 2,720.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Philippines uploaders · week 4 · 2026-04-24-to-2026-04-30 · 2,720.000 adjusted weight">
 <title>
 The Pitt 213–215 · Philippines uploaders · week 4 · 2026-04-24-to-2026-04-30 · 2,720.000 adjusted weight
 </title>
  </rect>
- <rect x="869.555556" y="861.018800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="869.555556" y="861.018800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Philippines uploaders · week 5 · 2026-05-01-to-2026-05-07 · 1,909.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Philippines uploaders · week 5 · 2026-05-01-to-2026-05-07 · 1,909.000 adjusted weight">
 <title>
 The Pitt 213–215 · Philippines uploaders · week 5 · 2026-05-01-to-2026-05-07 · 1,909.000 adjusted weight
 </title>
  </rect>
- <rect x="1038.444444" y="863.147207" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1038.444444" y="863.147207" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Philippines uploaders · week 6 · 2026-05-08-to-2026-05-14 · 1,596.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Philippines uploaders · week 6 · 2026-05-08-to-2026-05-14 · 1,596.000 adjusted weight">
 <title>
 The Pitt 213–215 · Philippines uploaders · week 6 · 2026-05-08-to-2026-05-14 · 1,596.000 adjusted weight
 </title>
  </rect>
- <rect x="1207.333333" y="864.507200" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1207.333333" y="864.507200" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Philippines uploaders · week 7 · 2026-05-15-to-2026-05-21 · 1,396.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Philippines uploaders · week 7 · 2026-05-15-to-2026-05-21 · 1,396.000 adjusted weight">
 <title>
 The Pitt 213–215 · Philippines uploaders · week 7 · 2026-05-15-to-2026-05-21 · 1,396.000 adjusted weight
 </title>
  </rect>
- <rect x="1376.222222" y="865.656400" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1376.222222" y="865.656400" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Philippines uploaders · week 8 · 2026-05-22-to-2026-05-28 · 1,227.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Philippines uploaders · week 8 · 2026-05-22-to-2026-05-28 · 1,227.000 adjusted weight">
 <title>
 The Pitt 213–215 · Philippines uploaders · week 8 · 2026-05-22-to-2026-05-28 · 1,227.000 adjusted weight
 </title>
  </rect>
- <rect x="1545.111111" y="867.268000" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1545.111111" y="867.268000" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Philippines uploaders · week 9 · 2026-05-29-to-2026-06-04 · 990.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Philippines uploaders · week 9 · 2026-05-29-to-2026-06-04 · 990.000 adjusted weight">
 <title>
 The Pitt 213–215 · Philippines uploaders · week 9 · 2026-05-29-to-2026-06-04 · 990.000 adjusted weight
 </title>
  </rect>
- <rect x="1714.000000" y="867.961600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1714.000000" y="867.961600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Philippines uploaders · week 10 · 2026-06-05-to-2026-06-11 · 888.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Philippines uploaders · week 10 · 2026-06-05-to-2026-06-11 · 888.000 adjusted weight">
 <title>
 The Pitt 213–215 · Philippines uploaders · week 10 · 2026-06-05-to-2026-06-11 · 888.000 adjusted weight
 </title>
  </rect>
  <g class="series-label" data-label-week="9.00000"><text x="1551.111111" y="866.268000" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> pitt-213</text>
- </g> </g> <g data-series="The Bear S05"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-1-series-2-554">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Bear S05" data-series="The Bear S05" data-collection-key="bear-05"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-1-series-2-554">
 <polyline points="200,846.258 368.889,864.918 537.778,870.113 706.667,871.758 875.556,874.206 1044.44,874.302 1213.33,874.336 1382.22,876.756 1551.11,876.267 1720,877.001 " stroke-dasharray="2 4" stroke-linecap="round" style="fill:rgb(96,106,36); fill-opacity:0; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-556" d="M 205.196 849.258 L 200 840.258 L 194.804 849.258 L 205.196 849.258 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-556" d="M 205.196 849.258 L 200 840.258 L 194.804 849.258 L 205.196 849.258 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Philippines uploaders · week 1 · 2026-06-26-to-2026-07-02-partial · 4,962.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Philippines uploaders · week 1 · 2026-06-26-to-2026-07-02-partial · 4,962.000 adjusted weight">
 <title>
 The Bear S05 · Philippines uploaders · week 1 · 2026-06-26-to-2026-07-02-partial · 4,962.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-558" d="M 374.085 867.918 L 368.889 858.918 L 363.693 867.918 L 374.085 867.918 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-558" d="M 374.085 867.918 L 368.889 858.918 L 363.693 867.918 L 374.085 867.918 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Philippines uploaders · week 2 · 2026-07-03-to-2026-07-09 · 2,218.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Philippines uploaders · week 2 · 2026-07-03-to-2026-07-09 · 2,218.000 adjusted weight">
 <title>
 The Bear S05 · Philippines uploaders · week 2 · 2026-07-03-to-2026-07-09 · 2,218.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-560" d="M 542.974 873.113 L 537.778 864.113 L 532.582 873.113 L 542.974 873.113 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-560" d="M 542.974 873.113 L 537.778 864.113 L 532.582 873.113 L 542.974 873.113 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Philippines uploaders · week 3 · 2026-07-10-to-2026-07-16 · 1,454.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Philippines uploaders · week 3 · 2026-07-10-to-2026-07-16 · 1,454.000 adjusted weight">
 <title>
 The Bear S05 · Philippines uploaders · week 3 · 2026-07-10-to-2026-07-16 · 1,454.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-562" d="M 711.863 874.758 L 706.667 865.758 L 701.471 874.758 L 711.863 874.758 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-562" d="M 711.863 874.758 L 706.667 865.758 L 701.471 874.758 L 711.863 874.758 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Philippines uploaders · week 4 · 2026-07-17-to-2026-07-23 · 1,212.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Philippines uploaders · week 4 · 2026-07-17-to-2026-07-23 · 1,212.000 adjusted weight">
 <title>
 The Bear S05 · Philippines uploaders · week 4 · 2026-07-17-to-2026-07-23 · 1,212.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-564" d="M 880.752 877.206 L 875.556 868.206 L 870.359 877.206 L 880.752 877.206 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-564" d="M 880.752 877.206 L 875.556 868.206 L 870.359 877.206 L 880.752 877.206 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Philippines uploaders · week 5 · 2026-07-24-to-2026-07-30 · 852.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Philippines uploaders · week 5 · 2026-07-24-to-2026-07-30 · 852.000 adjusted weight">
 <title>
 The Bear S05 · Philippines uploaders · week 5 · 2026-07-24-to-2026-07-30 · 852.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-566" d="M 1049.64 877.302 L 1044.44 868.302 L 1039.25 877.302 L 1049.64 877.302 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-566" d="M 1049.64 877.302 L 1044.44 868.302 L 1039.25 877.302 L 1049.64 877.302 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Philippines uploaders · week 6 · 2026-07-31-to-2026-08-06 · 838.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Philippines uploaders · week 6 · 2026-07-31-to-2026-08-06 · 838.000 adjusted weight">
 <title>
 The Bear S05 · Philippines uploaders · week 6 · 2026-07-31-to-2026-08-06 · 838.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-568" d="M 1218.53 877.336 L 1213.33 868.336 L 1208.14 877.336 L 1218.53 877.336 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-568" d="M 1218.53 877.336 L 1213.33 868.336 L 1208.14 877.336 L 1218.53 877.336 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Philippines uploaders · week 7 · 2026-08-07-to-2026-08-13 · 833.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Philippines uploaders · week 7 · 2026-08-07-to-2026-08-13 · 833.000 adjusted weight">
 <title>
 The Bear S05 · Philippines uploaders · week 7 · 2026-08-07-to-2026-08-13 · 833.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-570" d="M 1387.42 879.756 L 1382.22 870.756 L 1377.03 879.756 L 1387.42 879.756 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-570" d="M 1387.42 879.756 L 1382.22 870.756 L 1377.03 879.756 L 1387.42 879.756 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Philippines uploaders · week 8 · 2026-08-14-to-2026-08-20-partial · 477.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Philippines uploaders · week 8 · 2026-08-14-to-2026-08-20-partial · 477.000 adjusted weight">
 <title>
 The Bear S05 · Philippines uploaders · week 8 · 2026-08-14-to-2026-08-20-partial · 477.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-572" d="M 1556.31 879.267 L 1551.11 870.267 L 1545.91 879.267 L 1556.31 879.267 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-572" d="M 1556.31 879.267 L 1551.11 870.267 L 1545.91 879.267 L 1556.31 879.267 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Philippines uploaders · week 9 · 2026-08-21-to-2026-08-27 · 549.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Philippines uploaders · week 9 · 2026-08-21-to-2026-08-27 · 549.000 adjusted weight">
 <title>
 The Bear S05 · Philippines uploaders · week 9 · 2026-08-21-to-2026-08-27 · 549.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-574" d="M 1725.2 880.001 L 1720 871.001 L 1714.8 880.001 L 1725.2 880.001 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-574" d="M 1725.2 880.001 L 1720 871.001 L 1714.8 880.001 L 1725.2 880.001 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Philippines uploaders · week 10 · 2026-08-28-to-2026-09-03 · 441.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Philippines uploaders · week 10 · 2026-08-28-to-2026-09-03 · 441.000 adjusted weight">
 <title>
 The Bear S05 · Philippines uploaders · week 10 · 2026-08-28-to-2026-09-03 · 441.000 adjusted weight
 </title>
  </path>
  <g class="series-label" data-label-week="8.00000"><text x="1382.222222" y="869.756400" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> bear-05</text>
- </g> </g> <g data-series="The Bear S02"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-1-series-3-579">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Bear S02" data-series="The Bear S02" data-collection-key="bear-02"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-1-series-3-579">
 <polyline points="200,831.783 368.889,848.905 537.778,850.826 706.667,851.402 875.556,857.447 1044.44,859.744 1213.33,865.106 1382.22,865.559 1551.11,866.926 1720,866.703 " stroke-dasharray="8 3 2 3" stroke-linecap="round" style="fill:rgb(77,64,93); fill-opacity:0; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-581" d="M 205.196 828.783 L 200 825.783 L 194.804 828.783 L 194.804 834.783 L 200 837.783 L 205.196 834.783 L 205.196 828.783 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-581" d="M 205.196 828.783 L 200 825.783 L 194.804 828.783 L 194.804 834.783 L 200 837.783 L 205.196 834.783 L 205.196 828.783 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Philippines uploaders · week 1 · 2023-06-22-to-2023-06-28-partial · 7,090.685 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Philippines uploaders · week 1 · 2023-06-22-to-2023-06-28-partial · 7,090.685 adjusted weight">
 <title>
 The Bear S02 · Philippines uploaders · week 1 · 2023-06-22-to-2023-06-28-partial · 7,090.685 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-583" d="M 374.085 845.905 L 368.889 842.905 L 363.693 845.905 L 363.693 851.905 L 368.889 854.905 L 374.085 851.905 L 374.085 845.905 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-583" d="M 374.085 845.905 L 368.889 842.905 L 363.693 845.905 L 363.693 851.905 L 368.889 854.905 L 374.085 851.905 L 374.085 845.905 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Philippines uploaders · week 2 · 2023-06-29-to-2023-07-05-partial · 4,572.741 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Philippines uploaders · week 2 · 2023-06-29-to-2023-07-05-partial · 4,572.741 adjusted weight">
 <title>
 The Bear S02 · Philippines uploaders · week 2 · 2023-06-29-to-2023-07-05-partial · 4,572.741 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-585" d="M 542.974 847.826 L 537.778 844.826 L 532.582 847.826 L 532.582 853.826 L 537.778 856.826 L 542.974 853.826 L 542.974 847.826 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-585" d="M 542.974 847.826 L 537.778 844.826 L 532.582 847.826 L 532.582 853.826 L 537.778 856.826 L 542.974 853.826 L 542.974 847.826 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Philippines uploaders · week 3 · 2023-07-06-to-2023-07-12 · 4,290.333 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Philippines uploaders · week 3 · 2023-07-06-to-2023-07-12 · 4,290.333 adjusted weight">
 <title>
 The Bear S02 · Philippines uploaders · week 3 · 2023-07-06-to-2023-07-12 · 4,290.333 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-587" d="M 711.863 848.402 L 706.667 845.402 L 701.471 848.402 L 701.471 854.402 L 706.667 857.402 L 711.863 854.402 L 711.863 848.402 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-587" d="M 711.863 848.402 L 706.667 845.402 L 701.471 848.402 L 701.471 854.402 L 706.667 857.402 L 711.863 854.402 L 711.863 848.402 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Philippines uploaders · week 4 · 2023-07-13-to-2023-07-19 · 4,205.611 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Philippines uploaders · week 4 · 2023-07-13-to-2023-07-19 · 4,205.611 adjusted weight">
 <title>
 The Bear S02 · Philippines uploaders · week 4 · 2023-07-13-to-2023-07-19 · 4,205.611 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-589" d="M 880.752 854.447 L 875.556 851.447 L 870.359 854.447 L 870.359 860.447 L 875.556 863.447 L 880.752 860.447 L 880.752 854.447 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-589" d="M 880.752 854.447 L 875.556 851.447 L 870.359 854.447 L 870.359 860.447 L 875.556 863.447 L 880.752 860.447 L 880.752 854.447 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Philippines uploaders · week 5 · 2023-07-20-to-2023-07-26 · 3,316.593 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Philippines uploaders · week 5 · 2023-07-20-to-2023-07-26 · 3,316.593 adjusted weight">
 <title>
 The Bear S02 · Philippines uploaders · week 5 · 2023-07-20-to-2023-07-26 · 3,316.593 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-591" d="M 1049.64 856.744 L 1044.44 853.744 L 1039.25 856.744 L 1039.25 862.744 L 1044.44 865.744 L 1049.64 862.744 L 1049.64 856.744 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-591" d="M 1049.64 856.744 L 1044.44 853.744 L 1039.25 856.744 L 1039.25 862.744 L 1044.44 865.744 L 1049.64 862.744 L 1049.64 856.744 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Philippines uploaders · week 6 · 2023-07-27-to-2023-08-02 · 2,978.833 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Philippines uploaders · week 6 · 2023-07-27-to-2023-08-02 · 2,978.833 adjusted weight">
 <title>
 The Bear S02 · Philippines uploaders · week 6 · 2023-07-27-to-2023-08-02 · 2,978.833 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-593" d="M 1218.53 862.106 L 1213.33 859.106 L 1208.14 862.106 L 1208.14 868.106 L 1213.33 871.106 L 1218.53 868.106 L 1218.53 862.106 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-593" d="M 1218.53 862.106 L 1213.33 859.106 L 1208.14 862.106 L 1208.14 868.106 L 1213.33 871.106 L 1218.53 868.106 L 1218.53 862.106 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Philippines uploaders · week 7 · 2023-08-03-to-2023-08-09-partial · 2,190.352 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Philippines uploaders · week 7 · 2023-08-03-to-2023-08-09-partial · 2,190.352 adjusted weight">
 <title>
 The Bear S02 · Philippines uploaders · week 7 · 2023-08-03-to-2023-08-09-partial · 2,190.352 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-595" d="M 1387.42 862.559 L 1382.22 859.559 L 1377.03 862.559 L 1377.03 868.559 L 1382.22 871.559 L 1387.42 868.559 L 1387.42 862.559 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-595" d="M 1387.42 862.559 L 1382.22 859.559 L 1377.03 862.559 L 1377.03 868.559 L 1382.22 871.559 L 1387.42 868.559 L 1387.42 862.559 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Philippines uploaders · week 8 · 2023-08-10-to-2023-08-16 · 2,123.704 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Philippines uploaders · week 8 · 2023-08-10-to-2023-08-16 · 2,123.704 adjusted weight">
 <title>
 The Bear S02 · Philippines uploaders · week 8 · 2023-08-10-to-2023-08-16 · 2,123.704 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-597" d="M 1556.31 863.926 L 1551.11 860.926 L 1545.91 863.926 L 1545.91 869.926 L 1551.11 872.926 L 1556.31 869.926 L 1556.31 863.926 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-597" d="M 1556.31 863.926 L 1551.11 860.926 L 1545.91 863.926 L 1545.91 869.926 L 1551.11 872.926 L 1556.31 869.926 L 1556.31 863.926 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Philippines uploaders · week 9 · 2023-08-17-to-2023-08-23 · 1,922.630 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Philippines uploaders · week 9 · 2023-08-17-to-2023-08-23 · 1,922.630 adjusted weight">
 <title>
 The Bear S02 · Philippines uploaders · week 9 · 2023-08-17-to-2023-08-23 · 1,922.630 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-599" d="M 1725.2 863.703 L 1720 860.703 L 1714.8 863.703 L 1714.8 869.703 L 1720 872.703 L 1725.2 869.703 L 1725.2 863.703 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-599" d="M 1725.2 863.703 L 1720 860.703 L 1714.8 863.703 L 1714.8 869.703 L 1720 872.703 L 1725.2 869.703 L 1725.2 863.703 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Philippines uploaders · week 10 · 2023-08-24-to-2023-08-30 · 1,955.389 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Philippines uploaders · week 10 · 2023-08-24-to-2023-08-30 · 1,955.389 adjusted weight">
 <title>
 The Bear S02 · Philippines uploaders · week 10 · 2023-08-24-to-2023-08-30 · 1,955.389 adjusted weight
 </title>
  </path>
  <g class="series-label" data-label-week="7.00000"><text x="1213.333333" y="858.105613" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> bear-02</text>
- </g> </g> <g data-series="The Bear S03"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-1-series-4-604">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Bear S03" data-series="The Bear S03" data-collection-key="bear-03"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-1-series-4-604">
 <polyline points="200,829.583 368.889,844.342 537.778,850.791 706.667,855.474 875.556,860.595 1044.44,863.755 1213.33,866.078 1382.22,868.061 1551.11,869.147 1720,870.241 " stroke-dasharray="9 4" stroke-linecap="round" style="fill:rgb(140,65,109); fill-opacity:0; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-606" d="M 199,828.583 H 194 V 830.583 H 199 V 835.583 H 201 V 830.583 H 206 V 828.583 H 201 V 823.583 H 199 V 828.583 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,200,829)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-606" d="M 199,828.583 H 194 V 830.583 H 199 V 835.583 H 201 V 830.583 H 206 V 828.583 H 201 V 823.583 H 199 V 828.583 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,200,829)" data-tooltip="The Bear S03 · Philippines uploaders · week 1 · 2024-06-27-to-2024-07-03-partial · 7,414.273 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Philippines uploaders · week 1 · 2024-06-27-to-2024-07-03-partial · 7,414.273 adjusted weight">
 <title>
 The Bear S03 · Philippines uploaders · week 1 · 2024-06-27-to-2024-07-03-partial · 7,414.273 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-608" d="M 367.889,843.342 H 362.889 V 845.342 H 367.889 V 850.342 H 369.889 V 845.342 H 374.889 V 843.342 H 369.889 V 838.342 H 367.889 V 843.342 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,368,844)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-608" d="M 367.889,843.342 H 362.889 V 845.342 H 367.889 V 850.342 H 369.889 V 845.342 H 374.889 V 843.342 H 369.889 V 838.342 H 367.889 V 843.342 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,368,844)" data-tooltip="The Bear S03 · Philippines uploaders · week 2 · 2024-07-04-to-2024-07-10-partial · 5,243.782 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Philippines uploaders · week 2 · 2024-07-04-to-2024-07-10-partial · 5,243.782 adjusted weight">
 <title>
 The Bear S03 · Philippines uploaders · week 2 · 2024-07-04-to-2024-07-10-partial · 5,243.782 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-610" d="M 536.778,849.791 H 531.778 V 851.791 H 536.778 V 856.791 H 538.778 V 851.791 H 543.778 V 849.791 H 538.778 V 844.791 H 536.778 V 849.791 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,537,850)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-610" d="M 536.778,849.791 H 531.778 V 851.791 H 536.778 V 856.791 H 538.778 V 851.791 H 543.778 V 849.791 H 538.778 V 844.791 H 536.778 V 849.791 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,537,850)" data-tooltip="The Bear S03 · Philippines uploaders · week 3 · 2024-07-11-to-2024-07-17-partial · 4,295.509 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Philippines uploaders · week 3 · 2024-07-11-to-2024-07-17-partial · 4,295.509 adjusted weight">
 <title>
 The Bear S03 · Philippines uploaders · week 3 · 2024-07-11-to-2024-07-17-partial · 4,295.509 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-612" d="M 705.667,854.474 H 700.667 V 856.474 H 705.667 V 861.474 H 707.667 V 856.474 H 712.667 V 854.474 H 707.667 V 849.474 H 705.667 V 854.474 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,706,855)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-612" d="M 705.667,854.474 H 700.667 V 856.474 H 705.667 V 861.474 H 707.667 V 856.474 H 712.667 V 854.474 H 707.667 V 849.474 H 705.667 V 854.474 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,706,855)" data-tooltip="The Bear S03 · Philippines uploaders · week 4 · 2024-07-18-to-2024-07-24 · 3,606.764 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Philippines uploaders · week 4 · 2024-07-18-to-2024-07-24 · 3,606.764 adjusted weight">
 <title>
 The Bear S03 · Philippines uploaders · week 4 · 2024-07-18-to-2024-07-24 · 3,606.764 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-614" d="M 874.556,859.595 H 869.556 V 861.595 H 874.556 V 866.595 H 876.556 V 861.595 H 881.556 V 859.595 H 876.556 V 854.595 H 874.556 V 859.595 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,875,860)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-614" d="M 874.556,859.595 H 869.556 V 861.595 H 874.556 V 866.595 H 876.556 V 861.595 H 881.556 V 859.595 H 876.556 V 854.595 H 874.556 V 859.595 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,875,860)" data-tooltip="The Bear S03 · Philippines uploaders · week 5 · 2024-07-25-to-2024-07-31 · 2,853.691 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Philippines uploaders · week 5 · 2024-07-25-to-2024-07-31 · 2,853.691 adjusted weight">
 <title>
 The Bear S03 · Philippines uploaders · week 5 · 2024-07-25-to-2024-07-31 · 2,853.691 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-616" d="M 1043.44,862.755 H 1038.44 V 864.755 H 1043.44 V 869.755 H 1045.44 V 864.755 H 1050.44 V 862.755 H 1045.44 V 857.755 H 1043.44 V 862.755 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1044,863)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-616" d="M 1043.44,862.755 H 1038.44 V 864.755 H 1043.44 V 869.755 H 1045.44 V 864.755 H 1050.44 V 862.755 H 1045.44 V 857.755 H 1043.44 V 862.755 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1044,863)" data-tooltip="The Bear S03 · Philippines uploaders · week 6 · 2024-08-01-to-2024-08-07 · 2,388.982 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Philippines uploaders · week 6 · 2024-08-01-to-2024-08-07 · 2,388.982 adjusted weight">
 <title>
 The Bear S03 · Philippines uploaders · week 6 · 2024-08-01-to-2024-08-07 · 2,388.982 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-618" d="M 1212.33,865.078 H 1207.33 V 867.078 H 1212.33 V 872.078 H 1214.33 V 867.078 H 1219.33 V 865.078 H 1214.33 V 860.078 H 1212.33 V 865.078 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1213,866)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-618" d="M 1212.33,865.078 H 1207.33 V 867.078 H 1212.33 V 872.078 H 1214.33 V 867.078 H 1219.33 V 865.078 H 1214.33 V 860.078 H 1212.33 V 865.078 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1213,866)" data-tooltip="The Bear S03 · Philippines uploaders · week 7 · 2024-08-08-to-2024-08-14 · 2,047.382 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Philippines uploaders · week 7 · 2024-08-08-to-2024-08-14 · 2,047.382 adjusted weight">
 <title>
 The Bear S03 · Philippines uploaders · week 7 · 2024-08-08-to-2024-08-14 · 2,047.382 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-620" d="M 1381.22,867.061 H 1376.22 V 869.061 H 1381.22 V 874.061 H 1383.22 V 869.061 H 1388.22 V 867.061 H 1383.22 V 862.061 H 1381.22 V 867.061 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1382,868)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-620" d="M 1381.22,867.061 H 1376.22 V 869.061 H 1381.22 V 874.061 H 1383.22 V 869.061 H 1388.22 V 867.061 H 1383.22 V 862.061 H 1381.22 V 867.061 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1382,868)" data-tooltip="The Bear S03 · Philippines uploaders · week 8 · 2024-08-15-to-2024-08-21-partial · 1,755.691 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Philippines uploaders · week 8 · 2024-08-15-to-2024-08-21-partial · 1,755.691 adjusted weight">
 <title>
 The Bear S03 · Philippines uploaders · week 8 · 2024-08-15-to-2024-08-21-partial · 1,755.691 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-622" d="M 1550.11,868.147 H 1545.11 V 870.147 H 1550.11 V 875.147 H 1552.11 V 870.147 H 1557.11 V 868.147 H 1552.11 V 863.147 H 1550.11 V 868.147 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1551,869)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-622" d="M 1550.11,868.147 H 1545.11 V 870.147 H 1550.11 V 875.147 H 1552.11 V 870.147 H 1557.11 V 868.147 H 1552.11 V 863.147 H 1550.11 V 868.147 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1551,869)" data-tooltip="The Bear S03 · Philippines uploaders · week 9 · 2024-08-22-to-2024-08-28 · 1,595.982 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Philippines uploaders · week 9 · 2024-08-22-to-2024-08-28 · 1,595.982 adjusted weight">
 <title>
 The Bear S03 · Philippines uploaders · week 9 · 2024-08-22-to-2024-08-28 · 1,595.982 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-624" d="M 1719,869.241 H 1714 V 871.241 H 1719 V 876.241 H 1721 V 871.241 H 1726 V 869.241 H 1721 V 864.241 H 1719 V 869.241 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1720,870)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-624" d="M 1719,869.241 H 1714 V 871.241 H 1719 V 876.241 H 1721 V 871.241 H 1726 V 869.241 H 1721 V 864.241 H 1719 V 869.241 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1720,870)" data-tooltip="The Bear S03 · Philippines uploaders · week 10 · 2024-08-29-to-2024-09-04 · 1,435.164 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Philippines uploaders · week 10 · 2024-08-29-to-2024-09-04 · 1,435.164 adjusted weight">
 <title>
 The Bear S03 · Philippines uploaders · week 10 · 2024-08-29-to-2024-09-04 · 1,435.164 adjusted weight
 </title>
  </path>
  <g class="series-label" data-label-week="6.00000"><text x="1044.444444" y="856.754929" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> bear-03</text>
- </g> </g> <g data-series="The Bear S04"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-1-series-5-629">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Bear S04" data-series="The Bear S04" data-collection-key="bear-04"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-1-series-5-629">
 <polyline points="200,829.712 368.889,851.462 537.778,859.668 706.667,861.894 875.556,862.468 1044.44,866.395 1213.33,868.054 1382.22,870.881 1551.11,872.236 1720,873.66 " stroke-dasharray="2 3" stroke-linecap="round" style="fill:rgb(82,82,82); fill-opacity:0; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-631">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-631" data-tooltip="The Bear S04 · Philippines uploaders · week 1 · 2025-06-26-to-2025-07-02-partial · 7,395.233 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Philippines uploaders · week 1 · 2025-06-26-to-2025-07-02-partial · 7,395.233 adjusted weight">
 <title>
 The Bear S04 · Philippines uploaders · week 1 · 2025-06-26-to-2025-07-02-partial · 7,395.233 adjusted weight
 </title>
@@ -985,7 +985,7 @@ The Bear S04 · Philippines uploaders · week 1 · 2025-06-26-to-2025-07-02-part
 <line x1="200.000000" y1="824.516263" x2="196.400000" y2="832.112416" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="200.000000" y1="824.516263" x2="203.600000" y2="827.312416" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-645">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-645" data-tooltip="The Bear S04 · Philippines uploaders · week 2 · 2025-07-03-to-2025-07-09 · 4,196.800 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Philippines uploaders · week 2 · 2025-07-03-to-2025-07-09 · 4,196.800 adjusted weight">
 <title>
 The Bear S04 · Philippines uploaders · week 2 · 2025-07-03-to-2025-07-09 · 4,196.800 adjusted weight
 </title>
@@ -1002,7 +1002,7 @@ The Bear S04 · Philippines uploaders · week 2 · 2025-07-03-to-2025-07-09 · 4
 <line x1="368.888889" y1="846.265608" x2="365.288889" y2="853.861760" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="368.888889" y1="846.265608" x2="372.488889" y2="849.061760" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-659">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-659" data-tooltip="The Bear S04 · Philippines uploaders · week 3 · 2025-07-10-to-2025-07-16 · 2,990.017 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Philippines uploaders · week 3 · 2025-07-10-to-2025-07-16 · 2,990.017 adjusted weight">
 <title>
 The Bear S04 · Philippines uploaders · week 3 · 2025-07-10-to-2025-07-16 · 2,990.017 adjusted weight
 </title>
@@ -1019,7 +1019,7 @@ The Bear S04 · Philippines uploaders · week 3 · 2025-07-10-to-2025-07-16 · 2
 <line x1="537.777778" y1="854.471739" x2="534.177778" y2="862.067891" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="537.777778" y1="854.471739" x2="541.377778" y2="857.267891" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-673">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-673" data-tooltip="The Bear S04 · Philippines uploaders · week 4 · 2025-07-17-to-2025-07-23 · 2,662.650 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Philippines uploaders · week 4 · 2025-07-17-to-2025-07-23 · 2,662.650 adjusted weight">
 <title>
 The Bear S04 · Philippines uploaders · week 4 · 2025-07-17-to-2025-07-23 · 2,662.650 adjusted weight
 </title>
@@ -1036,7 +1036,7 @@ The Bear S04 · Philippines uploaders · week 4 · 2025-07-17-to-2025-07-23 · 2
 <line x1="706.666667" y1="856.697834" x2="703.066667" y2="864.293987" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="706.666667" y1="856.697834" x2="710.266667" y2="859.493987" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-687">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-687" data-tooltip="The Bear S04 · Philippines uploaders · week 5 · 2025-07-24-to-2025-07-30 · 2,578.267 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Philippines uploaders · week 5 · 2025-07-24-to-2025-07-30 · 2,578.267 adjusted weight">
 <title>
 The Bear S04 · Philippines uploaders · week 5 · 2025-07-24-to-2025-07-30 · 2,578.267 adjusted weight
 </title>
@@ -1053,7 +1053,7 @@ The Bear S04 · Philippines uploaders · week 5 · 2025-07-24-to-2025-07-30 · 2
 <line x1="875.555556" y1="857.271639" x2="871.955556" y2="864.867791" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="875.555556" y1="857.271639" x2="879.155556" y2="860.067791" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-701">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-701" data-tooltip="The Bear S04 · Philippines uploaders · week 6 · 2025-07-31-to-2025-08-06 · 2,000.800 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Philippines uploaders · week 6 · 2025-07-31-to-2025-08-06 · 2,000.800 adjusted weight">
 <title>
 The Bear S04 · Philippines uploaders · week 6 · 2025-07-31-to-2025-08-06 · 2,000.800 adjusted weight
 </title>
@@ -1070,7 +1070,7 @@ The Bear S04 · Philippines uploaders · week 6 · 2025-07-31-to-2025-08-06 · 2
 <line x1="1044.444444" y1="861.198414" x2="1040.844444" y2="868.794567" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="1044.444444" y1="861.198414" x2="1048.044444" y2="863.994567" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-715">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-715" data-tooltip="The Bear S04 · Philippines uploaders · week 7 · 2025-08-07-to-2025-08-13 · 1,756.800 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Philippines uploaders · week 7 · 2025-08-07-to-2025-08-13 · 1,756.800 adjusted weight">
 <title>
 The Bear S04 · Philippines uploaders · week 7 · 2025-08-07-to-2025-08-13 · 1,756.800 adjusted weight
 </title>
@@ -1087,7 +1087,7 @@ The Bear S04 · Philippines uploaders · week 7 · 2025-08-07-to-2025-08-13 · 1
 <line x1="1213.333333" y1="862.857608" x2="1209.733333" y2="870.453760" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="1213.333333" y1="862.857608" x2="1216.933333" y2="865.653760" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-729">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-729" data-tooltip="The Bear S04 · Philippines uploaders · week 8 · 2025-08-14-to-2025-08-20 · 1,340.983 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Philippines uploaders · week 8 · 2025-08-14-to-2025-08-20 · 1,340.983 adjusted weight">
 <title>
 The Bear S04 · Philippines uploaders · week 8 · 2025-08-14-to-2025-08-20 · 1,340.983 adjusted weight
 </title>
@@ -1104,7 +1104,7 @@ The Bear S04 · Philippines uploaders · week 8 · 2025-08-14-to-2025-08-20 · 1
 <line x1="1382.222222" y1="865.685163" x2="1378.622222" y2="873.281316" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="1382.222222" y1="865.685163" x2="1385.822222" y2="868.481316" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-743">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-743" data-tooltip="The Bear S04 · Philippines uploaders · week 9 · 2025-08-21-to-2025-08-27 · 1,141.717 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Philippines uploaders · week 9 · 2025-08-21-to-2025-08-27 · 1,141.717 adjusted weight">
 <title>
 The Bear S04 · Philippines uploaders · week 9 · 2025-08-21-to-2025-08-27 · 1,141.717 adjusted weight
 </title>
@@ -1121,7 +1121,7 @@ The Bear S04 · Philippines uploaders · week 9 · 2025-08-21-to-2025-08-27 · 1
 <line x1="1551.111111" y1="867.040179" x2="1547.511111" y2="874.636331" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="1551.111111" y1="867.040179" x2="1554.711111" y2="869.836331" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-757">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-757" data-tooltip="The Bear S04 · Philippines uploaders · week 10 · 2025-08-28-to-2025-09-03 · 932.283 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Philippines uploaders · week 10 · 2025-08-28-to-2025-09-03 · 932.283 adjusted weight">
 <title>
 The Bear S04 · Philippines uploaders · week 10 · 2025-08-28-to-2025-09-03 · 932.283 adjusted weight
 </title>
@@ -1143,8 +1143,8 @@ The Bear S04 · Philippines uploaders · week 10 · 2025-08-28-to-2025-09-03 · 
  </g> <g data-izzi-layout="standard" transform="translate(0 2160)"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-annotations-775">
 <text x="960.000000" y="126.000000" font-family="Atkinson Hyperlegible" font-size="26.000000pt" text-anchor="middle" text-align="center" font-weight="600" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> Australia · Weekly country uploaders</text>
  <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-axes-lines-777">
-<text x="960.000000" y="1007.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> ELAPSED SAMPLING WEEK (SEVEN-DAY INTERVAL)</text>
-<text x="73.000000" y="540.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="500" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5" transform="rotate(-90,73,540)"> 2026 ADJUSTED WEIGHT</text>
+<text x="960.000000" y="1007.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> WEEKS</text>
+<text x="73.000000" y="540.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="500" font-style="normal" style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5" transform="rotate(-90,73,540)"> UPLOADERS</text>
 <line x1="200.000000" y1="880.000000" x2="1720.000000" y2="880.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
 <line x1="200.000000" y1="880.000000" x2="200.000000" y2="200.000000" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -1258,280 +1258,280 @@ The Bear S04 · Philippines uploaders · week 10 · 2025-08-28-to-2025-09-03 · 
  </g>
  </g>
 <text x="960.000000" y="163.000000" font-family="Atkinson Hyperlegible" font-size="19.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–10</text>
- <g data-series="The Pitt 201–203"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-2-series-0-889">
+ <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Pitt 201–203" data-series="The Pitt 201–203" data-collection-key="pitt-201"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-2-series-0-889">
 <polyline points="200,820.786 368.889,775.09 537.778,758.253 706.667,783.216 875.556,801.14 1044.44,812.816 1213.33,813.775 1382.22,818.732 1551.11,822.458 1720,825.743 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <circle cx="200.000000" cy="820.785600" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="200.000000" cy="820.785600" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Australia uploaders · week 1 · 2026-01-09-to-2026-01-15-partial · 8,708.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Australia uploaders · week 1 · 2026-01-09-to-2026-01-15-partial · 8,708.000 adjusted weight">
 <title>
 The Pitt 201–203 · Australia uploaders · week 1 · 2026-01-09-to-2026-01-15-partial · 8,708.000 adjusted weight
 </title>
  </circle>
- <circle cx="368.888889" cy="775.089600" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="368.888889" cy="775.089600" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Australia uploaders · week 2 · 2026-01-16-to-2026-01-22 · 15,428.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Australia uploaders · week 2 · 2026-01-16-to-2026-01-22 · 15,428.000 adjusted weight">
 <title>
 The Pitt 201–203 · Australia uploaders · week 2 · 2026-01-16-to-2026-01-22 · 15,428.000 adjusted weight
 </title>
  </circle>
- <circle cx="537.777778" cy="758.252800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="537.777778" cy="758.252800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Australia uploaders · week 3 · 2026-01-23-to-2026-01-29 · 17,904.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Australia uploaders · week 3 · 2026-01-23-to-2026-01-29 · 17,904.000 adjusted weight">
 <title>
 The Pitt 201–203 · Australia uploaders · week 3 · 2026-01-23-to-2026-01-29 · 17,904.000 adjusted weight
 </title>
  </circle>
- <circle cx="706.666667" cy="783.215600" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="706.666667" cy="783.215600" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Australia uploaders · week 4 · 2026-01-30-to-2026-02-05 · 14,233.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Australia uploaders · week 4 · 2026-01-30-to-2026-02-05 · 14,233.000 adjusted weight">
 <title>
 The Pitt 201–203 · Australia uploaders · week 4 · 2026-01-30-to-2026-02-05 · 14,233.000 adjusted weight
 </title>
  </circle>
- <circle cx="875.555556" cy="801.140400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="875.555556" cy="801.140400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Australia uploaders · week 5 · 2026-02-06-to-2026-02-12 · 11,597.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Australia uploaders · week 5 · 2026-02-06-to-2026-02-12 · 11,597.000 adjusted weight">
 <title>
 The Pitt 201–203 · Australia uploaders · week 5 · 2026-02-06-to-2026-02-12 · 11,597.000 adjusted weight
 </title>
  </circle>
- <circle cx="1044.444444" cy="812.816000" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1044.444444" cy="812.816000" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Australia uploaders · week 6 · 2026-02-13-to-2026-02-19 · 9,880.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Australia uploaders · week 6 · 2026-02-13-to-2026-02-19 · 9,880.000 adjusted weight">
 <title>
 The Pitt 201–203 · Australia uploaders · week 6 · 2026-02-13-to-2026-02-19 · 9,880.000 adjusted weight
 </title>
  </circle>
- <circle cx="1213.333333" cy="813.774800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1213.333333" cy="813.774800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Australia uploaders · week 7 · 2026-02-20-to-2026-02-26 · 9,739.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Australia uploaders · week 7 · 2026-02-20-to-2026-02-26 · 9,739.000 adjusted weight">
 <title>
 The Pitt 201–203 · Australia uploaders · week 7 · 2026-02-20-to-2026-02-26 · 9,739.000 adjusted weight
 </title>
  </circle>
- <circle cx="1382.222222" cy="818.732000" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1382.222222" cy="818.732000" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Australia uploaders · week 8 · 2026-02-27-to-2026-03-05 · 9,010.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Australia uploaders · week 8 · 2026-02-27-to-2026-03-05 · 9,010.000 adjusted weight">
 <title>
 The Pitt 201–203 · Australia uploaders · week 8 · 2026-02-27-to-2026-03-05 · 9,010.000 adjusted weight
 </title>
  </circle>
- <circle cx="1551.111111" cy="822.458400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1551.111111" cy="822.458400" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Australia uploaders · week 9 · 2026-03-06-to-2026-03-12 · 8,462.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Australia uploaders · week 9 · 2026-03-06-to-2026-03-12 · 8,462.000 adjusted weight">
 <title>
 The Pitt 201–203 · Australia uploaders · week 9 · 2026-03-06-to-2026-03-12 · 8,462.000 adjusted weight
 </title>
  </circle>
- <circle cx="1720.000000" cy="825.742800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5">
+ <circle cx="1720.000000" cy="825.742800" r="6.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 201–203 · Australia uploaders · week 10 · 2026-03-13-to-2026-03-19 · 7,979.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 201–203 · Australia uploaders · week 10 · 2026-03-13-to-2026-03-19 · 7,979.000 adjusted weight">
 <title>
 The Pitt 201–203 · Australia uploaders · week 10 · 2026-03-13-to-2026-03-19 · 7,979.000 adjusted weight
 </title>
  </circle>
  <g class="series-label" data-label-week="10.00000"><text x="1720.000000" y="818.742800" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> pitt-201</text>
- </g> </g> <g data-series="The Pitt 213–215"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-2-series-1-914">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Pitt 213–215" data-series="The Pitt 213–215" data-collection-key="pitt-213"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-2-series-1-914">
 <polyline points="200,764.488 368.889,713.189 537.778,622.668 706.667,738.03 875.556,775.144 1044.44,791.505 1213.33,809.158 1382.22,820.466 1551.11,830.571 1720,832.679 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <rect x="194.000000" y="758.488400" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="194.000000" y="758.488400" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Australia uploaders · week 1 · 2026-04-03-to-2026-04-09-partial · 16,987.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Australia uploaders · week 1 · 2026-04-03-to-2026-04-09-partial · 16,987.000 adjusted weight">
 <title>
 The Pitt 213–215 · Australia uploaders · week 1 · 2026-04-03-to-2026-04-09-partial · 16,987.000 adjusted weight
 </title>
  </rect>
- <rect x="362.888889" y="707.189200" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="362.888889" y="707.189200" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Australia uploaders · week 2 · 2026-04-10-to-2026-04-16 · 24,531.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Australia uploaders · week 2 · 2026-04-10-to-2026-04-16 · 24,531.000 adjusted weight">
 <title>
 The Pitt 213–215 · Australia uploaders · week 2 · 2026-04-10-to-2026-04-16 · 24,531.000 adjusted weight
 </title>
  </rect>
- <rect x="531.777778" y="616.667600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="531.777778" y="616.667600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Australia uploaders · week 3 · 2026-04-17-to-2026-04-23 · 37,843.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Australia uploaders · week 3 · 2026-04-17-to-2026-04-23 · 37,843.000 adjusted weight">
 <title>
 The Pitt 213–215 · Australia uploaders · week 3 · 2026-04-17-to-2026-04-23 · 37,843.000 adjusted weight
 </title>
  </rect>
- <rect x="700.666667" y="732.029600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="700.666667" y="732.029600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Australia uploaders · week 4 · 2026-04-24-to-2026-04-30 · 20,878.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Australia uploaders · week 4 · 2026-04-24-to-2026-04-30 · 20,878.000 adjusted weight">
 <title>
 The Pitt 213–215 · Australia uploaders · week 4 · 2026-04-24-to-2026-04-30 · 20,878.000 adjusted weight
 </title>
  </rect>
- <rect x="869.555556" y="769.144000" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="869.555556" y="769.144000" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Australia uploaders · week 5 · 2026-05-01-to-2026-05-07 · 15,420.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Australia uploaders · week 5 · 2026-05-01-to-2026-05-07 · 15,420.000 adjusted weight">
 <title>
 The Pitt 213–215 · Australia uploaders · week 5 · 2026-05-01-to-2026-05-07 · 15,420.000 adjusted weight
 </title>
  </rect>
- <rect x="1038.444444" y="785.504800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1038.444444" y="785.504800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Australia uploaders · week 6 · 2026-05-08-to-2026-05-14 · 13,014.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Australia uploaders · week 6 · 2026-05-08-to-2026-05-14 · 13,014.000 adjusted weight">
 <title>
 The Pitt 213–215 · Australia uploaders · week 6 · 2026-05-08-to-2026-05-14 · 13,014.000 adjusted weight
 </title>
  </rect>
- <rect x="1207.333333" y="803.157600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1207.333333" y="803.157600" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Australia uploaders · week 7 · 2026-05-15-to-2026-05-21 · 10,418.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Australia uploaders · week 7 · 2026-05-15-to-2026-05-21 · 10,418.000 adjusted weight">
 <title>
 The Pitt 213–215 · Australia uploaders · week 7 · 2026-05-15-to-2026-05-21 · 10,418.000 adjusted weight
 </title>
  </rect>
- <rect x="1376.222222" y="814.466000" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1376.222222" y="814.466000" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Australia uploaders · week 8 · 2026-05-22-to-2026-05-28 · 8,755.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Australia uploaders · week 8 · 2026-05-22-to-2026-05-28 · 8,755.000 adjusted weight">
 <title>
 The Pitt 213–215 · Australia uploaders · week 8 · 2026-05-22-to-2026-05-28 · 8,755.000 adjusted weight
 </title>
  </rect>
- <rect x="1545.111111" y="824.570800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1545.111111" y="824.570800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Australia uploaders · week 9 · 2026-05-29-to-2026-06-04 · 7,269.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Australia uploaders · week 9 · 2026-05-29-to-2026-06-04 · 7,269.000 adjusted weight">
 <title>
 The Pitt 213–215 · Australia uploaders · week 9 · 2026-05-29-to-2026-06-04 · 7,269.000 adjusted weight
 </title>
  </rect>
- <rect x="1714.000000" y="826.678800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5">
+ <rect x="1714.000000" y="826.678800" width="12.000000" height="12.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Pitt 213–215 · Australia uploaders · week 10 · 2026-06-05-to-2026-06-11 · 6,959.000 adjusted weight" tabindex="0" role="img" aria-label="The Pitt 213–215 · Australia uploaders · week 10 · 2026-06-05-to-2026-06-11 · 6,959.000 adjusted weight">
 <title>
 The Pitt 213–215 · Australia uploaders · week 10 · 2026-06-05-to-2026-06-11 · 6,959.000 adjusted weight
 </title>
  </rect>
  <g class="series-label" data-label-week="9.00000"><text x="1551.111111" y="823.570800" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> pitt-213</text>
- </g> </g> <g data-series="The Bear S05"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-2-series-2-939">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Bear S05" data-series="The Bear S05" data-collection-key="bear-05"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-2-series-2-939">
 <polyline points="200,618.241 368.889,736.323 537.778,777.551 706.667,796.782 875.556,810.314 1044.44,820.296 1213.33,824.954 1382.22,841.356 1551.11,845.905 1720,849.808 " stroke-dasharray="2 4" stroke-linecap="round" style="fill:rgb(96,106,36); fill-opacity:0; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-941" d="M 205.196 621.241 L 200 612.241 L 194.804 621.241 L 205.196 621.241 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-941" d="M 205.196 621.241 L 200 612.241 L 194.804 621.241 L 205.196 621.241 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Australia uploaders · week 1 · 2026-06-26-to-2026-07-02-partial · 38,494.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Australia uploaders · week 1 · 2026-06-26-to-2026-07-02-partial · 38,494.000 adjusted weight">
 <title>
 The Bear S05 · Australia uploaders · week 1 · 2026-06-26-to-2026-07-02-partial · 38,494.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-943" d="M 374.085 739.323 L 368.889 730.323 L 363.693 739.323 L 374.085 739.323 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-943" d="M 374.085 739.323 L 368.889 730.323 L 363.693 739.323 L 374.085 739.323 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Australia uploaders · week 2 · 2026-07-03-to-2026-07-09 · 21,129.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Australia uploaders · week 2 · 2026-07-03-to-2026-07-09 · 21,129.000 adjusted weight">
 <title>
 The Bear S05 · Australia uploaders · week 2 · 2026-07-03-to-2026-07-09 · 21,129.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-945" d="M 542.974 780.551 L 537.778 771.551 L 532.582 780.551 L 542.974 780.551 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-945" d="M 542.974 780.551 L 537.778 771.551 L 532.582 780.551 L 542.974 780.551 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Australia uploaders · week 3 · 2026-07-10-to-2026-07-16 · 15,066.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Australia uploaders · week 3 · 2026-07-10-to-2026-07-16 · 15,066.000 adjusted weight">
 <title>
 The Bear S05 · Australia uploaders · week 3 · 2026-07-10-to-2026-07-16 · 15,066.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-947" d="M 711.863 799.782 L 706.667 790.782 L 701.471 799.782 L 711.863 799.782 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-947" d="M 711.863 799.782 L 706.667 790.782 L 701.471 799.782 L 711.863 799.782 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Australia uploaders · week 4 · 2026-07-17-to-2026-07-23 · 12,238.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Australia uploaders · week 4 · 2026-07-17-to-2026-07-23 · 12,238.000 adjusted weight">
 <title>
 The Bear S05 · Australia uploaders · week 4 · 2026-07-17-to-2026-07-23 · 12,238.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-949" d="M 880.752 813.314 L 875.556 804.314 L 870.359 813.314 L 880.752 813.314 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-949" d="M 880.752 813.314 L 875.556 804.314 L 870.359 813.314 L 880.752 813.314 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Australia uploaders · week 5 · 2026-07-24-to-2026-07-30 · 10,248.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Australia uploaders · week 5 · 2026-07-24-to-2026-07-30 · 10,248.000 adjusted weight">
 <title>
 The Bear S05 · Australia uploaders · week 5 · 2026-07-24-to-2026-07-30 · 10,248.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-951" d="M 1049.64 823.296 L 1044.44 814.296 L 1039.25 823.296 L 1049.64 823.296 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-951" d="M 1049.64 823.296 L 1044.44 814.296 L 1039.25 823.296 L 1049.64 823.296 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Australia uploaders · week 6 · 2026-07-31-to-2026-08-06 · 8,780.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Australia uploaders · week 6 · 2026-07-31-to-2026-08-06 · 8,780.000 adjusted weight">
 <title>
 The Bear S05 · Australia uploaders · week 6 · 2026-07-31-to-2026-08-06 · 8,780.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-953" d="M 1218.53 827.954 L 1213.33 818.954 L 1208.14 827.954 L 1218.53 827.954 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-953" d="M 1218.53 827.954 L 1213.33 818.954 L 1208.14 827.954 L 1218.53 827.954 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Australia uploaders · week 7 · 2026-08-07-to-2026-08-13 · 8,095.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Australia uploaders · week 7 · 2026-08-07-to-2026-08-13 · 8,095.000 adjusted weight">
 <title>
 The Bear S05 · Australia uploaders · week 7 · 2026-08-07-to-2026-08-13 · 8,095.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-955" d="M 1387.42 844.356 L 1382.22 835.356 L 1377.03 844.356 L 1387.42 844.356 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-955" d="M 1387.42 844.356 L 1382.22 835.356 L 1377.03 844.356 L 1387.42 844.356 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Australia uploaders · week 8 · 2026-08-14-to-2026-08-20-partial · 5,683.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Australia uploaders · week 8 · 2026-08-14-to-2026-08-20-partial · 5,683.000 adjusted weight">
 <title>
 The Bear S05 · Australia uploaders · week 8 · 2026-08-14-to-2026-08-20-partial · 5,683.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-957" d="M 1556.31 848.905 L 1551.11 839.905 L 1545.91 848.905 L 1556.31 848.905 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-957" d="M 1556.31 848.905 L 1551.11 839.905 L 1545.91 848.905 L 1556.31 848.905 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Australia uploaders · week 9 · 2026-08-21-to-2026-08-27 · 5,014.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Australia uploaders · week 9 · 2026-08-21-to-2026-08-27 · 5,014.000 adjusted weight">
 <title>
 The Bear S05 · Australia uploaders · week 9 · 2026-08-21-to-2026-08-27 · 5,014.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-959" d="M 1725.2 852.808 L 1720 843.808 L 1714.8 852.808 L 1725.2 852.808 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n3-r6.000000-959" d="M 1725.2 852.808 L 1720 843.808 L 1714.8 852.808 L 1725.2 852.808 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S05 · Australia uploaders · week 10 · 2026-08-28-to-2026-09-03 · 4,440.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S05 · Australia uploaders · week 10 · 2026-08-28-to-2026-09-03 · 4,440.000 adjusted weight">
 <title>
 The Bear S05 · Australia uploaders · week 10 · 2026-08-28-to-2026-09-03 · 4,440.000 adjusted weight
 </title>
  </path>
  <g class="series-label" data-label-week="8.00000"><text x="1382.222222" y="834.355600" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> bear-05</text>
- </g> </g> <g data-series="The Bear S02"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-2-series-3-964">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Bear S02" data-series="The Bear S02" data-collection-key="bear-02"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-2-series-3-964">
 <polyline points="200,620.389 368.889,752.994 537.778,775.701 706.667,776.968 875.556,787.315 1044.44,802.517 1213.33,818.502 1382.22,813.486 1551.11,819.908 1720,820.76 " stroke-dasharray="8 3 2 3" stroke-linecap="round" style="fill:rgb(77,64,93); fill-opacity:0; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-966" d="M 205.196 617.389 L 200 614.389 L 194.804 617.389 L 194.804 623.389 L 200 626.389 L 205.196 623.389 L 205.196 617.389 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-966" d="M 205.196 617.389 L 200 614.389 L 194.804 617.389 L 194.804 623.389 L 200 626.389 L 205.196 623.389 L 205.196 617.389 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Australia uploaders · week 1 · 2023-06-22-to-2023-06-28-partial · 38,178.093 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Australia uploaders · week 1 · 2023-06-22-to-2023-06-28-partial · 38,178.093 adjusted weight">
 <title>
 The Bear S02 · Australia uploaders · week 1 · 2023-06-22-to-2023-06-28-partial · 38,178.093 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-968" d="M 374.085 749.994 L 368.889 746.994 L 363.693 749.994 L 363.693 755.994 L 368.889 758.994 L 374.085 755.994 L 374.085 749.994 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-968" d="M 374.085 749.994 L 368.889 746.994 L 363.693 749.994 L 363.693 755.994 L 368.889 758.994 L 374.085 755.994 L 374.085 749.994 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Australia uploaders · week 2 · 2023-06-29-to-2023-07-05-partial · 18,677.296 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Australia uploaders · week 2 · 2023-06-29-to-2023-07-05-partial · 18,677.296 adjusted weight">
 <title>
 The Bear S02 · Australia uploaders · week 2 · 2023-06-29-to-2023-07-05-partial · 18,677.296 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-970" d="M 542.974 772.701 L 537.778 769.701 L 532.582 772.701 L 532.582 778.701 L 537.778 781.701 L 542.974 778.701 L 542.974 772.701 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-970" d="M 542.974 772.701 L 537.778 769.701 L 532.582 772.701 L 532.582 778.701 L 537.778 781.701 L 542.974 778.701 L 542.974 772.701 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Australia uploaders · week 3 · 2023-07-06-to-2023-07-12 · 15,338.111 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Australia uploaders · week 3 · 2023-07-06-to-2023-07-12 · 15,338.111 adjusted weight">
 <title>
 The Bear S02 · Australia uploaders · week 3 · 2023-07-06-to-2023-07-12 · 15,338.111 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-972" d="M 711.863 773.968 L 706.667 770.968 L 701.471 773.968 L 701.471 779.968 L 706.667 782.968 L 711.863 779.968 L 711.863 773.968 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-972" d="M 711.863 773.968 L 706.667 770.968 L 701.471 773.968 L 701.471 779.968 L 706.667 782.968 L 711.863 779.968 L 711.863 773.968 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Australia uploaders · week 4 · 2023-07-13-to-2023-07-19 · 15,151.722 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Australia uploaders · week 4 · 2023-07-13-to-2023-07-19 · 15,151.722 adjusted weight">
 <title>
 The Bear S02 · Australia uploaders · week 4 · 2023-07-13-to-2023-07-19 · 15,151.722 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-974" d="M 880.752 784.315 L 875.556 781.315 L 870.359 784.315 L 870.359 790.315 L 875.556 793.315 L 880.752 790.315 L 880.752 784.315 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-974" d="M 880.752 784.315 L 875.556 781.315 L 870.359 784.315 L 870.359 790.315 L 875.556 793.315 L 880.752 790.315 L 880.752 784.315 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Australia uploaders · week 5 · 2023-07-20-to-2023-07-26 · 13,630.111 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Australia uploaders · week 5 · 2023-07-20-to-2023-07-26 · 13,630.111 adjusted weight">
 <title>
 The Bear S02 · Australia uploaders · week 5 · 2023-07-20-to-2023-07-26 · 13,630.111 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-976" d="M 1049.64 799.517 L 1044.44 796.517 L 1039.25 799.517 L 1039.25 805.517 L 1044.44 808.517 L 1049.64 805.517 L 1049.64 799.517 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-976" d="M 1049.64 799.517 L 1044.44 796.517 L 1039.25 799.517 L 1039.25 805.517 L 1044.44 808.517 L 1049.64 805.517 L 1049.64 799.517 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Australia uploaders · week 6 · 2023-07-27-to-2023-08-02 · 11,394.574 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Australia uploaders · week 6 · 2023-07-27-to-2023-08-02 · 11,394.574 adjusted weight">
 <title>
 The Bear S02 · Australia uploaders · week 6 · 2023-07-27-to-2023-08-02 · 11,394.574 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-978" d="M 1218.53 815.502 L 1213.33 812.502 L 1208.14 815.502 L 1208.14 821.502 L 1213.33 824.502 L 1218.53 821.502 L 1218.53 815.502 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-978" d="M 1218.53 815.502 L 1213.33 812.502 L 1208.14 815.502 L 1208.14 821.502 L 1213.33 824.502 L 1218.53 821.502 L 1218.53 815.502 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Australia uploaders · week 7 · 2023-08-03-to-2023-08-09-partial · 9,043.815 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Australia uploaders · week 7 · 2023-08-03-to-2023-08-09-partial · 9,043.815 adjusted weight">
 <title>
 The Bear S02 · Australia uploaders · week 7 · 2023-08-03-to-2023-08-09-partial · 9,043.815 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-980" d="M 1387.42 810.486 L 1382.22 807.486 L 1377.03 810.486 L 1377.03 816.486 L 1382.22 819.486 L 1387.42 816.486 L 1387.42 810.486 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-980" d="M 1387.42 810.486 L 1382.22 807.486 L 1377.03 810.486 L 1377.03 816.486 L 1382.22 819.486 L 1387.42 816.486 L 1387.42 810.486 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Australia uploaders · week 8 · 2023-08-10-to-2023-08-16 · 9,781.463 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Australia uploaders · week 8 · 2023-08-10-to-2023-08-16 · 9,781.463 adjusted weight">
 <title>
 The Bear S02 · Australia uploaders · week 8 · 2023-08-10-to-2023-08-16 · 9,781.463 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-982" d="M 1556.31 816.908 L 1551.11 813.908 L 1545.91 816.908 L 1545.91 822.908 L 1551.11 825.908 L 1556.31 822.908 L 1556.31 816.908 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-982" d="M 1556.31 816.908 L 1551.11 813.908 L 1545.91 816.908 L 1545.91 822.908 L 1551.11 825.908 L 1556.31 822.908 L 1556.31 816.908 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Australia uploaders · week 9 · 2023-08-17-to-2023-08-23 · 8,837.093 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Australia uploaders · week 9 · 2023-08-17-to-2023-08-23 · 8,837.093 adjusted weight">
 <title>
 The Bear S02 · Australia uploaders · week 9 · 2023-08-17-to-2023-08-23 · 8,837.093 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-984" d="M 1725.2 817.76 L 1720 814.76 L 1714.8 817.76 L 1714.8 823.76 L 1720 826.76 L 1725.2 823.76 L 1725.2 817.76 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-n6-r6.000000-984" d="M 1725.2 817.76 L 1720 814.76 L 1714.8 817.76 L 1714.8 823.76 L 1720 826.76 L 1725.2 823.76 L 1725.2 817.76 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2.5" data-tooltip="The Bear S02 · Australia uploaders · week 10 · 2023-08-24-to-2023-08-30 · 8,711.704 adjusted weight" tabindex="0" role="img" aria-label="The Bear S02 · Australia uploaders · week 10 · 2023-08-24-to-2023-08-30 · 8,711.704 adjusted weight">
 <title>
 The Bear S02 · Australia uploaders · week 10 · 2023-08-24-to-2023-08-30 · 8,711.704 adjusted weight
 </title>
  </path>
  <g class="series-label" data-label-week="8.00000"><text x="1382.222222" y="806.486058" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> bear-02</text>
- </g> </g> <g data-series="The Bear S03"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-2-series-4-989">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Bear S03" data-series="The Bear S03" data-collection-key="bear-03"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-2-series-4-989">
 <polyline points="200,647.109 368.889,725.28 537.778,752.86 706.667,770.018 875.556,792.258 1044.44,801.874 1213.33,812.478 1382.22,820.261 1551.11,829.387 1720,834.38 " stroke-dasharray="9 4" stroke-linecap="round" style="fill:rgb(140,65,109); fill-opacity:0; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-991" d="M 199,646.109 H 194 V 648.109 H 199 V 653.109 H 201 V 648.109 H 206 V 646.109 H 201 V 641.109 H 199 V 646.109 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,200,647)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-991" d="M 199,646.109 H 194 V 648.109 H 199 V 653.109 H 201 V 648.109 H 206 V 646.109 H 201 V 641.109 H 199 V 646.109 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,200,647)" data-tooltip="The Bear S03 · Australia uploaders · week 1 · 2024-06-27-to-2024-07-03-partial · 34,248.727 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Australia uploaders · week 1 · 2024-06-27-to-2024-07-03-partial · 34,248.727 adjusted weight">
 <title>
 The Bear S03 · Australia uploaders · week 1 · 2024-06-27-to-2024-07-03-partial · 34,248.727 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-993" d="M 367.889,724.28 H 362.889 V 726.28 H 367.889 V 731.28 H 369.889 V 726.28 H 374.889 V 724.28 H 369.889 V 719.28 H 367.889 V 724.28 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,368,725)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-993" d="M 367.889,724.28 H 362.889 V 726.28 H 367.889 V 731.28 H 369.889 V 726.28 H 374.889 V 724.28 H 369.889 V 719.28 H 367.889 V 724.28 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,368,725)" data-tooltip="The Bear S03 · Australia uploaders · week 2 · 2024-07-04-to-2024-07-10-partial · 22,753.000 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Australia uploaders · week 2 · 2024-07-04-to-2024-07-10-partial · 22,753.000 adjusted weight">
 <title>
 The Bear S03 · Australia uploaders · week 2 · 2024-07-04-to-2024-07-10-partial · 22,753.000 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-995" d="M 536.778,751.86 H 531.778 V 753.86 H 536.778 V 758.86 H 538.778 V 753.86 H 543.778 V 751.86 H 538.778 V 746.86 H 536.778 V 751.86 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,537,752)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-995" d="M 536.778,751.86 H 531.778 V 753.86 H 536.778 V 758.86 H 538.778 V 753.86 H 543.778 V 751.86 H 538.778 V 746.86 H 536.778 V 751.86 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,537,752)" data-tooltip="The Bear S03 · Australia uploaders · week 3 · 2024-07-11-to-2024-07-17-partial · 18,697.055 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Australia uploaders · week 3 · 2024-07-11-to-2024-07-17-partial · 18,697.055 adjusted weight">
 <title>
 The Bear S03 · Australia uploaders · week 3 · 2024-07-11-to-2024-07-17-partial · 18,697.055 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-997" d="M 705.667,769.018 H 700.667 V 771.018 H 705.667 V 776.018 H 707.667 V 771.018 H 712.667 V 769.018 H 707.667 V 764.018 H 705.667 V 769.018 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,706,770)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-997" d="M 705.667,769.018 H 700.667 V 771.018 H 705.667 V 776.018 H 707.667 V 771.018 H 712.667 V 769.018 H 707.667 V 764.018 H 705.667 V 769.018 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,706,770)" data-tooltip="The Bear S03 · Australia uploaders · week 4 · 2024-07-18-to-2024-07-24 · 16,173.873 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Australia uploaders · week 4 · 2024-07-18-to-2024-07-24 · 16,173.873 adjusted weight">
 <title>
 The Bear S03 · Australia uploaders · week 4 · 2024-07-18-to-2024-07-24 · 16,173.873 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-999" d="M 874.556,791.258 H 869.556 V 793.258 H 874.556 V 798.258 H 876.556 V 793.258 H 881.556 V 791.258 H 876.556 V 786.258 H 874.556 V 791.258 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,875,792)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-999" d="M 874.556,791.258 H 869.556 V 793.258 H 874.556 V 798.258 H 876.556 V 793.258 H 881.556 V 791.258 H 876.556 V 786.258 H 874.556 V 791.258 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,875,792)" data-tooltip="The Bear S03 · Australia uploaders · week 5 · 2024-07-25-to-2024-07-31 · 12,903.164 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Australia uploaders · week 5 · 2024-07-25-to-2024-07-31 · 12,903.164 adjusted weight">
 <title>
 The Bear S03 · Australia uploaders · week 5 · 2024-07-25-to-2024-07-31 · 12,903.164 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-1001" d="M 1043.44,800.874 H 1038.44 V 802.874 H 1043.44 V 807.874 H 1045.44 V 802.874 H 1050.44 V 800.874 H 1045.44 V 795.874 H 1043.44 V 800.874 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1044,801)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-1001" d="M 1043.44,800.874 H 1038.44 V 802.874 H 1043.44 V 807.874 H 1045.44 V 802.874 H 1050.44 V 800.874 H 1045.44 V 795.874 H 1043.44 V 800.874 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1044,801)" data-tooltip="The Bear S03 · Australia uploaders · week 6 · 2024-08-01-to-2024-08-07 · 11,489.073 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Australia uploaders · week 6 · 2024-08-01-to-2024-08-07 · 11,489.073 adjusted weight">
 <title>
 The Bear S03 · Australia uploaders · week 6 · 2024-08-01-to-2024-08-07 · 11,489.073 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-1003" d="M 1212.33,811.478 H 1207.33 V 813.478 H 1212.33 V 818.478 H 1214.33 V 813.478 H 1219.33 V 811.478 H 1214.33 V 806.478 H 1212.33 V 811.478 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1213,812)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-1003" d="M 1212.33,811.478 H 1207.33 V 813.478 H 1212.33 V 818.478 H 1214.33 V 813.478 H 1219.33 V 811.478 H 1214.33 V 806.478 H 1212.33 V 811.478 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1213,812)" data-tooltip="The Bear S03 · Australia uploaders · week 7 · 2024-08-08-to-2024-08-14 · 9,929.691 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Australia uploaders · week 7 · 2024-08-08-to-2024-08-14 · 9,929.691 adjusted weight">
 <title>
 The Bear S03 · Australia uploaders · week 7 · 2024-08-08-to-2024-08-14 · 9,929.691 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-1005" d="M 1381.22,819.261 H 1376.22 V 821.261 H 1381.22 V 826.261 H 1383.22 V 821.261 H 1388.22 V 819.261 H 1383.22 V 814.261 H 1381.22 V 819.261 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1382,820)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-1005" d="M 1381.22,819.261 H 1376.22 V 821.261 H 1381.22 V 826.261 H 1383.22 V 821.261 H 1388.22 V 819.261 H 1383.22 V 814.261 H 1381.22 V 819.261 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1382,820)" data-tooltip="The Bear S03 · Australia uploaders · week 8 · 2024-08-15-to-2024-08-21-partial · 8,785.109 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Australia uploaders · week 8 · 2024-08-15-to-2024-08-21-partial · 8,785.109 adjusted weight">
 <title>
 The Bear S03 · Australia uploaders · week 8 · 2024-08-15-to-2024-08-21-partial · 8,785.109 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-1007" d="M 1550.11,828.387 H 1545.11 V 830.387 H 1550.11 V 835.387 H 1552.11 V 830.387 H 1557.11 V 828.387 H 1552.11 V 823.387 H 1550.11 V 828.387 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1551,829)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-1007" d="M 1550.11,828.387 H 1545.11 V 830.387 H 1550.11 V 835.387 H 1552.11 V 830.387 H 1557.11 V 828.387 H 1552.11 V 823.387 H 1550.11 V 828.387 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1551,829)" data-tooltip="The Bear S03 · Australia uploaders · week 9 · 2024-08-22-to-2024-08-28 · 7,443.109 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Australia uploaders · week 9 · 2024-08-22-to-2024-08-28 · 7,443.109 adjusted weight">
 <title>
 The Bear S03 · Australia uploaders · week 9 · 2024-08-22-to-2024-08-28 · 7,443.109 adjusted weight
 </title>
  </path>
- <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-1009" d="M 1719,833.38 H 1714 V 835.38 H 1719 V 840.38 H 1721 V 835.38 H 1726 V 833.38 H 1721 V 828.38 H 1719 V 833.38 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1720,834)">
+ <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-center-mark-2-6-1009" d="M 1719,833.38 H 1714 V 835.38 H 1719 V 840.38 H 1721 V 835.38 H 1726 V 833.38 H 1721 V 828.38 H 1719 V 833.38 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2.5" transform="rotate(45,1720,834)" data-tooltip="The Bear S03 · Australia uploaders · week 10 · 2024-08-29-to-2024-09-04 · 6,708.891 adjusted weight" tabindex="0" role="img" aria-label="The Bear S03 · Australia uploaders · week 10 · 2024-08-29-to-2024-09-04 · 6,708.891 adjusted weight">
 <title>
 The Bear S03 · Australia uploaders · week 10 · 2024-08-29-to-2024-09-04 · 6,708.891 adjusted weight
 </title>
  </path>
  <g class="series-label" data-label-week="7.00000"><text x="1213.333333" y="805.478108" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> bear-03</text>
- </g> </g> <g data-series="The Bear S04"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-2-series-5-1014">
+ </g> </g> <g class="izzi-line-series" tabindex="0" role="group" aria-label="The Bear S04" data-series="The Bear S04" data-collection-key="bear-04"> <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polyline-panel-2-series-5-1014">
 <polyline points="200,484.004 368.889,670.54 537.778,710.928 706.667,753.251 875.556,775.021 1044.44,786.953 1213.33,785.377 1382.22,806.933 1551.11,819.294 1720,826.235 " stroke-dasharray="2 3" stroke-linecap="round" style="fill:rgb(82,82,82); fill-opacity:0; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
  </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1016">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1016" data-tooltip="The Bear S04 · Australia uploaders · week 1 · 2025-06-26-to-2025-07-02-partial · 58,234.667 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Australia uploaders · week 1 · 2025-06-26-to-2025-07-02-partial · 58,234.667 adjusted weight">
 <title>
 The Bear S04 · Australia uploaders · week 1 · 2025-06-26-to-2025-07-02-partial · 58,234.667 adjusted weight
 </title>
@@ -1548,7 +1548,7 @@ The Bear S04 · Australia uploaders · week 1 · 2025-06-26-to-2025-07-02-partia
 <line x1="200.000000" y1="478.808119" x2="196.400000" y2="486.404271" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="200.000000" y1="478.808119" x2="203.600000" y2="481.604271" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1030">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1030" data-tooltip="The Bear S04 · Australia uploaders · week 2 · 2025-07-03-to-2025-07-09 · 30,802.967 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Australia uploaders · week 2 · 2025-07-03-to-2025-07-09 · 30,802.967 adjusted weight">
 <title>
 The Bear S04 · Australia uploaders · week 2 · 2025-07-03-to-2025-07-09 · 30,802.967 adjusted weight
 </title>
@@ -1565,7 +1565,7 @@ The Bear S04 · Australia uploaders · week 2 · 2025-07-03-to-2025-07-09 · 30,
 <line x1="368.888889" y1="665.343679" x2="365.288889" y2="672.939831" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="368.888889" y1="665.343679" x2="372.488889" y2="668.139831" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1044">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1044" data-tooltip="The Bear S04 · Australia uploaders · week 3 · 2025-07-10-to-2025-07-16 · 24,863.600 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Australia uploaders · week 3 · 2025-07-10-to-2025-07-16 · 24,863.600 adjusted weight">
 <title>
 The Bear S04 · Australia uploaders · week 3 · 2025-07-10-to-2025-07-16 · 24,863.600 adjusted weight
 </title>
@@ -1582,7 +1582,7 @@ The Bear S04 · Australia uploaders · week 3 · 2025-07-10-to-2025-07-16 · 24,
 <line x1="537.777778" y1="705.731368" x2="534.177778" y2="713.327520" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="537.777778" y1="705.731368" x2="541.377778" y2="708.527520" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1058">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1058" data-tooltip="The Bear S04 · Australia uploaders · week 4 · 2025-07-17-to-2025-07-23 · 18,639.567 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Australia uploaders · week 4 · 2025-07-17-to-2025-07-23 · 18,639.567 adjusted weight">
 <title>
 The Bear S04 · Australia uploaders · week 4 · 2025-07-17-to-2025-07-23 · 18,639.567 adjusted weight
 </title>
@@ -1599,7 +1599,7 @@ The Bear S04 · Australia uploaders · week 4 · 2025-07-17-to-2025-07-23 · 18,
 <line x1="706.666667" y1="748.054799" x2="703.066667" y2="755.650951" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="706.666667" y1="748.054799" x2="710.266667" y2="750.850951" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1072">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1072" data-tooltip="The Bear S04 · Australia uploaders · week 5 · 2025-07-24-to-2025-07-30 · 15,438.083 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Australia uploaders · week 5 · 2025-07-24-to-2025-07-30 · 15,438.083 adjusted weight">
 <title>
 The Bear S04 · Australia uploaders · week 5 · 2025-07-24-to-2025-07-30 · 15,438.083 adjusted weight
 </title>
@@ -1616,7 +1616,7 @@ The Bear S04 · Australia uploaders · week 5 · 2025-07-24-to-2025-07-30 · 15,
 <line x1="875.555556" y1="769.824883" x2="871.955556" y2="777.421036" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="875.555556" y1="769.824883" x2="879.155556" y2="772.621036" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1086">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1086" data-tooltip="The Bear S04 · Australia uploaders · week 6 · 2025-07-31-to-2025-08-06 · 13,683.317 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Australia uploaders · week 6 · 2025-07-31-to-2025-08-06 · 13,683.317 adjusted weight">
 <title>
 The Bear S04 · Australia uploaders · week 6 · 2025-07-31-to-2025-08-06 · 13,683.317 adjusted weight
 </title>
@@ -1633,7 +1633,7 @@ The Bear S04 · Australia uploaders · week 6 · 2025-07-31-to-2025-08-06 · 13,
 <line x1="1044.444444" y1="781.757299" x2="1040.844444" y2="789.353451" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="1044.444444" y1="781.757299" x2="1048.044444" y2="784.553451" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1100">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1100" data-tooltip="The Bear S04 · Australia uploaders · week 7 · 2025-08-07-to-2025-08-13 · 13,915.117 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Australia uploaders · week 7 · 2025-08-07-to-2025-08-13 · 13,915.117 adjusted weight">
 <title>
 The Bear S04 · Australia uploaders · week 7 · 2025-08-07-to-2025-08-13 · 13,915.117 adjusted weight
 </title>
@@ -1650,7 +1650,7 @@ The Bear S04 · Australia uploaders · week 7 · 2025-08-07-to-2025-08-13 · 13,
 <line x1="1213.333333" y1="780.181059" x2="1209.733333" y2="787.777211" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="1213.333333" y1="780.181059" x2="1216.933333" y2="782.977211" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1114">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1114" data-tooltip="The Bear S04 · Australia uploaders · week 8 · 2025-08-14-to-2025-08-20 · 10,745.150 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Australia uploaders · week 8 · 2025-08-14-to-2025-08-20 · 10,745.150 adjusted weight">
 <title>
 The Bear S04 · Australia uploaders · week 8 · 2025-08-14-to-2025-08-20 · 10,745.150 adjusted weight
 </title>
@@ -1667,7 +1667,7 @@ The Bear S04 · Australia uploaders · week 8 · 2025-08-14-to-2025-08-20 · 10,
 <line x1="1382.222222" y1="801.736828" x2="1378.622222" y2="809.332980" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="1382.222222" y1="801.736828" x2="1385.822222" y2="804.532980" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1128">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1128" data-tooltip="The Bear S04 · Australia uploaders · week 9 · 2025-08-21-to-2025-08-27 · 8,927.350 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Australia uploaders · week 9 · 2025-08-21-to-2025-08-27 · 8,927.350 adjusted weight">
 <title>
 The Bear S04 · Australia uploaders · week 9 · 2025-08-21-to-2025-08-27 · 8,927.350 adjusted weight
 </title>
@@ -1684,7 +1684,7 @@ The Bear S04 · Australia uploaders · week 9 · 2025-08-21-to-2025-08-27 · 8,9
 <line x1="1551.111111" y1="814.097868" x2="1547.511111" y2="821.694020" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 <line x1="1551.111111" y1="814.097868" x2="1554.711111" y2="816.894020" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2.5" />
 </g>
- <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1142">
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders-polygon-oct-r-6.000000-1142" data-tooltip="The Bear S04 · Australia uploaders · week 10 · 2025-08-28-to-2025-09-03 · 7,906.617 adjusted weight" tabindex="0" role="img" aria-label="The Bear S04 · Australia uploaders · week 10 · 2025-08-28-to-2025-09-03 · 7,906.617 adjusted weight">
 <title>
 The Bear S04 · Australia uploaders · week 10 · 2025-08-28-to-2025-09-03 · 7,906.617 adjusted weight
 </title>

@@ -11,6 +11,7 @@ description: "Geographic and mobile-network comparison at matched sampling weeks
 <link rel="stylesheet" href="../resources/izzi-table-wcag-22.css">
 <link rel="stylesheet" href="../resources/mellon-7.6-analysis.css">
 <script defer src="../resources/mellon-7.6-analysis.js"></script>
+<script defer src="../resources/izzi-weekly-graph-hover.js"></script>
 {:/}
 
 [AAPI-Led results](../index.html)
@@ -44,9 +45,10 @@ visible; the adjustment leaves geographic shares and mobile rates unchanged.
   objects; Australian rates span **3.05–7.07%**. These describe IP-network
   classification, not phone viewing or Wi-Fi versus cellular usage.
 
-The country close-ups below combine the audit's **≥1080p** and **<1080p**
-resolution groups for Pitt 201–203 across **weeks 1–26**, with individual
-resolution-group values and sources available for inspection.
+The six country close-ups use Pitt 201–203's original **cumulative sample
+cache, January 9–July 9, 2026**, with **all sampled resolutions together**
+and colors assigned to each coalesced BTIH member by the audit renderer.
+Worldwide line graphs show available full bins on a **weeks 1–26** axis.
 
 ## Objects and observation windows
 
@@ -64,7 +66,7 @@ The comparison includes two three-episode Pitt groups from 2026 and Bear seasons
 
 ### Sampling coverage
 
-- **The Pitt 201–203:** Hourly discontinuities: 3 (34 missing hours); Missing days: 1; hourly gap: last `2026-02-08 22:00`, resumed `2026-02-09 00:00` — missing 1 hour(s); hourly gap: last `2026-03-29 01:00`, resumed `2026-03-29 03:00` — missing 1 hour(s); hourly gap: last `2026-07-02 23:00`, resumed `2026-07-04 08:26` — missing 32 hour(s); missing day: `2026-07-03`; Input: **sample-cache-cumulative**. These country close-ups are drawn directly from the original cumulative sample cache after duplicate-BTIH coalescing and IP geolocation. No published GeoJSON, cell publication threshold or product rescaling is used. No ITU adjustment or missing-hour imputation is applied.
+- **The Pitt 201–203:** Hourly discontinuities: 3 (34 missing hours); Missing days: 1; hourly gap: last `2026-02-08 22:00`, resumed `2026-02-09 00:00` — missing 1 hour(s); hourly gap: last `2026-03-29 01:00`, resumed `2026-03-29 03:00` — missing 1 hour(s); hourly gap: last `2026-07-02 23:00`, resumed `2026-07-04 08:26` — missing 32 hour(s); missing day: `2026-07-03`
 - **The Pitt 213–215:** Hourly discontinuities: 4 (17 missing hours); Missing days: 0; hourly gap: last `2026-04-25 22:01`, resumed `2026-04-26 03:01` — missing 4 hour(s); hourly gap: last `2026-06-02 22:01`, resumed `2026-06-03 02:01` — missing 3 hour(s); hourly gap: last `2026-08-30 22:01`, resumed `2026-08-31 00:01` — missing 1 hour(s); hourly gap: last `2026-09-10 22:01`, resumed `2026-09-11 08:01` — missing 9 hour(s)
 - **The Bear S05:** Hourly discontinuities: 1 (29 missing hours); Missing days: 1; hourly gap: last `2026-08-14 18:02`, resumed `2026-08-16 00:02` — missing 29 hour(s); missing day: `2026-08-15`
 - **The Bear S02:** Hourly discontinuities: 2 (27 missing hours); Missing days: 0; hourly gap: last `2023-08-29 09:06`, resumed `2023-08-29 14:06` — missing 4 hour(s); hourly gap: last `2023-12-01 22:06`, resumed `2023-12-02 22:30` — missing 23 hour(s)
@@ -85,7 +87,7 @@ The sample-start year selects the denominator. This scales global Internet-user
 growth; it does not adjust country-specific penetration, sampling coverage,
 episodes per object or torrent inventories. It is not an estimate of viewers.
 Applying the same multiplier to all counts within an object leaves country
-shares, mobile rates, hosting rates and share-difference maps unchanged.
+shares, mobile rates and hosting rates unchanged.
 
 The historical 2023 and 2024 denominators retain the project's as-published
 vintages for comparability. ITU later revised 2024 from 5.5 to 5.8 billion;
@@ -144,11 +146,12 @@ Sources: [ITU 2023](https://www.itu.int/en/mediacentre/Pages/PR-2023-11-27-facts
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pitt-bear-compare-world-weekly-itu-2026.svg %}
-<figcaption>Standard Izzi C++ weekly graphs for all six media objects, with names directly on their lines. Worldwide weekly downloaders and uploaders, weeks 1–10, scaled to the provisional 6.1-billion 2026 reference. The two role panels use different vertical scales. Raw interval values are retained in the ledger. <a href="../resources/mellon-7.6-pitt-bear-compare-world-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs for all 6 media objects, with names directly on their lines. Worldwide weekly downloaders and uploaders, weeks 1–26, scaled to the provisional 6.1-billion 2026 reference. The two role panels use different vertical scales. Lines stop at each object’s last available full bin. Raw interval values are retained in the ledger. <a href="../resources/mellon-7.6-pitt-bear-compare-world-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
 
+Hover a media-object name to highlight its line in red; keyboard focus or tapping a series also highlights it. Leave the plot or press Escape to restore the original colors. Available full bins: Pitt 201–203 **26**, Pitt 213–215 **23**, Bear S05 **11**, and Bear S02–S04 **26 each**.
 
 ### Coverage sensitivity
 
@@ -228,471 +231,257 @@ Counts below are summed weekly swarm weights. Geographic shares use the worldwid
 
 
 
-## Pitt 201–203: combined resolution country close-ups
+## Pitt 201–203: cumulative sample-cache country close-ups
 
-These six plates cover **Philippines (PHL), Australia (AUS), India (IND),
-Japan (JPN), China (CHN), and South Korea (KOR)**, with **≥1080p (1080 and
-2160)** and **<1080p (720 and SD)** together on each country map. They cover
-**weeks 1–26, January 9–July 9, 2026**. Pink filled circles show ≥1080p;
-orange rings show <1080p. Circle **area** represents downloader weight on
-one scale across all six plates. The two groups share city centers.
-Hover or focus a circle for its count and mobile rate.
+**Philippines (PHL), Australia (AUS), India (IND), Japan (JPN), China (CHN),
+and South Korea (KOR)** use the original **cumulative sample cache,
+January 9–July 9, 2026**. Each map combines **all sampled resolutions**:
+2160, 1080, 720 and SD. The existing audit renderer assigns colors to each
+of the **392 coalesced unique-BTIH members**: yellow/orange for 2160,
+pink/purple for 1080, blue for 720 and green for SD, with member shades
+within those families. The member-to-color assignments are recorded in the
+[source accounting](figures/pitt-201-country-source-accounting.json).
 
-The source is the weekly **by-BTIH geographic product**, joined to all 392
-canonical, unique-BTIH torrent records by member ID and exact name: 236 torrents
-at ≥1080p and 156 below 1080p; none have unclassified resolution. Weights repeat
-across torrents and weeks. This product has a different aggregation grain from
-the top-level weekly geographic product used in the comparison tables above;
-its totals are not interchangeable with those tables or unique-person counts.
-Missing sampling hours remain unadjusted, including the reported July 3 gap.
+These are raw cumulative-cache downloader weights, after BTIH coalescing and
+IP geolocation. No GeoJSON reconstruction, publication threshold, product
+rescaling, ITU scaling or missing-hour imputation is applied. Cumulative
+weights and the weekly geographic totals above have different aggregation
+grains and should not be substituted for one another. Neither counts viewers.
 
-**Izzi and Cartofreako** draw the vector plates using the audit's registered
-Cahill–Keyes projection. Each country outline and its mapped city
-coordinates fit the available panel width or height while preserving projected
-proportions. Geographic scale differs by country. Lake water is removed from
-the land polygons; interior holes and projection seams are preserved.
-Australia retains the mainland/Tasmania close-up; offshore islands across a
-projection cut would shrink the mainland. All sampled Australian cities fit
-this extent. The other five countries use their complete outlines.
+**Izzi and Cartofreako** draw every map through the existing
+`a60-carto-geo --cumulative-maps … --country ISO3` mechanism. Country outlines
+and city positions use registered Cahill–Keyes coordinates and fit the page
+uniformly. Australia keeps the mainland and Tasmania together, with offshore
+islands in insets. Vector lake holes and projection seams are retained. Circle area
+represents downloader weight, with the same coefficient and 5% opacity across
+all six countries. Location names retain the audit's centered, weight-sized
+Apercu style at their mapped locations.
 
-| Country | Resolution group | Downloader weight | Mobile rate |
-| --- | --- | --- | --- |
-| Philippines | ≥1080p (1080 + 2160) | 76,806 | 27.71% |
-| Philippines | <1080p (720 + SD) | 23,286 | 23.01% |
-| Australia | ≥1080p (1080 + 2160) | 652,992 | 3.28% |
-| Australia | <1080p (720 + SD) | 258,794 | 3.96% |
-| India | ≥1080p (1080 + 2160) | 133,346 | 19.18% |
-| India | <1080p (720 + SD) | 62,087 | 17.63% |
-| Japan | ≥1080p (1080 + 2160) | 451,517 | 24.76% |
-| Japan | <1080p (720 + SD) | 246,586 | 25.38% |
-| China | ≥1080p (1080 + 2160) | 5,000,498 | 0.91% |
-| China | <1080p (720 + SD) | 2,534,112 | 0.95% |
-| South Korea | ≥1080p (1080 + 2160) | 6,804,716 | 1.59% |
-| South Korea | <1080p (720 + SD) | 3,815,008 | 1.59% |
+**Click any map to open its high-resolution image in a new tab.**
+
+| Country | Cumulative-cache downloaders | Cumulative-cache uploaders |
+| --- | --- | --- |
+| Philippines | 124,061 | 25,674 |
+| Australia | 711,377 | 129,091 |
+| India | 355,002 | 31,458 |
+| Japan | 910,256 | 8,632 |
+| China | 5,572,194 | 191,732 |
+| South Korea | 8,567,725 | 11,546 |
 
 
 ### Philippines
 
 {::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-201-phl.svg %}
-<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 101 identified city locations. One circle-area scale across all six countries. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-phl.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
+<figure class="analysis-figure country-cache-figure" data-country="PHL">
+<a href="figures/pitt-201-data-country-phl-combined-4k.webp" target="_blank" rel="noopener">
+<img src="figures/pitt-201-data-country-phl-combined.webp" alt="Philippines: Pitt 201–203 cumulative downloaders, all resolutions; opens high-resolution image in a new tab" loading="lazy" style="max-width:100%;height:auto">
+</a>
+<figcaption>Philippines, January 9–July 9, 2026. All sampled resolutions; color per coalesced BTIH member.
+<a href="figures/pitt-201-data-country-phl-combined-4k.webp" target="_blank" rel="noopener">High-resolution image (3840-pixel long edge; new tab)</a> ·
+<a href="figures/pitt-201-data-country-phl-combined.svg">Vector SVG</a> ·
+<a href="figures/pitt-201-data-country-phl.json">Accounting and layout receipt</a>.</figcaption>
 </figure>
 {:/}
 
-Unlocated downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
+<details markdown="1"><summary>Philippines: top cumulative-cache locations</summary>
 
-<details markdown="1"><summary>Philippines: top ten mapped cities and mobile rates</summary>
+| Location | Downloader weight |
+| --- | --- |
+| Quezon City | 42,160 |
+| Manila | 10,323 |
+| Cebu City | 9,543 |
+| Davao | 5,659 |
+| Taguig | 4,064 |
+| Makati City | 3,406 |
+| Angeles City | 3,274 |
+| Pasig City | 2,406 |
+| Calamba | 2,205 |
+| Cagayan de Oro | 2,167 |
 
-| City | ≥1080p weight | ≥1080p mobile rate | <1080p weight | <1080p mobile rate |
-| --- | --- | --- | --- | --- |
-| Quezon City | 37,008 | 27.28% | 13,179 | 23.65% |
-| Manila | 11,481 | 25.29% | 3,344 | 21.26% |
-| Cebu City | 6,037 | 33.01% | 1,491 | 33.20% |
-| Davao | 3,264 | 41.85% | 475 | 31.37% |
-| Makati City | 1,931 | 26.36% | 773 | 23.03% |
-| Taguig | 2,096 | 25.62% | 565 | 34.34% |
-| Pasig City | 1,750 | 28.51% | 708 | 21.61% |
-| Iloilo | 1,621 | 84.27% | 40 | 62.50% |
-| Caloocan | 1,032 | 25.10% | 441 | 17.46% |
-| Angeles City | 1,061 | 4.81% | 222 | 5.86% |
 
+Country-coded locations outside the vector boundary are retained: **51 coordinate pairs**. Exact ISO3 codes determine membership.
 
 </details>
 
 ### Australia
 
 {::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-201-aus.svg %}
-<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 51 identified city locations. One circle-area scale across all six countries. Australia extent: mainland and Tasmania. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-aus.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
+<figure class="analysis-figure country-cache-figure" data-country="AUS">
+<a href="figures/pitt-201-data-country-aus-combined-4k.webp" target="_blank" rel="noopener">
+<img src="figures/pitt-201-data-country-aus-combined.webp" alt="Australia: Pitt 201–203 cumulative downloaders, all resolutions; opens high-resolution image in a new tab" loading="lazy" style="max-width:100%;height:auto">
+</a>
+<figcaption>Australia, January 9–July 9, 2026. All sampled resolutions; color per coalesced BTIH member.
+<a href="figures/pitt-201-data-country-aus-combined-4k.webp" target="_blank" rel="noopener">High-resolution image (3840-pixel long edge; new tab)</a> ·
+<a href="figures/pitt-201-data-country-aus-combined.svg">Vector SVG</a> ·
+<a href="figures/pitt-201-data-country-aus.json">Accounting and layout receipt</a>.</figcaption>
 </figure>
 {:/}
 
-Unlocated downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
+<details markdown="1"><summary>Australia: top cumulative-cache locations</summary>
 
-<details markdown="1"><summary>Australia: top ten mapped cities and mobile rates</summary>
+| Location | Downloader weight |
+| --- | --- |
+| Sydney | 211,000 |
+| Melbourne | 204,941 |
+| Brisbane | 106,059 |
+| Perth | 73,892 |
+| Adelaide | 47,954 |
+| Canberra | 8,680 |
+| Hobart | 6,112 |
+| Townsville | 3,567 |
+| Toongabbie West | 2,707 |
+| Geelong | 2,660 |
 
-| City | ≥1080p weight | ≥1080p mobile rate | <1080p weight | <1080p mobile rate |
-| --- | --- | --- | --- | --- |
-| Sydney | 215,829 | 3.25% | 85,113 | 4.93% |
-| Melbourne | 195,473 | 2.87% | 82,175 | 2.58% |
-| Brisbane | 112,287 | 3.14% | 38,478 | 3.89% |
-| Perth | 73,711 | 2.59% | 31,848 | 2.44% |
-| Adelaide | 43,604 | 6.11% | 17,145 | 7.62% |
-| Canberra | 3,832 | 7.93% | 1,651 | 11.45% |
-| Hobart | 2,420 | 13.55% | 784 | 17.35% |
-| Gold Coast | 976 | 1.64% | 119 | 5.88% |
-| Tamworth | 555 | 0.00% | 488 | 0.00% |
-| Townsville | 720 | 0.00% | 250 | 0.00% |
 
+Country-coded locations outside the vector boundary are retained: **13 coordinate pairs**. Exact ISO3 codes determine membership.
 
 </details>
 
 ### India
 
 {::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-201-ind.svg %}
-<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 269 identified city locations. One circle-area scale across all six countries. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-ind.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
+<figure class="analysis-figure country-cache-figure" data-country="IND">
+<a href="figures/pitt-201-data-country-ind-combined-4k.webp" target="_blank" rel="noopener">
+<img src="figures/pitt-201-data-country-ind-combined.webp" alt="India: Pitt 201–203 cumulative downloaders, all resolutions; opens high-resolution image in a new tab" loading="lazy" style="max-width:100%;height:auto">
+</a>
+<figcaption>India, January 9–July 9, 2026. All sampled resolutions; color per coalesced BTIH member.
+<a href="figures/pitt-201-data-country-ind-combined-4k.webp" target="_blank" rel="noopener">High-resolution image (3840-pixel long edge; new tab)</a> ·
+<a href="figures/pitt-201-data-country-ind-combined.svg">Vector SVG</a> ·
+<a href="figures/pitt-201-data-country-ind.json">Accounting and layout receipt</a>.</figcaption>
 </figure>
 {:/}
 
-Unlocated downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
+<details markdown="1"><summary>India: top cumulative-cache locations</summary>
 
-<details markdown="1"><summary>India: top ten mapped cities and mobile rates</summary>
+| Location | Downloader weight |
+| --- | --- |
+| Hyderabad | 30,909 |
+| Bengaluru | 29,168 |
+| Delhi | 26,920 |
+| Chennai | 25,542 |
+| Mumbai | 21,243 |
+| Kolkata | 8,865 |
+| Pune | 7,403 |
+| Garhchiroli | 6,603 |
+| Agartala | 6,379 |
+| Alappuzha | 6,134 |
 
-| City | ≥1080p weight | ≥1080p mobile rate | <1080p weight | <1080p mobile rate |
-| --- | --- | --- | --- | --- |
-| Hyderabad | 18,679 | 24.84% | 10,013 | 26.43% |
-| Bengaluru | 19,374 | 9.97% | 8,141 | 9.26% |
-| Delhi | 17,876 | 17.85% | 7,047 | 11.98% |
-| Chennai | 11,600 | 15.35% | 10,471 | 19.35% |
-| Mumbai | 12,917 | 14.94% | 6,521 | 14.51% |
-| Kolkata | 3,674 | 33.02% | 1,518 | 20.29% |
-| Pune | 3,649 | 16.72% | 949 | 18.97% |
-| Mapusa | 2,503 | 4.67% | 1,592 | 0.06% |
-| Agartala | 2,705 | 16.93% | 1,314 | 10.27% |
-| Alappuzha | 2,200 | 22.45% | 1,114 | 21.36% |
 
+Country-coded locations outside the vector boundary are retained: **14 coordinate pairs**. Exact ISO3 codes determine membership.
 
 </details>
 
 ### Japan
 
 {::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-201-jpn.svg %}
-<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 366 identified city locations. One circle-area scale across all six countries. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-jpn.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
+<figure class="analysis-figure country-cache-figure" data-country="JPN">
+<a href="figures/pitt-201-data-country-jpn-combined-4k.webp" target="_blank" rel="noopener">
+<img src="figures/pitt-201-data-country-jpn-combined.webp" alt="Japan: Pitt 201–203 cumulative downloaders, all resolutions; opens high-resolution image in a new tab" loading="lazy" style="max-width:100%;height:auto">
+</a>
+<figcaption>Japan, January 9–July 9, 2026. All sampled resolutions; color per coalesced BTIH member.
+<a href="figures/pitt-201-data-country-jpn-combined-4k.webp" target="_blank" rel="noopener">High-resolution image (3840-pixel long edge; new tab)</a> ·
+<a href="figures/pitt-201-data-country-jpn-combined.svg">Vector SVG</a> ·
+<a href="figures/pitt-201-data-country-jpn.json">Accounting and layout receipt</a>.</figcaption>
 </figure>
 {:/}
 
-Unlocated downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
+<details markdown="1"><summary>Japan: top cumulative-cache locations</summary>
 
-<details markdown="1"><summary>Japan: top ten mapped cities and mobile rates</summary>
+| Location | Downloader weight |
+| --- | --- |
+| Tokyo | 240,677 |
+| Osaka | 89,369 |
+| Yokohama | 68,698 |
+| Nagoya | 39,609 |
+| Kobe | 18,175 |
+| Saitama | 16,106 |
+| Kawasaki | 14,210 |
+| Fukuoka | 11,976 |
+| Chiba | 11,637 |
+| Kyoto | 10,744 |
 
-| City | ≥1080p weight | ≥1080p mobile rate | <1080p weight | <1080p mobile rate |
-| --- | --- | --- | --- | --- |
-| Tokyo | 182,669 | 24.60% | 98,660 | 25.36% |
-| Osaka | 63,838 | 17.10% | 34,148 | 17.41% |
-| Yokohama | 47,008 | 38.77% | 26,803 | 39.06% |
-| Nagoya | 26,109 | 18.87% | 14,717 | 18.96% |
-| Ōi | 15,976 | 3.56% | 7,771 | 3.20% |
-| Kawasaki | 10,278 | 38.78% | 5,654 | 39.12% |
-| Kobe | 9,881 | 18.25% | 5,705 | 18.63% |
-| Saitama | 9,582 | 41.98% | 5,392 | 42.60% |
-| Ebara | 7,266 | 5.84% | 3,975 | 6.57% |
-| Chiba | 5,154 | 49.46% | 2,881 | 50.19% |
 
+Country-coded locations outside the vector boundary are retained: **16 coordinate pairs**. Exact ISO3 codes determine membership.
 
 </details>
 
 ### China
 
 {::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-201-chn.svg %}
-<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 121 identified city locations. One circle-area scale across all six countries. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-chn.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
+<figure class="analysis-figure country-cache-figure" data-country="CHN">
+<a href="figures/pitt-201-data-country-chn-combined-4k.webp" target="_blank" rel="noopener">
+<img src="figures/pitt-201-data-country-chn-combined.webp" alt="China: Pitt 201–203 cumulative downloaders, all resolutions; opens high-resolution image in a new tab" loading="lazy" style="max-width:100%;height:auto">
+</a>
+<figcaption>China, January 9–July 9, 2026. All sampled resolutions; color per coalesced BTIH member.
+<a href="figures/pitt-201-data-country-chn-combined-4k.webp" target="_blank" rel="noopener">High-resolution image (3840-pixel long edge; new tab)</a> ·
+<a href="figures/pitt-201-data-country-chn-combined.svg">Vector SVG</a> ·
+<a href="figures/pitt-201-data-country-chn.json">Accounting and layout receipt</a>.</figcaption>
 </figure>
 {:/}
 
-Unlocated downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
+<details markdown="1"><summary>China: top cumulative-cache locations</summary>
 
-<details markdown="1"><summary>China: top ten mapped cities and mobile rates</summary>
+| Location | Downloader weight |
+| --- | --- |
+| Nanjing | 1,431,109 |
+| Shanghai | 976,105 |
+| Hangzhou | 804,076 |
+| Shenzhen | 531,103 |
+| Beijing | 180,027 |
+| Jiaxing | 135,494 |
+| Zhengzhou | 128,052 |
+| Qingdao | 115,529 |
+| Shaoxing | 84,888 |
+| Shenyang | 82,631 |
 
-| City | ≥1080p weight | ≥1080p mobile rate | <1080p weight | <1080p mobile rate |
-| --- | --- | --- | --- | --- |
-| Nanjing | 1,635,768 | 0.24% | 739,429 | 0.31% |
-| Shanghai | 786,669 | 2.92% | 434,918 | 2.93% |
-| Hangzhou | 719,693 | 0.16% | 377,860 | 0.19% |
-| Shenzhen | 512,250 | 0.38% | 284,727 | 0.37% |
-| Jiaxing | 144,582 | 0.60% | 80,082 | 0.51% |
-| Beijing | 126,122 | 0.21% | 67,880 | 0.18% |
-| Suzhou | 86,995 | 0.20% | 48,792 | 0.15% |
-| Zhengzhou | 86,798 | 0.13% | 47,929 | 0.13% |
-| Qingdao | 78,510 | 0.06% | 43,670 | 0.04% |
-| Shaoxing | 72,549 | 0.00% | 37,734 | 0.01% |
 
+Country-coded locations outside the vector boundary are retained: **3 coordinate pairs**. Exact ISO3 codes determine membership.
 
 </details>
 
 ### South Korea
 
 {::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-201-kor.svg %}
-<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 135 identified city locations. One circle-area scale across all six countries. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-kor.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
+<figure class="analysis-figure country-cache-figure" data-country="KOR">
+<a href="figures/pitt-201-data-country-kor-combined-4k.webp" target="_blank" rel="noopener">
+<img src="figures/pitt-201-data-country-kor-combined.webp" alt="South Korea: Pitt 201–203 cumulative downloaders, all resolutions; opens high-resolution image in a new tab" loading="lazy" style="max-width:100%;height:auto">
+</a>
+<figcaption>South Korea, January 9–July 9, 2026. All sampled resolutions; color per coalesced BTIH member.
+<a href="figures/pitt-201-data-country-kor-combined-4k.webp" target="_blank" rel="noopener">High-resolution image (3840-pixel long edge; new tab)</a> ·
+<a href="figures/pitt-201-data-country-kor-combined.svg">Vector SVG</a> ·
+<a href="figures/pitt-201-data-country-kor.json">Accounting and layout receipt</a>.</figcaption>
 </figure>
 {:/}
 
-Unlocated downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
+<details markdown="1"><summary>South Korea: top cumulative-cache locations</summary>
 
-<details markdown="1"><summary>South Korea: top ten mapped cities and mobile rates</summary>
+| Location | Downloader weight |
+| --- | --- |
+| Seoul | 3,000,383 |
+| Incheon | 754,101 |
+| Busan | 361,401 |
+| Daegu | 305,963 |
+| Suwon | 230,554 |
+| Gwangju | 224,049 |
+| Daejeon | 192,179 |
+| Seongnam-si | 182,565 |
+| Hwaseong-si | 174,805 |
+| Goyang-si | 170,500 |
 
-| City | ≥1080p weight | ≥1080p mobile rate | <1080p weight | <1080p mobile rate |
-| --- | --- | --- | --- | --- |
-| Seoul | 2,527,321 | 2.72% | 1,416,103 | 2.72% |
-| Incheon | 636,972 | 1.19% | 357,281 | 1.18% |
-| Busan | 280,606 | 1.58% | 157,910 | 1.55% |
-| Daegu | 249,233 | 0.33% | 139,573 | 0.31% |
-| Suwon | 190,730 | 1.06% | 106,410 | 1.05% |
-| Seongnam-si | 155,077 | 0.99% | 87,366 | 1.01% |
-| Daejeon | 152,256 | 0.25% | 86,608 | 0.23% |
-| Goyang-si | 143,470 | 2.00% | 80,426 | 2.05% |
-| Hwaseong-si | 142,862 | 0.64% | 80,103 | 0.66% |
-| Gwangju | 140,445 | 1.24% | 78,531 | 1.18% |
 
+Country-coded locations outside the vector boundary are retained: **0 coordinate pairs**. Exact ISO3 codes determine membership.
 
 </details>
 
-Projection: [Cartofreako native Cahill–Keyes](https://github.com/bdekoz/cartofreako/blob/ec201801a0386fc681c7637e26a838117ecf23de/src.projections/cart0freak0-cahill-keyes.h), with its one-degree longitude registration; developed from the Cahill–Keyes work of Gene Keyes and Mary Jo Graça. [Izzi renderer](../resources/mellon-7-6-resolution-maps.cc). Basemap: Natural Earth v5.1.2 1:10m countries and lakes, public domain. [Country and lake geometry with upstream hashes](../data/mellon-7.6-resolution-map-boundaries.json) and [projection, extent, circle-area and omitted-weight provenance](../data/mellon-7.6-country-plates-provenance.json). Member resolutions, all cities, weekly group totals and pinned source hashes are in the calculation ledger.
+Source archive: `pitt-201.cache/cache.20260709.tar.xz`, SHA-256
+`688e0f58cddadc3fecdd1df337cbc3e33a610861511fd922c5931fdc7e09372c`. The render manifest records all 416 cumulative input
+files, torrent inventory hashes, geolocation database hash, native C++ source
+and executable hashes, and pinned Izzi/Cartofreako revisions.
 
-## Hot and cold locations
-
-Orange upward triangles favor the first named object; blue downward triangles favor the second. These are selected differences in **city share of the worldwide swarm**, rather than differences in raw title size. Hover or focus a triangle for its values; the following table provides the same evidence.
-
-{::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-bear-compare-map-1.svg %}
-<figcaption>Selected shared city locations; weeks 1–10. Full counts and periods are in the calculation ledger. Land: Natural Earth via Cartofreako. <a href="../resources/mellon-7.6-pitt-bear-compare-map-1.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
-</figure>
-{:/}
-
-
-| Country / city | The Pitt 201–203 weight | The Bear S05 weight | First world share | Second world share | Difference (pp) |
-| --- | --- | --- | --- | --- | --- |
-| India / Chennai | 14,815 | 9,266 | 0.049% | 0.024% | +0.025 |
-| India / Agartala | 5,040 | 528 | 0.017% | 0.001% | +0.015 |
-| India / Mumbai | 10,594 | 18,244 | 0.035% | 0.048% | -0.013 |
-| India / Kolkata | 4,085 | 5,775 | 0.014% | 0.015% | -0.002 |
-| Philippines / Manila | 14,020 | 10,846 | 0.046% | 0.029% | +0.018 |
-| Philippines / Cebu City | 4,841 | 4,670 | 0.016% | 0.012% | +0.004 |
-| Philippines / Quezon City | 14,848 | 27,940 | 0.049% | 0.074% | -0.024 |
-| Philippines / Binangonan | 127 | 794 | 0.000% | 0.002% | -0.002 |
-| Australia / Perth | 47,166 | 52,520 | 0.156% | 0.138% | +0.018 |
-| Australia / Adelaide | 28,631 | 33,622 | 0.095% | 0.089% | +0.006 |
-| Australia / Melbourne | 127,324 | 161,553 | 0.422% | 0.425% | -0.004 |
-| Australia / Leeton | 15 | 348 | 0.000% | 0.001% | -0.001 |
-
-Among the selected shared locations, Chennai has the largest positive difference (+0.025 pp) and Quezon City the smallest difference (-0.024 pp). These comparisons normalize by each object's worldwide swarm weight; they do not imply the same ordering of absolute counts.
-
-{::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-bear-compare-map-2.svg %}
-<figcaption>Selected shared city locations; weeks 1–10. Full counts and periods are in the calculation ledger. Land: Natural Earth via Cartofreako. <a href="../resources/mellon-7.6-pitt-bear-compare-map-2.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
-</figure>
-{:/}
-
-
-| Country / city | The Pitt 213–215 weight | The Bear S05 weight | First world share | Second world share | Difference (pp) |
-| --- | --- | --- | --- | --- | --- |
-| India / Delhi | 13,988 | 14,206 | 0.047% | 0.037% | +0.010 |
-| India / Chennai | 9,305 | 9,266 | 0.032% | 0.024% | +0.007 |
-| India / Mumbai | 10,533 | 18,244 | 0.036% | 0.048% | -0.012 |
-| India / Bengaluru | 11,519 | 18,247 | 0.039% | 0.048% | -0.009 |
-| Philippines / Imus | 2,318 | 543 | 0.008% | 0.001% | +0.006 |
-| Philippines / Cebu City | 4,918 | 4,670 | 0.017% | 0.012% | +0.004 |
-| Philippines / Paranaque City | 341 | 1,704 | 0.001% | 0.004% | -0.003 |
-| Philippines / Cainta | 211 | 598 | 0.001% | 0.002% | -0.001 |
-| Australia / Melbourne | 145,029 | 161,553 | 0.492% | 0.425% | +0.066 |
-| Australia / Brisbane | 81,699 | 81,211 | 0.277% | 0.214% | +0.063 |
-| Australia / Leeton | 72 | 348 | 0.000% | 0.001% | -0.001 |
-| Australia / St Albans | 497 | 777 | 0.002% | 0.002% | -0.000 |
-
-Among the selected shared locations, Melbourne has the largest positive difference (+0.066 pp) and Mumbai the smallest difference (-0.012 pp). These comparisons normalize by each object's worldwide swarm weight; they do not imply the same ordering of absolute counts.
-
-<details markdown="1"><summary>The Pitt 201–203 versus The Bear S02: map and city values</summary>
-
-
-{::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-bear-compare-map-3.svg %}
-<figcaption>Selected shared city locations; weeks 1–10. Full counts and periods are in the calculation ledger. Land: Natural Earth via Cartofreako. <a href="../resources/mellon-7.6-pitt-bear-compare-map-3.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
-</figure>
-{:/}
-
-
-| Country / city | The Pitt 201–203 weight | The Bear S02 weight | First world share | Second world share | Difference (pp) |
-| --- | --- | --- | --- | --- | --- |
-| India / Agartala | 5,040 | 52 | 0.017% | 0.001% | +0.016 |
-| India / Alappuzha | 4,328 | 32 | 0.014% | 0.000% | +0.014 |
-| India / Mumbai | 10,594 | 19,306 | 0.035% | 0.239% | -0.204 |
-| India / Delhi | 14,507 | 11,495 | 0.048% | 0.142% | -0.094 |
-| Philippines / Binangonan | 127 | 31 | 0.000% | 0.000% | +0.000 |
-| Philippines / Quezon City | 14,848 | 34,688 | 0.049% | 0.429% | -0.380 |
-| Philippines / Makati City | 3,689 | 5,250 | 0.012% | 0.065% | -0.053 |
-| Australia / Tamworth | 778 | 17 | 0.003% | 0.000% | +0.002 |
-| Australia / Toongabbie West | 1,312 | 233 | 0.004% | 0.003% | +0.001 |
-| Australia / Sydney | 146,684 | 123,772 | 0.486% | 1.530% | -1.044 |
-| Australia / Melbourne | 127,324 | 102,595 | 0.422% | 1.268% | -0.847 |
-
-Among the selected shared locations, Agartala has the largest positive difference (+0.016 pp) and Sydney the smallest difference (-1.044 pp). These comparisons normalize by each object's worldwide swarm weight; they do not imply the same ordering of absolute counts.
-
-</details>
-
-<details markdown="1"><summary>The Pitt 213–215 versus The Bear S02: map and city values</summary>
-
-
-{::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-bear-compare-map-4.svg %}
-<figcaption>Selected shared city locations; weeks 1–10. Full counts and periods are in the calculation ledger. Land: Natural Earth via Cartofreako. <a href="../resources/mellon-7.6-pitt-bear-compare-map-4.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
-</figure>
-{:/}
-
-
-| Country / city | The Pitt 213–215 weight | The Bear S02 weight | First world share | Second world share | Difference (pp) |
-| --- | --- | --- | --- | --- | --- |
-| India / Panjim | 1,997 | 59 | 0.007% | 0.001% | +0.006 |
-| India / Garhchiroli | 1,791 | 154 | 0.006% | 0.002% | +0.004 |
-| India / Mumbai | 10,533 | 19,306 | 0.036% | 0.239% | -0.203 |
-| India / Delhi | 13,988 | 11,495 | 0.047% | 0.142% | -0.095 |
-| Philippines / Binangonan | 516 | 31 | 0.002% | 0.000% | +0.001 |
-| Philippines / Naguilian | 116 | 3 | 0.000% | 0.000% | +0.000 |
-| Philippines / Quezon City | 21,868 | 34,688 | 0.074% | 0.429% | -0.355 |
-| Philippines / Cebu City | 4,918 | 5,225 | 0.017% | 0.065% | -0.048 |
-| Australia / Toongabbie West | 1,060 | 233 | 0.004% | 0.003% | +0.001 |
-| Australia / Tamworth | 175 | 17 | 0.001% | 0.000% | +0.000 |
-| Australia / Sydney | 160,102 | 123,772 | 0.543% | 1.530% | -0.987 |
-| Australia / Melbourne | 145,029 | 102,595 | 0.492% | 1.268% | -0.777 |
-
-Among the selected shared locations, Panjim has the largest positive difference (+0.006 pp) and Sydney the smallest difference (-0.987 pp). These comparisons normalize by each object's worldwide swarm weight; they do not imply the same ordering of absolute counts.
-
-</details>
-
-<details markdown="1"><summary>The Pitt 201–203 versus The Bear S03: map and city values</summary>
-
-
-{::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-bear-compare-map-5.svg %}
-<figcaption>Selected shared city locations; weeks 1–10. Full counts and periods are in the calculation ledger. Land: Natural Earth via Cartofreako. <a href="../resources/mellon-7.6-pitt-bear-compare-map-5.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
-</figure>
-{:/}
-
-
-| Country / city | The Pitt 201–203 weight | The Bear S03 weight | First world share | Second world share | Difference (pp) |
-| --- | --- | --- | --- | --- | --- |
-| India / Agartala | 5,040 | 493 | 0.017% | 0.002% | +0.014 |
-| India / Aizawl | 3,905 | 67 | 0.013% | 0.000% | +0.013 |
-| India / Mumbai | 10,594 | 23,087 | 0.035% | 0.113% | -0.078 |
-| India / Bengaluru | 15,918 | 17,997 | 0.053% | 0.088% | -0.035 |
-| Philippines / Manila | 14,020 | 5,133 | 0.046% | 0.025% | +0.021 |
-| Philippines / Angono | 328 | 151 | 0.001% | 0.001% | +0.000 |
-| Philippines / Quezon City | 14,848 | 29,320 | 0.049% | 0.144% | -0.094 |
-| Philippines / Cebu City | 4,841 | 5,277 | 0.016% | 0.026% | -0.010 |
-| Australia / Gold Coast | 1,550 | 729 | 0.005% | 0.004% | +0.002 |
-| Australia / The Entrance North | 622 | 109 | 0.002% | 0.001% | +0.002 |
-| Australia / Sydney | 146,684 | 133,147 | 0.486% | 0.652% | -0.166 |
-| Australia / Melbourne | 127,324 | 107,140 | 0.422% | 0.525% | -0.103 |
-
-Among the selected shared locations, Manila has the largest positive difference (+0.021 pp) and Sydney the smallest difference (-0.166 pp). These comparisons normalize by each object's worldwide swarm weight; they do not imply the same ordering of absolute counts.
-
-</details>
-
-<details markdown="1"><summary>The Pitt 213–215 versus The Bear S03: map and city values</summary>
-
-
-{::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-bear-compare-map-6.svg %}
-<figcaption>Selected shared city locations; weeks 1–10. Full counts and periods are in the calculation ledger. Land: Natural Earth via Cartofreako. <a href="../resources/mellon-7.6-pitt-bear-compare-map-6.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
-</figure>
-{:/}
-
-
-| Country / city | The Pitt 213–215 weight | The Bear S03 weight | First world share | Second world share | Difference (pp) |
-| --- | --- | --- | --- | --- | --- |
-| India / Mapusa | 974 | 300 | 0.003% | 0.001% | +0.002 |
-| India / Haldia | 414 | 10 | 0.001% | 0.000% | +0.001 |
-| India / Mumbai | 10,533 | 23,087 | 0.036% | 0.113% | -0.077 |
-| India / Bengaluru | 11,519 | 17,997 | 0.039% | 0.088% | -0.049 |
-| Philippines / Manila | 8,745 | 5,133 | 0.030% | 0.025% | +0.005 |
-| Philippines / Imus | 2,318 | 1,191 | 0.008% | 0.006% | +0.002 |
-| Philippines / Quezon City | 21,868 | 29,320 | 0.074% | 0.144% | -0.069 |
-| Philippines / Cebu City | 4,918 | 5,277 | 0.017% | 0.026% | -0.009 |
-| Australia / Perth | 51,437 | 33,790 | 0.174% | 0.166% | +0.009 |
-| Australia / The Entrance North | 526 | 109 | 0.002% | 0.001% | +0.001 |
-| Australia / Sydney | 160,102 | 133,147 | 0.543% | 0.652% | -0.109 |
-| Australia / Brisbane | 81,699 | 64,610 | 0.277% | 0.317% | -0.040 |
-
-Among the selected shared locations, Perth has the largest positive difference (+0.009 pp) and Sydney the smallest difference (-0.109 pp). These comparisons normalize by each object's worldwide swarm weight; they do not imply the same ordering of absolute counts.
-
-</details>
-
-<details markdown="1"><summary>The Pitt 201–203 versus The Bear S04: map and city values</summary>
-
-
-{::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-bear-compare-map-7.svg %}
-<figcaption>Selected shared city locations; weeks 1–10. Full counts and periods are in the calculation ledger. Land: Natural Earth via Cartofreako. <a href="../resources/mellon-7.6-pitt-bear-compare-map-7.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
-</figure>
-{:/}
-
-
-| Country / city | The Pitt 201–203 weight | The Bear S04 weight | First world share | Second world share | Difference (pp) |
-| --- | --- | --- | --- | --- | --- |
-| India / Chennai | 14,815 | 9,500 | 0.049% | 0.031% | +0.019 |
-| India / Agartala | 5,040 | 2,181 | 0.017% | 0.007% | +0.010 |
-| India / Bengaluru | 15,918 | 31,356 | 0.053% | 0.101% | -0.048 |
-| India / Delhi | 14,507 | 26,606 | 0.048% | 0.086% | -0.037 |
-| Philippines / Imus | 942 | 366 | 0.003% | 0.001% | +0.002 |
-| Philippines / Calamba | 1,265 | 951 | 0.004% | 0.003% | +0.001 |
-| Philippines / Manila | 14,020 | 22,414 | 0.046% | 0.072% | -0.026 |
-| Philippines / Quezon City | 14,848 | 20,242 | 0.049% | 0.065% | -0.016 |
-| Australia / Tamworth | 778 | 135 | 0.003% | 0.000% | +0.002 |
-| Australia / The Entrance North | 622 | 280 | 0.002% | 0.001% | +0.001 |
-| Australia / Melbourne | 127,324 | 191,189 | 0.422% | 0.615% | -0.193 |
-| Australia / Sydney | 146,684 | 199,975 | 0.486% | 0.643% | -0.157 |
-
-Among the selected shared locations, Chennai has the largest positive difference (+0.019 pp) and Melbourne the smallest difference (-0.193 pp). These comparisons normalize by each object's worldwide swarm weight; they do not imply the same ordering of absolute counts.
-
-</details>
-
-<details markdown="1"><summary>The Pitt 213–215 versus The Bear S04: map and city values</summary>
-
-
-{::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-bear-compare-map-8.svg %}
-<figcaption>Selected shared city locations; weeks 1–10. Full counts and periods are in the calculation ledger. Land: Natural Earth via Cartofreako. <a href="../resources/mellon-7.6-pitt-bear-compare-map-8.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
-</figure>
-{:/}
-
-
-| Country / city | The Pitt 213–215 weight | The Bear S04 weight | First world share | Second world share | Difference (pp) |
-| --- | --- | --- | --- | --- | --- |
-| India / Chennai | 9,305 | 9,500 | 0.032% | 0.031% | +0.001 |
-| India / Ghāziābād | 691 | 435 | 0.002% | 0.001% | +0.001 |
-| India / Bengaluru | 11,519 | 31,356 | 0.039% | 0.101% | -0.062 |
-| India / Delhi | 13,988 | 26,606 | 0.047% | 0.086% | -0.038 |
-| Philippines / Quezon City | 21,868 | 20,242 | 0.074% | 0.065% | +0.009 |
-| Philippines / Imus | 2,318 | 366 | 0.008% | 0.001% | +0.007 |
-| Philippines / Manila | 8,745 | 22,414 | 0.030% | 0.072% | -0.042 |
-| Philippines / Paranaque City | 341 | 2,512 | 0.001% | 0.008% | -0.007 |
-| Australia / Brisbane | 81,699 | 78,473 | 0.277% | 0.252% | +0.025 |
-| Australia / The Entrance North | 526 | 280 | 0.002% | 0.001% | +0.001 |
-| Australia / Melbourne | 145,029 | 191,189 | 0.492% | 0.615% | -0.123 |
-| Australia / Sydney | 160,102 | 199,975 | 0.543% | 0.643% | -0.100 |
-
-Among the selected shared locations, Brisbane has the largest positive difference (+0.025 pp) and Melbourne the smallest difference (-0.123 pp). These comparisons normalize by each object's worldwide swarm weight; they do not imply the same ordering of absolute counts.
-
-</details>
+[Verified render manifest](figures/pitt-201-country-map-manifest.json) ·
+[Country geometry and upstream hashes](../data/mellon-7.6-cache-map-boundaries.json) ·
+[Native audit renderer](https://github.com/bdekoz/alpha60/blob/main/src/a60-carto-geo.cc) ·
+[Reproduction instructions](https://github.com/bdekoz/alpha60/blob/main/docs/pages/swarm-cartography.md).
 
 ## Weekly behavior
 
@@ -1420,24 +1209,18 @@ During this window, the Pitt audit reports one missing hour on August 30–31 an
 
 ## Map projection and country outlines
 
-The city-difference panels use **Cartofreako's native Cahill–Keyes projection**,
-with its one-degree longitude registration, and **Izzi** for the vector SVG.
-Each country's complete projected outline and selected city coordinates are
-uniformly fitted into its panel, preserving projected proportions. Panel scales
-therefore differ by country; geographic area is not comparable between panels.
-City values still use the same world denominators and color scale across maps.
+The country close-ups use the existing **a60-carto-geo** cumulative-cache
+renderer: **Izzi** draws the vectors and **Cartofreako** supplies registered
+Cahill–Keyes coordinates. Country outlines and locations fit the available
+width or height with a uniform projected scale. Geographic scale differs by
+country; circle areas share one weight scale. Natural Earth 1:10m country
+polygons retain interior holes and projection seams, with lake water removed.
+Location names use the audit's existing centered, weight-sized Apercu text
+at their mapped coordinates. Click a preview to open the 3840-pixel image
+in a new tab; vector SVGs and accounting receipts are linked below each map.
 
-Natural Earth v5.1.2 1:10m country polygons have intersecting lake and reservoir
-water removed. Interior rings are retained with even-odd filling, and country
-polygons are split at the registered octant seams before projection. This keeps
-Great Lakes shorelines visible and avoids lines bridging projection cuts.
-Boundaries follow Natural Earth's de facto geometry. The six Pitt resolution
-plates use this same vector geometry, with their original weekly by-BTIH input
-method and one shared circle-area scale across countries.
-
-References: [Cartofreako Cahill–Keyes geometry and octants](https://bdekoz.github.io/cartofreako/docs/pages/projections/cahill-keyes/context.html),
-[Izzi](https://github.com/bdekoz/izzi), and the
-[country and lake geometry with source hashes](../data/mellon-7.6-map-boundaries.json).
+[Country geometry and upstream hashes](../data/mellon-7.6-cache-map-boundaries.json).
+[Native renderer and input manifest](figures/pitt-201-country-map-manifest.json).
 
 ## Methods and limits
 
@@ -1446,10 +1229,11 @@ References: [Cartofreako Cahill–Keyes geometry and octants](https://bdekoz.git
   produces repeated swarm weights across weeks and torrents, not unique people,
   unique addresses over the full window, or completed views. The nested
   `collection_week_by_btiha` is not added again.
-- **Window:** the matched tables and city-difference maps use weeks 1–10,
-  including the opening week. The extended trend uses available seven-day bins
-  through week 26 and leaves unavailable or shorter trailing bins unplotted.
-  Pitt-201 resolution plates use weeks 1–26 of the separate by-BTIH product.
+- **Window:** the matched tables use weeks 1–10,
+  including the opening week. The worldwide and extended trends use available seven-day bins
+  through week 26 and leave unavailable or shorter trailing bins unplotted.
+  Pitt-201 country maps use the full January 9–July 9 cumulative sample cache,
+  coalesced by unique BTIH, with every sampled resolution combined.
   A calendar-aligned comparison uses exactly matching seven-day intervals.
   Partial flags and audit gaps remain visible; no missing weights are imputed.
 - **Shares:** country or city downloader weight divided by worldwide downloader
@@ -1462,19 +1246,13 @@ References: [Cartofreako Cahill–Keyes geometry and octants](https://bdekoz.git
   residence or verified audience. Wi-Fi versus cellular usage is not resolved.
 - **Hosting sensitivity:** subtract hosting from size in both country and global
   denominators. This removes one flag; it does not identify residential traffic.
-- **Difference maps:** geolocated city aggregates keyed by country and GeoNames ID, using
-  source representative coordinates. Only shared identified cities with at least
-  100 combined downloader weight qualify. Show at most two positive and two
-  negative differences per country, ranked by percentage-point difference.
-  An absent or suppressed location is not zero. Triangles indicate sign;
-  color intensity encodes magnitude on a symmetric scale shared by all difference maps on this page.
-  “Hot” and “cold” describe larger and smaller observed shares, without a test of
-  statistical significance. They do not describe population-adjusted demand.
-- **Export:** all selected files declare H3 resolution 5 and minimum swarm size 3.
+- **Weekly export:** all selected weekly files declare H3 resolution 5 and minimum swarm size 3.
   Geographic filtering and aggregation mean these denominators differ from
   companion JSON unique-BTIH totals. Do not interpret the discrepancy as a known
   missing-data percentage. Weekly JSON `collection_week` values are cumulative
   prefixes; the geographic interval series used here is a different product.
+
+- **Country maps:** raw cumulative sample-cache weights after unique-BTIH coalescing and IP geolocation; exact ISO3 selection, no ITU scaling or missing-hour imputation. Member colors and location names use the existing cumulative-audit renderer.
 
 
 ## References and reproduction
