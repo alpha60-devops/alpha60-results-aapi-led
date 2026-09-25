@@ -1,1099 +1,727 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.39952pt" height="509.39976pt" viewBox="0 0 800.39952 509.39976" version="1.1" role="group" aria-label="Shang-Chi versus Vanguard weekly geography. Weeks 1–15; USA and Asia-28 including Taiwan; downloaders and uploaders; identical 0–100 percent axes." class="analysis-svg">
- <metadata>
-  <rdf:RDF>
-   <ns2:Work>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:format>image/svg+xml</dc:format>
-    <dc:creator>
-     <ns2:Agent>
-      <dc:title>Alpha60 Mellon 7.6</dc:title>
-     </ns2:Agent>
-    </dc:creator>
-   </ns2:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
- </defs>
- <g id="mellon-7.6-pair-action-films-weekly-figure_1">
-  <g id="mellon-7.6-pair-action-films-weekly-patch_1">
-   <path d="M 0 509.39976  L 800.39952 509.39976  L 800.39952 -0  L 0 -0  z " style="fill: #ffffff" />
-  </g>
-  <g id="mellon-7.6-pair-action-films-weekly-axes_1">
-   <g id="mellon-7.6-pair-action-films-weekly-patch_2">
-    <path d="M 52.71875 243.165781  L 417.249135 243.165781  L 417.249135 48.35622  L 52.71875 48.35622  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-matplotlib.axis_1">
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_1">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_1">
-      <defs>
-       <path id="mellon-7.6-pair-action-films-weekly-m009e2501a5" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8" />
-      </defs>
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="69.288313" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_2">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_2">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="92.959117" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_3">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_3">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="116.629921" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_4">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_4">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="140.300726" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_5">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_5">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="163.97153" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_6">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_6">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="187.642334" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_7">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_7">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="211.313138" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_8">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_8">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="234.983943" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_9">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_9">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="258.654747" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_10">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_10">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="282.325551" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_11">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_11">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="305.996355" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_12">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_12">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="329.667159" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_13">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_13">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="353.337964" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_14">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_14">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="377.008768" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_15">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_15">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="400.679572" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-matplotlib.axis_2">
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_1">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_16">
-      <path d="M 52.71875 243.165781  L 417.249135 243.165781  " clip-path="url(#mellon-7.6-pair-action-films-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_17">
-      <defs>
-       <path id="mellon-7.6-pair-action-films-weekly-m6b0521fb35" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8" />
-      </defs>
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="52.71875" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_1">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="247.724844" transform="rotate(-0 45.71875 247.724844)">0</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_2">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_18">
-      <path d="M 52.71875 204.203869  L 417.249135 204.203869  " clip-path="url(#mellon-7.6-pair-action-films-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_19">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="52.71875" y="204.203869" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_2">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="208.762931" transform="rotate(-0 45.71875 208.762931)">20</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_3">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_20">
-      <path d="M 52.71875 165.241957  L 417.249135 165.241957  " clip-path="url(#mellon-7.6-pair-action-films-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_21">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="52.71875" y="165.241957" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_3">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="169.801019" transform="rotate(-0 45.71875 169.801019)">40</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_4">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_22">
-      <path d="M 52.71875 126.280044  L 417.249135 126.280044  " clip-path="url(#mellon-7.6-pair-action-films-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_23">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="52.71875" y="126.280044" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_4">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="130.839107" transform="rotate(-0 45.71875 130.839107)">60</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_5">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_24">
-      <path d="M 52.71875 87.318132  L 417.249135 87.318132  " clip-path="url(#mellon-7.6-pair-action-films-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_25">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="52.71875" y="87.318132" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_5">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="91.877195" transform="rotate(-0 45.71875 91.877195)">80</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_6">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_26">
-      <path d="M 52.71875 48.35622  L 417.249135 48.35622  " clip-path="url(#mellon-7.6-pair-action-films-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_27">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="52.71875" y="48.35622" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_6">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="52.915282" transform="rotate(-0 45.71875 52.915282)">100</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-text_7">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="145.761001" transform="rotate(-90 16.318125 145.761001)">World share (%)</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-line2d_28">
-    <path d="M 69.288313 228.985064  L 92.959117 231.101925  L 116.629921 230.864645  L 140.300726 230.591592  L 163.97153 229.480739  L 187.642334 230.516485  L 211.313138 230.535102  L 234.983943 230.623358  L 258.654747 230.882486  L 282.325551 230.298217  L 305.996355 230.804  L 329.667159 230.482475  L 353.337964 229.977631  L 377.008768 229.404195  L 400.679572 229.493778  " clip-path="url(#mellon-7.6-pair-action-films-weekly-p51a326f11e)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <defs>
-     <path id="mellon-7.6-pair-action-films-weekly-m0cfabb88ed" d="M 0 2  C 0.530406 2 1.03916 1.789267 1.414214 1.414214  C 1.789267 1.03916 2 0.530406 2 0  C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214  C 1.03916 -1.789267 0.530406 -2 0 -2  C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214  C -1.789267 -1.03916 -2 -0.530406 -2 0  C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214  C -1.03916 1.789267 -0.530406 2 0 2  z " style="stroke: #175b8c" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pair-action-films-weekly-p51a326f11e)">
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="69.288313" y="228.985064" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="92.959117" y="231.101925" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="116.629921" y="230.864645" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="140.300726" y="230.591592" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="163.97153" y="229.480739" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="187.642334" y="230.516485" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="211.313138" y="230.535102" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="234.983943" y="230.623358" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="258.654747" y="230.882486" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="282.325551" y="230.298217" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="305.996355" y="230.804" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="329.667159" y="230.482475" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="353.337964" y="229.977631" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="377.008768" y="229.404195" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="400.679572" y="229.493778" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-line2d_29">
-    <path d="M 69.288313 202.560212  L 92.959117 217.754033  L 116.629921 184.320588  L 140.300726 193.724035  L 163.97153 192.328691  L 187.642334 180.983626  L 211.313138 209.270229  L 234.983943 209.156458  L 258.654747 205.618849  L 282.325551 200.670775  L 305.996355 192.964154  L 329.667159 195.850331  L 353.337964 196.161627  L 377.008768 198.23961  L 400.679572 197.763352  " clip-path="url(#mellon-7.6-pair-action-films-weekly-p51a326f11e)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <defs>
-     <path id="mellon-7.6-pair-action-films-weekly-m567847878a" d="M -2 2  L 2 2  L 2 -2  L -2 -2  z " style="stroke: #9b4318; stroke-linejoin: miter" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pair-action-films-weekly-p51a326f11e)">
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="69.288313" y="202.560212" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="92.959117" y="217.754033" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="116.629921" y="184.320588" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="140.300726" y="193.724035" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="163.97153" y="192.328691" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="187.642334" y="180.983626" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="211.313138" y="209.270229" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="234.983943" y="209.156458" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="258.654747" y="205.618849" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="282.325551" y="200.670775" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="305.996355" y="192.964154" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="329.667159" y="195.850331" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="353.337964" y="196.161627" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="377.008768" y="198.23961" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="400.679572" y="197.763352" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-patch_3">
-    <path d="M 52.71875 243.165781  L 52.71875 48.35622  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-patch_4">
-    <path d="M 52.71875 243.165781  L 417.249135 243.165781  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-text_8">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="52.71875" y="42.35622" transform="rotate(-0 52.71875 42.35622)">USA · downloaders</text>
-   </g>
-  </g>
-  <g id="mellon-7.6-pair-action-films-weekly-axes_2">
-   <g id="mellon-7.6-pair-action-films-weekly-patch_5">
-    <path d="M 428.669135 243.165781  L 793.19952 243.165781  L 793.19952 48.35622  L 428.669135 48.35622  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-matplotlib.axis_3">
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_16">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_30">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="445.238698" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_17">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_31">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="468.909502" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_18">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_32">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="492.580306" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_19">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_33">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="516.251111" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_20">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_34">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="539.921915" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_21">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_35">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="563.592719" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_22">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_36">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="587.263523" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_23">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_37">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="610.934327" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_24">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_38">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="634.605132" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_25">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_39">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="658.275936" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_26">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_40">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="681.94674" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_27">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_41">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="705.617544" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_28">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_42">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="729.288349" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_29">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_43">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="752.959153" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_30">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_44">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="776.629957" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-matplotlib.axis_4">
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_7">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_45">
-      <path d="M 428.669135 243.165781  L 793.19952 243.165781  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_46">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="428.669135" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_8">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_47">
-      <path d="M 428.669135 204.203869  L 793.19952 204.203869  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_48">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="428.669135" y="204.203869" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_9">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_49">
-      <path d="M 428.669135 165.241957  L 793.19952 165.241957  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_50">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="428.669135" y="165.241957" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_10">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_51">
-      <path d="M 428.669135 126.280044  L 793.19952 126.280044  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_52">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="428.669135" y="126.280044" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_11">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_53">
-      <path d="M 428.669135 87.318132  L 793.19952 87.318132  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_54">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="428.669135" y="87.318132" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_12">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_55">
-      <path d="M 428.669135 48.35622  L 793.19952 48.35622  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_56">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="428.669135" y="48.35622" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-line2d_57">
-    <path d="M 445.238698 162.028302  L 468.909502 173.879868  L 492.580306 176.613523  L 516.251111 179.486493  L 539.921915 182.133526  L 563.592719 181.908238  L 587.263523 182.723661  L 610.934327 184.466833  L 634.605132 183.12523  L 658.275936 179.085303  L 681.94674 179.468921  L 705.617544 181.359282  L 729.288349 182.880452  L 752.959153 183.121398  L 776.629957 183.548887  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pb8318d7784)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <g clip-path="url(#mellon-7.6-pair-action-films-weekly-pb8318d7784)">
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="445.238698" y="162.028302" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="468.909502" y="173.879868" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="492.580306" y="176.613523" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="516.251111" y="179.486493" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="539.921915" y="182.133526" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="563.592719" y="181.908238" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="587.263523" y="182.723661" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="610.934327" y="184.466833" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="634.605132" y="183.12523" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="658.275936" y="179.085303" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="681.94674" y="179.468921" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="705.617544" y="181.359282" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="729.288349" y="182.880452" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="752.959153" y="183.121398" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="776.629957" y="183.548887" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-line2d_58">
-    <path d="M 445.238698 163.836061  L 468.909502 155.498018  L 492.580306 175.027081  L 516.251111 158.658004  L 539.921915 168.372721  L 563.592719 183.764558  L 587.263523 148.12997  L 610.934327 152.718122  L 634.605132 182.279875  L 658.275936 175.882098  L 681.94674 184.369637  L 705.617544 191.945519  L 729.288349 194.149512  L 752.959153 191.183899  L 776.629957 193.090205  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pb8318d7784)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pair-action-films-weekly-pb8318d7784)">
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="445.238698" y="163.836061" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="468.909502" y="155.498018" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="492.580306" y="175.027081" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="516.251111" y="158.658004" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="539.921915" y="168.372721" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="563.592719" y="183.764558" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="587.263523" y="148.12997" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="610.934327" y="152.718122" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="634.605132" y="182.279875" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="658.275936" y="175.882098" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="681.94674" y="184.369637" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="705.617544" y="191.945519" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="729.288349" y="194.149512" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="752.959153" y="191.183899" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="776.629957" y="193.090205" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-patch_6">
-    <path d="M 428.669135 243.165781  L 428.669135 48.35622  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-patch_7">
-    <path d="M 428.669135 243.165781  L 793.19952 243.165781  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-text_9">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="428.669135" y="42.35622" transform="rotate(-0 428.669135 42.35622)">Asia-28 · downloaders</text>
-   </g>
-  </g>
-  <g id="mellon-7.6-pair-action-films-weekly-axes_3">
-   <g id="mellon-7.6-pair-action-films-weekly-patch_8">
-    <path d="M 52.71875 467.97226  L 417.249135 467.97226  L 417.249135 273.162699  L 52.71875 273.162699  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-matplotlib.axis_5">
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_31">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_59">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="69.288313" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_10">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="69.288313" y="484.090385" transform="rotate(-0 69.288313 484.090385)">1</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_32">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_60">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="92.959117" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_11">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="92.959117" y="484.090385" transform="rotate(-0 92.959117 484.090385)">2</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_33">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_61">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="116.629921" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_12">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="116.629921" y="484.090385" transform="rotate(-0 116.629921 484.090385)">3</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_34">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_62">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="140.300726" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_13">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="140.300726" y="484.090385" transform="rotate(-0 140.300726 484.090385)">4</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_35">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_63">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="163.97153" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_14">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="163.97153" y="484.090385" transform="rotate(-0 163.97153 484.090385)">5</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_36">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_64">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="187.642334" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_15">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="187.642334" y="484.090385" transform="rotate(-0 187.642334 484.090385)">6</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_37">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_65">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="211.313138" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_16">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="211.313138" y="484.090385" transform="rotate(-0 211.313138 484.090385)">7</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_38">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_66">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="234.983943" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_17">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="234.983943" y="484.090385" transform="rotate(-0 234.983943 484.090385)">8</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_39">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_67">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="258.654747" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_18">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="258.654747" y="484.090385" transform="rotate(-0 258.654747 484.090385)">9</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_40">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_68">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="282.325551" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_19">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="282.325551" y="484.090385" transform="rotate(-0 282.325551 484.090385)">10</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_41">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_69">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="305.996355" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_20">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="305.996355" y="484.090385" transform="rotate(-0 305.996355 484.090385)">11</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_42">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_70">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="329.667159" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_21">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="329.667159" y="484.090385" transform="rotate(-0 329.667159 484.090385)">12</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_43">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_71">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="353.337964" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_22">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="353.337964" y="484.090385" transform="rotate(-0 353.337964 484.090385)">13</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_44">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_72">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="377.008768" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_23">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="377.008768" y="484.090385" transform="rotate(-0 377.008768 484.090385)">14</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_45">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_73">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="400.679572" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_24">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="400.679572" y="484.090385" transform="rotate(-0 400.679572 484.090385)">15</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-text_25">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="234.983943" y="499.704135" transform="rotate(-0 234.983943 499.704135)">Elapsed sampling week</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-matplotlib.axis_6">
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_13">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_74">
-      <path d="M 52.71875 467.97226  L 417.249135 467.97226  " clip-path="url(#mellon-7.6-pair-action-films-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_75">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="52.71875" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_26">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="472.531322" transform="rotate(-0 45.71875 472.531322)">0</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_14">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_76">
-      <path d="M 52.71875 429.010348  L 417.249135 429.010348  " clip-path="url(#mellon-7.6-pair-action-films-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_77">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="52.71875" y="429.010348" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_27">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="433.56941" transform="rotate(-0 45.71875 433.56941)">20</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_15">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_78">
-      <path d="M 52.71875 390.048435  L 417.249135 390.048435  " clip-path="url(#mellon-7.6-pair-action-films-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_79">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="52.71875" y="390.048435" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_28">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="394.607498" transform="rotate(-0 45.71875 394.607498)">40</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_16">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_80">
-      <path d="M 52.71875 351.086523  L 417.249135 351.086523  " clip-path="url(#mellon-7.6-pair-action-films-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_81">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="52.71875" y="351.086523" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_29">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="355.645586" transform="rotate(-0 45.71875 355.645586)">60</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_17">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_82">
-      <path d="M 52.71875 312.124611  L 417.249135 312.124611  " clip-path="url(#mellon-7.6-pair-action-films-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_83">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="52.71875" y="312.124611" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_30">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="316.683673" transform="rotate(-0 45.71875 316.683673)">80</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_18">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_84">
-      <path d="M 52.71875 273.162699  L 417.249135 273.162699  " clip-path="url(#mellon-7.6-pair-action-films-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_85">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="52.71875" y="273.162699" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_31">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="277.721761" transform="rotate(-0 45.71875 277.721761)">100</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-text_32">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="370.567479" transform="rotate(-90 16.318125 370.567479)">World share (%)</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-line2d_86">
-    <path d="M 69.288313 454.499941  L 92.959117 456.000456  L 116.629921 455.626159  L 140.300726 455.041156  L 163.97153 454.77871  L 187.642334 454.32964  L 211.313138 454.150663  L 234.983943 454.236065  L 258.654747 454.580493  L 282.325551 454.717537  L 305.996355 454.918495  L 329.667159 454.710012  L 353.337964 454.290894  L 377.008768 454.281612  L 400.679572 453.470044  " clip-path="url(#mellon-7.6-pair-action-films-weekly-paf324e72a6)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <g clip-path="url(#mellon-7.6-pair-action-films-weekly-paf324e72a6)">
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="69.288313" y="454.499941" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="92.959117" y="456.000456" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="116.629921" y="455.626159" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="140.300726" y="455.041156" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="163.97153" y="454.77871" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="187.642334" y="454.32964" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="211.313138" y="454.150663" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="234.983943" y="454.236065" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="258.654747" y="454.580493" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="282.325551" y="454.717537" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="305.996355" y="454.918495" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="329.667159" y="454.710012" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="353.337964" y="454.290894" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="377.008768" y="454.281612" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="400.679572" y="453.470044" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-line2d_87">
-    <path d="M 69.288313 458.583847  L 92.959117 461.796075  L 116.629921 456.436342  L 140.300726 461.501266  L 163.97153 462.015273  L 187.642334 462.724864  L 211.313138 457.954505  L 234.983943 459.184317  L 258.654747 461.883207  L 282.325551 462.619239  L 305.996355 460.964413  L 329.667159 461.257338  L 353.337964 461.994432  L 377.008768 462.090136  L 400.679572 460.156385  " clip-path="url(#mellon-7.6-pair-action-films-weekly-paf324e72a6)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pair-action-films-weekly-paf324e72a6)">
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="69.288313" y="458.583847" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="92.959117" y="461.796075" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="116.629921" y="456.436342" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="140.300726" y="461.501266" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="163.97153" y="462.015273" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="187.642334" y="462.724864" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="211.313138" y="457.954505" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="234.983943" y="459.184317" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="258.654747" y="461.883207" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="282.325551" y="462.619239" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="305.996355" y="460.964413" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="329.667159" y="461.257338" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="353.337964" y="461.994432" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="377.008768" y="462.090136" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="400.679572" y="460.156385" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-patch_9">
-    <path d="M 52.71875 467.97226  L 52.71875 273.162699  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-patch_10">
-    <path d="M 52.71875 467.97226  L 417.249135 467.97226  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-text_33">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="52.71875" y="267.162699" transform="rotate(-0 52.71875 267.162699)">USA · uploaders</text>
-   </g>
-  </g>
-  <g id="mellon-7.6-pair-action-films-weekly-axes_4">
-   <g id="mellon-7.6-pair-action-films-weekly-patch_11">
-    <path d="M 428.669135 467.97226  L 793.19952 467.97226  L 793.19952 273.162699  L 428.669135 273.162699  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-matplotlib.axis_7">
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_46">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_88">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="445.238698" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_34">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="445.238698" y="484.090385" transform="rotate(-0 445.238698 484.090385)">1</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_47">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_89">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="468.909502" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_35">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="468.909502" y="484.090385" transform="rotate(-0 468.909502 484.090385)">2</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_48">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_90">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="492.580306" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_36">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="492.580306" y="484.090385" transform="rotate(-0 492.580306 484.090385)">3</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_49">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_91">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="516.251111" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_37">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="516.251111" y="484.090385" transform="rotate(-0 516.251111 484.090385)">4</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_50">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_92">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="539.921915" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_38">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="539.921915" y="484.090385" transform="rotate(-0 539.921915 484.090385)">5</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_51">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_93">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="563.592719" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_39">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="563.592719" y="484.090385" transform="rotate(-0 563.592719 484.090385)">6</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_52">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_94">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="587.263523" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_40">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="587.263523" y="484.090385" transform="rotate(-0 587.263523 484.090385)">7</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_53">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_95">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="610.934327" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_41">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="610.934327" y="484.090385" transform="rotate(-0 610.934327 484.090385)">8</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_54">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_96">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="634.605132" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_42">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="634.605132" y="484.090385" transform="rotate(-0 634.605132 484.090385)">9</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_55">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_97">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="658.275936" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_43">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="658.275936" y="484.090385" transform="rotate(-0 658.275936 484.090385)">10</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_56">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_98">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="681.94674" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_44">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="681.94674" y="484.090385" transform="rotate(-0 681.94674 484.090385)">11</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_57">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_99">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="705.617544" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_45">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="705.617544" y="484.090385" transform="rotate(-0 705.617544 484.090385)">12</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_58">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_100">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="729.288349" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_46">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="729.288349" y="484.090385" transform="rotate(-0 729.288349 484.090385)">13</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_59">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_101">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="752.959153" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_47">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="752.959153" y="484.090385" transform="rotate(-0 752.959153 484.090385)">14</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-xtick_60">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_102">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m009e2501a5" x="776.629957" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-text_48">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="776.629957" y="484.090385" transform="rotate(-0 776.629957 484.090385)">15</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-text_49">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="610.934327" y="499.704135" transform="rotate(-0 610.934327 499.704135)">Elapsed sampling week</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-matplotlib.axis_8">
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_19">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_103">
-      <path d="M 428.669135 467.97226  L 793.19952 467.97226  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_104">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="428.669135" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_20">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_105">
-      <path d="M 428.669135 429.010348  L 793.19952 429.010348  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_106">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="428.669135" y="429.010348" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_21">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_107">
-      <path d="M 428.669135 390.048435  L 793.19952 390.048435  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_108">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="428.669135" y="390.048435" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_22">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_109">
-      <path d="M 428.669135 351.086523  L 793.19952 351.086523  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_110">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="428.669135" y="351.086523" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_23">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_111">
-      <path d="M 428.669135 312.124611  L 793.19952 312.124611  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_112">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="428.669135" y="312.124611" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-action-films-weekly-ytick_24">
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_113">
-      <path d="M 428.669135 273.162699  L 793.19952 273.162699  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-action-films-weekly-line2d_114">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-action-films-weekly-m6b0521fb35" x="428.669135" y="273.162699" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-line2d_115">
-    <path d="M 445.238698 392.828405  L 468.909502 405.998699  L 492.580306 410.119852  L 516.251111 412.854622  L 539.921915 414.685648  L 563.592719 414.029715  L 587.263523 415.293009  L 610.934327 415.692924  L 634.605132 414.898398  L 658.275936 410.372579  L 681.94674 410.487571  L 705.617544 410.979263  L 729.288349 411.834275  L 752.959153 411.631432  L 776.629957 412.076434  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pfd45252ebb)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <g clip-path="url(#mellon-7.6-pair-action-films-weekly-pfd45252ebb)">
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="445.238698" y="392.828405" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="468.909502" y="405.998699" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="492.580306" y="410.119852" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="516.251111" y="412.854622" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="539.921915" y="414.685648" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="563.592719" y="414.029715" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="587.263523" y="415.293009" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="610.934327" y="415.692924" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="634.605132" y="414.898398" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="658.275936" y="410.372579" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="681.94674" y="410.487571" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="705.617544" y="410.979263" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="729.288349" y="411.834275" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="752.959153" y="411.631432" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="776.629957" y="412.076434" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-line2d_116">
-    <path d="M 445.238698 366.923293  L 468.909502 364.881926  L 492.580306 357.036628  L 516.251111 332.489211  L 539.921915 362.86633  L 563.592719 365.806373  L 587.263523 347.744886  L 610.934327 358.495378  L 634.605132 406.128349  L 658.275936 379.775043  L 681.94674 388.925215  L 705.617544 414.476563  L 729.288349 426.984819  L 752.959153 423.088706  L 776.629957 425.510391  " clip-path="url(#mellon-7.6-pair-action-films-weekly-pfd45252ebb)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pair-action-films-weekly-pfd45252ebb)">
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="445.238698" y="366.923293" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="468.909502" y="364.881926" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="492.580306" y="357.036628" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="516.251111" y="332.489211" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="539.921915" y="362.86633" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="563.592719" y="365.806373" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="587.263523" y="347.744886" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="610.934327" y="358.495378" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="634.605132" y="406.128349" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="658.275936" y="379.775043" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="681.94674" y="388.925215" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="705.617544" y="414.476563" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="729.288349" y="426.984819" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="752.959153" y="423.088706" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="776.629957" y="425.510391" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-patch_12">
-    <path d="M 428.669135 467.97226  L 428.669135 273.162699  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-patch_13">
-    <path d="M 428.669135 467.97226  L 793.19952 467.97226  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-text_50">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="428.669135" y="267.162699" transform="rotate(-0 428.669135 267.162699)">Asia-28 · uploaders</text>
-   </g>
-  </g>
-  <g id="mellon-7.6-pair-action-films-weekly-legend_1">
-   <g id="mellon-7.6-pair-action-films-weekly-line2d_117">
-    <path d="M 295.298197 15.718125  L 307.298197 15.718125  L 319.298197 15.718125  " style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <g>
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m0cfabb88ed" x="307.298197" y="15.718125" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-text_51">
-    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="328.898197" y="19.918125" transform="rotate(-0 328.898197 19.918125)">Shang-Chi</text>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-line2d_118">
-    <path d="M 414.345697 15.718125  L 426.345697 15.718125  L 438.345697 15.718125  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <g>
-     <use xlink:href="#mellon-7.6-pair-action-films-weekly-m567847878a" x="426.345697" y="15.718125" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-action-films-weekly-text_52">
-    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="447.945697" y="19.918125" transform="rotate(-0 447.945697 19.918125)">Vanguard</text>
-   </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="mellon-7.6-pair-action-films-weekly" x="0px" y="0px" width="1200.000000px" height="953.000000px" viewBox="0 0 1200.000000 953.000000" enable-background="new 0 0 1200.000000 953.000000" role="group" class="analysis-svg" aria-label="Shang-Chi versus Vanguard weekly geography. Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes.">
+<title>Shang-Chi versus Vanguard</title>
+ <rect width="100%" height="100%" fill="white" /> <text x="25.00000" y="32.00000" font-family="DejaVu Sans,sans-serif" font-size="25" text-anchor="start" fill="#26313a">Shang-Chi versus Vanguard</text> <text x="25.00000" y="62.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="start" fill="#26313a">Weekly geography · weeks 1–15 · Asia-28 includes Taiwan</text><polyline points="30,91 72,91 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ <circle cx="51.000000" cy="91.000000" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+
+</title>
+ </circle>
+ <text x="84.00000" y="96.00000" font-family="DejaVu Sans,sans-serif" font-size="18" text-anchor="start" fill="#26313a">Shang-Chi</text><polyline points="630,91 672,91 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ <rect x="647.000000" y="87.000000" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+
+</title>
+ </rect>
+ <text x="684.00000" y="96.00000" font-family="DejaVu Sans,sans-serif" font-size="18" text-anchor="start" fill="#26313a">Vanguard</text> <text x="88.00000" y="153.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">USA · downloaders</text><line x1="88.000000" y1="178.000000" x2="88.000000" y2="448.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="88.000000" y1="448.000000" x2="563.000000" y2="448.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="78.00000" y="453.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0%</text><line x1="88.000000" y1="394.000000" x2="563.000000" y2="394.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="399.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">20%</text><line x1="88.000000" y1="340.000000" x2="563.000000" y2="340.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="345.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">40%</text><line x1="88.000000" y1="286.000000" x2="563.000000" y2="286.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="291.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">60%</text><line x1="88.000000" y1="232.000000" x2="563.000000" y2="232.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="237.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">80%</text><line x1="88.000000" y1="178.000000" x2="563.000000" y2="178.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="183.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">100%</text><line x1="88.000000" y1="448.000000" x2="88.000000" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="88.00000" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">1</text><line x1="121.928571" y1="448.000000" x2="121.928571" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="121.92857" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2</text><line x1="155.857143" y1="448.000000" x2="155.857143" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="155.85714" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">3</text><line x1="189.785714" y1="448.000000" x2="189.785714" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="189.78571" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">4</text><line x1="223.714286" y1="448.000000" x2="223.714286" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="223.71429" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">5</text><line x1="257.642857" y1="448.000000" x2="257.642857" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="257.64286" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">6</text><line x1="291.571429" y1="448.000000" x2="291.571429" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="291.57143" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">7</text><line x1="325.500000" y1="448.000000" x2="325.500000" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="325.50000" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">8</text><line x1="359.428571" y1="448.000000" x2="359.428571" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="359.42857" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">9</text><line x1="393.357143" y1="448.000000" x2="393.357143" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="393.35714" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">10</text><line x1="427.285714" y1="448.000000" x2="427.285714" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="427.28571" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">11</text><line x1="461.214286" y1="448.000000" x2="461.214286" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="461.21429" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">12</text><line x1="495.142857" y1="448.000000" x2="495.142857" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="495.14286" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">13</text><line x1="529.071429" y1="448.000000" x2="529.071429" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="529.07143" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">14</text><line x1="563.000000" y1="448.000000" x2="563.000000" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="563.00000" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">15</text> <text x="325.50000" y="505.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Elapsed sampling week</text> <g transform="translate(21.00000 313.00000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">World share (%)</text> </g> <g data-series="Shang-Chi" transform="translate(-112.00000 -22.00000)"> <g id="mellon-7.6-pair-action-films-weekly-polyline-panel-0-series-0-61">
+<polyline points="200,450.346 233.929,453.28 267.857,452.951 301.786,452.573 335.714,451.033 369.643,452.468 403.571,452.494 437.5,452.617 471.429,452.976 505.357,452.166 539.286,452.867 573.214,452.421 607.143,451.722 641.071,450.927 675,451.051 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
  </g>
- <defs>
-  <clipPath id="mellon-7.6-pair-action-films-weekly-p51a326f11e">
-   <rect x="52.71875" y="48.35622" width="364.530385" height="194.809561" />
-  </clipPath>
-  <clipPath id="mellon-7.6-pair-action-films-weekly-pb8318d7784">
-   <rect x="428.669135" y="48.35622" width="364.530385" height="194.809561" />
-  </clipPath>
-  <clipPath id="mellon-7.6-pair-action-films-weekly-paf324e72a6">
-   <rect x="52.71875" y="273.162699" width="364.530385" height="194.809561" />
-  </clipPath>
-  <clipPath id="mellon-7.6-pair-action-films-weekly-pfd45252ebb">
-   <rect x="428.669135" y="273.162699" width="364.530385" height="194.809561" />
-  </clipPath>
- </defs>
-</svg>
+ <circle cx="200.000000" cy="450.345968" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 1 · 2021-11-10-to-2021-11-16-partial · 7.279% of world
+</title>
+ </circle>
+ <circle cx="233.928571" cy="453.279872" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 2 · 2021-11-17-to-2021-11-23 · 6.193% of world
+</title>
+ </circle>
+ <circle cx="267.857143" cy="452.951009" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 3 · 2021-11-24-to-2021-11-30 · 6.314% of world
+</title>
+ </circle>
+ <circle cx="301.785714" cy="452.572564" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 4 · 2021-12-01-to-2021-12-07 · 6.455% of world
+</title>
+ </circle>
+ <circle cx="335.714286" cy="451.032959" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 5 · 2021-12-08-to-2021-12-14 · 7.025% of world
+</title>
+ </circle>
+ <circle cx="369.642857" cy="452.468471" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 6 · 2021-12-15-to-2021-12-21 · 6.493% of world
+</title>
+ </circle>
+ <circle cx="403.571429" cy="452.494272" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 7 · 2021-12-22-to-2021-12-28 · 6.484% of world
+</title>
+ </circle>
+ <circle cx="437.500000" cy="452.616593" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 8 · 2021-12-29-to-2022-01-04 · 6.438% of world
+</title>
+ </circle>
+ <circle cx="471.428571" cy="452.975736" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 9 · 2022-01-05-to-2022-01-11 · 6.305% of world
+</title>
+ </circle>
+ <circle cx="505.357143" cy="452.165957" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 10 · 2022-01-12-to-2022-01-18 · 6.605% of world
+</title>
+ </circle>
+ <circle cx="539.285714" cy="452.866956" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 11 · 2022-01-19-to-2022-01-25 · 6.346% of world
+</title>
+ </circle>
+ <circle cx="573.214286" cy="452.421331" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 12 · 2022-01-26-to-2022-02-01 · 6.511% of world
+</title>
+ </circle>
+ <circle cx="607.142857" cy="451.721634" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 13 · 2022-02-02-to-2022-02-08 · 6.770% of world
+</title>
+ </circle>
+ <circle cx="641.071429" cy="450.926871" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 14 · 2022-02-09-to-2022-02-15 · 7.064% of world
+</title>
+ </circle>
+ <circle cx="675.000000" cy="451.051030" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA downloaders · week 15 · 2022-02-16-to-2022-02-22 · 7.018% of world
+</title>
+ </circle>
+ </g> <g data-series="Vanguard" transform="translate(-112.00000 -22.00000)"> <g id="mellon-7.6-pair-action-films-weekly-polyline-panel-0-series-1-94">
+<polyline points="200,413.722 233.929,434.78 267.857,388.442 301.786,401.475 335.714,399.541 369.643,383.817 403.571,423.022 437.5,422.864 471.429,417.961 505.357,411.103 539.286,400.422 573.214,404.422 607.143,404.854 641.071,407.734 675,407.074 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="409.721943" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 1 · 2020-10-02-to-2020-10-08 · 20.844% of world
+</title>
+ </rect>
+ <rect x="229.928571" y="430.780109" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 2 · 2020-10-09-to-2020-10-15 · 13.044% of world
+</title>
+ </rect>
+ <rect x="263.857143" y="384.442391" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 3 · 2020-10-16-to-2020-10-22 · 30.207% of world
+</title>
+ </rect>
+ <rect x="297.785714" y="397.475277" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 4 · 2020-10-23-to-2020-10-29 · 25.380% of world
+</title>
+ </rect>
+ <rect x="331.714286" y="395.541372" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 5 · 2020-10-30-to-2020-11-05-partial · 26.096% of world
+</title>
+ </rect>
+ <rect x="365.642857" y="379.817466" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 6 · 2020-11-06-to-2020-11-12-partial · 31.919% of world
+</title>
+ </rect>
+ <rect x="399.571429" y="419.021820" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 7 · 2020-11-13-to-2020-11-19-partial · 17.399% of world
+</title>
+ </rect>
+ <rect x="433.500000" y="418.864137" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 8 · 2020-11-20-to-2020-11-26 · 17.458% of world
+</title>
+ </rect>
+ <rect x="467.428571" y="413.961121" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 9 · 2020-11-27-to-2020-12-03 · 19.274% of world
+</title>
+ </rect>
+ <rect x="501.357143" y="407.103242" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 10 · 2020-12-04-to-2020-12-10 · 21.814% of world
+</title>
+ </rect>
+ <rect x="535.285714" y="396.422104" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 11 · 2020-12-11-to-2020-12-17 · 25.770% of world
+</title>
+ </rect>
+ <rect x="569.214286" y="400.422257" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 12 · 2020-12-18-to-2020-12-24-partial · 24.288% of world
+</title>
+ </rect>
+ <rect x="603.142857" y="400.853703" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 13 · 2020-12-25-to-2020-12-31 · 24.128% of world
+</title>
+ </rect>
+ <rect x="637.071429" y="403.733723" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 14 · 2021-01-01-to-2021-01-07 · 23.062% of world
+</title>
+ </rect>
+ <rect x="671.000000" y="403.073646" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA downloaders · week 15 · 2021-01-08-to-2021-01-14 · 23.306% of world
+</title>
+ </rect>
+ </g> <text x="688.00000" y="153.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">Asia-28 · downloaders</text><line x1="688.000000" y1="178.000000" x2="688.000000" y2="448.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="688.000000" y1="448.000000" x2="1163.000000" y2="448.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="678.00000" y="453.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0%</text><line x1="688.000000" y1="394.000000" x2="1163.000000" y2="394.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="399.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">20%</text><line x1="688.000000" y1="340.000000" x2="1163.000000" y2="340.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="345.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">40%</text><line x1="688.000000" y1="286.000000" x2="1163.000000" y2="286.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="291.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">60%</text><line x1="688.000000" y1="232.000000" x2="1163.000000" y2="232.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="237.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">80%</text><line x1="688.000000" y1="178.000000" x2="1163.000000" y2="178.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="183.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">100%</text><line x1="688.000000" y1="448.000000" x2="688.000000" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="688.00000" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">1</text><line x1="721.928571" y1="448.000000" x2="721.928571" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="721.92857" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2</text><line x1="755.857143" y1="448.000000" x2="755.857143" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="755.85714" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">3</text><line x1="789.785714" y1="448.000000" x2="789.785714" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="789.78571" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">4</text><line x1="823.714286" y1="448.000000" x2="823.714286" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="823.71429" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">5</text><line x1="857.642857" y1="448.000000" x2="857.642857" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="857.64286" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">6</text><line x1="891.571429" y1="448.000000" x2="891.571429" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="891.57143" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">7</text><line x1="925.500000" y1="448.000000" x2="925.500000" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="925.50000" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">8</text><line x1="959.428571" y1="448.000000" x2="959.428571" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="959.42857" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">9</text><line x1="993.357143" y1="448.000000" x2="993.357143" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="993.35714" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">10</text><line x1="1027.285714" y1="448.000000" x2="1027.285714" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1027.28571" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">11</text><line x1="1061.214286" y1="448.000000" x2="1061.214286" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1061.21429" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">12</text><line x1="1095.142857" y1="448.000000" x2="1095.142857" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1095.14286" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">13</text><line x1="1129.071429" y1="448.000000" x2="1129.071429" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1129.07143" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">14</text><line x1="1163.000000" y1="448.000000" x2="1163.000000" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1163.00000" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">15</text> <text x="925.50000" y="505.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Elapsed sampling week</text> <g transform="translate(621.00000 313.00000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">World share (%)</text> </g> <g data-series="Shang-Chi" transform="translate(488.00000 -22.00000)"> <g id="mellon-7.6-pair-action-films-weekly-polyline-panel-1-series-0-174">
+<polyline points="200,357.546 233.929,373.972 267.857,377.761 301.786,381.742 335.714,385.411 369.643,385.099 403.571,386.229 437.5,388.645 471.429,386.786 505.357,381.186 539.286,381.718 573.214,384.338 607.143,386.446 641.071,386.78 675,387.373 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <circle cx="200.000000" cy="357.545975" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 1 · 2021-11-10-to-2021-11-16-partial · 41.650% of world
+</title>
+ </circle>
+ <circle cx="233.928571" cy="373.971878" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 2 · 2021-11-17-to-2021-11-23 · 35.566% of world
+</title>
+ </circle>
+ <circle cx="267.857143" cy="377.760640" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 3 · 2021-11-24-to-2021-11-30 · 34.163% of world
+</title>
+ </circle>
+ <circle cx="301.785714" cy="381.742486" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 4 · 2021-12-01-to-2021-12-07 · 32.688% of world
+</title>
+ </circle>
+ <circle cx="335.714286" cy="385.411192" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 5 · 2021-12-08-to-2021-12-14 · 31.329% of world
+</title>
+ </circle>
+ <circle cx="369.642857" cy="385.098948" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 6 · 2021-12-15-to-2021-12-21 · 31.445% of world
+</title>
+ </circle>
+ <circle cx="403.571429" cy="386.229101" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 7 · 2021-12-22-to-2021-12-28 · 31.026% of world
+</title>
+ </circle>
+ <circle cx="437.500000" cy="388.645082" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 8 · 2021-12-29-to-2022-01-04 · 30.131% of world
+</title>
+ </circle>
+ <circle cx="471.428571" cy="386.785663" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 9 · 2022-01-05-to-2022-01-11 · 30.820% of world
+</title>
+ </circle>
+ <circle cx="505.357143" cy="381.186448" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 10 · 2022-01-12-to-2022-01-18 · 32.894% of world
+</title>
+ </circle>
+ <circle cx="539.285714" cy="381.718132" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 11 · 2022-01-19-to-2022-01-25 · 32.697% of world
+</title>
+ </circle>
+ <circle cx="573.214286" cy="384.338112" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 12 · 2022-01-26-to-2022-02-01 · 31.727% of world
+</title>
+ </circle>
+ <circle cx="607.142857" cy="386.446408" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 13 · 2022-02-02-to-2022-02-08 · 30.946% of world
+</title>
+ </circle>
+ <circle cx="641.071429" cy="386.780352" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 14 · 2022-02-09-to-2022-02-15 · 30.822% of world
+</title>
+ </circle>
+ <circle cx="675.000000" cy="387.372840" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 downloaders · week 15 · 2022-02-16-to-2022-02-22 · 30.603% of world
+</title>
+ </circle>
+ </g> <g data-series="Vanguard" transform="translate(488.00000 -22.00000)"> <g id="mellon-7.6-pair-action-films-weekly-polyline-panel-1-series-1-207">
+<polyline points="200,360.051 233.929,348.495 267.857,375.562 301.786,352.875 335.714,366.339 369.643,387.672 403.571,338.283 437.5,344.642 471.429,385.614 505.357,376.747 539.286,388.51 573.214,399.01 607.143,402.065 641.071,397.955 675,400.597 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="356.051475" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 1 · 2020-10-02-to-2020-10-08 · 40.722% of world
+</title>
+ </rect>
+ <rect x="229.928571" y="344.495205" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 2 · 2020-10-09-to-2020-10-15 · 45.002% of world
+</title>
+ </rect>
+ <rect x="263.857143" y="371.561879" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 3 · 2020-10-16-to-2020-10-22 · 34.977% of world
+</title>
+ </rect>
+ <rect x="297.785714" y="348.874848" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 4 · 2020-10-23-to-2020-10-29 · 43.380% of world
+</title>
+ </rect>
+ <rect x="331.714286" y="362.339143" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 5 · 2020-10-30-to-2020-11-05-partial · 38.393% of world
+</title>
+ </rect>
+ <rect x="365.642857" y="383.671751" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 6 · 2020-11-06-to-2020-11-12-partial · 30.492% of world
+</title>
+ </rect>
+ <rect x="399.571429" y="334.283319" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 7 · 2020-11-13-to-2020-11-19-partial · 48.784% of world
+</title>
+ </rect>
+ <rect x="433.500000" y="340.642356" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 8 · 2020-11-20-to-2020-11-26 · 46.429% of world
+</title>
+ </rect>
+ <rect x="467.428571" y="381.614027" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 9 · 2020-11-27-to-2020-12-03 · 31.254% of world
+</title>
+ </rect>
+ <rect x="501.357143" y="372.746906" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 10 · 2020-12-04-to-2020-12-10 · 34.538% of world
+</title>
+ </rect>
+ <rect x="535.285714" y="384.510371" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 11 · 2020-12-11-to-2020-12-17 · 30.181% of world
+</title>
+ </rect>
+ <rect x="569.214286" y="395.010309" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 12 · 2020-12-18-to-2020-12-24-partial · 26.292% of world
+</title>
+ </rect>
+ <rect x="603.142857" y="398.064973" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 13 · 2020-12-25-to-2020-12-31 · 25.161% of world
+</title>
+ </rect>
+ <rect x="637.071429" y="393.954728" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 14 · 2021-01-01-to-2021-01-07 · 26.683% of world
+</title>
+ </rect>
+ <rect x="671.000000" y="396.596808" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 downloaders · week 15 · 2021-01-08-to-2021-01-14 · 25.705% of world
+</title>
+ </rect>
+ </g> <text x="88.00000" y="553.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">USA · uploaders</text><line x1="88.000000" y1="578.000000" x2="88.000000" y2="848.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="88.000000" y1="848.000000" x2="563.000000" y2="848.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="78.00000" y="853.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0%</text><line x1="88.000000" y1="794.000000" x2="563.000000" y2="794.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="799.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">20%</text><line x1="88.000000" y1="740.000000" x2="563.000000" y2="740.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="745.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">40%</text><line x1="88.000000" y1="686.000000" x2="563.000000" y2="686.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="691.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">60%</text><line x1="88.000000" y1="632.000000" x2="563.000000" y2="632.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="637.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">80%</text><line x1="88.000000" y1="578.000000" x2="563.000000" y2="578.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="583.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">100%</text><line x1="88.000000" y1="848.000000" x2="88.000000" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="88.00000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">1</text><line x1="121.928571" y1="848.000000" x2="121.928571" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="121.92857" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2</text><line x1="155.857143" y1="848.000000" x2="155.857143" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="155.85714" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">3</text><line x1="189.785714" y1="848.000000" x2="189.785714" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="189.78571" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">4</text><line x1="223.714286" y1="848.000000" x2="223.714286" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="223.71429" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">5</text><line x1="257.642857" y1="848.000000" x2="257.642857" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="257.64286" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">6</text><line x1="291.571429" y1="848.000000" x2="291.571429" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="291.57143" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">7</text><line x1="325.500000" y1="848.000000" x2="325.500000" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="325.50000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">8</text><line x1="359.428571" y1="848.000000" x2="359.428571" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="359.42857" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">9</text><line x1="393.357143" y1="848.000000" x2="393.357143" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="393.35714" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">10</text><line x1="427.285714" y1="848.000000" x2="427.285714" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="427.28571" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">11</text><line x1="461.214286" y1="848.000000" x2="461.214286" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="461.21429" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">12</text><line x1="495.142857" y1="848.000000" x2="495.142857" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="495.14286" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">13</text><line x1="529.071429" y1="848.000000" x2="529.071429" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="529.07143" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">14</text><line x1="563.000000" y1="848.000000" x2="563.000000" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="563.00000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">15</text> <text x="325.50000" y="905.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Elapsed sampling week</text> <g transform="translate(21.00000 713.00000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">World share (%)</text> </g> <g data-series="Shang-Chi" transform="translate(-112.00000 378.00000)"> <g id="mellon-7.6-pair-action-films-weekly-polyline-panel-2-series-0-287">
+<polyline points="200,451.328 233.929,453.407 267.857,452.889 301.786,452.078 335.714,451.714 369.643,451.092 403.571,450.844 437.5,450.962 471.429,451.439 505.357,451.629 539.286,451.908 573.214,451.619 607.143,451.038 641.071,451.025 675,449.9 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <circle cx="200.000000" cy="451.327786" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 1 · 2021-11-10-to-2021-11-16-partial · 6.916% of world
+</title>
+ </circle>
+ <circle cx="233.928571" cy="453.407452" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 2 · 2021-11-17-to-2021-11-23 · 6.145% of world
+</title>
+ </circle>
+ <circle cx="267.857143" cy="452.888688" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 3 · 2021-11-24-to-2021-11-30 · 6.338% of world
+</title>
+ </circle>
+ <circle cx="301.785714" cy="452.077891" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 4 · 2021-12-01-to-2021-12-07 · 6.638% of world
+</title>
+ </circle>
+ <circle cx="335.714286" cy="451.714153" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 5 · 2021-12-08-to-2021-12-14 · 6.773% of world
+</title>
+ </circle>
+ <circle cx="369.642857" cy="451.091754" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 6 · 2021-12-15-to-2021-12-21 · 7.003% of world
+</title>
+ </circle>
+ <circle cx="403.571429" cy="450.843697" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 7 · 2021-12-22-to-2021-12-28 · 7.095% of world
+</title>
+ </circle>
+ <circle cx="437.500000" cy="450.962062" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 8 · 2021-12-29-to-2022-01-04 · 7.051% of world
+</title>
+ </circle>
+ <circle cx="471.428571" cy="451.439428" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 9 · 2022-01-05-to-2022-01-11 · 6.874% of world
+</title>
+ </circle>
+ <circle cx="505.357143" cy="451.629367" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 10 · 2022-01-12-to-2022-01-18 · 6.804% of world
+</title>
+ </circle>
+ <circle cx="539.285714" cy="451.907889" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 11 · 2022-01-19-to-2022-01-25 · 6.701% of world
+</title>
+ </circle>
+ <circle cx="573.214286" cy="451.618937" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 12 · 2022-01-26-to-2022-02-01 · 6.808% of world
+</title>
+ </circle>
+ <circle cx="607.142857" cy="451.038054" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 13 · 2022-02-02-to-2022-02-08 · 7.023% of world
+</title>
+ </circle>
+ <circle cx="641.071429" cy="451.025188" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 14 · 2022-02-09-to-2022-02-15 · 7.028% of world
+</title>
+ </circle>
+ <circle cx="675.000000" cy="449.900379" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · USA uploaders · week 15 · 2022-02-16-to-2022-02-22 · 7.444% of world
+</title>
+ </circle>
+ </g> <g data-series="Vanguard" transform="translate(-112.00000 378.00000)"> <g id="mellon-7.6-pair-action-films-weekly-polyline-panel-2-series-1-320">
+<polyline points="200,456.988 233.929,461.44 267.857,454.012 301.786,461.031 335.714,461.744 369.643,462.727 403.571,456.116 437.5,457.82 471.429,461.561 505.357,462.581 539.286,460.287 573.214,460.693 607.143,461.715 641.071,461.848 675,459.167 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="452.987952" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 1 · 2020-10-02-to-2020-10-08 · 4.819% of world
+</title>
+ </rect>
+ <rect x="229.928571" y="457.440001" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 2 · 2020-10-09-to-2020-10-15 · 3.170% of world
+</title>
+ </rect>
+ <rect x="263.857143" y="450.011577" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 3 · 2020-10-16-to-2020-10-22 · 5.922% of world
+</title>
+ </rect>
+ <rect x="297.785714" y="457.031405" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 4 · 2020-10-23-to-2020-10-29 · 3.322% of world
+</title>
+ </rect>
+ <rect x="331.714286" y="457.743802" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 5 · 2020-10-30-to-2020-11-05-partial · 3.058% of world
+</title>
+ </rect>
+ <rect x="365.642857" y="458.727275" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 6 · 2020-11-06-to-2020-11-12-partial · 2.694% of world
+</title>
+ </rect>
+ <rect x="399.571429" y="452.115704" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 7 · 2020-11-13-to-2020-11-19-partial · 5.142% of world
+</title>
+ </rect>
+ <rect x="433.500000" y="453.820187" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 8 · 2020-11-20-to-2020-11-26 · 4.511% of world
+</title>
+ </rect>
+ <rect x="467.428571" y="457.560764" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 9 · 2020-11-27-to-2020-12-03 · 3.126% of world
+</title>
+ </rect>
+ <rect x="501.357143" y="458.580881" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 10 · 2020-12-04-to-2020-12-10 · 2.748% of world
+</title>
+ </rect>
+ <rect x="535.285714" y="456.287341" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 11 · 2020-12-11-to-2020-12-17 · 3.597% of world
+</title>
+ </rect>
+ <rect x="569.214286" y="456.693327" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 12 · 2020-12-18-to-2020-12-24-partial · 3.447% of world
+</title>
+ </rect>
+ <rect x="603.142857" y="457.714918" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 13 · 2020-12-25-to-2020-12-31 · 3.069% of world
+</title>
+ </rect>
+ <rect x="637.071429" y="457.847561" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 14 · 2021-01-01-to-2021-01-07 · 3.019% of world
+</title>
+ </rect>
+ <rect x="671.000000" y="455.167441" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · USA uploaders · week 15 · 2021-01-08-to-2021-01-14 · 4.012% of world
+</title>
+ </rect>
+ </g> <text x="688.00000" y="553.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">Asia-28 · uploaders</text><line x1="688.000000" y1="578.000000" x2="688.000000" y2="848.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="688.000000" y1="848.000000" x2="1163.000000" y2="848.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="678.00000" y="853.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0%</text><line x1="688.000000" y1="794.000000" x2="1163.000000" y2="794.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="799.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">20%</text><line x1="688.000000" y1="740.000000" x2="1163.000000" y2="740.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="745.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">40%</text><line x1="688.000000" y1="686.000000" x2="1163.000000" y2="686.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="691.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">60%</text><line x1="688.000000" y1="632.000000" x2="1163.000000" y2="632.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="637.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">80%</text><line x1="688.000000" y1="578.000000" x2="1163.000000" y2="578.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="583.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">100%</text><line x1="688.000000" y1="848.000000" x2="688.000000" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="688.00000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">1</text><line x1="721.928571" y1="848.000000" x2="721.928571" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="721.92857" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2</text><line x1="755.857143" y1="848.000000" x2="755.857143" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="755.85714" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">3</text><line x1="789.785714" y1="848.000000" x2="789.785714" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="789.78571" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">4</text><line x1="823.714286" y1="848.000000" x2="823.714286" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="823.71429" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">5</text><line x1="857.642857" y1="848.000000" x2="857.642857" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="857.64286" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">6</text><line x1="891.571429" y1="848.000000" x2="891.571429" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="891.57143" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">7</text><line x1="925.500000" y1="848.000000" x2="925.500000" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="925.50000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">8</text><line x1="959.428571" y1="848.000000" x2="959.428571" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="959.42857" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">9</text><line x1="993.357143" y1="848.000000" x2="993.357143" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="993.35714" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">10</text><line x1="1027.285714" y1="848.000000" x2="1027.285714" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1027.28571" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">11</text><line x1="1061.214286" y1="848.000000" x2="1061.214286" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1061.21429" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">12</text><line x1="1095.142857" y1="848.000000" x2="1095.142857" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1095.14286" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">13</text><line x1="1129.071429" y1="848.000000" x2="1129.071429" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1129.07143" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">14</text><line x1="1163.000000" y1="848.000000" x2="1163.000000" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1163.00000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">15</text> <text x="925.50000" y="905.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Elapsed sampling week</text> <g transform="translate(621.00000 713.00000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">World share (%)</text> </g> <g data-series="Shang-Chi" transform="translate(488.00000 378.00000)"> <g id="mellon-7.6-pair-action-films-weekly-polyline-panel-3-series-0-400">
+<polyline points="200,365.853 233.929,384.107 267.857,389.818 301.786,393.609 335.714,396.146 369.643,395.237 403.571,396.988 437.5,397.542 471.429,396.441 505.357,390.169 539.286,390.328 573.214,391.009 607.143,392.194 641.071,391.913 675,392.53 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <circle cx="200.000000" cy="365.852951" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 1 · 2021-11-10-to-2021-11-16-partial · 38.573% of world
+</title>
+ </circle>
+ <circle cx="233.928571" cy="384.106571" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 2 · 2021-11-17-to-2021-11-23 · 31.812% of world
+</title>
+ </circle>
+ <circle cx="267.857143" cy="389.818362" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 3 · 2021-11-24-to-2021-11-30 · 29.697% of world
+</title>
+ </circle>
+ <circle cx="301.785714" cy="393.608668" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 4 · 2021-12-01-to-2021-12-07 · 28.293% of world
+</title>
+ </circle>
+ <circle cx="335.714286" cy="396.146414" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 5 · 2021-12-08-to-2021-12-14 · 27.353% of world
+</title>
+ </circle>
+ <circle cx="369.642857" cy="395.237311" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 6 · 2021-12-15-to-2021-12-21 · 27.690% of world
+</title>
+ </circle>
+ <circle cx="403.571429" cy="396.988196" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 7 · 2021-12-22-to-2021-12-28 · 27.041% of world
+</title>
+ </circle>
+ <circle cx="437.500000" cy="397.542465" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 8 · 2021-12-29-to-2022-01-04 · 26.836% of world
+</title>
+ </circle>
+ <circle cx="471.428571" cy="396.441278" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 9 · 2022-01-05-to-2022-01-11 · 27.244% of world
+</title>
+ </circle>
+ <circle cx="505.357143" cy="390.168633" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 10 · 2022-01-12-to-2022-01-18 · 29.567% of world
+</title>
+ </circle>
+ <circle cx="539.285714" cy="390.328009" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 11 · 2022-01-19-to-2022-01-25 · 29.508% of world
+</title>
+ </circle>
+ <circle cx="573.214286" cy="391.009478" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 12 · 2022-01-26-to-2022-02-01 · 29.256% of world
+</title>
+ </circle>
+ <circle cx="607.142857" cy="392.194497" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 13 · 2022-02-02-to-2022-02-08 · 28.817% of world
+</title>
+ </circle>
+ <circle cx="641.071429" cy="391.913365" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 14 · 2022-02-09-to-2022-02-15 · 28.921% of world
+</title>
+ </circle>
+ <circle cx="675.000000" cy="392.530123" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+Shang-Chi · Asia-28 uploaders · week 15 · 2022-02-16-to-2022-02-22 · 28.693% of world
+</title>
+ </circle>
+ </g> <g data-series="Vanguard" transform="translate(488.00000 378.00000)"> <g id="mellon-7.6-pair-action-films-weekly-polyline-panel-3-series-1-433">
+<polyline points="200,329.949 233.929,327.12 267.857,316.247 301.786,282.225 335.714,324.326 369.643,328.401 403.571,303.369 437.5,318.268 471.429,384.286 505.357,347.761 539.286,360.443 573.214,395.857 607.143,413.193 641.071,407.793 675,411.149 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="325.949272" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 1 · 2020-10-02-to-2020-10-08 · 51.871% of world
+</title>
+ </rect>
+ <rect x="229.928571" y="323.120001" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 2 · 2020-10-09-to-2020-10-15 · 52.919% of world
+</title>
+ </rect>
+ <rect x="263.857143" y="312.246661" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 3 · 2020-10-16-to-2020-10-22 · 56.946% of world
+</title>
+ </rect>
+ <rect x="297.785714" y="278.224704" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 4 · 2020-10-23-to-2020-10-29 · 69.546% of world
+</title>
+ </rect>
+ <rect x="331.714286" y="320.326446" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 5 · 2020-10-30-to-2020-11-05-partial · 53.953% of world
+</title>
+ </rect>
+ <rect x="365.642857" y="324.401254" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 6 · 2020-11-06-to-2020-11-12-partial · 52.444% of world
+</title>
+ </rect>
+ <rect x="399.571429" y="299.368595" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 7 · 2020-11-13-to-2020-11-19-partial · 61.715% of world
+</title>
+ </rect>
+ <rect x="433.500000" y="314.268443" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 8 · 2020-11-20-to-2020-11-26 · 56.197% of world
+</title>
+ </rect>
+ <rect x="467.428571" y="380.286262" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 9 · 2020-11-27-to-2020-12-03 · 31.746% of world
+</title>
+ </rect>
+ <rect x="501.357143" y="343.761399" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 10 · 2020-12-04-to-2020-12-10 · 45.274% of world
+</title>
+ </rect>
+ <rect x="535.285714" y="356.443253" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 11 · 2020-12-11-to-2020-12-17 · 40.577% of world
+</title>
+ </rect>
+ <rect x="569.214286" y="391.856628" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 12 · 2020-12-18-to-2020-12-24-partial · 27.461% of world
+</title>
+ </rect>
+ <rect x="603.142857" y="409.192683" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 13 · 2020-12-25-to-2020-12-31 · 21.040% of world
+</title>
+ </rect>
+ <rect x="637.071429" y="403.792791" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 14 · 2021-01-01-to-2021-01-07 · 23.040% of world
+</title>
+ </rect>
+ <rect x="671.000000" y="407.149169" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+Vanguard · Asia-28 uploaders · week 15 · 2021-01-08-to-2021-01-14 · 21.797% of world
+</title>
+ </rect>
+ </g> <text x="25.00000" y="943.00000" font-family="DejaVu Sans,sans-serif" font-size="15" text-anchor="start" fill="#26313a">Izzi native weekly line graphs · missing intervals are unplotted · exact values in the accompanying ledger</text><desc>Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes.</desc></svg>

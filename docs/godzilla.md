@@ -871,6 +871,7 @@ References: [Cartofreako Cahill–Keyes geometry and octants](https://bdekoz.git
 
 ## References and reproduction
 
+- [Weekly graph series and native Izzi renderer provenance](../data/mellon-7.6-weekly-graphs.json). All weekly lines use Izzi `make_line_graph` and its native marker API; download the [C++ renderer](../resources/izzi-weekly-graphs.cc) and [Python wrapper](../resources/izzi_weekly_graphs.py).
 - [Calculation ledger: every interval, country, network field, city and source SHA-256](../data/mellon-7.6-analysis.json). All ten flags for both roles are retained.
 - [Godzilla Minus One: godzilla-minus-one-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2024/blob/92a3c99741588412cbc26644d1e3879b1d97740f/data/json/godzilla-minus-one-cumulative.json).
 - [Godzilla Minus One: godzilla-minus-one-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2024/blob/92a3c99741588412cbc26644d1e3879b1d97740f/docs/itemized/godzilla-minus-one-sample-cache-audit.md).

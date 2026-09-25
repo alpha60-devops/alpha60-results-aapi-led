@@ -1,465 +1,399 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.120633pt" height="583.699146pt" viewBox="0 0 800.120633 583.699146" version="1.1" role="group" aria-label="Pitt 213–215 and Bear S05 in the same calendar weeks. June 26 through September 10, 2026; country downloader world shares." class="analysis-svg">
- <metadata>
-  <rdf:RDF>
-   <ns2:Work>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:format>image/svg+xml</dc:format>
-    <dc:creator>
-     <ns2:Agent>
-      <dc:title>Alpha60 Mellon 7.6</dc:title>
-     </ns2:Agent>
-    </dc:creator>
-   </ns2:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
- </defs>
- <g id="mellon-7.6-pitt-bear-calendar-figure_1">
-  <g id="mellon-7.6-pitt-bear-calendar-patch_1">
-   <path d="M 0 583.699146  L 800.120633 583.699146  L 800.120633 0  L 0 0  z " style="fill: #ffffff" />
-  </g>
-  <g id="mellon-7.6-pitt-bear-calendar-axes_1">
-   <g id="mellon-7.6-pitt-bear-calendar-patch_2">
-    <path d="M 37.44875 207.376205  L 792.365663 207.376205  L 792.365663 69.925402  L 37.44875 69.925402  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-matplotlib.axis_1">
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_1">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_1">
-      <defs>
-       <path id="mellon-7.6-pitt-bear-calendar-m009e2501a5" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8" />
-      </defs>
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="71.763155" y="207.376205" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_2">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_2">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="277.649586" y="207.376205" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_3">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_3">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="483.536017" y="207.376205" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_4">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_4">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="620.793637" y="207.376205" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_5">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_5">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="758.051258" y="207.376205" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-matplotlib.axis_2">
-    <g id="mellon-7.6-pitt-bear-calendar-ytick_1">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_6">
-      <path d="M 37.44875 207.376205  L 792.365663 207.376205  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_7">
-      <defs>
-       <path id="mellon-7.6-pitt-bear-calendar-m6b0521fb35" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8" />
-      </defs>
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="207.376205" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_1">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="211.935267" transform="rotate(-0 30.44875 211.935267)">0</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-ytick_2">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_8">
-      <path d="M 37.44875 160.494196  L 792.365663 160.494196  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_9">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="160.494196" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_2">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="165.053259" transform="rotate(-0 30.44875 165.053259)">1</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-ytick_3">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_10">
-      <path d="M 37.44875 113.612188  L 792.365663 113.612188  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_11">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="113.612188" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_3">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="118.171251" transform="rotate(-0 30.44875 118.171251)">2</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-text_4">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="138.650803" transform="rotate(-90 16.318125 138.650803)">World share (%)</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-line2d_12">
-    <path d="M 71.763155 193.416433  L 140.391965 193.534504  L 209.020776 193.13033  L 277.649586 194.492803  L 346.278396 194.549985  L 414.907206 193.664175  L 483.536017 193.890775  L 552.164827 193.8689  L 620.793637 193.027143  L 689.422448 192.978865  L 758.051258 188.361057  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.5" />
-    <defs>
-     <path id="mellon-7.6-pitt-bear-calendar-mce8137406b" d="M -3 3  L 3 3  L 3 -3  L -3 -3  z " style="stroke: #9b4318; stroke-linejoin: miter" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)">
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="71.763155" y="193.416433" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="140.391965" y="193.534504" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="209.020776" y="193.13033" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="277.649586" y="194.492803" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="346.278396" y="194.549985" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="414.907206" y="193.664175" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="483.536017" y="193.890775" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="552.164827" y="193.8689" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="620.793637" y="193.027143" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="689.422448" y="192.978865" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="758.051258" y="188.361057" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-line2d_13">
-    <path d="M 71.763155 171.169565  L 140.391965 185.171737  L 209.020776 189.488334  L 277.649586 191.511971  L 346.278396 192.340314  L 414.907206 191.557043  L 483.536017 191.60504  L 552.164827 192.443933  L 620.793637 192.400711  L 689.422448 192.614005  L 758.051258 186.617166  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)" style="fill: none; stroke-dasharray: 1.5,2.475; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.5" />
-    <defs>
-     <path id="mellon-7.6-pitt-bear-calendar-m201298ef5d" d="M 0 -3  L -3 3  L 3 3  z " style="stroke: #606a24; stroke-linejoin: miter" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)">
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="71.763155" y="171.169565" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="140.391965" y="185.171737" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="209.020776" y="189.488334" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="277.649586" y="191.511971" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="346.278396" y="192.340314" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="414.907206" y="191.557043" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="483.536017" y="191.60504" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="552.164827" y="192.443933" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="620.793637" y="192.400711" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="689.422448" y="192.614005" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="758.051258" y="186.617166" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-patch_3">
-    <path d="M 37.44875 207.376205  L 37.44875 69.925402  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-patch_4">
-    <path d="M 37.44875 207.376205  L 792.365663 207.376205  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-text_5">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="37.44875" y="63.925402" transform="rotate(-0 37.44875 63.925402)">India</text>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-legend_1">
-    <g id="mellon-7.6-pitt-bear-calendar-line2d_14">
-     <path d="M 278.206581 16.918125  L 290.206581 16.918125  L 302.206581 16.918125  " style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.5" />
-     <g>
-      <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="290.206581" y="16.918125" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-text_6">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="311.806581" y="21.118125" transform="rotate(-0 311.806581 21.118125)">The Pitt 213–215</text>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-line2d_15">
-     <path d="M 437.270331 16.918125  L 449.270331 16.918125  L 461.270331 16.918125  " style="fill: none; stroke-dasharray: 1.5,2.475; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.5" />
-     <g>
-      <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="449.270331" y="16.918125" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-text_7">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="470.870331" y="21.118125" transform="rotate(-0 470.870331 21.118125)">The Bear S05</text>
-    </g>
-   </g>
-  </g>
-  <g id="mellon-7.6-pitt-bear-calendar-axes_2">
-   <g id="mellon-7.6-pitt-bear-calendar-patch_5">
-    <path d="M 37.44875 374.823925  L 792.365663 374.823925  L 792.365663 237.373122  L 37.44875 237.373122  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-matplotlib.axis_3">
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_6">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_16">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="71.763155" y="374.823925" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_7">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_17">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="277.649586" y="374.823925" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_8">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_18">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="483.536017" y="374.823925" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_9">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_19">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="620.793637" y="374.823925" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_10">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_20">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="758.051258" y="374.823925" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-matplotlib.axis_4">
-    <g id="mellon-7.6-pitt-bear-calendar-ytick_4">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_21">
-      <path d="M 37.44875 374.823925  L 792.365663 374.823925  " clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_22">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="374.823925" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_8">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="379.382988" transform="rotate(-0 30.44875 379.382988)">0</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-ytick_5">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_23">
-      <path d="M 37.44875 327.941917  L 792.365663 327.941917  " clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_24">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="327.941917" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_9">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="332.50098" transform="rotate(-0 30.44875 332.50098)">1</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-ytick_6">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_25">
-      <path d="M 37.44875 281.059909  L 792.365663 281.059909  " clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_26">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="281.059909" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_10">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="285.618971" transform="rotate(-0 30.44875 285.618971)">2</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-text_11">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="306.098524" transform="rotate(-90 16.318125 306.098524)">World share (%)</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-line2d_27">
-    <path d="M 71.763155 368.1149  L 140.391965 368.2241  L 209.020776 368.010175  L 277.649586 368.901352  L 346.278396 368.91298  L 414.907206 368.618448  L 483.536017 368.077181  L 552.164827 367.83586  L 620.793637 368.249675  L 689.422448 367.697837  L 758.051258 366.140719  " clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.5" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)">
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="71.763155" y="368.1149" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="140.391965" y="368.2241" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="209.020776" y="368.010175" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="277.649586" y="368.901352" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="346.278396" y="368.91298" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="414.907206" y="368.618448" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="483.536017" y="368.077181" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="552.164827" y="367.83586" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="620.793637" y="368.249675" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="689.422448" y="367.697837" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="758.051258" y="366.140719" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-line2d_28">
-    <path d="M 71.763155 357.992232  L 140.391965 365.432187  L 209.020776 366.60048  L 277.649586 367.529261  L 346.278396 367.799935  L 414.907206 367.57861  L 483.536017 367.634815  L 552.164827 367.599978  L 620.793637 367.991724  L 689.422448 367.511781  L 758.051258 366.344946  " clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)" style="fill: none; stroke-dasharray: 1.5,2.475; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.5" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)">
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="71.763155" y="357.992232" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="140.391965" y="365.432187" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="209.020776" y="366.60048" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="277.649586" y="367.529261" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="346.278396" y="367.799935" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="414.907206" y="367.57861" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="483.536017" y="367.634815" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="552.164827" y="367.599978" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="620.793637" y="367.991724" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="689.422448" y="367.511781" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="758.051258" y="366.344946" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-patch_6">
-    <path d="M 37.44875 374.823925  L 37.44875 237.373122  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-patch_7">
-    <path d="M 37.44875 374.823925  L 792.365663 374.823925  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-text_12">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="37.44875" y="231.373122" transform="rotate(-0 37.44875 231.373122)">Philippines</text>
-   </g>
-  </g>
-  <g id="mellon-7.6-pitt-bear-calendar-axes_3">
-   <g id="mellon-7.6-pitt-bear-calendar-patch_8">
-    <path d="M 37.44875 542.271646  L 792.365663 542.271646  L 792.365663 404.820843  L 37.44875 404.820843  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-matplotlib.axis_5">
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_11">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_29">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="71.763155" y="542.271646" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_13">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="71.763155" y="558.389771" transform="rotate(-0 71.763155 558.389771)">2026-06-26</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_12">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_30">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="277.649586" y="542.271646" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_14">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="277.649586" y="558.389771" transform="rotate(-0 277.649586 558.389771)">2026-07-17</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_13">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_31">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="483.536017" y="542.271646" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_15">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="483.536017" y="558.389771" transform="rotate(-0 483.536017 558.389771)">2026-08-07</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_14">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_32">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="620.793637" y="542.271646" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_16">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="620.793637" y="558.389771" transform="rotate(-0 620.793637 558.389771)">2026-08-21</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-xtick_15">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_33">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="758.051258" y="542.271646" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_17">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="758.051258" y="558.389771" transform="rotate(-0 758.051258 558.389771)">2026-09-04</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-text_18">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="414.907206" y="574.003521" transform="rotate(-0 414.907206 574.003521)">Seven-day interval start (last interval ends 2026-09-10)</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-matplotlib.axis_6">
-    <g id="mellon-7.6-pitt-bear-calendar-ytick_7">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_34">
-      <path d="M 37.44875 542.271646  L 792.365663 542.271646  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_35">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="542.271646" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_19">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="546.830708" transform="rotate(-0 30.44875 546.830708)">0</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-ytick_8">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_36">
-      <path d="M 37.44875 495.389638  L 792.365663 495.389638  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_37">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="495.389638" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_20">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="499.9487" transform="rotate(-0 30.44875 499.9487)">1</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-ytick_9">
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_38">
-      <path d="M 37.44875 448.507629  L 792.365663 448.507629  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-line2d_39">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="448.507629" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-calendar-text_21">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="453.066692" transform="rotate(-0 30.44875 453.066692)">2</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-calendar-text_22">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="473.546244" transform="rotate(-90 16.318125 473.546244)">World share (%)</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-line2d_40">
-    <path d="M 71.763155 492.042008  L 140.391965 493.18798  L 209.020776 494.720892  L 277.649586 497.653728  L 346.278396 499.986562  L 414.907206 498.460705  L 483.536017 497.844028  L 552.164827 496.955772  L 620.793637 499.420949  L 689.422448 497.257625  L 758.051258 488.429906  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.5" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)">
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="71.763155" y="492.042008" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="140.391965" y="493.18798" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="209.020776" y="494.720892" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="277.649586" y="497.653728" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="346.278396" y="499.986562" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="414.907206" y="498.460705" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="483.536017" y="497.844028" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="552.164827" y="496.955772" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="620.793637" y="499.420949" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="689.422448" y="497.257625" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="758.051258" y="488.429906" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-line2d_41">
-    <path d="M 71.763155 419.547714  L 140.391965 455.966032  L 209.020776 473.257006  L 277.649586 481.768843  L 346.278396 484.837976  L 414.907206 486.6002  L 483.536017 486.674856  L 552.164827 493.416974  L 620.793637 497.149255  L 689.422448 495.774164  L 758.051258 488.953999  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)" style="fill: none; stroke-dasharray: 1.5,2.475; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.5" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)">
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="71.763155" y="419.547714" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="140.391965" y="455.966032" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="209.020776" y="473.257006" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="277.649586" y="481.768843" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="346.278396" y="484.837976" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="414.907206" y="486.6002" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="483.536017" y="486.674856" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="552.164827" y="493.416974" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="620.793637" y="497.149255" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="689.422448" y="495.774164" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="758.051258" y="488.953999" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-patch_9">
-    <path d="M 37.44875 542.271646  L 37.44875 404.820843  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-patch_10">
-    <path d="M 37.44875 542.271646  L 792.365663 542.271646  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-calendar-text_23">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="37.44875" y="398.820843" transform="rotate(-0 37.44875 398.820843)">Australia</text>
-   </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="mellon-7.6-pitt-bear-calendar" x="0px" y="0px" width="1200.000000px" height="1308.000000px" viewBox="0 0 1200.000000 1308.000000" enable-background="new 0 0 1200.000000 1308.000000" role="group" class="analysis-svg" aria-label="Pitt 213–215 and Bear S05 in the same calendar weeks. Izzi native lines. Existing calendar comparison; different elapsed sampling weeks.">
+<title>Pitt 213–215 and Bear S05 in the same calendar weeks</title>
+ <rect width="100%" height="100%" fill="white" /> <text x="25.00000" y="32.00000" font-family="DejaVu Sans,sans-serif" font-size="25" text-anchor="start" fill="#26313a">Pitt 213–215 and Bear S05 in the same calendar weeks</text> <text x="25.00000" y="62.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="start" fill="#26313a">June 26–September 10, 2026 · matched calendar intervals · country downloader shares</text><polyline points="30,91 72,91 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ <circle cx="51.000000" cy="91.000000" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+
+</title>
+ </circle>
+ <text x="84.00000" y="96.00000" font-family="DejaVu Sans,sans-serif" font-size="18" text-anchor="start" fill="#26313a">The Pitt 213–215</text><polyline points="630,91 672,91 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ <rect x="647.000000" y="87.000000" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+
+</title>
+ </rect>
+ <text x="684.00000" y="96.00000" font-family="DejaVu Sans,sans-serif" font-size="18" text-anchor="start" fill="#26313a">The Bear S05</text> <text x="88.00000" y="153.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">India</text><line x1="88.000000" y1="178.000000" x2="88.000000" y2="433.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="88.000000" y1="433.000000" x2="1163.000000" y2="433.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="78.00000" y="438.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0%</text><line x1="88.000000" y1="382.000000" x2="1163.000000" y2="382.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="387.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0.586%</text><line x1="88.000000" y1="331.000000" x2="1163.000000" y2="331.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="336.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">1.17%</text><line x1="88.000000" y1="280.000000" x2="1163.000000" y2="280.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="285.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">1.76%</text><line x1="88.000000" y1="229.000000" x2="1163.000000" y2="229.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="234.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">2.35%</text><line x1="88.000000" y1="178.000000" x2="1163.000000" y2="178.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="183.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">2.93%</text><line x1="88.000000" y1="433.000000" x2="88.000000" y2="438.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="88.00000" y="460.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-06-26</text><line x1="410.500000" y1="433.000000" x2="410.500000" y2="438.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="410.50000" y="460.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-07-17</text><line x1="733.000000" y1="433.000000" x2="733.000000" y2="438.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="733.00000" y="460.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-08-07</text><line x1="948.000000" y1="433.000000" x2="948.000000" y2="438.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="948.00000" y="460.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-08-21</text><line x1="1163.000000" y1="433.000000" x2="1163.000000" y2="438.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1163.00000" y="460.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-09-04</text> <text x="625.50000" y="490.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Seven-day interval start</text> <g transform="translate(21.00000 305.50000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">World share (%)</text> </g> <g data-series="The Pitt 213–215" transform="translate(-112.00000 -22.00000)"> <g id="mellon-7.6-pitt-bear-calendar-polyline-panel-0-series-0-41">
+<polyline points="200,429.102 307.5,429.321 415,428.571 522.5,431.099 630,431.205 737.5,429.561 845,429.982 952.5,429.941 1060,428.379 1167.5,428.29 1275,419.723 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
  </g>
- <defs>
-  <clipPath id="mellon-7.6-pitt-bear-calendar-p94ffe74426">
-   <rect x="37.44875" y="69.925402" width="754.916913" height="137.450803" />
-  </clipPath>
-  <clipPath id="mellon-7.6-pitt-bear-calendar-pd748364414">
-   <rect x="37.44875" y="237.373122" width="754.916913" height="137.450803" />
-  </clipPath>
-  <clipPath id="mellon-7.6-pitt-bear-calendar-p3968571e21">
-   <rect x="37.44875" y="404.820843" width="754.916913" height="137.450803" />
-  </clipPath>
- </defs>
-</svg>
+ <circle cx="200.000000" cy="429.101703" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · India · 2026-06-26-to-2026-07-02 · 0.298% of world
+</title>
+ </circle>
+ <circle cx="307.500000" cy="429.320750" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · India · 2026-07-03-to-2026-07-09 · 0.295% of world
+</title>
+ </circle>
+ <circle cx="415.000000" cy="428.570923" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · India · 2026-07-10-to-2026-07-16 · 0.304% of world
+</title>
+ </circle>
+ <circle cx="522.500000" cy="431.098595" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · India · 2026-07-17-to-2026-07-23 · 0.275% of world
+</title>
+ </circle>
+ <circle cx="630.000000" cy="431.204680" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · India · 2026-07-24-to-2026-07-30 · 0.274% of world
+</title>
+ </circle>
+ <circle cx="737.500000" cy="429.561317" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · India · 2026-07-31-to-2026-08-06 · 0.292% of world
+</title>
+ </circle>
+ <circle cx="845.000000" cy="429.981708" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · India · 2026-08-07-to-2026-08-13 · 0.288% of world
+</title>
+ </circle>
+ <circle cx="952.500000" cy="429.941125" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · India · 2026-08-14-to-2026-08-20 · 0.288% of world
+</title>
+ </circle>
+ <circle cx="1060.000000" cy="428.379489" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · India · 2026-08-21-to-2026-08-27 · 0.306% of world
+</title>
+ </circle>
+ <circle cx="1167.500000" cy="428.289923" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · India · 2026-08-28-to-2026-09-03 · 0.307% of world
+</title>
+ </circle>
+ <circle cx="1275.000000" cy="419.722925" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · India · 2026-09-04-to-2026-09-10 · 0.406% of world
+</title>
+ </circle>
+ </g> <g data-series="The Bear S05" transform="translate(-112.00000 -22.00000)"> <g id="mellon-7.6-pitt-bear-calendar-polyline-panel-0-series-1-66">
+<polyline points="200,387.829 307.5,413.806 415,421.814 522.5,425.569 630,427.105 737.5,425.652 845,425.741 952.5,427.298 1060,427.217 1167.5,427.613 1275,416.488 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="383.829109" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · India · 2026-06-26-to-2026-07-02 · 0.772% of world
+</title>
+ </rect>
+ <rect x="303.500000" y="409.806068" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · India · 2026-07-03-to-2026-07-09 · 0.474% of world
+</title>
+ </rect>
+ <rect x="411.000000" y="417.814259" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · India · 2026-07-10-to-2026-07-16 · 0.382% of world
+</title>
+ </rect>
+ <rect x="518.500000" y="421.568530" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · India · 2026-07-17-to-2026-07-23 · 0.338% of world
+</title>
+ </rect>
+ <rect x="626.000000" y="423.105280" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · India · 2026-07-24-to-2026-07-30 · 0.321% of world
+</title>
+ </rect>
+ <rect x="733.500000" y="421.652147" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · India · 2026-07-31-to-2026-08-06 · 0.337% of world
+</title>
+ </rect>
+ <rect x="841.000000" y="421.741190" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · India · 2026-08-07-to-2026-08-13 · 0.336% of world
+</title>
+ </rect>
+ <rect x="948.500000" y="423.297514" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · India · 2026-08-14-to-2026-08-20 · 0.319% of world
+</title>
+ </rect>
+ <rect x="1056.000000" y="423.217327" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · India · 2026-08-21-to-2026-08-27 · 0.319% of world
+</title>
+ </rect>
+ <rect x="1163.500000" y="423.613033" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · India · 2026-08-28-to-2026-09-03 · 0.315% of world
+</title>
+ </rect>
+ <rect x="1271.000000" y="412.487641" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · India · 2026-09-04-to-2026-09-10 · 0.443% of world
+</title>
+ </rect>
+ </g> <text x="88.00000" y="538.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">Philippines</text><line x1="88.000000" y1="563.000000" x2="88.000000" y2="818.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="88.000000" y1="818.000000" x2="1163.000000" y2="818.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="78.00000" y="823.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0%</text><line x1="88.000000" y1="767.000000" x2="1163.000000" y2="767.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="772.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0.586%</text><line x1="88.000000" y1="716.000000" x2="1163.000000" y2="716.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="721.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">1.17%</text><line x1="88.000000" y1="665.000000" x2="1163.000000" y2="665.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="670.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">1.76%</text><line x1="88.000000" y1="614.000000" x2="1163.000000" y2="614.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="619.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">2.35%</text><line x1="88.000000" y1="563.000000" x2="1163.000000" y2="563.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="568.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">2.93%</text><line x1="88.000000" y1="818.000000" x2="88.000000" y2="823.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="88.00000" y="845.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-06-26</text><line x1="410.500000" y1="818.000000" x2="410.500000" y2="823.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="410.50000" y="845.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-07-17</text><line x1="733.000000" y1="818.000000" x2="733.000000" y2="823.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="733.00000" y="845.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-08-07</text><line x1="948.000000" y1="818.000000" x2="948.000000" y2="823.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="948.00000" y="845.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-08-21</text><line x1="1163.000000" y1="818.000000" x2="1163.000000" y2="823.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1163.00000" y="845.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-09-04</text> <text x="625.50000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Seven-day interval start</text> <g transform="translate(21.00000 690.50000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">World share (%)</text> </g> <g data-series="The Pitt 213–215" transform="translate(-112.00000 363.00000)"> <g id="mellon-7.6-pitt-bear-calendar-polyline-panel-1-series-0-118">
+<polyline points="200,442.553 307.5,442.756 415,442.359 522.5,444.012 630,444.034 737.5,443.488 845,442.483 952.5,442.036 1060,442.803 1167.5,441.78 1275,438.891 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <circle cx="200.000000" cy="442.553356" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Philippines · 2026-06-26-to-2026-07-02 · 0.143% of world
+</title>
+ </circle>
+ <circle cx="307.500000" cy="442.755945" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Philippines · 2026-07-03-to-2026-07-09 · 0.141% of world
+</title>
+ </circle>
+ <circle cx="415.000000" cy="442.359069" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Philippines · 2026-07-10-to-2026-07-16 · 0.145% of world
+</title>
+ </circle>
+ <circle cx="522.500000" cy="444.012389" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Philippines · 2026-07-17-to-2026-07-23 · 0.126% of world
+</title>
+ </circle>
+ <circle cx="630.000000" cy="444.033962" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Philippines · 2026-07-24-to-2026-07-30 · 0.126% of world
+</title>
+ </circle>
+ <circle cx="737.500000" cy="443.487543" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Philippines · 2026-07-31-to-2026-08-06 · 0.132% of world
+</title>
+ </circle>
+ <circle cx="845.000000" cy="442.483379" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Philippines · 2026-08-07-to-2026-08-13 · 0.144% of world
+</title>
+ </circle>
+ <circle cx="952.500000" cy="442.035678" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Philippines · 2026-08-14-to-2026-08-20 · 0.149% of world
+</title>
+ </circle>
+ <circle cx="1060.000000" cy="442.803393" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Philippines · 2026-08-21-to-2026-08-27 · 0.140% of world
+</title>
+ </circle>
+ <circle cx="1167.500000" cy="441.779617" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Philippines · 2026-08-28-to-2026-09-03 · 0.152% of world
+</title>
+ </circle>
+ <circle cx="1275.000000" cy="438.890837" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Philippines · 2026-09-04-to-2026-09-10 · 0.185% of world
+</title>
+ </circle>
+ </g> <g data-series="The Bear S05" transform="translate(-112.00000 363.00000)"> <g id="mellon-7.6-pitt-bear-calendar-polyline-panel-1-series-1-143">
+<polyline points="200,423.774 307.5,437.576 415,439.744 522.5,441.467 630,441.969 737.5,441.558 845,441.663 952.5,441.598 1060,442.325 1167.5,441.434 1275,439.27 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="419.773689" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Philippines · 2026-06-26-to-2026-07-02 · 0.359% of world
+</title>
+ </rect>
+ <rect x="303.500000" y="433.576363" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Philippines · 2026-07-03-to-2026-07-09 · 0.200% of world
+</title>
+ </rect>
+ <rect x="411.000000" y="435.743789" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Philippines · 2026-07-10-to-2026-07-16 · 0.175% of world
+</title>
+ </rect>
+ <rect x="518.500000" y="437.466872" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Philippines · 2026-07-17-to-2026-07-23 · 0.156% of world
+</title>
+ </rect>
+ <rect x="626.000000" y="437.969031" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Philippines · 2026-07-24-to-2026-07-30 · 0.150% of world
+</title>
+ </rect>
+ <rect x="733.500000" y="437.558425" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Philippines · 2026-07-31-to-2026-08-06 · 0.155% of world
+</title>
+ </rect>
+ <rect x="841.000000" y="437.662699" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Philippines · 2026-08-07-to-2026-08-13 · 0.153% of world
+</title>
+ </rect>
+ <rect x="948.500000" y="437.598067" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Philippines · 2026-08-14-to-2026-08-20 · 0.154% of world
+</title>
+ </rect>
+ <rect x="1056.000000" y="438.324840" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Philippines · 2026-08-21-to-2026-08-27 · 0.146% of world
+</title>
+ </rect>
+ <rect x="1163.500000" y="437.434444" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Philippines · 2026-08-28-to-2026-09-03 · 0.156% of world
+</title>
+ </rect>
+ <rect x="1271.000000" y="435.269721" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Philippines · 2026-09-04-to-2026-09-10 · 0.181% of world
+</title>
+ </rect>
+ </g> <text x="88.00000" y="923.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">Australia</text><line x1="88.000000" y1="948.000000" x2="88.000000" y2="1203.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="88.000000" y1="1203.000000" x2="1163.000000" y2="1203.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="78.00000" y="1208.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0%</text><line x1="88.000000" y1="1152.000000" x2="1163.000000" y2="1152.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="1157.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0.586%</text><line x1="88.000000" y1="1101.000000" x2="1163.000000" y2="1101.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="1106.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">1.17%</text><line x1="88.000000" y1="1050.000000" x2="1163.000000" y2="1050.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="1055.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">1.76%</text><line x1="88.000000" y1="999.000000" x2="1163.000000" y2="999.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="1004.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">2.35%</text><line x1="88.000000" y1="948.000000" x2="1163.000000" y2="948.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="953.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">2.93%</text><line x1="88.000000" y1="1203.000000" x2="88.000000" y2="1208.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="88.00000" y="1230.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-06-26</text><line x1="410.500000" y1="1203.000000" x2="410.500000" y2="1208.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="410.50000" y="1230.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-07-17</text><line x1="733.000000" y1="1203.000000" x2="733.000000" y2="1208.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="733.00000" y="1230.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-08-07</text><line x1="948.000000" y1="1203.000000" x2="948.000000" y2="1208.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="948.00000" y="1230.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-08-21</text><line x1="1163.000000" y1="1203.000000" x2="1163.000000" y2="1208.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1163.00000" y="1230.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2026-09-04</text> <text x="625.50000" y="1260.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Seven-day interval start</text> <g transform="translate(21.00000 1075.50000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">World share (%)</text> </g> <g data-series="The Pitt 213–215" transform="translate(-112.00000 748.00000)"> <g id="mellon-7.6-pitt-bear-calendar-polyline-panel-2-series-0-195">
+<polyline points="200,361.814 307.5,363.94 415,366.783 522.5,372.224 630,376.552 737.5,373.722 845,372.577 952.5,370.93 1060,375.503 1167.5,371.49 1275,355.112 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <circle cx="200.000000" cy="361.813514" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Australia · 2026-06-26-to-2026-07-02 · 1.071% of world
+</title>
+ </circle>
+ <circle cx="307.500000" cy="363.939531" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Australia · 2026-07-03-to-2026-07-09 · 1.047% of world
+</title>
+ </circle>
+ <circle cx="415.000000" cy="366.783403" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Australia · 2026-07-10-to-2026-07-16 · 1.014% of world
+</title>
+ </circle>
+ <circle cx="522.500000" cy="372.224427" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Australia · 2026-07-17-to-2026-07-23 · 0.952% of world
+</title>
+ </circle>
+ <circle cx="630.000000" cy="376.552325" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Australia · 2026-07-24-to-2026-07-30 · 0.902% of world
+</title>
+ </circle>
+ <circle cx="737.500000" cy="373.721540" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Australia · 2026-07-31-to-2026-08-06 · 0.934% of world
+</title>
+ </circle>
+ <circle cx="845.000000" cy="372.577475" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Australia · 2026-08-07-to-2026-08-13 · 0.948% of world
+</title>
+ </circle>
+ <circle cx="952.500000" cy="370.929575" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Australia · 2026-08-14-to-2026-08-20 · 0.967% of world
+</title>
+ </circle>
+ <circle cx="1060.000000" cy="375.502993" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Australia · 2026-08-21-to-2026-08-27 · 0.914% of world
+</title>
+ </circle>
+ <circle cx="1167.500000" cy="371.489576" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Australia · 2026-08-28-to-2026-09-03 · 0.960% of world
+</title>
+ </circle>
+ <circle cx="1275.000000" cy="355.112308" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · Australia · 2026-09-04-to-2026-09-10 · 1.148% of world
+</title>
+ </circle>
+ </g> <g data-series="The Bear S05" transform="translate(-112.00000 748.00000)"> <g id="mellon-7.6-pitt-bear-calendar-polyline-panel-2-series-1-220">
+<polyline points="200,227.321 307.5,294.885 415,326.963 522.5,342.755 630,348.449 737.5,351.718 845,351.856 952.5,364.364 1060,371.289 1167.5,368.737 1275,356.085 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="223.321429" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Australia · 2026-06-26-to-2026-07-02 · 2.618% of world
+</title>
+ </rect>
+ <rect x="303.500000" y="290.885031" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Australia · 2026-07-03-to-2026-07-09 · 1.841% of world
+</title>
+ </rect>
+ <rect x="411.000000" y="322.963404" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Australia · 2026-07-10-to-2026-07-16 · 1.472% of world
+</title>
+ </rect>
+ <rect x="518.500000" y="338.754643" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Australia · 2026-07-17-to-2026-07-23 · 1.291% of world
+</title>
+ </rect>
+ <rect x="626.000000" y="344.448525" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Australia · 2026-07-24-to-2026-07-30 · 1.225% of world
+</title>
+ </rect>
+ <rect x="733.500000" y="347.717822" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Australia · 2026-07-31-to-2026-08-06 · 1.187% of world
+</title>
+ </rect>
+ <rect x="841.000000" y="347.856322" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Australia · 2026-08-07-to-2026-08-13 · 1.186% of world
+</title>
+ </rect>
+ <rect x="948.500000" y="360.364363" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Australia · 2026-08-14-to-2026-08-20 · 1.042% of world
+</title>
+ </rect>
+ <rect x="1056.000000" y="367.288523" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Australia · 2026-08-21-to-2026-08-27 · 0.962% of world
+</title>
+ </rect>
+ <rect x="1163.500000" y="364.737445" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Australia · 2026-08-28-to-2026-09-03 · 0.992% of world
+</title>
+ </rect>
+ <rect x="1271.000000" y="352.084610" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · Australia · 2026-09-04-to-2026-09-10 · 1.137% of world
+</title>
+ </rect>
+ </g> <text x="25.00000" y="1298.00000" font-family="DejaVu Sans,sans-serif" font-size="15" text-anchor="start" fill="#26313a">Izzi native weekly line graphs · missing intervals are unplotted · exact values in the accompanying ledger</text><desc>Izzi native lines. Existing calendar comparison; different elapsed sampling weeks.</desc></svg>

@@ -356,6 +356,8 @@ Year and geolocation-pipeline differences remain limitations even with matched
 week prefixes. The historical pilot below uses cumulative products and a
 different Asia boundary; its numbers are not interchangeable with these results.
 
+The weekly graphs use native Izzi line and marker APIs; [series and renderer provenance](../data/mellon-7.6-weekly-graphs.json), the [C++ renderer](../resources/izzi-weekly-graphs.cc) and [Python wrapper](../resources/izzi_weekly_graphs.py) are retained.
+
 Download the [pair ledger](../data/mellon-7.6-pairs.json),
 [pair reduction script](../resources/mellon-7.6-pairs.py) and
 [shared aggregation helper](../resources/mellon-7.6-analyze.py).

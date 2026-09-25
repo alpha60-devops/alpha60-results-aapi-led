@@ -349,6 +349,9 @@ Projection: [Cartofreako native Cahill–Keyes](https://github.com/bdekoz/cartof
 
 
 
+
+
+
 ## Hot and cold locations
 
 Orange upward triangles favor the first named object; blue downward triangles favor the second. These are selected differences in **city share of the worldwide swarm**, rather than differences in raw title size. Hover or focus a triangle for its values; the following table provides the same evidence.
@@ -1374,6 +1377,7 @@ References: [Cartofreako Cahill–Keyes geometry and octants](https://bdekoz.git
 
 ## References and reproduction
 
+- [Weekly graph series and native Izzi renderer provenance](../data/mellon-7.6-weekly-graphs.json). All weekly lines use Izzi `make_line_graph` and its native marker API; download the [C++ renderer](../resources/izzi-weekly-graphs.cc) and [Python wrapper](../resources/izzi_weekly_graphs.py).
 - [Calculation ledger: every interval, country, network field, city and source SHA-256](../data/mellon-7.6-analysis.json). All ten flags for both roles are retained.
 - [The Pitt 201–203: pitt-201-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2026/blob/834a62f1dda3071906190c64caef241282d90bff/data/json/pitt-201-cumulative.json).
 - [The Pitt 201–203: pitt-201-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2026/blob/834a62f1dda3071906190c64caef241282d90bff/docs/itemized/pitt-201-sample-cache-audit.md).

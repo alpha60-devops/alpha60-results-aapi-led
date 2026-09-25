@@ -1,649 +1,957 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.39952pt" height="509.39976pt" viewBox="0 0 800.39952 509.39976" version="1.1" role="group" aria-label="Weekly worldwide weights at the 2026 Internet-user scale. Provisional 6.1-billion reference. Separate downloader and uploader panels; role scales differ. Not unique viewers." class="analysis-svg">
- <metadata>
-  <rdf:RDF>
-   <ns2:Work>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:format>image/svg+xml</dc:format>
-    <dc:creator>
-     <ns2:Agent>
-      <dc:title>Alpha60 Mellon 7.6</dc:title>
-     </ns2:Agent>
-    </dc:creator>
-   </ns2:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
- </defs>
- <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-figure_1">
-  <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-patch_1">
-   <path d="M 0 509.39976  L 800.39952 509.39976  L 800.39952 0  L 0 0  z " style="fill: #ffffff" />
-  </g>
-  <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-axes_1">
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-patch_2">
-    <path d="M 60.58625 251.972656  L 793.19952 251.972656  L 793.19952 65.96997  L 60.58625 65.96997  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-matplotlib.axis_1">
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_1">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_1">
-      <defs>
-       <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8" />
-      </defs>
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="93.886853" y="251.972656" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_2">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_2">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="167.888194" y="251.972656" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_3">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_3">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="241.889534" y="251.972656" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_4">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_4">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="315.890874" y="251.972656" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_5">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_5">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="389.892215" y="251.972656" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_6">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_6">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="463.893555" y="251.972656" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_7">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_7">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="537.894896" y="251.972656" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_8">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_8">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="611.896236" y="251.972656" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_9">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_9">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="685.897576" y="251.972656" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_10">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_10">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="759.898917" y="251.972656" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-matplotlib.axis_2">
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-ytick_1">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_11">
-      <path d="M 60.58625 251.972656  L 793.19952 251.972656  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_12">
-      <defs>
-       <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m6b0521fb35" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8" />
-      </defs>
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="251.972656" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_1">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="256.531719" transform="rotate(-0 53.58625 256.531719)">0m</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-ytick_2">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_13">
-      <path d="M 60.58625 209.971898  L 793.19952 209.971898  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_14">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="209.971898" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_2">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="214.53096" transform="rotate(-0 53.58625 214.53096)">1m</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-ytick_3">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_15">
-      <path d="M 60.58625 167.971139  L 793.19952 167.971139  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_16">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="167.971139" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_3">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="172.530202" transform="rotate(-0 53.58625 172.530202)">2m</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-ytick_4">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_17">
-      <path d="M 60.58625 125.970381  L 793.19952 125.970381  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_18">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="125.970381" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_4">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="130.529443" transform="rotate(-0 53.58625 130.529443)">3m</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-ytick_5">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_19">
-      <path d="M 60.58625 83.969622  L 793.19952 83.969622  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_20">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="83.969622" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_5">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="88.528685" transform="rotate(-0 53.58625 88.528685)">4m</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_6">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="27.766875" y="158.971313" transform="rotate(-90 27.766875 158.971313)">2026 adjusted weight</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_21">
-    <path d="M 93.886853 204.409443  L 167.888194 150.649019  L 241.889534 107.755156  L 315.890874 107.840838  L 389.892215 107.07193  L 463.893555 96.760197  L 537.894896 108.646748  L 611.896236 122.813982  L 685.897576 123.482256  L 759.898917 122.307789  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <defs>
-     <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" d="M 0 2  C 0.530406 2 1.03916 1.789267 1.414214 1.414214  C 1.789267 1.03916 2 0.530406 2 0  C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214  C 1.03916 -1.789267 0.530406 -2 0 -2  C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214  C -1.789267 -1.03916 -2 -0.530406 -2 0  C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214  C -1.03916 1.789267 -0.530406 2 0 2  z " style="stroke: #175b8c" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="93.886853" y="204.409443" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="167.888194" y="150.649019" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="241.889534" y="107.755156" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="315.890874" y="107.840838" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="389.892215" y="107.07193" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="463.893555" y="96.760197" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="537.894896" y="108.646748" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="611.896236" y="122.813982" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="685.897576" y="123.482256" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="759.898917" y="122.307789" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_22">
-    <path d="M 93.886853 201.198485  L 167.888194 159.424699  L 241.889534 107.125607  L 315.890874 121.973379  L 389.892215 120.04042  L 463.893555 121.434509  L 537.894896 102.351338  L 611.896236 107.11057  L 685.897576 110.180322  L 759.898917 130.118334  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <defs>
-     <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" d="M -2 2  L 2 2  L 2 -2  L -2 -2  z " style="stroke: #9b4318; stroke-linejoin: miter" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="93.886853" y="201.198485" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="167.888194" y="159.424699" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="241.889534" y="107.125607" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="315.890874" y="121.973379" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="389.892215" y="120.04042" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="463.893555" y="121.434509" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="537.894896" y="102.351338" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="611.896236" y="107.11057" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="685.897576" y="110.180322" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="759.898917" y="130.118334" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_23">
-    <path d="M 93.886853 79.008199  L 167.888194 73.425458  L 241.889534 76.242449  L 315.890874 77.136225  L 389.892215 79.762028  L 463.893555 90.566766  L 537.894896 95.768854  L 611.896236 129.204103  L 685.897576 108.244423  L 759.898917 114.904567  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
-    <defs>
-     <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" d="M 0 -2  L -2 2  L 2 2  z " style="stroke: #606a24; stroke-linejoin: miter" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="93.886853" y="79.008199" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="167.888194" y="73.425458" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="241.889534" y="76.242449" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="315.890874" y="77.136225" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="389.892215" y="79.762028" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="463.893555" y="90.566766" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="537.894896" y="95.768854" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="611.896236" y="129.204103" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="685.897576" y="108.244423" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="759.898917" y="114.904567" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_24">
-    <path d="M 93.886853 191.6247  L 167.888194 208.316337  L 241.889534 212.111439  L 315.890874 215.240694  L 389.892215 216.895254  L 463.893555 217.308123  L 537.894896 222.535219  L 611.896236 215.826216  L 685.897576 218.035602  L 759.898917 218.053394  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
-    <defs>
-     <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" d="M -0 2.828427  L 2.828427 0  L 0 -2.828427  L -2.828427 -0  z " style="stroke: #4d405d; stroke-linejoin: miter" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="93.886853" y="191.6247" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="167.888194" y="208.316337" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="241.889534" y="212.111439" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="315.890874" y="215.240694" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="389.892215" y="216.895254" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="463.893555" y="217.308123" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="537.894896" y="222.535219" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="611.896236" y="215.826216" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="685.897576" y="218.035602" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="759.898917" y="218.053394" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_25">
-    <path d="M 93.886853 166.605088  L 167.888194 170.934481  L 241.889534 167.719019  L 315.890874 159.414449  L 389.892215 152.994986  L 463.893555 142.921905  L 537.894896 147.85063  L 611.896236 146.605429  L 685.897576 152.029048  L 759.898917 161.799109  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
-    <defs>
-     <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" d="M -0 2  L 2 -2  L -2 -2  z " style="stroke: #8c416d; stroke-linejoin: miter" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="93.886853" y="166.605088" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="167.888194" y="170.934481" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="241.889534" y="167.719019" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="315.890874" y="159.414449" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="389.892215" y="152.994986" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="463.893555" y="142.921905" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="537.894896" y="147.85063" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="611.896236" y="146.605429" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="685.897576" y="152.029048" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="759.898917" y="161.799109" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_26">
-    <path d="M 93.886853 101.000579  L 167.888194 111.221264  L 241.889534 114.849549  L 315.890874 118.26544  L 389.892215 96.412893  L 463.893555 123.289442  L 537.894896 118.523566  L 611.896236 130.237327  L 685.897576 148.169089  L 759.898917 129.287149  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
-    <defs>
-     <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" d="M -0.666667 2  L 0.666667 2  L 0.666667 0.666667  L 2 0.666667  L 2 -0.666667  L 0.666667 -0.666667  L 0.666667 -2  L -0.666667 -2  L -0.666667 -0.666667  L -2 -0.666667  L -2 0.666667  L -0.666667 0.666667  z " style="stroke: #525252; stroke-linejoin: miter" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="93.886853" y="101.000579" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="167.888194" y="111.221264" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="241.889534" y="114.849549" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="315.890874" y="118.26544" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="389.892215" y="96.412893" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="463.893555" y="123.289442" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="537.894896" y="118.523566" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="611.896236" y="130.237327" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="685.897576" y="148.169089" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="759.898917" y="129.287149" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-patch_3">
-    <path d="M 60.58625 251.972656  L 60.58625 65.96997  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-patch_4">
-    <path d="M 60.58625 251.972656  L 793.19952 251.972656  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_7">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="60.58625" y="59.96997" transform="rotate(-0 60.58625 59.96997)">Worldwide downloaders</text>
-   </g>
-  </g>
-  <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-axes_2">
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-patch_5">
-    <path d="M 60.58625 467.97226  L 793.19952 467.97226  L 793.19952 281.969574  L 60.58625 281.969574  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-matplotlib.axis_3">
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_11">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_27">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="93.886853" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_8">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="93.886853" y="484.090385" transform="rotate(-0 93.886853 484.090385)">1</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_12">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_28">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="167.888194" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_9">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="167.888194" y="484.090385" transform="rotate(-0 167.888194 484.090385)">2</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_13">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_29">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="241.889534" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_10">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="241.889534" y="484.090385" transform="rotate(-0 241.889534 484.090385)">3</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_14">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_30">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="315.890874" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_11">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="315.890874" y="484.090385" transform="rotate(-0 315.890874 484.090385)">4</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_15">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_31">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="389.892215" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_12">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="389.892215" y="484.090385" transform="rotate(-0 389.892215 484.090385)">5</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_16">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_32">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="463.893555" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_13">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="463.893555" y="484.090385" transform="rotate(-0 463.893555 484.090385)">6</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_17">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_33">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="537.894896" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_14">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="537.894896" y="484.090385" transform="rotate(-0 537.894896 484.090385)">7</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_18">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_34">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="611.896236" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_15">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="611.896236" y="484.090385" transform="rotate(-0 611.896236 484.090385)">8</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_19">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_35">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="685.897576" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_16">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="685.897576" y="484.090385" transform="rotate(-0 685.897576 484.090385)">9</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-xtick_20">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_36">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m009e2501a5" x="759.898917" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_17">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="759.898917" y="484.090385" transform="rotate(-0 759.898917 484.090385)">10</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_18">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="426.892885" y="499.704135" transform="rotate(-0 426.892885 499.704135)">Elapsed sampling week (seven-day interval)</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-matplotlib.axis_4">
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-ytick_6">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_37">
-      <path d="M 60.58625 467.97226  L 793.19952 467.97226  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_38">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_19">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="472.531322" transform="rotate(-0 53.58625 472.531322)">0m</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-ytick_7">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_39">
-      <path d="M 60.58625 432.119415  L 793.19952 432.119415  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_40">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="432.119415" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_20">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="436.678478" transform="rotate(-0 53.58625 436.678478)">0.2m</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-ytick_8">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_41">
-      <path d="M 60.58625 396.266571  L 793.19952 396.266571  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_42">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="396.266571" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_21">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="400.825633" transform="rotate(-0 53.58625 400.825633)">0.4m</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-ytick_9">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_43">
-      <path d="M 60.58625 360.413726  L 793.19952 360.413726  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_44">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="360.413726" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_22">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="364.972788" transform="rotate(-0 53.58625 364.972788)">0.6m</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-ytick_10">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_45">
-      <path d="M 60.58625 324.560881  L 793.19952 324.560881  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_46">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="324.560881" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_23">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="329.119944" transform="rotate(-0 53.58625 329.119944)">0.8m</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-ytick_11">
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_47">
-      <path d="M 60.58625 288.708037  L 793.19952 288.708037  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_48">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="288.708037" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_24">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="293.267099" transform="rotate(-0 53.58625 293.267099)">1m</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_25">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="374.970917" transform="rotate(-90 16.318125 374.970917)">2026 adjusted weight</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_49">
-    <path d="M 93.886853 444.701433  L 167.888194 426.682152  L 241.889534 419.4051  L 315.890874 427.933058  L 389.892215 431.901968  L 463.893555 436.236935  L 537.894896 439.582006  L 611.896236 442.722177  L 685.897576 443.585514  L 759.898917 443.85441  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="93.886853" y="444.701433" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="167.888194" y="426.682152" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="241.889534" y="419.4051" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="315.890874" y="427.933058" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="389.892215" y="431.901968" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="463.893555" y="436.236935" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="537.894896" y="439.582006" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="611.896236" y="442.722177" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="685.897576" y="443.585514" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="759.898917" y="443.85441" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_50">
-    <path d="M 93.886853 424.274992  L 167.888194 400.377637  L 241.889534 360.350625  L 315.890874 402.318889  L 389.892215 421.045368  L 463.893555 427.572558  L 537.894896 432.375405  L 611.896236 435.709719  L 685.897576 438.389182  L 759.898917 439.506535  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="93.886853" y="424.274992" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="167.888194" y="400.377637" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="241.889534" y="360.350625" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="315.890874" y="402.318889" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="389.892215" y="421.045368" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="463.893555" y="427.572558" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="537.894896" y="432.375405" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="611.896236" y="435.709719" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="685.897576" y="438.389182" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="759.898917" y="439.506535" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_51">
-    <path d="M 93.886853 343.554284  L 167.888194 393.208682  L 241.889534 412.689862  L 315.890874 423.32041  L 389.892215 430.412641  L 463.893555 433.925861  L 537.894896 437.417749  L 611.896236 444.116494  L 685.897576 443.395135  L 759.898917 445.206958  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="93.886853" y="343.554284" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="167.888194" y="393.208682" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="241.889534" y="412.689862" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="315.890874" y="423.32041" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="389.892215" y="430.412641" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="463.893555" y="433.925861" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="537.894896" y="437.417749" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="611.896236" y="444.116494" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="685.897576" y="443.395135" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="759.898917" y="445.206958" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_52">
-    <path d="M 93.886853 363.853335  L 167.888194 402.208463  L 241.889534 413.456041  L 315.890874 418.086658  L 389.892215 422.306399  L 463.893555 427.57834  L 537.894896 433.58334  L 611.896236 429.19532  L 685.897576 428.969125  L 759.898917 431.541916  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="93.886853" y="363.853335" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="167.888194" y="402.208463" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="241.889534" y="413.456041" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="315.890874" y="418.086658" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="389.892215" y="422.306399" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="463.893555" y="427.57834" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="537.894896" y="433.58334" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="611.896236" y="429.19532" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="685.897576" y="428.969125" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="759.898917" y="431.541916" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_53">
-    <path d="M 93.886853 361.410135  L 167.888194 380.222315  L 241.889534 381.207271  L 315.890874 392.285539  L 389.892215 402.438299  L 463.893555 409.795446  L 537.894896 419.080355  L 611.896236 420.424778  L 685.897576 426.907315  L 759.898917 428.530484  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="93.886853" y="361.410135" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="167.888194" y="380.222315" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="241.889534" y="381.207271" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="315.890874" y="392.285539" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="389.892215" y="402.438299" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="463.893555" y="409.795446" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="537.894896" y="419.080355" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="611.896236" y="420.424778" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="685.897576" y="426.907315" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="759.898917" y="428.530484" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_54">
-    <path d="M 93.886853 289.742783  L 167.888194 343.102876  L 241.889534 363.183944  L 315.890874 381.130841  L 389.892215 392.343346  L 463.893555 398.204387  L 537.894896 405.722098  L 611.896236 411.77341  L 685.897576 415.928208  L 759.898917 420.253776  " clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="93.886853" y="289.742783" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="167.888194" y="343.102876" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="241.889534" y="363.183944" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="315.890874" y="381.130841" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="389.892215" y="392.343346" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="463.893555" y="398.204387" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="537.894896" y="405.722098" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="611.896236" y="411.77341" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="685.897576" y="415.928208" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="759.898917" y="420.253776" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-patch_6">
-    <path d="M 60.58625 467.97226  L 60.58625 281.969574  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-patch_7">
-    <path d="M 60.58625 467.97226  L 793.19952 467.97226  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_26">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="60.58625" y="275.969574" transform="rotate(-0 60.58625 275.969574)">Worldwide uploaders</text>
-   </g>
-  </g>
-  <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-legend_1">
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_55">
-    <path d="M 194.330385 15.718125  L 206.330385 15.718125  L 218.330385 15.718125  " style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <g>
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m0cfabb88ed" x="206.330385" y="15.718125" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_27">
-    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="227.930385" y="19.918125" transform="rotate(-0 227.930385 19.918125)">The Pitt 201–203</text>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_56">
-    <path d="M 194.330385 33.331875  L 206.330385 33.331875  L 218.330385 33.331875  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <g>
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m567847878a" x="206.330385" y="33.331875" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_28">
-    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="227.930385" y="37.531875" transform="rotate(-0 227.930385 37.531875)">The Pitt 213–215</text>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_57">
-    <path d="M 353.394135 15.718125  L 365.394135 15.718125  L 377.394135 15.718125  " style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
-    <g>
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m38bf5b1055" x="365.394135" y="15.718125" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_29">
-    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="386.994135" y="19.918125" transform="rotate(-0 386.994135 19.918125)">The Bear S05</text>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_58">
-    <path d="M 353.394135 33.331875  L 365.394135 33.331875  L 377.394135 33.331875  " style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
-    <g>
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m09b4d3e2df" x="365.394135" y="33.331875" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_30">
-    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="386.994135" y="37.531875" transform="rotate(-0 386.994135 37.531875)">The Bear S02</text>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_59">
-    <path d="M 491.731635 15.718125  L 503.731635 15.718125  L 515.731635 15.718125  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
-    <g>
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m840ec05fe5" x="503.731635" y="15.718125" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_31">
-    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="525.331635" y="19.918125" transform="rotate(-0 525.331635 19.918125)">The Bear S03</text>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-line2d_60">
-    <path d="M 491.731635 33.331875  L 503.731635 33.331875  L 515.731635 33.331875  " style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
-    <g>
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-m35dfb26189" x="503.731635" y="33.331875" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-text_32">
-    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="525.331635" y="37.531875" transform="rotate(-0 525.331635 37.531875)">The Bear S04</text>
-   </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026" x="0px" y="0px" width="1200.000000px" height="951.000000px" viewBox="0 0 1200.000000 951.000000" enable-background="new 0 0 1200.000000 951.000000" role="group" class="analysis-svg" aria-label="Weekly worldwide weights at the 2026 Internet-user scale. Izzi native weekly lines. Separate downloader and uploader scales. Not unique viewers.">
+<title>Worldwide weekly circulation</title>
+ <rect width="100%" height="100%" fill="white" /> <text x="25.00000" y="32.00000" font-family="DejaVu Sans,sans-serif" font-size="25" text-anchor="start" fill="#26313a">Worldwide weekly circulation</text> <text x="25.00000" y="62.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="start" fill="#26313a">Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–10</text><polyline points="30,91 72,91 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ <circle cx="51.000000" cy="91.000000" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+
+</title>
+ </circle>
+ <text x="84.00000" y="96.00000" font-family="DejaVu Sans,sans-serif" font-size="18" text-anchor="start" fill="#26313a">The Pitt 201–203</text><polyline points="430,91 472,91 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ <rect x="447.000000" y="87.000000" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+
+</title>
+ </rect>
+ <text x="484.00000" y="96.00000" font-family="DejaVu Sans,sans-serif" font-size="18" text-anchor="start" fill="#26313a">The Pitt 213–215</text><polyline points="830,91 872,91 " stroke-dasharray="2 4" stroke-linecap="round" style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2" />
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-14" d="M 854.464 93 L 851 87 L 847.536 93 L 854.464 93 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+
+</title>
+ </path>
+ <text x="884.00000" y="96.00000" font-family="DejaVu Sans,sans-serif" font-size="18" text-anchor="start" fill="#26313a">The Bear S05</text><polyline points="30,119 72,119 " stroke-dasharray="8 3 2 3" stroke-linecap="round" style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2" />
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-18" d="M 54.4641 117 L 51 115 L 47.5359 117 L 47.5359 121 L 51 123 L 54.4641 121 L 54.4641 117 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+
+</title>
+ </path>
+ <text x="84.00000" y="124.00000" font-family="DejaVu Sans,sans-serif" font-size="18" text-anchor="start" fill="#26313a">The Bear S02</text><polyline points="430,119 472,119 " stroke-dasharray="9 4" stroke-linecap="round" style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" />
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-22" d="M 451,119 H 447 V 120 H 451 V 124 H 452 V 120 H 456 V 119 H 452 V 115 H 451 V 119 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,451,119)" />
+ <text x="484.00000" y="124.00000" font-family="DejaVu Sans,sans-serif" font-size="18" text-anchor="start" fill="#26313a">The Bear S03</text><polyline points="830,119 872,119 " stroke-dasharray="2 3" stroke-linecap="round" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-25">
+<title>
+
+</title>
+<line x1="854.200000" y1="120.200000" x2="851.000000" y2="122.464102" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="854.200000" y1="120.200000" x2="851.000000" y2="115.535898" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="854.200000" y1="120.200000" x2="848.600000" y2="120.600000" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="854.200000" y1="120.200000" x2="853.400000" y2="117.400000" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="847.800000" y1="117.800000" x2="851.000000" y2="122.464102" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="847.800000" y1="117.800000" x2="851.000000" y2="115.535898" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="847.800000" y1="117.800000" x2="848.600000" y2="120.600000" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="847.800000" y1="117.800000" x2="853.400000" y2="117.400000" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="851.000000" y1="122.464102" x2="848.600000" y2="120.600000" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="851.000000" y1="122.464102" x2="853.400000" y2="117.400000" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="851.000000" y1="115.535898" x2="848.600000" y2="120.600000" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="851.000000" y1="115.535898" x2="853.400000" y2="117.400000" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <text x="884.00000" y="124.00000" font-family="DejaVu Sans,sans-serif" font-size="18" text-anchor="start" fill="#26313a">The Bear S04</text> <text x="88.00000" y="181.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">Worldwide downloaders</text><line x1="88.000000" y1="206.000000" x2="88.000000" y2="461.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="88.000000" y1="461.000000" x2="1163.000000" y2="461.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="78.00000" y="466.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0</text><line x1="88.000000" y1="410.000000" x2="1163.000000" y2="410.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="415.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">1m</text><line x1="88.000000" y1="359.000000" x2="1163.000000" y2="359.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="364.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">2m</text><line x1="88.000000" y1="308.000000" x2="1163.000000" y2="308.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="313.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">3m</text><line x1="88.000000" y1="257.000000" x2="1163.000000" y2="257.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="262.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">4m</text><line x1="88.000000" y1="206.000000" x2="1163.000000" y2="206.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="211.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">5m</text><line x1="88.000000" y1="461.000000" x2="88.000000" y2="466.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="88.00000" y="488.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">1</text><line x1="207.444444" y1="461.000000" x2="207.444444" y2="466.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="207.44444" y="488.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2</text><line x1="326.888889" y1="461.000000" x2="326.888889" y2="466.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="326.88889" y="488.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">3</text><line x1="446.333333" y1="461.000000" x2="446.333333" y2="466.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="446.33333" y="488.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">4</text><line x1="565.777778" y1="461.000000" x2="565.777778" y2="466.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="565.77778" y="488.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">5</text><line x1="685.222222" y1="461.000000" x2="685.222222" y2="466.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="685.22222" y="488.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">6</text><line x1="804.666667" y1="461.000000" x2="804.666667" y2="466.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="804.66667" y="488.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">7</text><line x1="924.111111" y1="461.000000" x2="924.111111" y2="466.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="924.11111" y="488.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">8</text><line x1="1043.555556" y1="461.000000" x2="1043.555556" y2="466.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1043.55556" y="488.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">9</text><line x1="1163.000000" y1="461.000000" x2="1163.000000" y2="466.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1163.00000" y="488.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">10</text> <text x="625.50000" y="518.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Elapsed sampling week (seven-day interval)</text> <g transform="translate(21.00000 333.50000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">2026 adjusted weight</text> </g> <g data-series="The Pitt 201–203" transform="translate(-112.00000 6.00000)"> <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polyline-panel-0-series-0-78">
+<polyline points="200,397.246 319.444,331.966 438.889,279.882 558.333,279.986 677.778,279.052 797.222,266.531 916.667,280.965 1036.11,298.167 1155.56,298.979 1275,297.553 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
  </g>
- <defs>
-  <clipPath id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p55f97980a9">
-   <rect x="60.58625" y="65.96997" width="732.61327" height="186.002686" />
-  </clipPath>
-  <clipPath id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-p1c650128a9">
-   <rect x="60.58625" y="281.969574" width="732.61327" height="186.002686" />
-  </clipPath>
- </defs>
-</svg>
+ <circle cx="200.000000" cy="397.245713" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide downloaders · week 1 · 2026-01-09-to-2026-01-15-partial · 1,132,437.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="319.444444" cy="331.966376" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide downloaders · week 2 · 2026-01-16-to-2026-01-22 · 2,412,424.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="438.888889" cy="279.881912" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide downloaders · week 3 · 2026-01-23-to-2026-01-29 · 3,433,688.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="558.333333" cy="279.985952" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide downloaders · week 4 · 2026-01-30-to-2026-02-05 · 3,431,648.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="677.777778" cy="279.052295" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide downloaders · week 5 · 2026-02-06-to-2026-02-12 · 3,449,955.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="797.222222" cy="266.531132" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide downloaders · week 6 · 2026-02-13-to-2026-02-19 · 3,695,468.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="916.666667" cy="280.964540" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide downloaders · week 7 · 2026-02-20-to-2026-02-26 · 3,412,460.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="1036.111111" cy="298.167299" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide downloaders · week 8 · 2026-02-27-to-2026-03-05 · 3,075,151.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="1155.555556" cy="298.978763" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide downloaders · week 9 · 2026-03-06-to-2026-03-12 · 3,059,240.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="1275.000000" cy="297.552647" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide downloaders · week 10 · 2026-03-13-to-2026-03-19 · 3,087,203.00 adjusted weight
+</title>
+ </circle>
+ </g> <g data-series="The Pitt 213–215" transform="translate(-112.00000 6.00000)"> <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polyline-panel-0-series-1-101">
+<polyline points="200,393.347 319.444,342.622 438.889,279.117 558.333,297.147 677.778,294.799 797.222,296.492 916.667,273.32 1036.11,279.099 1155.56,282.827 1275,307.037 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="389.346763" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide downloaders · week 1 · 2026-04-03-to-2026-04-09-partial · 1,208,887.00 adjusted weight
+</title>
+ </rect>
+ <rect x="315.444444" y="338.622367" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide downloaders · week 2 · 2026-04-10-to-2026-04-16 · 2,203,483.00 adjusted weight
+</title>
+ </rect>
+ <rect x="434.888889" y="275.117473" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide downloaders · week 3 · 2026-04-17-to-2026-04-23 · 3,448,677.00 adjusted weight
+</title>
+ </rect>
+ <rect x="554.333333" y="293.146585" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide downloaders · week 4 · 2026-04-24-to-2026-04-30 · 3,095,165.00 adjusted weight
+</title>
+ </rect>
+ <rect x="673.777778" y="290.799466" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide downloaders · week 5 · 2026-05-01-to-2026-05-07 · 3,141,187.00 adjusted weight
+</title>
+ </rect>
+ <rect x="793.222222" y="292.492255" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide downloaders · week 6 · 2026-05-08-to-2026-05-14 · 3,107,995.00 adjusted weight
+</title>
+ </rect>
+ <rect x="912.666667" y="269.320252" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide downloaders · week 7 · 2026-05-15-to-2026-05-21 · 3,562,348.00 adjusted weight
+</title>
+ </rect>
+ <rect x="1032.111111" y="275.099215" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide downloaders · week 8 · 2026-05-22-to-2026-05-28 · 3,449,035.00 adjusted weight
+</title>
+ </rect>
+ <rect x="1151.555556" y="278.826703" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide downloaders · week 9 · 2026-05-29-to-2026-06-04 · 3,375,947.00 adjusted weight
+</title>
+ </rect>
+ <rect x="1271.000000" y="303.036709" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide downloaders · week 10 · 2026-06-05-to-2026-06-11 · 2,901,241.00 adjusted weight
+</title>
+ </rect>
+ </g> <g data-series="The Bear S05" transform="translate(-112.00000 6.00000)"> <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polyline-panel-0-series-2-124">
+<polyline points="200,244.976 319.444,238.197 438.889,241.617 558.333,242.702 677.778,245.891 797.222,259.011 916.667,265.327 1036.11,305.927 1155.56,280.476 1275,288.563 " stroke-dasharray="2 4" stroke-linecap="round" style="fill:rgb(96,106,36); fill-opacity:0; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-126" d="M 203.464 246.976 L 200 240.976 L 196.536 246.976 L 203.464 246.976 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide downloaders · week 1 · 2026-06-26-to-2026-07-02-partial · 4,118,127.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-128" d="M 322.909 240.197 L 319.444 234.197 L 315.98 240.197 L 322.909 240.197 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide downloaders · week 2 · 2026-07-03-to-2026-07-09 · 4,251,047.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-130" d="M 442.353 243.617 L 438.889 237.617 L 435.425 243.617 L 442.353 243.617 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide downloaders · week 3 · 2026-07-10-to-2026-07-16 · 4,183,977.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-132" d="M 561.797 244.702 L 558.333 238.702 L 554.869 244.702 L 561.797 244.702 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide downloaders · week 4 · 2026-07-17-to-2026-07-23 · 4,162,697.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-134" d="M 681.242 247.891 L 677.778 241.891 L 674.314 247.891 L 681.242 247.891 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide downloaders · week 5 · 2026-07-24-to-2026-07-30 · 4,100,179.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-136" d="M 800.686 261.011 L 797.222 255.011 L 793.758 261.011 L 800.686 261.011 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide downloaders · week 6 · 2026-07-31-to-2026-08-06 · 3,842,928.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-138" d="M 920.131 267.327 L 916.667 261.327 L 913.203 267.327 L 920.131 267.327 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide downloaders · week 7 · 2026-08-07-to-2026-08-13 · 3,719,071.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-140" d="M 1039.58 307.927 L 1036.11 301.927 L 1032.65 307.927 L 1039.58 307.927 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide downloaders · week 8 · 2026-08-14-to-2026-08-20-partial · 2,923,008.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-142" d="M 1159.02 282.476 L 1155.56 276.476 L 1152.09 282.476 L 1159.02 282.476 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide downloaders · week 9 · 2026-08-21-to-2026-08-27 · 3,422,039.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-144" d="M 1278.46 290.563 L 1275 284.563 L 1271.54 290.563 L 1278.46 290.563 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide downloaders · week 10 · 2026-08-28-to-2026-09-03 · 3,263,467.00 adjusted weight
+</title>
+ </path>
+ </g> <g data-series="The Bear S02" transform="translate(-112.00000 6.00000)"> <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polyline-panel-0-series-3-147">
+<polyline points="200,381.722 319.444,401.99 438.889,406.598 558.333,410.398 677.778,412.407 797.222,412.908 916.667,419.255 1036.11,411.109 1155.56,413.791 1275,413.813 " stroke-dasharray="8 3 2 3" stroke-linecap="round" style="fill:rgb(77,64,93); fill-opacity:0; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-149" d="M 203.464 379.722 L 200 377.722 L 196.536 379.722 L 196.536 383.722 L 200 385.722 L 203.464 383.722 L 203.464 379.722 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide downloaders · week 1 · 2023-06-22-to-2023-06-28-partial · 1,436,830.15 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-151" d="M 322.909 399.99 L 319.444 397.99 L 315.98 399.99 L 315.98 403.99 L 319.444 405.99 L 322.909 403.99 L 322.909 399.99 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide downloaders · week 2 · 2023-06-29-to-2023-07-05-partial · 1,039,417.41 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-153" d="M 442.353 404.598 L 438.889 402.598 L 435.425 404.598 L 435.425 408.598 L 438.889 410.598 L 442.353 408.598 L 442.353 404.598 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide downloaders · week 3 · 2023-07-06-to-2023-07-12 · 949,059.46 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-155" d="M 561.797 408.398 L 558.333 406.398 L 554.869 408.398 L 554.869 412.398 L 558.333 414.398 L 561.797 412.398 L 561.797 408.398 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide downloaders · week 4 · 2023-07-13-to-2023-07-19 · 874,554.74 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-157" d="M 681.242 410.407 L 677.778 408.407 L 674.314 410.407 L 674.314 414.407 L 677.778 416.407 L 681.242 414.407 L 681.242 410.407 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide downloaders · week 5 · 2023-07-20-to-2023-07-26 · 835,161.17 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-159" d="M 800.686 410.908 L 797.222 408.908 L 793.758 410.908 L 793.758 414.908 L 797.222 416.908 L 800.686 414.908 L 800.686 410.908 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide downloaders · week 6 · 2023-07-27-to-2023-08-02 · 825,331.13 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-161" d="M 920.131 417.255 L 916.667 415.255 L 913.203 417.255 L 913.203 421.255 L 916.667 423.255 L 920.131 421.255 L 920.131 417.255 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide downloaders · week 7 · 2023-08-03-to-2023-08-09-partial · 700,878.70 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-163" d="M 1039.58 409.109 L 1036.11 407.109 L 1032.65 409.109 L 1032.65 413.109 L 1036.11 415.109 L 1039.58 413.109 L 1039.58 409.109 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide downloaders · week 8 · 2023-08-10-to-2023-08-16 · 860,613.98 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-165" d="M 1159.02 411.791 L 1155.56 409.791 L 1152.09 411.791 L 1152.09 415.791 L 1155.56 417.791 L 1159.02 415.791 L 1159.02 411.791 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide downloaders · week 9 · 2023-08-17-to-2023-08-23 · 808,010.52 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-167" d="M 1278.46 411.813 L 1275 409.813 L 1271.54 411.813 L 1271.54 415.813 L 1275 417.813 L 1278.46 415.813 L 1278.46 411.813 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide downloaders · week 10 · 2023-08-24-to-2023-08-30 · 807,586.91 adjusted weight
+</title>
+ </path>
+ </g> <g data-series="The Bear S03" transform="translate(-112.00000 6.00000)"> <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polyline-panel-0-series-4-170">
+<polyline points="200,351.341 319.444,356.598 438.889,352.694 558.333,342.61 677.778,334.815 797.222,322.584 916.667,328.568 1036.11,327.056 1155.56,333.642 1275,345.506 " stroke-dasharray="9 4" stroke-linecap="round" style="fill:rgb(140,65,109); fill-opacity:0; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-172" d="M 200,351.341 H 196 V 352.341 H 200 V 356.341 H 201 V 352.341 H 205 V 351.341 H 201 V 347.341 H 200 V 351.341 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,200,351)">
+<title>
+The Bear S03 · worldwide downloaders · week 1 · 2024-06-27-to-2024-07-03-partial · 2,032,524.44 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-174" d="M 319.444,356.598 H 315.444 V 357.598 H 319.444 V 361.598 H 320.444 V 357.598 H 324.444 V 356.598 H 320.444 V 352.598 H 319.444 V 356.598 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,319,356)">
+<title>
+The Bear S03 · worldwide downloaders · week 2 · 2024-07-04-to-2024-07-10-partial · 1,929,445.53 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-176" d="M 438.889,352.694 H 434.889 V 353.694 H 438.889 V 357.694 H 439.889 V 353.694 H 443.889 V 352.694 H 439.889 V 348.694 H 438.889 V 352.694 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,438,352)">
+<title>
+The Bear S03 · worldwide downloaders · week 3 · 2024-07-11-to-2024-07-17-partial · 2,006,002.75 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-178" d="M 558.333,342.61 H 554.333 V 343.61 H 558.333 V 347.61 H 559.333 V 343.61 H 563.333 V 342.61 H 559.333 V 338.61 H 558.333 V 342.61 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,558,342)">
+<title>
+The Bear S03 · worldwide downloaders · week 4 · 2024-07-18-to-2024-07-24 · 2,203,727.04 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-180" d="M 677.778,334.815 H 673.778 V 335.815 H 677.778 V 339.815 H 678.778 V 335.815 H 682.778 V 334.815 H 678.778 V 330.815 H 677.778 V 334.815 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,677,334)">
+<title>
+The Bear S03 · worldwide downloaders · week 5 · 2024-07-25-to-2024-07-31 · 2,356,568.64 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-182" d="M 797.222,322.584 H 793.222 V 323.584 H 797.222 V 327.584 H 798.222 V 323.584 H 802.222 V 322.584 H 798.222 V 318.584 H 797.222 V 322.584 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,797,322)">
+<title>
+The Bear S03 · worldwide downloaders · week 6 · 2024-08-01-to-2024-08-07 · 2,596,399.56 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-184" d="M 916.667,328.568 H 912.667 V 329.568 H 916.667 V 333.568 H 917.667 V 329.568 H 921.667 V 328.568 H 917.667 V 324.568 H 916.667 V 328.568 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,916,328)">
+<title>
+The Bear S03 · worldwide downloaders · week 7 · 2024-08-08-to-2024-08-14 · 2,479,051.09 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-186" d="M 1036.11,327.056 H 1032.11 V 328.056 H 1036.11 V 332.056 H 1037.11 V 328.056 H 1041.11 V 327.056 H 1037.11 V 323.056 H 1036.11 V 327.056 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,1036,327)">
+<title>
+The Bear S03 · worldwide downloaders · week 8 · 2024-08-15-to-2024-08-21-partial · 2,508,698.20 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-188" d="M 1155.56,333.642 H 1151.56 V 334.642 H 1155.56 V 338.642 H 1156.56 V 334.642 H 1160.56 V 333.642 H 1156.56 V 329.642 H 1155.56 V 333.642 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,1155,333)">
+<title>
+The Bear S03 · worldwide downloaders · week 9 · 2024-08-22-to-2024-08-28 · 2,379,566.75 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-190" d="M 1275,345.506 H 1271 V 346.506 H 1275 V 350.506 H 1276 V 346.506 H 1280 V 345.506 H 1276 V 341.506 H 1275 V 345.506 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,1275,345)">
+<title>
+The Bear S03 · worldwide downloaders · week 10 · 2024-08-29-to-2024-09-04 · 2,146,950.45 adjusted weight
+</title>
+ </path>
+ </g> <g data-series="The Bear S04" transform="translate(-112.00000 6.00000)"> <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polyline-panel-0-series-5-193">
+<polyline points="200,271.68 319.444,284.091 438.889,288.496 558.333,292.644 677.778,266.109 797.222,298.745 916.667,292.958 1036.11,307.181 1155.56,328.955 1275,306.027 " stroke-dasharray="2 3" stroke-linecap="round" style="fill:rgb(82,82,82); fill-opacity:0; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-195">
+<title>
+The Bear S04 · worldwide downloaders · week 1 · 2025-06-26-to-2025-07-02-partial · 3,594,508.37 adjusted weight
+</title>
+<line x1="203.200000" y1="272.880074" x2="200.000000" y2="275.144176" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="203.200000" y1="272.880074" x2="200.000000" y2="268.215973" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="203.200000" y1="272.880074" x2="197.600000" y2="273.280074" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="203.200000" y1="272.880074" x2="202.400000" y2="270.080074" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="196.800000" y1="270.480074" x2="200.000000" y2="275.144176" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="196.800000" y1="270.480074" x2="200.000000" y2="268.215973" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="196.800000" y1="270.480074" x2="197.600000" y2="273.280074" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="196.800000" y1="270.480074" x2="202.400000" y2="270.080074" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="200.000000" y1="275.144176" x2="197.600000" y2="273.280074" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="200.000000" y1="275.144176" x2="202.400000" y2="270.080074" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="200.000000" y1="268.215973" x2="197.600000" y2="273.280074" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="200.000000" y1="268.215973" x2="202.400000" y2="270.080074" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-209">
+<title>
+The Bear S04 · worldwide downloaders · week 2 · 2025-07-03-to-2025-07-09 · 3,351,163.10 adjusted weight
+</title>
+<line x1="322.644444" y1="285.290684" x2="319.444444" y2="287.554786" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="322.644444" y1="285.290684" x2="319.444444" y2="280.626583" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="322.644444" y1="285.290684" x2="317.044444" y2="285.690684" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="322.644444" y1="285.290684" x2="321.844444" y2="282.490684" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="316.244444" y1="282.890684" x2="319.444444" y2="287.554786" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="316.244444" y1="282.890684" x2="319.444444" y2="280.626583" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="316.244444" y1="282.890684" x2="317.044444" y2="285.690684" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="316.244444" y1="282.890684" x2="321.844444" y2="282.490684" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="319.444444" y1="287.554786" x2="317.044444" y2="285.690684" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="319.444444" y1="287.554786" x2="321.844444" y2="282.490684" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="319.444444" y1="280.626583" x2="317.044444" y2="285.690684" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="319.444444" y1="280.626583" x2="321.844444" y2="282.490684" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-223">
+<title>
+The Bear S04 · worldwide downloaders · week 3 · 2025-07-10-to-2025-07-16 · 3,264,776.93 adjusted weight
+</title>
+<line x1="442.088889" y1="289.696378" x2="438.888889" y2="291.960480" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="442.088889" y1="289.696378" x2="438.888889" y2="285.032276" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="442.088889" y1="289.696378" x2="436.488889" y2="290.096378" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="442.088889" y1="289.696378" x2="441.288889" y2="286.896378" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="435.688889" y1="287.296378" x2="438.888889" y2="291.960480" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="435.688889" y1="287.296378" x2="438.888889" y2="285.032276" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="435.688889" y1="287.296378" x2="436.488889" y2="290.096378" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="435.688889" y1="287.296378" x2="441.288889" y2="286.896378" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="438.888889" y1="291.960480" x2="436.488889" y2="290.096378" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="438.888889" y1="291.960480" x2="441.288889" y2="286.896378" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="438.888889" y1="285.032276" x2="436.488889" y2="290.096378" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="438.888889" y1="285.032276" x2="441.288889" y2="286.896378" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-237">
+<title>
+The Bear S04 · worldwide downloaders · week 4 · 2025-07-17-to-2025-07-23 · 3,183,447.67 adjusted weight
+</title>
+<line x1="561.533333" y1="293.844170" x2="558.333333" y2="296.108271" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="561.533333" y1="293.844170" x2="558.333333" y2="289.180068" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="561.533333" y1="293.844170" x2="555.933333" y2="294.244170" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="561.533333" y1="293.844170" x2="560.733333" y2="291.044170" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="555.133333" y1="291.444170" x2="558.333333" y2="296.108271" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="555.133333" y1="291.444170" x2="558.333333" y2="289.180068" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="555.133333" y1="291.444170" x2="555.933333" y2="294.244170" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="555.133333" y1="291.444170" x2="560.733333" y2="291.044170" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="558.333333" y1="296.108271" x2="555.933333" y2="294.244170" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="558.333333" y1="296.108271" x2="560.733333" y2="291.044170" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="558.333333" y1="289.180068" x2="555.933333" y2="294.244170" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="558.333333" y1="289.180068" x2="560.733333" y2="291.044170" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-251">
+<title>
+The Bear S04 · worldwide downloaders · week 5 · 2025-07-24-to-2025-07-30 · 3,703,737.00 adjusted weight
+</title>
+<line x1="680.977778" y1="267.309413" x2="677.777778" y2="269.573515" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="680.977778" y1="267.309413" x2="677.777778" y2="262.645311" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="680.977778" y1="267.309413" x2="675.377778" y2="267.709413" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="680.977778" y1="267.309413" x2="680.177778" y2="264.509413" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="674.577778" y1="264.909413" x2="677.777778" y2="269.573515" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="674.577778" y1="264.909413" x2="677.777778" y2="262.645311" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="674.577778" y1="264.909413" x2="675.377778" y2="267.709413" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="674.577778" y1="264.909413" x2="680.177778" y2="264.509413" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="677.777778" y1="269.573515" x2="675.377778" y2="267.709413" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="677.777778" y1="269.573515" x2="680.177778" y2="264.509413" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="677.777778" y1="262.645311" x2="675.377778" y2="267.709413" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="677.777778" y1="262.645311" x2="680.177778" y2="264.509413" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-265">
+<title>
+The Bear S04 · worldwide downloaders · week 6 · 2025-07-31-to-2025-08-06 · 3,063,830.73 adjusted weight
+</title>
+<line x1="800.422222" y1="299.944634" x2="797.222222" y2="302.208736" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="800.422222" y1="299.944634" x2="797.222222" y2="295.280533" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="800.422222" y1="299.944634" x2="794.822222" y2="300.344634" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="800.422222" y1="299.944634" x2="799.622222" y2="297.144634" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="794.022222" y1="297.544634" x2="797.222222" y2="302.208736" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="794.022222" y1="297.544634" x2="797.222222" y2="295.280533" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="794.022222" y1="297.544634" x2="794.822222" y2="300.344634" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="794.022222" y1="297.544634" x2="799.622222" y2="297.144634" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="797.222222" y1="302.208736" x2="794.822222" y2="300.344634" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="797.222222" y1="302.208736" x2="799.622222" y2="297.144634" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="797.222222" y1="295.280533" x2="794.822222" y2="300.344634" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="797.222222" y1="295.280533" x2="799.622222" y2="297.144634" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-279">
+<title>
+The Bear S04 · worldwide downloaders · week 7 · 2025-08-07-to-2025-08-13 · 3,177,301.92 adjusted weight
+</title>
+<line x1="919.866667" y1="294.157603" x2="916.666667" y2="296.421705" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="919.866667" y1="294.157603" x2="916.666667" y2="289.493501" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="919.866667" y1="294.157603" x2="914.266667" y2="294.557603" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="919.866667" y1="294.157603" x2="919.066667" y2="291.357603" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="913.466667" y1="291.757603" x2="916.666667" y2="296.421705" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="913.466667" y1="291.757603" x2="916.666667" y2="289.493501" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="913.466667" y1="291.757603" x2="914.266667" y2="294.557603" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="913.466667" y1="291.757603" x2="919.066667" y2="291.357603" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="916.666667" y1="296.421705" x2="914.266667" y2="294.557603" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="916.666667" y1="296.421705" x2="919.066667" y2="291.357603" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="916.666667" y1="289.493501" x2="914.266667" y2="294.557603" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="916.666667" y1="289.493501" x2="919.066667" y2="291.357603" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-293">
+<title>
+The Bear S04 · worldwide downloaders · week 8 · 2025-08-14-to-2025-08-20 · 2,898,407.88 adjusted weight
+</title>
+<line x1="1039.311111" y1="308.381200" x2="1036.111111" y2="310.645301" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1039.311111" y1="308.381200" x2="1036.111111" y2="303.717098" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1039.311111" y1="308.381200" x2="1033.711111" y2="308.781200" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1039.311111" y1="308.381200" x2="1038.511111" y2="305.581200" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1032.911111" y1="305.981200" x2="1036.111111" y2="310.645301" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1032.911111" y1="305.981200" x2="1036.111111" y2="303.717098" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1032.911111" y1="305.981200" x2="1033.711111" y2="308.781200" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1032.911111" y1="305.981200" x2="1038.511111" y2="305.581200" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1036.111111" y1="310.645301" x2="1033.711111" y2="308.781200" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1036.111111" y1="310.645301" x2="1038.511111" y2="305.581200" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1036.111111" y1="303.717098" x2="1033.711111" y2="308.781200" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1036.111111" y1="303.717098" x2="1038.511111" y2="305.581200" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-307">
+<title>
+The Bear S04 · worldwide downloaders · week 9 · 2025-08-21-to-2025-08-27 · 2,471,468.88 adjusted weight
+</title>
+<line x1="1158.755556" y1="330.155089" x2="1155.555556" y2="332.419190" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1158.755556" y1="330.155089" x2="1155.555556" y2="325.490987" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1158.755556" y1="330.155089" x2="1153.155556" y2="330.555089" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1158.755556" y1="330.155089" x2="1157.955556" y2="327.355089" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1152.355556" y1="327.755089" x2="1155.555556" y2="332.419190" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1152.355556" y1="327.755089" x2="1155.555556" y2="325.490987" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1152.355556" y1="327.755089" x2="1153.155556" y2="330.555089" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1152.355556" y1="327.755089" x2="1157.955556" y2="327.355089" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1155.555556" y1="332.419190" x2="1153.155556" y2="330.555089" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1155.555556" y1="332.419190" x2="1157.955556" y2="327.355089" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1155.555556" y1="325.490987" x2="1153.155556" y2="330.555089" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1155.555556" y1="325.490987" x2="1157.955556" y2="327.355089" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-321">
+<title>
+The Bear S04 · worldwide downloaders · week 10 · 2025-08-28-to-2025-09-03 · 2,921,030.75 adjusted weight
+</title>
+<line x1="1278.200000" y1="307.227432" x2="1275.000000" y2="309.491533" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1278.200000" y1="307.227432" x2="1275.000000" y2="302.563330" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1278.200000" y1="307.227432" x2="1272.600000" y2="307.627432" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1278.200000" y1="307.227432" x2="1277.400000" y2="304.427432" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1271.800000" y1="304.827432" x2="1275.000000" y2="309.491533" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1271.800000" y1="304.827432" x2="1275.000000" y2="302.563330" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1271.800000" y1="304.827432" x2="1272.600000" y2="307.627432" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1271.800000" y1="304.827432" x2="1277.400000" y2="304.427432" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1275.000000" y1="309.491533" x2="1272.600000" y2="307.627432" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1275.000000" y1="309.491533" x2="1277.400000" y2="304.427432" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1275.000000" y1="302.563330" x2="1272.600000" y2="307.627432" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1275.000000" y1="302.563330" x2="1277.400000" y2="304.427432" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ </g> <text x="88.00000" y="566.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">Worldwide uploaders</text><line x1="88.000000" y1="591.000000" x2="88.000000" y2="846.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="88.000000" y1="846.000000" x2="1163.000000" y2="846.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="78.00000" y="851.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0</text><line x1="88.000000" y1="795.000000" x2="1163.000000" y2="795.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="800.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">300k</text><line x1="88.000000" y1="744.000000" x2="1163.000000" y2="744.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="749.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">600k</text><line x1="88.000000" y1="693.000000" x2="1163.000000" y2="693.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="698.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">900k</text><line x1="88.000000" y1="642.000000" x2="1163.000000" y2="642.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="647.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">1.2m</text><line x1="88.000000" y1="591.000000" x2="1163.000000" y2="591.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="596.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">1.5m</text><line x1="88.000000" y1="846.000000" x2="88.000000" y2="851.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="88.00000" y="873.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">1</text><line x1="207.444444" y1="846.000000" x2="207.444444" y2="851.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="207.44444" y="873.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2</text><line x1="326.888889" y1="846.000000" x2="326.888889" y2="851.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="326.88889" y="873.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">3</text><line x1="446.333333" y1="846.000000" x2="446.333333" y2="851.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="446.33333" y="873.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">4</text><line x1="565.777778" y1="846.000000" x2="565.777778" y2="851.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="565.77778" y="873.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">5</text><line x1="685.222222" y1="846.000000" x2="685.222222" y2="851.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="685.22222" y="873.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">6</text><line x1="804.666667" y1="846.000000" x2="804.666667" y2="851.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="804.66667" y="873.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">7</text><line x1="924.111111" y1="846.000000" x2="924.111111" y2="851.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="924.11111" y="873.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">8</text><line x1="1043.555556" y1="846.000000" x2="1043.555556" y2="851.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1043.55556" y="873.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">9</text><line x1="1163.000000" y1="846.000000" x2="1163.000000" y2="851.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1163.00000" y="873.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">10</text> <text x="625.50000" y="903.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Elapsed sampling week (seven-day interval)</text> <g transform="translate(21.00000 718.50000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">2026 adjusted weight</text> </g> <g data-series="The Pitt 201–203" transform="translate(-112.00000 391.00000)"> <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polyline-panel-1-series-0-373">
+<polyline points="200,432.932 319.444,415.844 438.889,408.943 558.333,417.03 677.778,420.794 797.222,424.905 916.667,428.077 1036.11,431.055 1155.56,431.874 1275,432.129 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <circle cx="200.000000" cy="432.931790" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide uploaders · week 1 · 2026-01-09-to-2026-01-15-partial · 129,813.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="319.444444" cy="415.843730" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide uploaders · week 2 · 2026-01-16-to-2026-01-22 · 230,331.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="438.888889" cy="408.942752" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide uploaders · week 3 · 2026-01-23-to-2026-01-29 · 270,925.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="558.333333" cy="417.029990" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide uploaders · week 4 · 2026-01-30-to-2026-02-05 · 223,353.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="677.777778" cy="420.793790" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide uploaders · week 5 · 2026-02-06-to-2026-02-12 · 201,213.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="797.222222" cy="424.904732" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide uploaders · week 6 · 2026-02-13-to-2026-02-19 · 177,031.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="916.666667" cy="428.076932" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide uploaders · week 7 · 2026-02-20-to-2026-02-26 · 158,371.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="1036.111111" cy="431.054822" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide uploaders · week 8 · 2026-02-27-to-2026-03-05 · 140,854.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="1155.555556" cy="431.873540" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide uploaders · week 9 · 2026-03-06-to-2026-03-12 · 136,038.00 adjusted weight
+</title>
+ </circle>
+ <circle cx="1275.000000" cy="432.128540" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 201–203 · worldwide uploaders · week 10 · 2026-03-13-to-2026-03-19 · 134,538.00 adjusted weight
+</title>
+ </circle>
+ </g> <g data-series="The Pitt 213–215" transform="translate(-112.00000 391.00000)"> <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polyline-panel-1-series-1-396">
+<polyline points="200,413.561 319.444,390.899 438.889,352.94 558.333,392.74 677.778,410.498 797.222,416.688 916.667,421.243 1036.11,424.405 1155.56,426.946 1275,428.005 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="409.560970" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide uploaders · week 1 · 2026-04-03-to-2026-04-09-partial · 243,759.00 adjusted weight
+</title>
+ </rect>
+ <rect x="315.444444" y="386.898610" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide uploaders · week 2 · 2026-04-10-to-2026-04-16 · 377,067.00 adjusted weight
+</title>
+ </rect>
+ <rect x="434.888889" y="348.940162" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide uploaders · week 3 · 2026-04-17-to-2026-04-23 · 600,352.00 adjusted weight
+</title>
+ </rect>
+ <rect x="554.333333" y="388.739542" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide uploaders · week 4 · 2026-04-24-to-2026-04-30 · 366,238.00 adjusted weight
+</title>
+ </rect>
+ <rect x="673.777778" y="406.498252" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide uploaders · week 5 · 2026-05-01-to-2026-05-07 · 261,775.00 adjusted weight
+</title>
+ </rect>
+ <rect x="793.222222" y="412.688122" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide uploaders · week 6 · 2026-05-08-to-2026-05-14 · 225,364.00 adjusted weight
+</title>
+ </rect>
+ <rect x="912.666667" y="417.242761" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide uploaders · week 7 · 2026-05-15-to-2026-05-21 · 198,572.00 adjusted weight
+</title>
+ </rect>
+ <rect x="1032.111111" y="420.404761" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide uploaders · week 8 · 2026-05-22-to-2026-05-28 · 179,972.00 adjusted weight
+</title>
+ </rect>
+ <rect x="1151.555556" y="422.945752" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide uploaders · week 9 · 2026-05-29-to-2026-06-04 · 165,025.00 adjusted weight
+</title>
+ </rect>
+ <rect x="1271.000000" y="424.005361" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+The Pitt 213–215 · worldwide uploaders · week 10 · 2026-06-05-to-2026-06-11 · 158,792.00 adjusted weight
+</title>
+ </rect>
+ </g> <g data-series="The Bear S05" transform="translate(-112.00000 391.00000)"> <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polyline-panel-1-series-2-419">
+<polyline points="200,337.012 319.444,384.1 438.889,402.575 558.333,412.656 677.778,419.381 797.222,422.713 916.667,426.025 1036.11,432.377 1155.56,431.693 1275,433.411 " stroke-dasharray="2 4" stroke-linecap="round" style="fill:rgb(96,106,36); fill-opacity:0; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-421" d="M 203.464 339.012 L 200 333.012 L 196.536 339.012 L 203.464 339.012 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide uploaders · week 1 · 2026-06-26-to-2026-07-02-partial · 694,048.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-423" d="M 322.909 386.1 L 319.444 380.1 L 315.98 386.1 L 322.909 386.1 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide uploaders · week 2 · 2026-07-03-to-2026-07-09 · 417,058.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-425" d="M 442.353 404.575 L 438.889 398.575 L 435.425 404.575 L 442.353 404.575 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide uploaders · week 3 · 2026-07-10-to-2026-07-16 · 308,385.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-427" d="M 561.797 414.656 L 558.333 408.656 L 554.869 414.656 L 561.797 414.656 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide uploaders · week 4 · 2026-07-17-to-2026-07-23 · 249,084.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-429" d="M 681.242 421.381 L 677.778 415.381 L 674.314 421.381 L 681.242 421.381 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide uploaders · week 5 · 2026-07-24-to-2026-07-30 · 209,521.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-431" d="M 800.686 424.713 L 797.222 418.713 L 793.758 424.713 L 800.686 424.713 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide uploaders · week 6 · 2026-07-31-to-2026-08-06 · 189,923.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-433" d="M 920.131 428.025 L 916.667 422.025 L 913.203 428.025 L 920.131 428.025 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide uploaders · week 7 · 2026-08-07-to-2026-08-13 · 170,444.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-435" d="M 1039.58 434.377 L 1036.11 428.377 L 1032.65 434.377 L 1039.58 434.377 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide uploaders · week 8 · 2026-08-14-to-2026-08-20-partial · 133,076.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-437" d="M 1159.02 433.693 L 1155.56 427.693 L 1152.09 433.693 L 1159.02 433.693 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide uploaders · week 9 · 2026-08-21-to-2026-08-27 · 137,100.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n3-r4.000000-439" d="M 1278.46 435.411 L 1275 429.411 L 1271.54 435.411 L 1278.46 435.411 " style="fill:rgb(96,106,36); fill-opacity:1; stroke:rgb(96,106,36); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S05 · worldwide uploaders · week 10 · 2026-08-28-to-2026-09-03 · 126,993.00 adjusted weight
+</title>
+ </path>
+ </g> <g data-series="The Bear S02" transform="translate(-112.00000 391.00000)"> <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polyline-panel-1-series-3-442">
+<polyline points="200,356.262 319.444,392.635 438.889,403.301 558.333,407.692 677.778,411.694 797.222,416.694 916.667,422.388 1036.11,418.227 1155.56,418.013 1275,420.452 " stroke-dasharray="8 3 2 3" stroke-linecap="round" style="fill:rgb(77,64,93); fill-opacity:0; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-444" d="M 203.464 354.262 L 200 352.262 L 196.536 354.262 L 196.536 358.262 L 200 360.262 L 203.464 358.262 L 203.464 354.262 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide uploaders · week 1 · 2023-06-22-to-2023-06-28-partial · 580,812.63 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-446" d="M 322.909 390.635 L 319.444 388.635 L 315.98 390.635 L 315.98 394.635 L 319.444 396.635 L 322.909 394.635 L 322.909 390.635 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide uploaders · week 2 · 2023-06-29-to-2023-07-05-partial · 366,854.00 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-448" d="M 442.353 401.301 L 438.889 399.301 L 435.425 401.301 L 435.425 405.301 L 438.889 407.301 L 442.353 405.301 L 442.353 401.301 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide uploaders · week 3 · 2023-07-06-to-2023-07-12 · 304,110.98 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-450" d="M 561.797 405.692 L 558.333 403.692 L 554.869 405.692 L 554.869 409.692 L 558.333 411.692 L 561.797 409.692 L 561.797 405.692 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide uploaders · week 4 · 2023-07-13-to-2023-07-19 · 278,279.74 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-452" d="M 681.242 409.694 L 677.778 407.694 L 674.314 409.694 L 674.314 413.694 L 677.778 415.694 L 681.242 413.694 L 681.242 409.694 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide uploaders · week 5 · 2023-07-20-to-2023-07-26 · 254,740.52 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-454" d="M 800.686 414.694 L 797.222 412.694 L 793.758 414.694 L 793.758 418.694 L 797.222 420.694 L 800.686 418.694 L 800.686 414.694 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide uploaders · week 6 · 2023-07-27-to-2023-08-02 · 225,331.74 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-456" d="M 920.131 420.388 L 916.667 418.388 L 913.203 420.388 L 913.203 424.388 L 916.667 426.388 L 920.131 424.388 L 920.131 420.388 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide uploaders · week 7 · 2023-08-03-to-2023-08-09-partial · 191,833.70 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-458" d="M 1039.58 416.227 L 1036.11 414.227 L 1032.65 416.227 L 1032.65 420.227 L 1036.11 422.227 L 1039.58 420.227 L 1039.58 416.227 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide uploaders · week 8 · 2023-08-10-to-2023-08-16 · 216,311.65 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-460" d="M 1159.02 416.013 L 1155.56 414.013 L 1152.09 416.013 L 1152.09 420.013 L 1155.56 422.013 L 1159.02 420.013 L 1159.02 416.013 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide uploaders · week 9 · 2023-08-17-to-2023-08-23 · 217,573.44 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-n6-r4.000000-462" d="M 1278.46 418.452 L 1275 416.452 L 1271.54 418.452 L 1271.54 422.452 L 1275 424.452 L 1278.46 422.452 L 1278.46 418.452 " style="fill:rgb(77,64,93); fill-opacity:1; stroke:rgb(77,64,93); stroke-opacity:1; stroke-width:2">
+<title>
+The Bear S02 · worldwide uploaders · week 10 · 2023-08-24-to-2023-08-30 · 203,221.50 adjusted weight
+</title>
+ </path>
+ </g> <g data-series="The Bear S03" transform="translate(-112.00000 391.00000)"> <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polyline-panel-1-series-4-465">
+<polyline points="200,353.945 319.444,371.785 438.889,372.719 558.333,383.225 677.778,392.853 797.222,399.83 916.667,408.635 1036.11,409.91 1155.56,416.057 1275,417.597 " stroke-dasharray="9 4" stroke-linecap="round" style="fill:rgb(140,65,109); fill-opacity:0; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-467" d="M 200,353.945 H 196 V 354.945 H 200 V 358.945 H 201 V 354.945 H 205 V 353.945 H 201 V 349.945 H 200 V 353.945 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,200,353)">
+<title>
+The Bear S03 · worldwide uploaders · week 1 · 2024-06-27-to-2024-07-03-partial · 594,441.67 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-469" d="M 319.444,371.785 H 315.444 V 372.785 H 319.444 V 376.785 H 320.444 V 372.785 H 324.444 V 371.785 H 320.444 V 367.785 H 319.444 V 371.785 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,319,371)">
+<title>
+The Bear S03 · worldwide uploaders · week 2 · 2024-07-04-to-2024-07-10-partial · 489,500.60 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-471" d="M 438.889,372.719 H 434.889 V 373.719 H 438.889 V 377.719 H 439.889 V 373.719 H 443.889 V 372.719 H 439.889 V 368.719 H 438.889 V 372.719 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,438,372)">
+<title>
+The Bear S03 · worldwide uploaders · week 3 · 2024-07-11-to-2024-07-17-partial · 484,006.16 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-473" d="M 558.333,383.225 H 554.333 V 384.225 H 558.333 V 388.225 H 559.333 V 384.225 H 563.333 V 383.225 H 559.333 V 379.225 H 558.333 V 383.225 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,558,383)">
+<title>
+The Bear S03 · worldwide uploaders · week 4 · 2024-07-18-to-2024-07-24 · 422,207.62 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-475" d="M 677.778,392.853 H 673.778 V 393.853 H 677.778 V 397.853 H 678.778 V 393.853 H 682.778 V 392.853 H 678.778 V 388.853 H 677.778 V 392.853 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,677,392)">
+<title>
+The Bear S03 · worldwide uploaders · week 5 · 2024-07-25-to-2024-07-31 · 365,571.89 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-477" d="M 797.222,399.83 H 793.222 V 400.83 H 797.222 V 404.83 H 798.222 V 400.83 H 802.222 V 399.83 H 798.222 V 395.83 H 797.222 V 399.83 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,797,399)">
+<title>
+The Bear S03 · worldwide uploaders · week 6 · 2024-08-01-to-2024-08-07 · 324,531.09 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-479" d="M 916.667,408.635 H 912.667 V 409.635 H 916.667 V 413.635 H 917.667 V 409.635 H 921.667 V 408.635 H 917.667 V 404.635 H 916.667 V 408.635 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,916,408)">
+<title>
+The Bear S03 · worldwide uploaders · week 7 · 2024-08-08-to-2024-08-14 · 272,736.55 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-481" d="M 1036.11,409.91 H 1032.11 V 410.91 H 1036.11 V 414.91 H 1037.11 V 410.91 H 1041.11 V 409.91 H 1037.11 V 405.91 H 1036.11 V 409.91 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,1036,409)">
+<title>
+The Bear S03 · worldwide uploaders · week 8 · 2024-08-15-to-2024-08-21-partial · 265,236.87 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-483" d="M 1155.56,416.057 H 1151.56 V 417.057 H 1155.56 V 421.057 H 1156.56 V 417.057 H 1160.56 V 416.057 H 1156.56 V 412.057 H 1155.56 V 416.057 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,1155,416)">
+<title>
+The Bear S03 · worldwide uploaders · week 9 · 2024-08-22-to-2024-08-28 · 229,074.96 adjusted weight
+</title>
+ </path>
+ <path id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-center-mark-1-4-485" d="M 1275,417.597 H 1271 V 418.597 H 1275 V 422.597 H 1276 V 418.597 H 1280 V 417.597 H 1276 V 413.597 H 1275 V 417.597 " style="fill:rgb(140,65,109); fill-opacity:1; stroke:rgb(140,65,109); stroke-opacity:1; stroke-width:2" transform="rotate(45,1275,417)">
+<title>
+The Bear S03 · worldwide uploaders · week 10 · 2024-08-29-to-2024-09-04 · 220,020.35 adjusted weight
+</title>
+ </path>
+ </g> <g data-series="The Bear S04" transform="translate(-112.00000 391.00000)"> <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polyline-panel-1-series-5-488">
+<polyline points="200,285.981 319.444,336.584 438.889,355.627 558.333,372.646 677.778,383.28 797.222,388.838 916.667,395.967 1036.11,401.705 1155.56,405.646 1275,409.748 " stroke-dasharray="2 3" stroke-linecap="round" style="fill:rgb(82,82,82); fill-opacity:0; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-490">
+<title>
+The Bear S04 · worldwide uploaders · week 1 · 2025-06-26-to-2025-07-02-partial · 994,227.82 adjusted weight
+</title>
+<line x1="203.200000" y1="287.181272" x2="200.000000" y2="289.445374" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="203.200000" y1="287.181272" x2="200.000000" y2="282.517171" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="203.200000" y1="287.181272" x2="197.600000" y2="287.581272" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="203.200000" y1="287.181272" x2="202.400000" y2="284.381272" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="196.800000" y1="284.781272" x2="200.000000" y2="289.445374" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="196.800000" y1="284.781272" x2="200.000000" y2="282.517171" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="196.800000" y1="284.781272" x2="197.600000" y2="287.581272" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="196.800000" y1="284.781272" x2="202.400000" y2="284.381272" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="200.000000" y1="289.445374" x2="197.600000" y2="287.581272" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="200.000000" y1="289.445374" x2="202.400000" y2="284.381272" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="200.000000" y1="282.517171" x2="197.600000" y2="287.581272" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="200.000000" y1="282.517171" x2="202.400000" y2="284.381272" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-504">
+<title>
+The Bear S04 · worldwide uploaders · week 2 · 2025-07-03-to-2025-07-09 · 696,566.12 adjusted weight
+</title>
+<line x1="322.644444" y1="337.783760" x2="319.444444" y2="340.047862" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="322.644444" y1="337.783760" x2="319.444444" y2="333.119659" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="322.644444" y1="337.783760" x2="317.044444" y2="338.183760" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="322.644444" y1="337.783760" x2="321.844444" y2="334.983760" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="316.244444" y1="335.383760" x2="319.444444" y2="340.047862" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="316.244444" y1="335.383760" x2="319.444444" y2="333.119659" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="316.244444" y1="335.383760" x2="317.044444" y2="338.183760" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="316.244444" y1="335.383760" x2="321.844444" y2="334.983760" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="319.444444" y1="340.047862" x2="317.044444" y2="338.183760" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="319.444444" y1="340.047862" x2="321.844444" y2="334.983760" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="319.444444" y1="333.119659" x2="317.044444" y2="338.183760" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="319.444444" y1="333.119659" x2="321.844444" y2="334.983760" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-518">
+<title>
+The Bear S04 · worldwide uploaders · week 3 · 2025-07-10-to-2025-07-16 · 584,546.73 adjusted weight
+</title>
+<line x1="442.088889" y1="356.827056" x2="438.888889" y2="359.091158" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="442.088889" y1="356.827056" x2="438.888889" y2="352.162954" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="442.088889" y1="356.827056" x2="436.488889" y2="357.227056" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="442.088889" y1="356.827056" x2="441.288889" y2="354.027056" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="435.688889" y1="354.427056" x2="438.888889" y2="359.091158" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="435.688889" y1="354.427056" x2="438.888889" y2="352.162954" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="435.688889" y1="354.427056" x2="436.488889" y2="357.227056" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="435.688889" y1="354.427056" x2="441.288889" y2="354.027056" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="438.888889" y1="359.091158" x2="436.488889" y2="357.227056" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="438.888889" y1="359.091158" x2="441.288889" y2="354.027056" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="438.888889" y1="352.162954" x2="436.488889" y2="357.227056" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="438.888889" y1="352.162954" x2="441.288889" y2="354.027056" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-532">
+<title>
+The Bear S04 · worldwide uploaders · week 4 · 2025-07-17-to-2025-07-23 · 484,432.52 adjusted weight
+</title>
+<line x1="561.533333" y1="373.846472" x2="558.333333" y2="376.110574" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="561.533333" y1="373.846472" x2="558.333333" y2="369.182371" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="561.533333" y1="373.846472" x2="555.933333" y2="374.246472" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="561.533333" y1="373.846472" x2="560.733333" y2="371.046472" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="555.133333" y1="371.446472" x2="558.333333" y2="376.110574" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="555.133333" y1="371.446472" x2="558.333333" y2="369.182371" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="555.133333" y1="371.446472" x2="555.933333" y2="374.246472" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="555.133333" y1="371.446472" x2="560.733333" y2="371.046472" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="558.333333" y1="376.110574" x2="555.933333" y2="374.246472" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="558.333333" y1="376.110574" x2="560.733333" y2="371.046472" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="558.333333" y1="369.182371" x2="555.933333" y2="374.246472" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="558.333333" y1="369.182371" x2="560.733333" y2="371.046472" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-546">
+<title>
+The Bear S04 · worldwide uploaders · week 5 · 2025-07-24-to-2025-07-30 · 421,885.15 adjusted weight
+</title>
+<line x1="680.977778" y1="384.479526" x2="677.777778" y2="386.743628" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="680.977778" y1="384.479526" x2="677.777778" y2="379.815425" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="680.977778" y1="384.479526" x2="675.377778" y2="384.879526" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="680.977778" y1="384.479526" x2="680.177778" y2="381.679526" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="674.577778" y1="382.079526" x2="677.777778" y2="386.743628" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="674.577778" y1="382.079526" x2="677.777778" y2="379.815425" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="674.577778" y1="382.079526" x2="675.377778" y2="384.879526" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="674.577778" y1="382.079526" x2="680.177778" y2="381.679526" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="677.777778" y1="386.743628" x2="675.377778" y2="384.879526" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="677.777778" y1="386.743628" x2="680.177778" y2="381.679526" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="677.777778" y1="379.815425" x2="675.377778" y2="384.879526" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="677.777778" y1="379.815425" x2="680.177778" y2="381.679526" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-560">
+<title>
+The Bear S04 · worldwide uploaders · week 6 · 2025-07-31-to-2025-08-06 · 389,190.17 adjusted weight
+</title>
+<line x1="800.422222" y1="390.037672" x2="797.222222" y2="392.301774" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="800.422222" y1="390.037672" x2="797.222222" y2="385.373570" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="800.422222" y1="390.037672" x2="794.822222" y2="390.437672" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="800.422222" y1="390.037672" x2="799.622222" y2="387.237672" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="794.022222" y1="387.637672" x2="797.222222" y2="392.301774" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="794.022222" y1="387.637672" x2="797.222222" y2="385.373570" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="794.022222" y1="387.637672" x2="794.822222" y2="390.437672" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="794.022222" y1="387.637672" x2="799.622222" y2="387.237672" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="797.222222" y1="392.301774" x2="794.822222" y2="390.437672" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="797.222222" y1="392.301774" x2="799.622222" y2="387.237672" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="797.222222" y1="385.373570" x2="794.822222" y2="390.437672" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="797.222222" y1="385.373570" x2="799.622222" y2="387.237672" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-574">
+<title>
+The Bear S04 · worldwide uploaders · week 7 · 2025-08-07-to-2025-08-13 · 347,253.68 adjusted weight
+</title>
+<line x1="919.866667" y1="397.166875" x2="916.666667" y2="399.430977" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="919.866667" y1="397.166875" x2="916.666667" y2="392.502774" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="919.866667" y1="397.166875" x2="914.266667" y2="397.566875" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="919.866667" y1="397.166875" x2="919.066667" y2="394.366875" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="913.466667" y1="394.766875" x2="916.666667" y2="399.430977" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="913.466667" y1="394.766875" x2="916.666667" y2="392.502774" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="913.466667" y1="394.766875" x2="914.266667" y2="397.566875" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="913.466667" y1="394.766875" x2="919.066667" y2="394.366875" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="916.666667" y1="399.430977" x2="914.266667" y2="397.566875" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="916.666667" y1="399.430977" x2="919.066667" y2="394.366875" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="916.666667" y1="392.502774" x2="914.266667" y2="397.566875" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="916.666667" y1="392.502774" x2="919.066667" y2="394.366875" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-588">
+<title>
+The Bear S04 · worldwide uploaders · week 8 · 2025-08-14-to-2025-08-20 · 313,497.30 adjusted weight
+</title>
+<line x1="1039.311111" y1="402.905459" x2="1036.111111" y2="405.169561" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1039.311111" y1="402.905459" x2="1036.111111" y2="398.241357" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1039.311111" y1="402.905459" x2="1033.711111" y2="403.305459" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1039.311111" y1="402.905459" x2="1038.511111" y2="400.105459" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1032.911111" y1="400.505459" x2="1036.111111" y2="405.169561" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1032.911111" y1="400.505459" x2="1036.111111" y2="398.241357" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1032.911111" y1="400.505459" x2="1033.711111" y2="403.305459" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1032.911111" y1="400.505459" x2="1038.511111" y2="400.105459" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1036.111111" y1="405.169561" x2="1033.711111" y2="403.305459" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1036.111111" y1="405.169561" x2="1038.511111" y2="400.105459" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1036.111111" y1="398.241357" x2="1033.711111" y2="403.305459" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1036.111111" y1="398.241357" x2="1038.511111" y2="400.105459" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-602">
+<title>
+The Bear S04 · worldwide uploaders · week 9 · 2025-08-21-to-2025-08-27 · 290,320.35 adjusted weight
+</title>
+<line x1="1158.755556" y1="406.845540" x2="1155.555556" y2="409.109642" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1158.755556" y1="406.845540" x2="1155.555556" y2="402.181439" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1158.755556" y1="406.845540" x2="1153.155556" y2="407.245541" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1158.755556" y1="406.845540" x2="1157.955556" y2="404.045540" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1152.355556" y1="404.445540" x2="1155.555556" y2="409.109642" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1152.355556" y1="404.445540" x2="1155.555556" y2="402.181439" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1152.355556" y1="404.445540" x2="1153.155556" y2="407.245541" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1152.355556" y1="404.445540" x2="1157.955556" y2="404.045540" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1155.555556" y1="409.109642" x2="1153.155556" y2="407.245541" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1155.555556" y1="409.109642" x2="1157.955556" y2="404.045540" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1155.555556" y1="402.181439" x2="1153.155556" y2="407.245541" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1155.555556" y1="402.181439" x2="1157.955556" y2="404.045540" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ <g id="mellon-7.6-pitt-bear-compare-world-weekly-itu-2026-polygon-oct-r-4.000000-616">
+<title>
+The Bear S04 · worldwide uploaders · week 10 · 2025-08-28-to-2025-09-03 · 266,190.78 adjusted weight
+</title>
+<line x1="1278.200000" y1="410.947567" x2="1275.000000" y2="413.211669" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1278.200000" y1="410.947567" x2="1275.000000" y2="406.283466" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1278.200000" y1="410.947567" x2="1272.600000" y2="411.347567" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1278.200000" y1="410.947567" x2="1277.400000" y2="408.147567" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1271.800000" y1="408.547567" x2="1275.000000" y2="413.211669" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1271.800000" y1="408.547567" x2="1275.000000" y2="406.283466" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1271.800000" y1="408.547567" x2="1272.600000" y2="411.347567" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1271.800000" y1="408.547567" x2="1277.400000" y2="408.147567" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1275.000000" y1="413.211669" x2="1272.600000" y2="411.347567" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1275.000000" y1="413.211669" x2="1277.400000" y2="408.147567" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1275.000000" y1="406.283466" x2="1272.600000" y2="411.347567" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+<line x1="1275.000000" y1="406.283466" x2="1277.400000" y2="408.147567" style="fill:rgb(82,82,82); fill-opacity:1; stroke:rgb(82,82,82); stroke-opacity:1; stroke-width:2" />
+</g>
+ </g> <text x="25.00000" y="941.00000" font-family="DejaVu Sans,sans-serif" font-size="15" text-anchor="start" fill="#26313a">Izzi native weekly line graphs · missing intervals are unplotted · exact values in the accompanying ledger</text><desc>Izzi native weekly lines. Separate downloader and uploader scales. Not unique viewers.</desc></svg>

@@ -1,1099 +1,727 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.39952pt" height="509.39976pt" viewBox="0 0 800.39952 509.39976" version="1.1" role="group" aria-label="American Born Chinese versus No More Bets weekly geography. Weeks 1–15; USA and Asia-28 including Taiwan; downloaders and uploaders; identical 0–100 percent axes." class="analysis-svg">
- <metadata>
-  <rdf:RDF>
-   <ns2:Work>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:format>image/svg+xml</dc:format>
-    <dc:creator>
-     <ns2:Agent>
-      <dc:title>Alpha60 Mellon 7.6</dc:title>
-     </ns2:Agent>
-    </dc:creator>
-   </ns2:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
- </defs>
- <g id="mellon-7.6-pair-original-weekly-figure_1">
-  <g id="mellon-7.6-pair-original-weekly-patch_1">
-   <path d="M 0 509.39976  L 800.39952 509.39976  L 800.39952 -0  L 0 -0  z " style="fill: #ffffff" />
-  </g>
-  <g id="mellon-7.6-pair-original-weekly-axes_1">
-   <g id="mellon-7.6-pair-original-weekly-patch_2">
-    <path d="M 52.71875 243.165781  L 417.249135 243.165781  L 417.249135 48.35622  L 52.71875 48.35622  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-matplotlib.axis_1">
-    <g id="mellon-7.6-pair-original-weekly-xtick_1">
-     <g id="mellon-7.6-pair-original-weekly-line2d_1">
-      <defs>
-       <path id="mellon-7.6-pair-original-weekly-m009e2501a5" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8" />
-      </defs>
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="69.288313" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_2">
-     <g id="mellon-7.6-pair-original-weekly-line2d_2">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="92.959117" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_3">
-     <g id="mellon-7.6-pair-original-weekly-line2d_3">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="116.629921" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_4">
-     <g id="mellon-7.6-pair-original-weekly-line2d_4">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="140.300726" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_5">
-     <g id="mellon-7.6-pair-original-weekly-line2d_5">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="163.97153" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_6">
-     <g id="mellon-7.6-pair-original-weekly-line2d_6">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="187.642334" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_7">
-     <g id="mellon-7.6-pair-original-weekly-line2d_7">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="211.313138" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_8">
-     <g id="mellon-7.6-pair-original-weekly-line2d_8">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="234.983943" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_9">
-     <g id="mellon-7.6-pair-original-weekly-line2d_9">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="258.654747" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_10">
-     <g id="mellon-7.6-pair-original-weekly-line2d_10">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="282.325551" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_11">
-     <g id="mellon-7.6-pair-original-weekly-line2d_11">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="305.996355" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_12">
-     <g id="mellon-7.6-pair-original-weekly-line2d_12">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="329.667159" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_13">
-     <g id="mellon-7.6-pair-original-weekly-line2d_13">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="353.337964" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_14">
-     <g id="mellon-7.6-pair-original-weekly-line2d_14">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="377.008768" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_15">
-     <g id="mellon-7.6-pair-original-weekly-line2d_15">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="400.679572" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-matplotlib.axis_2">
-    <g id="mellon-7.6-pair-original-weekly-ytick_1">
-     <g id="mellon-7.6-pair-original-weekly-line2d_16">
-      <path d="M 52.71875 243.165781  L 417.249135 243.165781  " clip-path="url(#mellon-7.6-pair-original-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_17">
-      <defs>
-       <path id="mellon-7.6-pair-original-weekly-m6b0521fb35" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8" />
-      </defs>
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="52.71875" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_1">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="247.724844" transform="rotate(-0 45.71875 247.724844)">0</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_2">
-     <g id="mellon-7.6-pair-original-weekly-line2d_18">
-      <path d="M 52.71875 204.203869  L 417.249135 204.203869  " clip-path="url(#mellon-7.6-pair-original-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_19">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="52.71875" y="204.203869" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_2">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="208.762931" transform="rotate(-0 45.71875 208.762931)">20</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_3">
-     <g id="mellon-7.6-pair-original-weekly-line2d_20">
-      <path d="M 52.71875 165.241957  L 417.249135 165.241957  " clip-path="url(#mellon-7.6-pair-original-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_21">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="52.71875" y="165.241957" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_3">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="169.801019" transform="rotate(-0 45.71875 169.801019)">40</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_4">
-     <g id="mellon-7.6-pair-original-weekly-line2d_22">
-      <path d="M 52.71875 126.280044  L 417.249135 126.280044  " clip-path="url(#mellon-7.6-pair-original-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_23">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="52.71875" y="126.280044" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_4">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="130.839107" transform="rotate(-0 45.71875 130.839107)">60</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_5">
-     <g id="mellon-7.6-pair-original-weekly-line2d_24">
-      <path d="M 52.71875 87.318132  L 417.249135 87.318132  " clip-path="url(#mellon-7.6-pair-original-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_25">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="52.71875" y="87.318132" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_5">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="91.877195" transform="rotate(-0 45.71875 91.877195)">80</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_6">
-     <g id="mellon-7.6-pair-original-weekly-line2d_26">
-      <path d="M 52.71875 48.35622  L 417.249135 48.35622  " clip-path="url(#mellon-7.6-pair-original-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_27">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="52.71875" y="48.35622" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_6">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="52.915282" transform="rotate(-0 45.71875 52.915282)">100</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-text_7">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="145.761001" transform="rotate(-90 16.318125 145.761001)">World share (%)</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-line2d_28">
-    <path d="M 69.288313 208.049005  L 92.959117 205.022699  L 116.629921 204.210008  L 140.300726 202.60096  L 163.97153 206.615352  L 187.642334 203.849449  L 211.313138 204.176878  L 234.983943 204.01863  L 258.654747 206.208327  L 282.325551 207.550529  L 305.996355 207.717621  L 329.667159 202.928009  L 353.337964 209.850041  L 377.008768 209.286537  L 400.679572 203.263215  " clip-path="url(#mellon-7.6-pair-original-weekly-p51a326f11e)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <defs>
-     <path id="mellon-7.6-pair-original-weekly-m0cfabb88ed" d="M 0 2  C 0.530406 2 1.03916 1.789267 1.414214 1.414214  C 1.789267 1.03916 2 0.530406 2 0  C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214  C 1.03916 -1.789267 0.530406 -2 0 -2  C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214  C -1.789267 -1.03916 -2 -0.530406 -2 0  C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214  C -1.03916 1.789267 -0.530406 2 0 2  z " style="stroke: #175b8c" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pair-original-weekly-p51a326f11e)">
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="69.288313" y="208.049005" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="92.959117" y="205.022699" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="116.629921" y="204.210008" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="140.300726" y="202.60096" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="163.97153" y="206.615352" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="187.642334" y="203.849449" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="211.313138" y="204.176878" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="234.983943" y="204.01863" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="258.654747" y="206.208327" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="282.325551" y="207.550529" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="305.996355" y="207.717621" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="329.667159" y="202.928009" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="353.337964" y="209.850041" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="377.008768" y="209.286537" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="400.679572" y="203.263215" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-line2d_29">
-    <path d="M 69.288313 236.842751  L 92.959117 235.650872  L 116.629921 234.240109  L 140.300726 235.561816  L 163.97153 236.28292  L 187.642334 234.971411  L 211.313138 234.895421  L 234.983943 236.215887  L 258.654747 236.264897  L 282.325551 234.970885  L 305.996355 234.557412  L 329.667159 234.889086  L 353.337964 234.82286  L 377.008768 234.794919  L 400.679572 235.586854  " clip-path="url(#mellon-7.6-pair-original-weekly-p51a326f11e)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <defs>
-     <path id="mellon-7.6-pair-original-weekly-m567847878a" d="M -2 2  L 2 2  L 2 -2  L -2 -2  z " style="stroke: #9b4318; stroke-linejoin: miter" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pair-original-weekly-p51a326f11e)">
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="69.288313" y="236.842751" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="92.959117" y="235.650872" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="116.629921" y="234.240109" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="140.300726" y="235.561816" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="163.97153" y="236.28292" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="187.642334" y="234.971411" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="211.313138" y="234.895421" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="234.983943" y="236.215887" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="258.654747" y="236.264897" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="282.325551" y="234.970885" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="305.996355" y="234.557412" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="329.667159" y="234.889086" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="353.337964" y="234.82286" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="377.008768" y="234.794919" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="400.679572" y="235.586854" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-patch_3">
-    <path d="M 52.71875 243.165781  L 52.71875 48.35622  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-patch_4">
-    <path d="M 52.71875 243.165781  L 417.249135 243.165781  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-text_8">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="52.71875" y="42.35622" transform="rotate(-0 52.71875 42.35622)">USA · downloaders</text>
-   </g>
-  </g>
-  <g id="mellon-7.6-pair-original-weekly-axes_2">
-   <g id="mellon-7.6-pair-original-weekly-patch_5">
-    <path d="M 428.669135 243.165781  L 793.19952 243.165781  L 793.19952 48.35622  L 428.669135 48.35622  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-matplotlib.axis_3">
-    <g id="mellon-7.6-pair-original-weekly-xtick_16">
-     <g id="mellon-7.6-pair-original-weekly-line2d_30">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="445.238698" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_17">
-     <g id="mellon-7.6-pair-original-weekly-line2d_31">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="468.909502" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_18">
-     <g id="mellon-7.6-pair-original-weekly-line2d_32">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="492.580306" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_19">
-     <g id="mellon-7.6-pair-original-weekly-line2d_33">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="516.251111" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_20">
-     <g id="mellon-7.6-pair-original-weekly-line2d_34">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="539.921915" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_21">
-     <g id="mellon-7.6-pair-original-weekly-line2d_35">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="563.592719" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_22">
-     <g id="mellon-7.6-pair-original-weekly-line2d_36">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="587.263523" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_23">
-     <g id="mellon-7.6-pair-original-weekly-line2d_37">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="610.934327" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_24">
-     <g id="mellon-7.6-pair-original-weekly-line2d_38">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="634.605132" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_25">
-     <g id="mellon-7.6-pair-original-weekly-line2d_39">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="658.275936" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_26">
-     <g id="mellon-7.6-pair-original-weekly-line2d_40">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="681.94674" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_27">
-     <g id="mellon-7.6-pair-original-weekly-line2d_41">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="705.617544" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_28">
-     <g id="mellon-7.6-pair-original-weekly-line2d_42">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="729.288349" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_29">
-     <g id="mellon-7.6-pair-original-weekly-line2d_43">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="752.959153" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_30">
-     <g id="mellon-7.6-pair-original-weekly-line2d_44">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="776.629957" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-matplotlib.axis_4">
-    <g id="mellon-7.6-pair-original-weekly-ytick_7">
-     <g id="mellon-7.6-pair-original-weekly-line2d_45">
-      <path d="M 428.669135 243.165781  L 793.19952 243.165781  " clip-path="url(#mellon-7.6-pair-original-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_46">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="428.669135" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_8">
-     <g id="mellon-7.6-pair-original-weekly-line2d_47">
-      <path d="M 428.669135 204.203869  L 793.19952 204.203869  " clip-path="url(#mellon-7.6-pair-original-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_48">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="428.669135" y="204.203869" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_9">
-     <g id="mellon-7.6-pair-original-weekly-line2d_49">
-      <path d="M 428.669135 165.241957  L 793.19952 165.241957  " clip-path="url(#mellon-7.6-pair-original-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_50">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="428.669135" y="165.241957" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_10">
-     <g id="mellon-7.6-pair-original-weekly-line2d_51">
-      <path d="M 428.669135 126.280044  L 793.19952 126.280044  " clip-path="url(#mellon-7.6-pair-original-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_52">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="428.669135" y="126.280044" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_11">
-     <g id="mellon-7.6-pair-original-weekly-line2d_53">
-      <path d="M 428.669135 87.318132  L 793.19952 87.318132  " clip-path="url(#mellon-7.6-pair-original-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_54">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="428.669135" y="87.318132" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_12">
-     <g id="mellon-7.6-pair-original-weekly-line2d_55">
-      <path d="M 428.669135 48.35622  L 793.19952 48.35622  " clip-path="url(#mellon-7.6-pair-original-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_56">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="428.669135" y="48.35622" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-line2d_57">
-    <path d="M 445.238698 192.272275  L 468.909502 201.609598  L 492.580306 208.167166  L 516.251111 205.170116  L 539.921915 211.999458  L 563.592719 207.807137  L 587.263523 206.591453  L 610.934327 216.453608  L 634.605132 222.990809  L 658.275936 225.015946  L 681.94674 224.733246  L 705.617544 219.473076  L 729.288349 223.096831  L 752.959153 225.085316  L 776.629957 217.424816  " clip-path="url(#mellon-7.6-pair-original-weekly-pb8318d7784)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <g clip-path="url(#mellon-7.6-pair-original-weekly-pb8318d7784)">
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="445.238698" y="192.272275" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="468.909502" y="201.609598" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="492.580306" y="208.167166" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="516.251111" y="205.170116" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="539.921915" y="211.999458" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="563.592719" y="207.807137" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="587.263523" y="206.591453" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="610.934327" y="216.453608" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="634.605132" y="222.990809" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="658.275936" y="225.015946" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="681.94674" y="224.733246" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="705.617544" y="219.473076" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="729.288349" y="223.096831" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="752.959153" y="225.085316" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="776.629957" y="217.424816" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-line2d_58">
-    <path d="M 445.238698 195.291407  L 468.909502 186.12955  L 492.580306 189.882222  L 516.251111 184.083641  L 539.921915 191.421412  L 563.592719 187.737823  L 587.263523 197.405146  L 610.934327 215.047404  L 634.605132 203.124603  L 658.275936 212.525304  L 681.94674 203.379202  L 705.617544 205.613437  L 729.288349 203.642961  L 752.959153 218.160056  L 776.629957 219.193304  " clip-path="url(#mellon-7.6-pair-original-weekly-pb8318d7784)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pair-original-weekly-pb8318d7784)">
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="445.238698" y="195.291407" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="468.909502" y="186.12955" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="492.580306" y="189.882222" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="516.251111" y="184.083641" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="539.921915" y="191.421412" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="563.592719" y="187.737823" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="587.263523" y="197.405146" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="610.934327" y="215.047404" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="634.605132" y="203.124603" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="658.275936" y="212.525304" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="681.94674" y="203.379202" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="705.617544" y="205.613437" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="729.288349" y="203.642961" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="752.959153" y="218.160056" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="776.629957" y="219.193304" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-patch_6">
-    <path d="M 428.669135 243.165781  L 428.669135 48.35622  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-patch_7">
-    <path d="M 428.669135 243.165781  L 793.19952 243.165781  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-text_9">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="428.669135" y="42.35622" transform="rotate(-0 428.669135 42.35622)">Asia-28 · downloaders</text>
-   </g>
-  </g>
-  <g id="mellon-7.6-pair-original-weekly-axes_3">
-   <g id="mellon-7.6-pair-original-weekly-patch_8">
-    <path d="M 52.71875 467.97226  L 417.249135 467.97226  L 417.249135 273.162699  L 52.71875 273.162699  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-matplotlib.axis_5">
-    <g id="mellon-7.6-pair-original-weekly-xtick_31">
-     <g id="mellon-7.6-pair-original-weekly-line2d_59">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="69.288313" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_10">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="69.288313" y="484.090385" transform="rotate(-0 69.288313 484.090385)">1</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_32">
-     <g id="mellon-7.6-pair-original-weekly-line2d_60">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="92.959117" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_11">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="92.959117" y="484.090385" transform="rotate(-0 92.959117 484.090385)">2</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_33">
-     <g id="mellon-7.6-pair-original-weekly-line2d_61">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="116.629921" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_12">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="116.629921" y="484.090385" transform="rotate(-0 116.629921 484.090385)">3</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_34">
-     <g id="mellon-7.6-pair-original-weekly-line2d_62">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="140.300726" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_13">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="140.300726" y="484.090385" transform="rotate(-0 140.300726 484.090385)">4</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_35">
-     <g id="mellon-7.6-pair-original-weekly-line2d_63">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="163.97153" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_14">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="163.97153" y="484.090385" transform="rotate(-0 163.97153 484.090385)">5</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_36">
-     <g id="mellon-7.6-pair-original-weekly-line2d_64">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="187.642334" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_15">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="187.642334" y="484.090385" transform="rotate(-0 187.642334 484.090385)">6</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_37">
-     <g id="mellon-7.6-pair-original-weekly-line2d_65">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="211.313138" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_16">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="211.313138" y="484.090385" transform="rotate(-0 211.313138 484.090385)">7</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_38">
-     <g id="mellon-7.6-pair-original-weekly-line2d_66">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="234.983943" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_17">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="234.983943" y="484.090385" transform="rotate(-0 234.983943 484.090385)">8</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_39">
-     <g id="mellon-7.6-pair-original-weekly-line2d_67">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="258.654747" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_18">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="258.654747" y="484.090385" transform="rotate(-0 258.654747 484.090385)">9</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_40">
-     <g id="mellon-7.6-pair-original-weekly-line2d_68">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="282.325551" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_19">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="282.325551" y="484.090385" transform="rotate(-0 282.325551 484.090385)">10</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_41">
-     <g id="mellon-7.6-pair-original-weekly-line2d_69">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="305.996355" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_20">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="305.996355" y="484.090385" transform="rotate(-0 305.996355 484.090385)">11</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_42">
-     <g id="mellon-7.6-pair-original-weekly-line2d_70">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="329.667159" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_21">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="329.667159" y="484.090385" transform="rotate(-0 329.667159 484.090385)">12</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_43">
-     <g id="mellon-7.6-pair-original-weekly-line2d_71">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="353.337964" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_22">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="353.337964" y="484.090385" transform="rotate(-0 353.337964 484.090385)">13</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_44">
-     <g id="mellon-7.6-pair-original-weekly-line2d_72">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="377.008768" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_23">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="377.008768" y="484.090385" transform="rotate(-0 377.008768 484.090385)">14</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_45">
-     <g id="mellon-7.6-pair-original-weekly-line2d_73">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="400.679572" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_24">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="400.679572" y="484.090385" transform="rotate(-0 400.679572 484.090385)">15</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-text_25">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="234.983943" y="499.704135" transform="rotate(-0 234.983943 499.704135)">Elapsed sampling week</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-matplotlib.axis_6">
-    <g id="mellon-7.6-pair-original-weekly-ytick_13">
-     <g id="mellon-7.6-pair-original-weekly-line2d_74">
-      <path d="M 52.71875 467.97226  L 417.249135 467.97226  " clip-path="url(#mellon-7.6-pair-original-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_75">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="52.71875" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_26">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="472.531322" transform="rotate(-0 45.71875 472.531322)">0</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_14">
-     <g id="mellon-7.6-pair-original-weekly-line2d_76">
-      <path d="M 52.71875 429.010348  L 417.249135 429.010348  " clip-path="url(#mellon-7.6-pair-original-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_77">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="52.71875" y="429.010348" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_27">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="433.56941" transform="rotate(-0 45.71875 433.56941)">20</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_15">
-     <g id="mellon-7.6-pair-original-weekly-line2d_78">
-      <path d="M 52.71875 390.048435  L 417.249135 390.048435  " clip-path="url(#mellon-7.6-pair-original-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_79">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="52.71875" y="390.048435" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_28">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="394.607498" transform="rotate(-0 45.71875 394.607498)">40</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_16">
-     <g id="mellon-7.6-pair-original-weekly-line2d_80">
-      <path d="M 52.71875 351.086523  L 417.249135 351.086523  " clip-path="url(#mellon-7.6-pair-original-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_81">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="52.71875" y="351.086523" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_29">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="355.645586" transform="rotate(-0 45.71875 355.645586)">60</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_17">
-     <g id="mellon-7.6-pair-original-weekly-line2d_82">
-      <path d="M 52.71875 312.124611  L 417.249135 312.124611  " clip-path="url(#mellon-7.6-pair-original-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_83">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="52.71875" y="312.124611" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_30">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="316.683673" transform="rotate(-0 45.71875 316.683673)">80</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_18">
-     <g id="mellon-7.6-pair-original-weekly-line2d_84">
-      <path d="M 52.71875 273.162699  L 417.249135 273.162699  " clip-path="url(#mellon-7.6-pair-original-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_85">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="52.71875" y="273.162699" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_31">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="277.721761" transform="rotate(-0 45.71875 277.721761)">100</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-text_32">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="370.567479" transform="rotate(-90 16.318125 370.567479)">World share (%)</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-line2d_86">
-    <path d="M 69.288313 428.906528  L 92.959117 412.180014  L 116.629921 407.128175  L 140.300726 405.53175  L 163.97153 399.127389  L 187.642334 392.758245  L 211.313138 390.743494  L 234.983943 385.045019  L 258.654747 382.970316  L 282.325551 385.743973  L 305.996355 383.429121  L 329.667159 374.315539  L 353.337964 376.489066  L 377.008768 375.937712  L 400.679572 376.181494  " clip-path="url(#mellon-7.6-pair-original-weekly-paf324e72a6)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <g clip-path="url(#mellon-7.6-pair-original-weekly-paf324e72a6)">
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="69.288313" y="428.906528" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="92.959117" y="412.180014" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="116.629921" y="407.128175" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="140.300726" y="405.53175" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="163.97153" y="399.127389" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="187.642334" y="392.758245" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="211.313138" y="390.743494" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="234.983943" y="385.045019" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="258.654747" y="382.970316" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="282.325551" y="385.743973" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="305.996355" y="383.429121" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="329.667159" y="374.315539" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="353.337964" y="376.489066" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="377.008768" y="375.937712" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="400.679572" y="376.181494" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-line2d_87">
-    <path d="M 69.288313 465.610932  L 92.959117 460.414993  L 116.629921 457.719125  L 140.300726 457.182807  L 163.97153 459.927027  L 187.642334 450.512913  L 211.313138 440.698921  L 234.983943 427.814149  L 258.654747 435.753756  L 282.325551 434.169688  L 305.996355 440.413834  L 329.667159 441.131832  L 353.337964 443.493572  L 377.008768 449.897146  L 400.679572 456.760199  " clip-path="url(#mellon-7.6-pair-original-weekly-paf324e72a6)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pair-original-weekly-paf324e72a6)">
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="69.288313" y="465.610932" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="92.959117" y="460.414993" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="116.629921" y="457.719125" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="140.300726" y="457.182807" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="163.97153" y="459.927027" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="187.642334" y="450.512913" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="211.313138" y="440.698921" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="234.983943" y="427.814149" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="258.654747" y="435.753756" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="282.325551" y="434.169688" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="305.996355" y="440.413834" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="329.667159" y="441.131832" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="353.337964" y="443.493572" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="377.008768" y="449.897146" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="400.679572" y="456.760199" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-patch_9">
-    <path d="M 52.71875 467.97226  L 52.71875 273.162699  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-patch_10">
-    <path d="M 52.71875 467.97226  L 417.249135 467.97226  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-text_33">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="52.71875" y="267.162699" transform="rotate(-0 52.71875 267.162699)">USA · uploaders</text>
-   </g>
-  </g>
-  <g id="mellon-7.6-pair-original-weekly-axes_4">
-   <g id="mellon-7.6-pair-original-weekly-patch_11">
-    <path d="M 428.669135 467.97226  L 793.19952 467.97226  L 793.19952 273.162699  L 428.669135 273.162699  z " style="fill: #ffffff" />
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-matplotlib.axis_7">
-    <g id="mellon-7.6-pair-original-weekly-xtick_46">
-     <g id="mellon-7.6-pair-original-weekly-line2d_88">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="445.238698" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_34">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="445.238698" y="484.090385" transform="rotate(-0 445.238698 484.090385)">1</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_47">
-     <g id="mellon-7.6-pair-original-weekly-line2d_89">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="468.909502" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_35">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="468.909502" y="484.090385" transform="rotate(-0 468.909502 484.090385)">2</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_48">
-     <g id="mellon-7.6-pair-original-weekly-line2d_90">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="492.580306" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_36">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="492.580306" y="484.090385" transform="rotate(-0 492.580306 484.090385)">3</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_49">
-     <g id="mellon-7.6-pair-original-weekly-line2d_91">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="516.251111" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_37">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="516.251111" y="484.090385" transform="rotate(-0 516.251111 484.090385)">4</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_50">
-     <g id="mellon-7.6-pair-original-weekly-line2d_92">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="539.921915" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_38">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="539.921915" y="484.090385" transform="rotate(-0 539.921915 484.090385)">5</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_51">
-     <g id="mellon-7.6-pair-original-weekly-line2d_93">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="563.592719" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_39">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="563.592719" y="484.090385" transform="rotate(-0 563.592719 484.090385)">6</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_52">
-     <g id="mellon-7.6-pair-original-weekly-line2d_94">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="587.263523" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_40">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="587.263523" y="484.090385" transform="rotate(-0 587.263523 484.090385)">7</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_53">
-     <g id="mellon-7.6-pair-original-weekly-line2d_95">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="610.934327" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_41">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="610.934327" y="484.090385" transform="rotate(-0 610.934327 484.090385)">8</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_54">
-     <g id="mellon-7.6-pair-original-weekly-line2d_96">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="634.605132" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_42">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="634.605132" y="484.090385" transform="rotate(-0 634.605132 484.090385)">9</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_55">
-     <g id="mellon-7.6-pair-original-weekly-line2d_97">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="658.275936" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_43">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="658.275936" y="484.090385" transform="rotate(-0 658.275936 484.090385)">10</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_56">
-     <g id="mellon-7.6-pair-original-weekly-line2d_98">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="681.94674" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_44">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="681.94674" y="484.090385" transform="rotate(-0 681.94674 484.090385)">11</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_57">
-     <g id="mellon-7.6-pair-original-weekly-line2d_99">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="705.617544" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_45">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="705.617544" y="484.090385" transform="rotate(-0 705.617544 484.090385)">12</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_58">
-     <g id="mellon-7.6-pair-original-weekly-line2d_100">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="729.288349" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_46">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="729.288349" y="484.090385" transform="rotate(-0 729.288349 484.090385)">13</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_59">
-     <g id="mellon-7.6-pair-original-weekly-line2d_101">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="752.959153" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_47">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="752.959153" y="484.090385" transform="rotate(-0 752.959153 484.090385)">14</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-xtick_60">
-     <g id="mellon-7.6-pair-original-weekly-line2d_102">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m009e2501a5" x="776.629957" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-text_48">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="776.629957" y="484.090385" transform="rotate(-0 776.629957 484.090385)">15</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-text_49">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="610.934327" y="499.704135" transform="rotate(-0 610.934327 499.704135)">Elapsed sampling week</text>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-matplotlib.axis_8">
-    <g id="mellon-7.6-pair-original-weekly-ytick_19">
-     <g id="mellon-7.6-pair-original-weekly-line2d_103">
-      <path d="M 428.669135 467.97226  L 793.19952 467.97226  " clip-path="url(#mellon-7.6-pair-original-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_104">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="428.669135" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_20">
-     <g id="mellon-7.6-pair-original-weekly-line2d_105">
-      <path d="M 428.669135 429.010348  L 793.19952 429.010348  " clip-path="url(#mellon-7.6-pair-original-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_106">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="428.669135" y="429.010348" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_21">
-     <g id="mellon-7.6-pair-original-weekly-line2d_107">
-      <path d="M 428.669135 390.048435  L 793.19952 390.048435  " clip-path="url(#mellon-7.6-pair-original-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_108">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="428.669135" y="390.048435" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_22">
-     <g id="mellon-7.6-pair-original-weekly-line2d_109">
-      <path d="M 428.669135 351.086523  L 793.19952 351.086523  " clip-path="url(#mellon-7.6-pair-original-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_110">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="428.669135" y="351.086523" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_23">
-     <g id="mellon-7.6-pair-original-weekly-line2d_111">
-      <path d="M 428.669135 312.124611  L 793.19952 312.124611  " clip-path="url(#mellon-7.6-pair-original-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_112">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="428.669135" y="312.124611" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-    <g id="mellon-7.6-pair-original-weekly-ytick_24">
-     <g id="mellon-7.6-pair-original-weekly-line2d_113">
-      <path d="M 428.669135 273.162699  L 793.19952 273.162699  " clip-path="url(#mellon-7.6-pair-original-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pair-original-weekly-line2d_114">
-      <g>
-       <use xlink:href="#mellon-7.6-pair-original-weekly-m6b0521fb35" x="428.669135" y="273.162699" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-line2d_115">
-    <path d="M 445.238698 419.079718  L 468.909502 428.674259  L 492.580306 434.024334  L 516.251111 429.387375  L 539.921915 432.519178  L 563.592719 435.20601  L 587.263523 433.895067  L 610.934327 436.710734  L 634.605132 440.600989  L 658.275936 443.296697  L 681.94674 445.011878  L 705.617544 447.046612  L 729.288349 444.601101  L 752.959153 447.732104  L 776.629957 450.983339  " clip-path="url(#mellon-7.6-pair-original-weekly-pfd45252ebb)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <g clip-path="url(#mellon-7.6-pair-original-weekly-pfd45252ebb)">
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="445.238698" y="419.079718" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="468.909502" y="428.674259" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="492.580306" y="434.024334" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="516.251111" y="429.387375" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="539.921915" y="432.519178" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="563.592719" y="435.20601" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="587.263523" y="433.895067" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="610.934327" y="436.710734" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="634.605132" y="440.600989" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="658.275936" y="443.296697" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="681.94674" y="445.011878" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="705.617544" y="447.046612" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="729.288349" y="444.601101" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="752.959153" y="447.732104" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="776.629957" y="450.983339" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-line2d_116">
-    <path d="M 445.238698 388.867771  L 468.909502 360.491123  L 492.580306 339.808075  L 516.251111 333.703516  L 539.921915 322.008754  L 563.592719 330.135306  L 587.263523 349.528047  L 610.934327 382.52947  L 634.605132 348.089453  L 658.275936 350.552798  L 681.94674 365.340881  L 705.617544 350.220703  L 729.288349 360.877999  L 752.959153 343.454808  L 776.629957 322.215466  " clip-path="url(#mellon-7.6-pair-original-weekly-pfd45252ebb)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pair-original-weekly-pfd45252ebb)">
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="445.238698" y="388.867771" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="468.909502" y="360.491123" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="492.580306" y="339.808075" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="516.251111" y="333.703516" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="539.921915" y="322.008754" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="563.592719" y="330.135306" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="587.263523" y="349.528047" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="610.934327" y="382.52947" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="634.605132" y="348.089453" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="658.275936" y="350.552798" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="681.94674" y="365.340881" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="705.617544" y="350.220703" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="729.288349" y="360.877999" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="752.959153" y="343.454808" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="776.629957" y="322.215466" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-patch_12">
-    <path d="M 428.669135 467.97226  L 428.669135 273.162699  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-patch_13">
-    <path d="M 428.669135 467.97226  L 793.19952 467.97226  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-text_50">
-    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="428.669135" y="267.162699" transform="rotate(-0 428.669135 267.162699)">Asia-28 · uploaders</text>
-   </g>
-  </g>
-  <g id="mellon-7.6-pair-original-weekly-legend_1">
-   <g id="mellon-7.6-pair-original-weekly-line2d_117">
-    <path d="M 244.179135 15.718125  L 256.179135 15.718125  L 268.179135 15.718125  " style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <g>
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m0cfabb88ed" x="256.179135" y="15.718125" style="fill: #175b8c; stroke: #175b8c" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-text_51">
-    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="277.779135" y="19.918125" transform="rotate(-0 277.779135 19.918125)">American Born Chinese</text>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-line2d_118">
-    <path d="M 442.35726 15.718125  L 454.35726 15.718125  L 466.35726 15.718125  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <g>
-     <use xlink:href="#mellon-7.6-pair-original-weekly-m567847878a" x="454.35726" y="15.718125" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pair-original-weekly-text_52">
-    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="475.95726" y="19.918125" transform="rotate(-0 475.95726 19.918125)">No More Bets</text>
-   </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="mellon-7.6-pair-original-weekly" x="0px" y="0px" width="1200.000000px" height="953.000000px" viewBox="0 0 1200.000000 953.000000" enable-background="new 0 0 1200.000000 953.000000" role="group" class="analysis-svg" aria-label="American Born Chinese versus No More Bets weekly geography. Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes.">
+<title>American Born Chinese versus No More Bets</title>
+ <rect width="100%" height="100%" fill="white" /> <text x="25.00000" y="32.00000" font-family="DejaVu Sans,sans-serif" font-size="25" text-anchor="start" fill="#26313a">American Born Chinese versus No More Bets</text> <text x="25.00000" y="62.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="start" fill="#26313a">Weekly geography · weeks 1–15 · Asia-28 includes Taiwan</text><polyline points="30,91 72,91 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ <circle cx="51.000000" cy="91.000000" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+
+</title>
+ </circle>
+ <text x="84.00000" y="96.00000" font-family="DejaVu Sans,sans-serif" font-size="18" text-anchor="start" fill="#26313a">American Born Chinese</text><polyline points="630,91 672,91 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ <rect x="647.000000" y="87.000000" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+
+</title>
+ </rect>
+ <text x="684.00000" y="96.00000" font-family="DejaVu Sans,sans-serif" font-size="18" text-anchor="start" fill="#26313a">No More Bets</text> <text x="88.00000" y="153.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">USA · downloaders</text><line x1="88.000000" y1="178.000000" x2="88.000000" y2="448.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="88.000000" y1="448.000000" x2="563.000000" y2="448.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="78.00000" y="453.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0%</text><line x1="88.000000" y1="394.000000" x2="563.000000" y2="394.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="399.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">20%</text><line x1="88.000000" y1="340.000000" x2="563.000000" y2="340.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="345.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">40%</text><line x1="88.000000" y1="286.000000" x2="563.000000" y2="286.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="291.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">60%</text><line x1="88.000000" y1="232.000000" x2="563.000000" y2="232.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="237.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">80%</text><line x1="88.000000" y1="178.000000" x2="563.000000" y2="178.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="183.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">100%</text><line x1="88.000000" y1="448.000000" x2="88.000000" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="88.00000" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">1</text><line x1="121.928571" y1="448.000000" x2="121.928571" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="121.92857" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2</text><line x1="155.857143" y1="448.000000" x2="155.857143" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="155.85714" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">3</text><line x1="189.785714" y1="448.000000" x2="189.785714" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="189.78571" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">4</text><line x1="223.714286" y1="448.000000" x2="223.714286" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="223.71429" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">5</text><line x1="257.642857" y1="448.000000" x2="257.642857" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="257.64286" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">6</text><line x1="291.571429" y1="448.000000" x2="291.571429" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="291.57143" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">7</text><line x1="325.500000" y1="448.000000" x2="325.500000" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="325.50000" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">8</text><line x1="359.428571" y1="448.000000" x2="359.428571" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="359.42857" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">9</text><line x1="393.357143" y1="448.000000" x2="393.357143" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="393.35714" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">10</text><line x1="427.285714" y1="448.000000" x2="427.285714" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="427.28571" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">11</text><line x1="461.214286" y1="448.000000" x2="461.214286" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="461.21429" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">12</text><line x1="495.142857" y1="448.000000" x2="495.142857" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="495.14286" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">13</text><line x1="529.071429" y1="448.000000" x2="529.071429" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="529.07143" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">14</text><line x1="563.000000" y1="448.000000" x2="563.000000" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="563.00000" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">15</text> <text x="325.50000" y="505.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Elapsed sampling week</text> <g transform="translate(21.00000 313.00000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">World share (%)</text> </g> <g data-series="American Born Chinese" transform="translate(-112.00000 -22.00000)"> <g id="mellon-7.6-pair-original-weekly-polyline-panel-0-series-0-61">
+<polyline points="200,421.329 233.929,417.135 267.857,416.009 301.786,413.778 335.714,419.342 369.643,415.509 403.571,415.963 437.5,415.743 471.429,418.778 505.357,420.638 539.286,420.87 573.214,414.232 607.143,423.825 641.071,423.044 675,414.696 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
  </g>
- <defs>
-  <clipPath id="mellon-7.6-pair-original-weekly-p51a326f11e">
-   <rect x="52.71875" y="48.35622" width="364.530385" height="194.809561" />
-  </clipPath>
-  <clipPath id="mellon-7.6-pair-original-weekly-pb8318d7784">
-   <rect x="428.669135" y="48.35622" width="364.530385" height="194.809561" />
-  </clipPath>
-  <clipPath id="mellon-7.6-pair-original-weekly-paf324e72a6">
-   <rect x="52.71875" y="273.162699" width="364.530385" height="194.809561" />
-  </clipPath>
-  <clipPath id="mellon-7.6-pair-original-weekly-pfd45252ebb">
-   <rect x="428.669135" y="273.162699" width="364.530385" height="194.809561" />
-  </clipPath>
- </defs>
-</svg>
+ <circle cx="200.000000" cy="421.329241" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 1 · 2023-05-24-to-2023-05-30-partial · 18.026% of world
+</title>
+ </circle>
+ <circle cx="233.928571" cy="417.134875" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 2 · 2023-05-31-to-2023-06-06 · 19.580% of world
+</title>
+ </circle>
+ <circle cx="267.857143" cy="416.008510" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 3 · 2023-06-07-to-2023-06-13 · 19.997% of world
+</title>
+ </circle>
+ <circle cx="301.785714" cy="413.778418" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 4 · 2023-06-14-to-2023-06-20 · 20.823% of world
+</title>
+ </circle>
+ <circle cx="335.714286" cy="419.342244" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 5 · 2023-06-21-to-2023-06-27 · 18.762% of world
+</title>
+ </circle>
+ <circle cx="369.642857" cy="415.508786" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 6 · 2023-06-28-to-2023-07-04 · 20.182% of world
+</title>
+ </circle>
+ <circle cx="403.571429" cy="415.962592" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 7 · 2023-07-05-to-2023-07-11 · 20.014% of world
+</title>
+ </circle>
+ <circle cx="437.500000" cy="415.743268" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 8 · 2023-07-12-to-2023-07-18 · 20.095% of world
+</title>
+ </circle>
+ <circle cx="471.428571" cy="418.778116" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 9 · 2023-07-19-to-2023-07-25 · 18.971% of world
+</title>
+ </circle>
+ <circle cx="505.357143" cy="420.638368" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 10 · 2023-07-26-to-2023-08-01 · 18.282% of world
+</title>
+ </circle>
+ <circle cx="539.285714" cy="420.869952" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 11 · 2023-08-02-to-2023-08-08 · 18.196% of world
+</title>
+ </circle>
+ <circle cx="573.214286" cy="414.231697" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 12 · 2023-08-09-to-2023-08-15 · 20.655% of world
+</title>
+ </circle>
+ <circle cx="607.142857" cy="423.825421" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 13 · 2023-08-16-to-2023-08-22 · 17.102% of world
+</title>
+ </circle>
+ <circle cx="641.071429" cy="423.044421" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 14 · 2023-08-23-to-2023-08-29 · 17.391% of world
+</title>
+ </circle>
+ <circle cx="675.000000" cy="414.696283" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA downloaders · week 15 · 2023-08-30-to-2023-09-05 · 20.483% of world
+</title>
+ </circle>
+ </g> <g data-series="No More Bets" transform="translate(-112.00000 -22.00000)"> <g id="mellon-7.6-pair-original-weekly-polyline-panel-0-series-1-94">
+<polyline points="200,461.236 233.929,459.585 267.857,457.629 301.786,459.461 335.714,460.461 369.643,458.643 403.571,458.538 437.5,460.368 471.429,460.436 505.357,458.642 539.286,458.069 573.214,458.529 607.143,458.437 641.071,458.398 675,459.496 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="457.236478" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 1 · 2023-09-19-to-2023-09-25 · 3.246% of world
+</title>
+ </rect>
+ <rect x="229.928571" y="455.584572" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 2 · 2023-09-26-to-2023-10-02-partial · 3.858% of world
+</title>
+ </rect>
+ <rect x="263.857143" y="453.629297" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 3 · 2023-10-03-to-2023-10-09 · 4.582% of world
+</title>
+ </rect>
+ <rect x="297.785714" y="455.461141" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 4 · 2023-10-10-to-2023-10-16 · 3.903% of world
+</title>
+ </rect>
+ <rect x="331.714286" y="456.460568" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 5 · 2023-10-17-to-2023-10-23 · 3.533% of world
+</title>
+ </rect>
+ <rect x="365.642857" y="454.642858" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 6 · 2023-10-24-to-2023-10-30 · 4.206% of world
+</title>
+ </rect>
+ <rect x="399.571429" y="454.537539" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 7 · 2023-10-31-to-2023-11-06 · 4.245% of world
+</title>
+ </rect>
+ <rect x="433.500000" y="456.367664" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 8 · 2023-11-07-to-2023-11-13 · 3.568% of world
+</title>
+ </rect>
+ <rect x="467.428571" y="456.435590" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 9 · 2023-11-14-to-2023-11-20 · 3.542% of world
+</title>
+ </rect>
+ <rect x="501.357143" y="454.642129" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 10 · 2023-11-21-to-2023-11-27 · 4.207% of world
+</title>
+ </rect>
+ <rect x="535.285714" y="454.069070" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 11 · 2023-11-28-to-2023-12-04 · 4.419% of world
+</title>
+ </rect>
+ <rect x="569.214286" y="454.528758" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 12 · 2023-12-05-to-2023-12-11 · 4.249% of world
+</title>
+ </rect>
+ <rect x="603.142857" y="454.436972" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 13 · 2023-12-12-to-2023-12-18 · 4.283% of world
+</title>
+ </rect>
+ <rect x="637.071429" y="454.398246" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 14 · 2023-12-19-to-2023-12-25 · 4.297% of world
+</title>
+ </rect>
+ <rect x="671.000000" y="455.495844" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA downloaders · week 15 · 2023-12-26-to-2024-01-01 · 3.890% of world
+</title>
+ </rect>
+ </g> <text x="688.00000" y="153.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">Asia-28 · downloaders</text><line x1="688.000000" y1="178.000000" x2="688.000000" y2="448.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="688.000000" y1="448.000000" x2="1163.000000" y2="448.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="678.00000" y="453.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0%</text><line x1="688.000000" y1="394.000000" x2="1163.000000" y2="394.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="399.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">20%</text><line x1="688.000000" y1="340.000000" x2="1163.000000" y2="340.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="345.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">40%</text><line x1="688.000000" y1="286.000000" x2="1163.000000" y2="286.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="291.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">60%</text><line x1="688.000000" y1="232.000000" x2="1163.000000" y2="232.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="237.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">80%</text><line x1="688.000000" y1="178.000000" x2="1163.000000" y2="178.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="183.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">100%</text><line x1="688.000000" y1="448.000000" x2="688.000000" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="688.00000" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">1</text><line x1="721.928571" y1="448.000000" x2="721.928571" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="721.92857" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2</text><line x1="755.857143" y1="448.000000" x2="755.857143" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="755.85714" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">3</text><line x1="789.785714" y1="448.000000" x2="789.785714" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="789.78571" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">4</text><line x1="823.714286" y1="448.000000" x2="823.714286" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="823.71429" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">5</text><line x1="857.642857" y1="448.000000" x2="857.642857" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="857.64286" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">6</text><line x1="891.571429" y1="448.000000" x2="891.571429" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="891.57143" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">7</text><line x1="925.500000" y1="448.000000" x2="925.500000" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="925.50000" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">8</text><line x1="959.428571" y1="448.000000" x2="959.428571" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="959.42857" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">9</text><line x1="993.357143" y1="448.000000" x2="993.357143" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="993.35714" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">10</text><line x1="1027.285714" y1="448.000000" x2="1027.285714" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1027.28571" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">11</text><line x1="1061.214286" y1="448.000000" x2="1061.214286" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1061.21429" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">12</text><line x1="1095.142857" y1="448.000000" x2="1095.142857" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1095.14286" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">13</text><line x1="1129.071429" y1="448.000000" x2="1129.071429" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1129.07143" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">14</text><line x1="1163.000000" y1="448.000000" x2="1163.000000" y2="453.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1163.00000" y="475.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">15</text> <text x="925.50000" y="505.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Elapsed sampling week</text> <g transform="translate(621.00000 313.00000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">World share (%)</text> </g> <g data-series="American Born Chinese" transform="translate(488.00000 -22.00000)"> <g id="mellon-7.6-pair-original-weekly-polyline-panel-1-series-0-174">
+<polyline points="200,399.463 233.929,412.404 267.857,421.493 301.786,417.339 335.714,426.804 369.643,420.994 403.571,419.309 437.5,432.978 471.429,442.038 505.357,444.845 539.286,444.453 573.214,437.163 607.143,442.185 641.071,444.941 675,434.324 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <circle cx="200.000000" cy="399.463183" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 1 · 2023-05-24-to-2023-05-30-partial · 26.125% of world
+</title>
+ </circle>
+ <circle cx="233.928571" cy="412.404424" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 2 · 2023-05-31-to-2023-06-06 · 21.332% of world
+</title>
+ </circle>
+ <circle cx="267.857143" cy="421.493010" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 3 · 2023-06-07-to-2023-06-13 · 17.966% of world
+</title>
+ </circle>
+ <circle cx="301.785714" cy="417.339189" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 4 · 2023-06-14-to-2023-06-20 · 19.504% of world
+</title>
+ </circle>
+ <circle cx="335.714286" cy="426.804444" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 5 · 2023-06-21-to-2023-06-27 · 15.998% of world
+</title>
+ </circle>
+ <circle cx="369.642857" cy="420.994017" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 6 · 2023-06-28-to-2023-07-04 · 18.150% of world
+</title>
+ </circle>
+ <circle cx="403.571429" cy="419.309117" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 7 · 2023-07-05-to-2023-07-11 · 18.774% of world
+</title>
+ </circle>
+ <circle cx="437.500000" cy="432.977759" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 8 · 2023-07-12-to-2023-07-18 · 13.712% of world
+</title>
+ </circle>
+ <circle cx="471.428571" cy="442.038117" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 9 · 2023-07-19-to-2023-07-25 · 10.356% of world
+</title>
+ </circle>
+ <circle cx="505.357143" cy="444.844894" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 10 · 2023-07-26-to-2023-08-01 · 9.317% of world
+</title>
+ </circle>
+ <circle cx="539.285714" cy="444.453081" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 11 · 2023-08-02-to-2023-08-08 · 9.462% of world
+</title>
+ </circle>
+ <circle cx="573.214286" cy="437.162649" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 12 · 2023-08-09-to-2023-08-15 · 12.162% of world
+</title>
+ </circle>
+ <circle cx="607.142857" cy="442.185059" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 13 · 2023-08-16-to-2023-08-22 · 10.302% of world
+</title>
+ </circle>
+ <circle cx="641.071429" cy="444.941038" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 14 · 2023-08-23-to-2023-08-29 · 9.281% of world
+</title>
+ </circle>
+ <circle cx="675.000000" cy="434.323823" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 downloaders · week 15 · 2023-08-30-to-2023-09-05 · 13.213% of world
+</title>
+ </circle>
+ </g> <g data-series="No More Bets" transform="translate(488.00000 -22.00000)"> <g id="mellon-7.6-pair-original-weekly-polyline-panel-1-series-1-207">
+<polyline points="200,403.648 233.929,390.95 267.857,396.151 301.786,388.114 335.714,398.284 369.643,393.179 403.571,406.577 437.5,431.029 471.429,414.504 505.357,427.533 539.286,414.857 573.214,417.954 607.143,415.223 641.071,435.343 675,436.775 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="399.647605" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 1 · 2023-09-19-to-2023-09-25 · 24.575% of world
+</title>
+ </rect>
+ <rect x="229.928571" y="386.949557" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 2 · 2023-09-26-to-2023-10-02-partial · 29.278% of world
+</title>
+ </rect>
+ <rect x="263.857143" y="392.150642" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 3 · 2023-10-03-to-2023-10-09 · 27.352% of world
+</title>
+ </rect>
+ <rect x="297.785714" y="384.113992" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 4 · 2023-10-10-to-2023-10-16 · 30.328% of world
+</title>
+ </rect>
+ <rect x="331.714286" y="394.283912" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 5 · 2023-10-17-to-2023-10-23 · 26.562% of world
+</title>
+ </rect>
+ <rect x="365.642857" y="389.178574" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 6 · 2023-10-24-to-2023-10-30 · 28.452% of world
+</title>
+ </rect>
+ <rect x="399.571429" y="402.577184" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 7 · 2023-10-31-to-2023-11-06 · 23.490% of world
+</title>
+ </rect>
+ <rect x="433.500000" y="427.028802" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 8 · 2023-11-07-to-2023-11-13 · 14.434% of world
+</title>
+ </rect>
+ <rect x="467.428571" y="410.504173" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 9 · 2023-11-14-to-2023-11-20 · 20.554% of world
+</title>
+ </rect>
+ <rect x="501.357143" y="423.533253" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 10 · 2023-11-21-to-2023-11-27 · 15.728% of world
+</title>
+ </rect>
+ <rect x="535.285714" y="410.857039" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 11 · 2023-11-28-to-2023-12-04 · 20.423% of world
+</title>
+ </rect>
+ <rect x="569.214286" y="413.953620" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 12 · 2023-12-05-to-2023-12-11 · 19.276% of world
+</title>
+ </rect>
+ <rect x="603.142857" y="411.222600" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 13 · 2023-12-12-to-2023-12-18 · 20.288% of world
+</title>
+ </rect>
+ <rect x="637.071429" y="431.342843" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 14 · 2023-12-19-to-2023-12-25 · 12.836% of world
+</title>
+ </rect>
+ <rect x="671.000000" y="432.774891" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 downloaders · week 15 · 2023-12-26-to-2024-01-01 · 12.306% of world
+</title>
+ </rect>
+ </g> <text x="88.00000" y="553.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">USA · uploaders</text><line x1="88.000000" y1="578.000000" x2="88.000000" y2="848.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="88.000000" y1="848.000000" x2="563.000000" y2="848.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="78.00000" y="853.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0%</text><line x1="88.000000" y1="794.000000" x2="563.000000" y2="794.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="799.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">20%</text><line x1="88.000000" y1="740.000000" x2="563.000000" y2="740.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="745.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">40%</text><line x1="88.000000" y1="686.000000" x2="563.000000" y2="686.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="691.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">60%</text><line x1="88.000000" y1="632.000000" x2="563.000000" y2="632.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="637.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">80%</text><line x1="88.000000" y1="578.000000" x2="563.000000" y2="578.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="78.00000" y="583.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">100%</text><line x1="88.000000" y1="848.000000" x2="88.000000" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="88.00000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">1</text><line x1="121.928571" y1="848.000000" x2="121.928571" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="121.92857" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2</text><line x1="155.857143" y1="848.000000" x2="155.857143" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="155.85714" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">3</text><line x1="189.785714" y1="848.000000" x2="189.785714" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="189.78571" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">4</text><line x1="223.714286" y1="848.000000" x2="223.714286" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="223.71429" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">5</text><line x1="257.642857" y1="848.000000" x2="257.642857" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="257.64286" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">6</text><line x1="291.571429" y1="848.000000" x2="291.571429" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="291.57143" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">7</text><line x1="325.500000" y1="848.000000" x2="325.500000" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="325.50000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">8</text><line x1="359.428571" y1="848.000000" x2="359.428571" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="359.42857" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">9</text><line x1="393.357143" y1="848.000000" x2="393.357143" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="393.35714" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">10</text><line x1="427.285714" y1="848.000000" x2="427.285714" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="427.28571" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">11</text><line x1="461.214286" y1="848.000000" x2="461.214286" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="461.21429" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">12</text><line x1="495.142857" y1="848.000000" x2="495.142857" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="495.14286" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">13</text><line x1="529.071429" y1="848.000000" x2="529.071429" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="529.07143" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">14</text><line x1="563.000000" y1="848.000000" x2="563.000000" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="563.00000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">15</text> <text x="325.50000" y="905.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Elapsed sampling week</text> <g transform="translate(21.00000 713.00000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">World share (%)</text> </g> <g data-series="American Born Chinese" transform="translate(-112.00000 378.00000)"> <g id="mellon-7.6-pair-original-weekly-polyline-panel-2-series-0-287">
+<polyline points="200,415.856 233.929,392.674 267.857,385.672 301.786,383.459 335.714,374.583 369.643,365.756 403.571,362.963 437.5,355.065 471.429,352.19 505.357,356.034 539.286,352.826 573.214,340.195 607.143,343.207 641.071,342.443 675,342.781 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <circle cx="200.000000" cy="415.856109" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 1 · 2023-05-24-to-2023-05-30-partial · 20.053% of world
+</title>
+ </circle>
+ <circle cx="233.928571" cy="392.673682" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 2 · 2023-05-31-to-2023-06-06 · 28.639% of world
+</title>
+ </circle>
+ <circle cx="267.857143" cy="385.671991" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 3 · 2023-06-07-to-2023-06-13 · 31.233% of world
+</title>
+ </circle>
+ <circle cx="301.785714" cy="383.459395" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 4 · 2023-06-14-to-2023-06-20 · 32.052% of world
+</title>
+ </circle>
+ <circle cx="335.714286" cy="374.583150" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 5 · 2023-06-21-to-2023-06-27 · 35.340% of world
+</title>
+ </circle>
+ <circle cx="369.642857" cy="365.755714" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 6 · 2023-06-28-to-2023-07-04 · 38.609% of world
+</title>
+ </circle>
+ <circle cx="403.571429" cy="362.963330" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 7 · 2023-07-05-to-2023-07-11 · 39.643% of world
+</title>
+ </circle>
+ <circle cx="437.500000" cy="355.065423" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 8 · 2023-07-12-to-2023-07-18 · 42.568% of world
+</title>
+ </circle>
+ <circle cx="471.428571" cy="352.189947" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 9 · 2023-07-19-to-2023-07-25 · 43.633% of world
+</title>
+ </circle>
+ <circle cx="505.357143" cy="356.034150" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 10 · 2023-07-26-to-2023-08-01 · 42.210% of world
+</title>
+ </circle>
+ <circle cx="539.285714" cy="352.825837" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 11 · 2023-08-02-to-2023-08-08 · 43.398% of world
+</title>
+ </circle>
+ <circle cx="573.214286" cy="340.194695" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 12 · 2023-08-09-to-2023-08-15 · 48.076% of world
+</title>
+ </circle>
+ <circle cx="607.142857" cy="343.207136" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 13 · 2023-08-16-to-2023-08-22 · 46.960% of world
+</title>
+ </circle>
+ <circle cx="641.071429" cy="342.442977" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 14 · 2023-08-23-to-2023-08-29 · 47.243% of world
+</title>
+ </circle>
+ <circle cx="675.000000" cy="342.780852" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · USA uploaders · week 15 · 2023-08-30-to-2023-09-05 · 47.118% of world
+</title>
+ </circle>
+ </g> <g data-series="No More Bets" transform="translate(-112.00000 378.00000)"> <g id="mellon-7.6-pair-original-weekly-polyline-panel-2-series-1-320">
+<polyline points="200,466.727 233.929,459.526 267.857,455.789 301.786,455.046 335.714,458.85 369.643,445.802 403.571,432.2 437.5,414.342 471.429,425.346 505.357,423.151 539.286,431.805 573.214,432.8 607.143,436.073 641.071,444.948 675,454.46 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="462.727273" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 1 · 2023-09-19-to-2023-09-25 · 1.212% of world
+</title>
+ </rect>
+ <rect x="229.928571" y="455.525863" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 2 · 2023-09-26-to-2023-10-02-partial · 3.879% of world
+</title>
+ </rect>
+ <rect x="263.857143" y="451.789476" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 3 · 2023-10-03-to-2023-10-09 · 5.263% of world
+</title>
+ </rect>
+ <rect x="297.785714" y="451.046155" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 4 · 2023-10-10-to-2023-10-16 · 5.538% of world
+</title>
+ </rect>
+ <rect x="331.714286" y="454.849559" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 5 · 2023-10-17-to-2023-10-23 · 4.130% of world
+</title>
+ </rect>
+ <rect x="365.642857" y="441.801887" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 6 · 2023-10-24-to-2023-10-30 · 8.962% of world
+</title>
+ </rect>
+ <rect x="399.571429" y="428.200000" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 7 · 2023-10-31-to-2023-11-06 · 14.000% of world
+</title>
+ </rect>
+ <rect x="433.500000" y="410.342106" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 8 · 2023-11-07-to-2023-11-13 · 20.614% of world
+</title>
+ </rect>
+ <rect x="467.428571" y="421.346155" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 9 · 2023-11-14-to-2023-11-20 · 16.538% of world
+</title>
+ </rect>
+ <rect x="501.357143" y="419.150685" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 10 · 2023-11-21-to-2023-11-27 · 17.352% of world
+</title>
+ </rect>
+ <rect x="535.285714" y="427.804879" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 11 · 2023-11-28-to-2023-12-04 · 14.146% of world
+</title>
+ </rect>
+ <rect x="569.214286" y="428.800002" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 12 · 2023-12-05-to-2023-12-11 · 13.778% of world
+</title>
+ </rect>
+ <rect x="603.142857" y="432.073299" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 13 · 2023-12-12-to-2023-12-18 · 12.565% of world
+</title>
+ </rect>
+ <rect x="637.071429" y="440.948455" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 14 · 2023-12-19-to-2023-12-25 · 9.278% of world
+</title>
+ </rect>
+ <rect x="671.000000" y="450.460434" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · USA uploaders · week 15 · 2023-12-26-to-2024-01-01 · 5.755% of world
+</title>
+ </rect>
+ </g> <text x="688.00000" y="553.00000" font-family="DejaVu Sans,sans-serif" font-size="21" text-anchor="start" fill="#26313a">Asia-28 · uploaders</text><line x1="688.000000" y1="578.000000" x2="688.000000" y2="848.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+<line x1="688.000000" y1="848.000000" x2="1163.000000" y2="848.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="678.00000" y="853.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">0%</text><line x1="688.000000" y1="794.000000" x2="1163.000000" y2="794.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="799.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">20%</text><line x1="688.000000" y1="740.000000" x2="1163.000000" y2="740.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="745.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">40%</text><line x1="688.000000" y1="686.000000" x2="1163.000000" y2="686.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="691.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">60%</text><line x1="688.000000" y1="632.000000" x2="1163.000000" y2="632.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="637.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">80%</text><line x1="688.000000" y1="578.000000" x2="1163.000000" y2="578.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:0.6" />
+ <text x="678.00000" y="583.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="end" fill="#26313a">100%</text><line x1="688.000000" y1="848.000000" x2="688.000000" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="688.00000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">1</text><line x1="721.928571" y1="848.000000" x2="721.928571" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="721.92857" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">2</text><line x1="755.857143" y1="848.000000" x2="755.857143" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="755.85714" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">3</text><line x1="789.785714" y1="848.000000" x2="789.785714" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="789.78571" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">4</text><line x1="823.714286" y1="848.000000" x2="823.714286" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="823.71429" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">5</text><line x1="857.642857" y1="848.000000" x2="857.642857" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="857.64286" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">6</text><line x1="891.571429" y1="848.000000" x2="891.571429" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="891.57143" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">7</text><line x1="925.500000" y1="848.000000" x2="925.500000" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="925.50000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">8</text><line x1="959.428571" y1="848.000000" x2="959.428571" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="959.42857" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">9</text><line x1="993.357143" y1="848.000000" x2="993.357143" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="993.35714" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">10</text><line x1="1027.285714" y1="848.000000" x2="1027.285714" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1027.28571" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">11</text><line x1="1061.214286" y1="848.000000" x2="1061.214286" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1061.21429" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">12</text><line x1="1095.142857" y1="848.000000" x2="1095.142857" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1095.14286" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">13</text><line x1="1129.071429" y1="848.000000" x2="1129.071429" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1129.07143" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">14</text><line x1="1163.000000" y1="848.000000" x2="1163.000000" y2="853.000000" style="fill:rgb(1,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1" />
+ <text x="1163.00000" y="875.00000" font-family="DejaVu Sans,sans-serif" font-size="16" text-anchor="middle" fill="#26313a">15</text> <text x="925.50000" y="905.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">Elapsed sampling week</text> <g transform="translate(621.00000 713.00000) rotate(-90)"> <text x="0.00000" y="0.00000" font-family="DejaVu Sans,sans-serif" font-size="17" text-anchor="middle" fill="#26313a">World share (%)</text> </g> <g data-series="American Born Chinese" transform="translate(488.00000 378.00000)"> <g id="mellon-7.6-pair-original-weekly-polyline-panel-3-series-0-400">
+<polyline points="200,402.236 233.929,415.534 267.857,422.949 301.786,416.523 335.714,420.863 369.643,424.587 403.571,422.77 437.5,426.672 471.429,432.064 505.357,435.8 539.286,438.178 573.214,440.998 607.143,437.608 641.071,441.948 675,446.454 " stroke-linecap="round" style="fill:rgb(23,91,140); fill-opacity:0; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <circle cx="200.000000" cy="402.236458" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 1 · 2023-05-24-to-2023-05-30-partial · 25.098% of world
+</title>
+ </circle>
+ <circle cx="233.928571" cy="415.534193" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 2 · 2023-05-31-to-2023-06-06 · 20.173% of world
+</title>
+ </circle>
+ <circle cx="267.857143" cy="422.949230" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 3 · 2023-06-07-to-2023-06-13 · 17.426% of world
+</title>
+ </circle>
+ <circle cx="301.785714" cy="416.522550" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 4 · 2023-06-14-to-2023-06-20 · 19.806% of world
+</title>
+ </circle>
+ <circle cx="335.714286" cy="420.863132" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 5 · 2023-06-21-to-2023-06-27 · 18.199% of world
+</title>
+ </circle>
+ <circle cx="369.642857" cy="424.586996" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 6 · 2023-06-28-to-2023-07-04 · 16.820% of world
+</title>
+ </circle>
+ <circle cx="403.571429" cy="422.770072" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 7 · 2023-07-05-to-2023-07-11 · 17.493% of world
+</title>
+ </circle>
+ <circle cx="437.500000" cy="426.672498" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 8 · 2023-07-12-to-2023-07-18 · 16.047% of world
+</title>
+ </circle>
+ <circle cx="471.428571" cy="432.064271" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 9 · 2023-07-19-to-2023-07-25 · 14.050% of world
+</title>
+ </circle>
+ <circle cx="505.357143" cy="435.800436" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 10 · 2023-07-26-to-2023-08-01 · 12.667% of world
+</title>
+ </circle>
+ <circle cx="539.285714" cy="438.177624" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 11 · 2023-08-02-to-2023-08-08 · 11.786% of world
+</title>
+ </circle>
+ <circle cx="573.214286" cy="440.997704" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 12 · 2023-08-09-to-2023-08-15 · 10.742% of world
+</title>
+ </circle>
+ <circle cx="607.142857" cy="437.608302" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 13 · 2023-08-16-to-2023-08-22 · 11.997% of world
+</title>
+ </circle>
+ <circle cx="641.071429" cy="441.947775" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 14 · 2023-08-23-to-2023-08-29 · 10.390% of world
+</title>
+ </circle>
+ <circle cx="675.000000" cy="446.453883" r="4.000000" style="fill:rgb(23,91,140); fill-opacity:1; stroke:rgb(23,91,140); stroke-opacity:1; stroke-width:2">
+<title>
+American Born Chinese · Asia-28 uploaders · week 15 · 2023-08-30-to-2023-09-05 · 8.721% of world
+</title>
+ </circle>
+ </g> <g data-series="No More Bets" transform="translate(488.00000 378.00000)"> <g id="mellon-7.6-pair-original-weekly-polyline-panel-3-series-1-433">
+<polyline points="200,360.364 233.929,321.034 267.857,292.368 301.786,283.908 335.714,267.699 369.643,278.962 403.571,305.84 437.5,351.579 471.429,303.846 505.357,307.26 539.286,327.756 573.214,306.8 607.143,321.571 641.071,297.423 675,267.986 " stroke-dasharray="8 4" stroke-linecap="round" style="fill:rgb(155,67,24); fill-opacity:0; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <rect x="196.000000" y="356.363638" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 1 · 2023-09-19-to-2023-09-25 · 40.606% of world
+</title>
+ </rect>
+ <rect x="229.928571" y="317.034485" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 2 · 2023-09-26-to-2023-10-02-partial · 55.172% of world
+</title>
+ </rect>
+ <rect x="263.857143" y="288.368423" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 3 · 2023-10-03-to-2023-10-09 · 65.789% of world
+</title>
+ </rect>
+ <rect x="297.785714" y="279.907695" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 4 · 2023-10-10-to-2023-10-16 · 68.923% of world
+</title>
+ </rect>
+ <rect x="331.714286" y="263.699117" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 5 · 2023-10-17-to-2023-10-23 · 74.926% of world
+</title>
+ </rect>
+ <rect x="365.642857" y="274.962267" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 6 · 2023-10-24-to-2023-10-30 · 70.755% of world
+</title>
+ </rect>
+ <rect x="399.571429" y="301.840000" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 7 · 2023-10-31-to-2023-11-06 · 60.800% of world
+</title>
+ </rect>
+ <rect x="433.500000" y="347.578948" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 8 · 2023-11-07-to-2023-11-13 · 43.860% of world
+</title>
+ </rect>
+ <rect x="467.428571" y="299.846155" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 9 · 2023-11-14-to-2023-11-20 · 61.538% of world
+</title>
+ </rect>
+ <rect x="501.357143" y="303.260276" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 10 · 2023-11-21-to-2023-11-27 · 60.274% of world
+</title>
+ </rect>
+ <rect x="535.285714" y="323.756100" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 11 · 2023-11-28-to-2023-12-04 · 52.683% of world
+</title>
+ </rect>
+ <rect x="569.214286" y="302.800001" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 12 · 2023-12-05-to-2023-12-11 · 60.444% of world
+</title>
+ </rect>
+ <rect x="603.142857" y="317.570683" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 13 · 2023-12-12-to-2023-12-18 · 54.974% of world
+</title>
+ </rect>
+ <rect x="637.071429" y="293.422683" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 14 · 2023-12-19-to-2023-12-25 · 63.918% of world
+</title>
+ </rect>
+ <rect x="671.000000" y="263.985614" width="8.000000" height="8.000000" style="fill:rgb(155,67,24); fill-opacity:1; stroke:rgb(155,67,24); stroke-opacity:1; stroke-width:2">
+<title>
+No More Bets · Asia-28 uploaders · week 15 · 2023-12-26-to-2024-01-01 · 74.820% of world
+</title>
+ </rect>
+ </g> <text x="25.00000" y="943.00000" font-family="DejaVu Sans,sans-serif" font-size="15" text-anchor="start" fill="#26313a">Izzi native weekly line graphs · missing intervals are unplotted · exact values in the accompanying ledger</text><desc>Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes.</desc></svg>
