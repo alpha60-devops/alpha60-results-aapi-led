@@ -24,6 +24,10 @@ double ceiling(double value) {
   const double base=std::pow(10.,std::floor(std::log10(value)));
   return std::ceil(value/base*2)/2*base;
 }
+// Generator convention: follow the animation Amazon Prime Video subpage.
+// https://alpha60-devops.github.io/alpha60-results-animation/docs/amazon_prime_video.html
+// Use native Izzi plates and put media-object names ON their lines (12pt
+// Atkinson Hyperlegible, right aligned); never add a separate series legend.
 // Standard 1920 x 1080 Izzi plates, matching Alpha60 meta-collection graphs.
 // The library authors axes, bilateral ticks, grid and titles. Only original
 // measurement units are exposed; normalizing draw coordinates avoids the
@@ -35,7 +39,7 @@ void render_standard(const rapidjson::Document& doc, const char* destination) {
   add_atkinson_hyperlegible_font(out);
   out.add_raw("<rect width=\"100%\" height=\"100%\" fill=\"white\"/>");
   const marker_shape forms[]={marker_shape::circle,marker_shape::square,
-    marker_shape::triangle,marker_shape::hexagon,marker_shape::x,marker_shape::octahedron};
+    marker_shape::triangle,marker_shape::hexagon,marker_shape::x,marker_shape::octahedron,marker_shape::sunburst};
   auto label=[&](const string& value,point_2t position,int size) {
     typography typo=k::hyperl_typo;typo._M_size=size;
     styled_text(out,value,position,typo);
@@ -49,13 +53,23 @@ void render_standard(const rapidjson::Document& doc, const char* destination) {
     for(double multiplier: {1.,2.,5.,10.}) if(target<=base10*multiplier) {
       maximum=base10*multiplier;break;
     }
-    const double unit=maximum>=1000000?1000000:1000;
+    if(panel.HasMember("y_max"))maximum=panel["y_max"].GetDouble();
+    const bool percent=panel["unit"]=="percent";
+    const double unit=percent?1:(maximum>=1000000?1000000:(maximum>=1000?1000:1));
+    const string unit_label=percent?"%":(unit==1000000?"M":(unit==1000?"k":""));
     const point_2t xrange{doc["xmin"].GetDouble(),doc["xmax"].GetDouble()};
     const point_2t draw_yrange{0,100000000};
     const style base={color::black,0,color::black,1,2};
-    graph_rstate annotations{select::title|select::ticks|select::axis|select::vector|select::linex|select::alt,
-      panel["title"].GetString(),plate,chart_line_style_1,
-      "Elapsed sampling week","2026 adjusted weight","",unit==1000000?"M":"k",
+    auto visibility=select::title|select::ticks|select::axis|select::vector|select::linex;
+    // This Izzi revision's micro grid labels cast to integers. Enable them
+    // only when that preserves the tick values (e.g. not half-percent ticks).
+    if(std::fmod(maximum/unit,10.)==0)visibility=visibility|select::alt;
+    string panel_title=panel["title"].GetString();
+    if(string(doc["title"].GetString()).rfind("Weekly country ",0)==0)
+      panel_title+=" · "+string(doc["title"].GetString());
+    graph_rstate annotations{visibility,
+      panel_title,plate,chart_line_style_1,
+      doc["xlabel"].GetString(),panel["ylabel"].GetString(),"",unit_label,
       base,{"",marker_shape::none,0,"","","round",""},{0,0},"",""};
     vrange ticks;
     for(const auto& tick:doc["ticks"].GetArray())ticks.push_back({tick[0].GetDouble(),0});
@@ -87,7 +101,7 @@ void render_standard(const rapidjson::Document& doc, const char* destination) {
       const auto positions=transform_to_graph_points(points,state,xrange,draw_yrange);
       style marker=stroke;marker._M_fill_opacity=1;
       for(std::size_t n=0;n<points.size();++n)
-        out.add_raw(make_marker_instance(forms[j%6],positions[n],marker,6,series["points"][n]["tooltip"].GetString()));
+        out.add_raw(make_marker_instance(forms[j%7],positions[n],marker,6,series["points"][n]["tooltip"].GetString()));
       // Match graph_by in a60-meta-collection-graph-json.h: the media-object
       // name is right-aligned just above its line, using native 12pt type.
       // When ending values coincide, anchor at an earlier observed point on
@@ -105,6 +119,7 @@ void render_standard(const rapidjson::Document& doc, const char* destination) {
         const auto [x,y]=positions[candidate];
         const double baseline=y-graph_rstate::tticsz/2.;
         box={x-label_width,baseline-16,x,baseline+4};
+        if(box[0]<graph_rstate::xmargin || box[1]<graph_rstate::ymargin)continue;
         bool collision=false;
         for(const auto& used:label_boxes)
           if(box[0]<used[2]+5 && box[2]>used[0]-5 && box[1]<used[3]+5 && box[3]>used[1]-5)collision=true;
@@ -118,7 +133,9 @@ void render_standard(const rapidjson::Document& doc, const char* destination) {
       out.add_raw("</g>");
       out.add_raw("</g>");
     }
-    label("All six media objects · weekly geographic interval weights · provisional 2026 ITU reference",{960,1052},17);
+    const string count=panel["series"].Size()==6?"six":(panel["series"].Size()==7?"seven":std::to_string(panel["series"].Size()));
+    label("All "+count+" media objects · weekly geographic interval "+
+      (percent?"shares · percent of the worldwide role total":"weights · provisional 2026 ITU reference"),{960,1052},17);
     out.add_raw("</g>");
   }
 }

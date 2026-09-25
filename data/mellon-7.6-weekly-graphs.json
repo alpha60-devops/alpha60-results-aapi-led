@@ -3,7 +3,7 @@
     "library": "Izzi",
     "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
     "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
-    "renderer_sha256": "96ae062b41f032ab1399670d75a053a23cc8d324d9a4bd8fbb75279911007b8c",
+    "renderer_sha256": "f0c977a313a58f2b04099b0069fcf38ab1fe36af449684c6a3bfb58433aefcd1",
     "functions": [
       "svg::make_line_graph",
       "svg::make_line_graph_annotations",
@@ -14,10 +14,10 @@
   "charts": {
     "mellon-7.6-pair-original-weekly": {
       "title": "American Born Chinese versus No More Bets",
-      "subtitle": "Weekly geography · weeks 1–15 · Asia-28 includes Taiwan",
+      "subtitle": "Weekly geography · weeks 1–15 · Asia-28",
       "accessible_title": "American Born Chinese versus No More Bets weekly geography",
-      "description": "Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes.",
-      "columns": 2,
+      "description": "Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes. Media-object names appear directly on their lines; no separate legend.",
+      "columns": 1,
       "xmin": 1,
       "xmax": 15,
       "ticks": [
@@ -170,7 +170,9 @@
                   "y": 20.482858155669216,
                   "tooltip": "American Born Chinese · USA downloaders · week 15 · 2023-08-30-to-2023-09-05 · 20.483% of world"
                 }
-              ]
+              ],
+              "collection_key": "american-born-chinese-01",
+              "line_label": "american-born-chinese-01"
             },
             {
               "name": "No More Bets",
@@ -252,7 +254,9 @@
                   "y": 3.8904289808767563,
                   "tooltip": "No More Bets · USA downloaders · week 15 · 2023-12-26-to-2024-01-01 · 3.890% of world"
                 }
-              ]
+              ],
+              "collection_key": "no-more-bets",
+              "line_label": "no-more-bets"
             }
           ]
         },
@@ -342,7 +346,9 @@
                   "y": 13.213399503722083,
                   "tooltip": "American Born Chinese · Asia-28 downloaders · week 15 · 2023-08-30-to-2023-09-05 · 13.213% of world"
                 }
-              ]
+              ],
+              "collection_key": "american-born-chinese-01",
+              "line_label": "american-born-chinese-01"
             },
             {
               "name": "No More Bets",
@@ -424,7 +430,9 @@
                   "y": 12.305596015599304,
                   "tooltip": "No More Bets · Asia-28 downloaders · week 15 · 2023-12-26-to-2024-01-01 · 12.306% of world"
                 }
-              ]
+              ],
+              "collection_key": "no-more-bets",
+              "line_label": "no-more-bets"
             }
           ]
         },
@@ -514,7 +522,9 @@
                   "y": 47.11820390382843,
                   "tooltip": "American Born Chinese · USA uploaders · week 15 · 2023-08-30-to-2023-09-05 · 47.118% of world"
                 }
-              ]
+              ],
+              "collection_key": "american-born-chinese-01",
+              "line_label": "american-born-chinese-01"
             },
             {
               "name": "No More Bets",
@@ -596,7 +606,9 @@
                   "y": 5.755395683453237,
                   "tooltip": "No More Bets · USA uploaders · week 15 · 2023-12-26-to-2024-01-01 · 5.755% of world"
                 }
-              ]
+              ],
+              "collection_key": "no-more-bets",
+              "line_label": "no-more-bets"
             }
           ]
         },
@@ -686,7 +698,9 @@
                   "y": 8.720784116612213,
                   "tooltip": "American Born Chinese · Asia-28 uploaders · week 15 · 2023-08-30-to-2023-09-05 · 8.721% of world"
                 }
-              ]
+              ],
+              "collection_key": "american-born-chinese-01",
+              "line_label": "american-born-chinese-01"
             },
             {
               "name": "No More Bets",
@@ -768,18 +782,21 @@
                   "y": 74.82014388489209,
                   "tooltip": "No More Bets · Asia-28 uploaders · week 15 · 2023-12-26-to-2024-01-01 · 74.820% of world"
                 }
-              ]
+              ],
+              "collection_key": "no-more-bets",
+              "line_label": "no-more-bets"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     },
     "mellon-7.6-pair-action-films-weekly": {
       "title": "Shang-Chi versus Vanguard",
-      "subtitle": "Weekly geography · weeks 1–15 · Asia-28 includes Taiwan",
+      "subtitle": "Weekly geography · weeks 1–15 · Asia-28",
       "accessible_title": "Shang-Chi versus Vanguard weekly geography",
-      "description": "Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes.",
-      "columns": 2,
+      "description": "Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes. Media-object names appear directly on their lines; no separate legend.",
+      "columns": 1,
       "xmin": 1,
       "xmax": 15,
       "ticks": [
@@ -932,7 +949,9 @@
                   "y": 7.018137455448793,
                   "tooltip": "Shang-Chi · USA downloaders · week 15 · 2022-02-16-to-2022-02-22 · 7.018% of world"
                 }
-              ]
+              ],
+              "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+              "line_label": "Shang-Chi"
             },
             {
               "name": "Vanguard",
@@ -1014,7 +1033,9 @@
                   "y": 23.306057783948418,
                   "tooltip": "Vanguard · USA downloaders · week 15 · 2021-01-08-to-2021-01-14 · 23.306% of world"
                 }
-              ]
+              ],
+              "collection_key": "vanguard",
+              "line_label": "vanguard"
             }
           ]
         },
@@ -1104,7 +1125,9 @@
                   "y": 30.60265298525341,
                   "tooltip": "Shang-Chi · Asia-28 downloaders · week 15 · 2022-02-16-to-2022-02-22 · 30.603% of world"
                 }
-              ]
+              ],
+              "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+              "line_label": "Shang-Chi"
             },
             {
               "name": "Vanguard",
@@ -1186,7 +1209,9 @@
                   "y": 25.704886122119625,
                   "tooltip": "Vanguard · Asia-28 downloaders · week 15 · 2021-01-08-to-2021-01-14 · 25.705% of world"
                 }
-              ]
+              ],
+              "collection_key": "vanguard",
+              "line_label": "vanguard"
             }
           ]
         },
@@ -1276,7 +1301,9 @@
                   "y": 7.444304149635115,
                   "tooltip": "Shang-Chi · USA uploaders · week 15 · 2022-02-16-to-2022-02-22 · 7.444% of world"
                 }
-              ]
+              ],
+              "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+              "line_label": "Shang-Chi"
             },
             {
               "name": "Vanguard",
@@ -1358,7 +1385,9 @@
                   "y": 4.012059369202226,
                   "tooltip": "Vanguard · USA uploaders · week 15 · 2021-01-08-to-2021-01-14 · 4.012% of world"
                 }
-              ]
+              ],
+              "collection_key": "vanguard",
+              "line_label": "vanguard"
             }
           ]
         },
@@ -1448,7 +1477,9 @@
                   "y": 28.692547492170835,
                   "tooltip": "Shang-Chi · Asia-28 uploaders · week 15 · 2022-02-16-to-2022-02-22 · 28.693% of world"
                 }
-              ]
+              ],
+              "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+              "line_label": "Shang-Chi"
             },
             {
               "name": "Vanguard",
@@ -1530,18 +1561,21 @@
                   "y": 21.79660401710091,
                   "tooltip": "Vanguard · Asia-28 uploaders · week 15 · 2021-01-08-to-2021-01-14 · 21.797% of world"
                 }
-              ]
+              ],
+              "collection_key": "vanguard",
+              "line_label": "vanguard"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     },
     "mellon-7.6-pair-beef-lazarus-weekly": {
       "title": "Beef S02 versus Lazarus 101",
-      "subtitle": "Weekly geography · weeks 1–15 · Asia-28 includes Taiwan",
+      "subtitle": "Weekly geography · weeks 1–15 · Asia-28",
       "accessible_title": "Beef S02 versus Lazarus 101 weekly geography",
-      "description": "Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes.",
-      "columns": 2,
+      "description": "Izzi native lines. USA and Asia-28, downloaders and uploaders; identical 0–100 percent axes. Media-object names appear directly on their lines; no separate legend.",
+      "columns": 1,
       "xmin": 1,
       "xmax": 15,
       "ticks": [
@@ -1694,7 +1728,9 @@
                   "y": 6.252490646474318,
                   "tooltip": "Beef S02 · USA downloaders · week 15 · 2026-07-24-to-2026-07-30 · 6.252% of world"
                 }
-              ]
+              ],
+              "collection_key": "beef-02",
+              "line_label": "beef-02"
             },
             {
               "name": "Lazarus 101",
@@ -1776,7 +1812,9 @@
                   "y": 7.354523740780598,
                   "tooltip": "Lazarus 101 · USA downloaders · week 15 · 2025-07-14-to-2025-07-20 · 7.355% of world"
                 }
-              ]
+              ],
+              "collection_key": "lazarus-101",
+              "line_label": "lazarus-101"
             }
           ]
         },
@@ -1866,7 +1904,9 @@
                   "y": 26.537332988905778,
                   "tooltip": "Beef S02 · Asia-28 downloaders · week 15 · 2026-07-24-to-2026-07-30 · 26.537% of world"
                 }
-              ]
+              ],
+              "collection_key": "beef-02",
+              "line_label": "beef-02"
             },
             {
               "name": "Lazarus 101",
@@ -1948,7 +1988,9 @@
                   "y": 28.15680605386372,
                   "tooltip": "Lazarus 101 · Asia-28 downloaders · week 15 · 2025-07-14-to-2025-07-20 · 28.157% of world"
                 }
-              ]
+              ],
+              "collection_key": "lazarus-101",
+              "line_label": "lazarus-101"
             }
           ]
         },
@@ -2038,7 +2080,9 @@
                   "y": 21.090112298000548,
                   "tooltip": "Beef S02 · USA uploaders · week 15 · 2026-07-24-to-2026-07-30 · 21.090% of world"
                 }
-              ]
+              ],
+              "collection_key": "beef-02",
+              "line_label": "beef-02"
             },
             {
               "name": "Lazarus 101",
@@ -2120,7 +2164,9 @@
                   "y": 19.670732319429806,
                   "tooltip": "Lazarus 101 · USA uploaders · week 15 · 2025-07-14-to-2025-07-20 · 19.671% of world"
                 }
-              ]
+              ],
+              "collection_key": "lazarus-101",
+              "line_label": "lazarus-101"
             }
           ]
         },
@@ -2210,7 +2256,9 @@
                   "y": 11.883241382008842,
                   "tooltip": "Beef S02 · Asia-28 uploaders · week 15 · 2026-07-24-to-2026-07-30 · 11.883% of world"
                 }
-              ]
+              ],
+              "collection_key": "beef-02",
+              "line_label": "beef-02"
             },
             {
               "name": "Lazarus 101",
@@ -2292,17 +2340,20 @@
                   "y": 23.604209540062573,
                   "tooltip": "Lazarus 101 · Asia-28 uploaders · week 15 · 2025-07-14-to-2025-07-20 · 23.604% of world"
                 }
-              ]
+              ],
+              "collection_key": "lazarus-101",
+              "line_label": "lazarus-101"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     },
     "mellon-7.6-pitt-bear-compare-world-weekly-itu-2026": {
       "title": "Worldwide weekly circulation",
       "subtitle": "Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–10",
       "accessible_title": "Weekly worldwide weights at the 2026 Internet-user scale",
-      "description": "Standard Izzi C++ weekly graphs with media-object names directly on the lines. All six Pitt/Bear objects; separate downloader and uploader scales.",
+      "description": "Standard Izzi C++ weekly graphs with media-object names directly on the lines. All six Pitt/Bear objects; separate downloader and uploader scales. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
       "xmax": 10,
@@ -2411,7 +2462,8 @@
                   "tooltip": "The Pitt 201–203 · worldwide downloaders · week 10 · 2026-03-13-to-2026-03-19 · 3,087,203.00 adjusted weight"
                 }
               ],
-              "line_label": "pitt-201"
+              "line_label": "pitt-201",
+              "collection_key": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -2469,7 +2521,8 @@
                   "tooltip": "The Pitt 213–215 · worldwide downloaders · week 10 · 2026-06-05-to-2026-06-11 · 2,901,241.00 adjusted weight"
                 }
               ],
-              "line_label": "pitt-213"
+              "line_label": "pitt-213",
+              "collection_key": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -2527,7 +2580,8 @@
                   "tooltip": "The Bear S05 · worldwide downloaders · week 10 · 2026-08-28-to-2026-09-03 · 3,263,467.00 adjusted weight"
                 }
               ],
-              "line_label": "bear-05"
+              "line_label": "bear-05",
+              "collection_key": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -2585,7 +2639,8 @@
                   "tooltip": "The Bear S02 · worldwide downloaders · week 10 · 2023-08-24-to-2023-08-30 · 807,586.91 adjusted weight"
                 }
               ],
-              "line_label": "bear-02"
+              "line_label": "bear-02",
+              "collection_key": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -2643,7 +2698,8 @@
                   "tooltip": "The Bear S03 · worldwide downloaders · week 10 · 2024-08-29-to-2024-09-04 · 2,146,950.45 adjusted weight"
                 }
               ],
-              "line_label": "bear-03"
+              "line_label": "bear-03",
+              "collection_key": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -2701,7 +2757,8 @@
                   "tooltip": "The Bear S04 · worldwide downloaders · week 10 · 2025-08-28-to-2025-09-03 · 2,921,030.75 adjusted weight"
                 }
               ],
-              "line_label": "bear-04"
+              "line_label": "bear-04",
+              "collection_key": "bear-04"
             }
           ]
         },
@@ -2766,7 +2823,8 @@
                   "tooltip": "The Pitt 201–203 · worldwide uploaders · week 10 · 2026-03-13-to-2026-03-19 · 134,538.00 adjusted weight"
                 }
               ],
-              "line_label": "pitt-201"
+              "line_label": "pitt-201",
+              "collection_key": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -2824,7 +2882,8 @@
                   "tooltip": "The Pitt 213–215 · worldwide uploaders · week 10 · 2026-06-05-to-2026-06-11 · 158,792.00 adjusted weight"
                 }
               ],
-              "line_label": "pitt-213"
+              "line_label": "pitt-213",
+              "collection_key": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -2882,7 +2941,8 @@
                   "tooltip": "The Bear S05 · worldwide uploaders · week 10 · 2026-08-28-to-2026-09-03 · 126,993.00 adjusted weight"
                 }
               ],
-              "line_label": "bear-05"
+              "line_label": "bear-05",
+              "collection_key": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -2940,7 +3000,8 @@
                   "tooltip": "The Bear S02 · worldwide uploaders · week 10 · 2023-08-24-to-2023-08-30 · 203,221.50 adjusted weight"
                 }
               ],
-              "line_label": "bear-02"
+              "line_label": "bear-02",
+              "collection_key": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -2998,7 +3059,8 @@
                   "tooltip": "The Bear S03 · worldwide uploaders · week 10 · 2024-08-29-to-2024-09-04 · 220,020.35 adjusted weight"
                 }
               ],
-              "line_label": "bear-03"
+              "line_label": "bear-03",
+              "collection_key": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -3056,7 +3118,8 @@
                   "tooltip": "The Bear S04 · worldwide uploaders · week 10 · 2025-08-28-to-2025-09-03 · 266,190.78 adjusted weight"
                 }
               ],
-              "line_label": "bear-04"
+              "line_label": "bear-04",
+              "collection_key": "bear-04"
             }
           ]
         }
@@ -3067,7 +3130,7 @@
       "title": "Weekly country downloaders",
       "subtitle": "Country share of worldwide interval weight · weeks 1–10",
       "accessible_title": "Weekly country shares",
-      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted.",
+      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
       "xmax": 10,
@@ -3119,7 +3182,7 @@
           "title": "India",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 6.507096202045996,
+          "y_max": 10,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -3176,7 +3239,9 @@
                   "y": 0.6302144692137187,
                   "tooltip": "The Pitt 201–203 · India downloaders · week 10 · 2026-03-13-to-2026-03-19 · 0.630% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -3233,7 +3298,9 @@
                   "y": 0.2749513053207231,
                   "tooltip": "The Pitt 213–215 · India downloaders · week 10 · 2026-06-05-to-2026-06-11 · 0.275% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -3290,7 +3357,9 @@
                   "y": 0.31487985017161196,
                   "tooltip": "The Bear S05 · India downloaders · week 10 · 2026-08-28-to-2026-09-03 · 0.315% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -3347,7 +3416,9 @@
                   "y": 0.7793955348413024,
                   "tooltip": "The Bear S02 · India downloaders · week 10 · 2023-08-24-to-2023-08-30 · 0.779% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -3404,7 +3475,9 @@
                   "y": 1.05027702083145,
                   "tooltip": "The Bear S03 · India downloaders · week 10 · 2024-08-29-to-2024-09-04 · 1.050% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -3461,7 +3534,9 @@
                   "y": 0.5158806812743527,
                   "tooltip": "The Bear S04 · India downloaders · week 10 · 2025-08-28-to-2025-09-03 · 0.516% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         },
@@ -3469,7 +3544,7 @@
           "title": "Philippines",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 6.507096202045996,
+          "y_max": 10,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -3526,7 +3601,9 @@
                   "y": 0.22900988370379272,
                   "tooltip": "The Pitt 201–203 · Philippines downloaders · week 10 · 2026-03-13-to-2026-03-19 · 0.229% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -3583,7 +3660,9 @@
                   "y": 0.1388371390036195,
                   "tooltip": "The Pitt 213–215 · Philippines downloaders · week 10 · 2026-06-05-to-2026-06-11 · 0.139% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -3640,7 +3719,9 @@
                   "y": 0.1559690966692784,
                   "tooltip": "The Bear S05 · Philippines downloaders · week 10 · 2026-08-28-to-2026-09-03 · 0.156% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -3697,7 +3778,9 @@
                   "y": 0.56104728827144,
                   "tooltip": "The Bear S02 · Philippines downloaders · week 10 · 2023-08-24-to-2023-08-30 · 0.561% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -3754,7 +3837,9 @@
                   "y": 0.20606733737133706,
                   "tooltip": "The Bear S03 · Philippines downloaders · week 10 · 2024-08-29-to-2024-09-04 · 0.206% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -3811,7 +3896,9 @@
                   "y": 0.162191605366245,
                   "tooltip": "The Bear S04 · Philippines downloaders · week 10 · 2025-08-28-to-2025-09-03 · 0.162% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         },
@@ -3819,7 +3906,7 @@
           "title": "Australia",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 6.507096202045996,
+          "y_max": 10,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -3876,7 +3963,9 @@
                   "y": 1.2872817239423517,
                   "tooltip": "The Pitt 201–203 · Australia downloaders · week 10 · 2026-03-13-to-2026-03-19 · 1.287% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -3933,7 +4022,9 @@
                   "y": 1.0329717524328381,
                   "tooltip": "The Pitt 213–215 · Australia downloaders · week 10 · 2026-06-05-to-2026-06-11 · 1.033% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -3990,7 +4081,9 @@
                   "y": 0.9917979866197513,
                   "tooltip": "The Bear S05 · Australia downloaders · week 10 · 2026-08-28-to-2026-09-03 · 0.992% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -4047,7 +4140,9 @@
                   "y": 3.2479476523716873,
                   "tooltip": "The Bear S02 · Australia downloaders · week 10 · 2023-08-24-to-2023-08-30 · 3.248% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -4104,7 +4199,9 @@
                   "y": 1.3324379124640002,
                   "tooltip": "The Bear S03 · Australia downloaders · week 10 · 2024-08-29-to-2024-09-04 · 1.332% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -4161,17 +4258,20 @@
                   "y": 1.0245567139841532,
                   "tooltip": "The Bear S04 · Australia downloaders · week 10 · 2025-08-28-to-2025-09-03 · 1.025% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     },
     "mellon-7.6-pitt-bear-compare-weekly-itu-2026": {
       "title": "Weekly country downloaders",
       "subtitle": "Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–10",
       "accessible_title": "Weekly adjusted country downloaders weights",
-      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted.",
+      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
       "xmax": 10,
@@ -4223,7 +4323,7 @@
           "title": "India",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 151744.41333333333,
+          "y_max": 200000,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -4280,7 +4380,9 @@
                   "y": 19456.0,
                   "tooltip": "The Pitt 201–203 · India downloaders · week 10 · 2026-03-13-to-2026-03-19 · 19,456.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -4337,7 +4439,9 @@
                   "y": 7977.0,
                   "tooltip": "The Pitt 213–215 · India downloaders · week 10 · 2026-06-05-to-2026-06-11 · 7,977.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -4394,7 +4498,9 @@
                   "y": 10276.0,
                   "tooltip": "The Bear S05 · India downloaders · week 10 · 2026-08-28-to-2026-09-03 · 10,276.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -4451,7 +4557,9 @@
                   "y": 6294.296296296296,
                   "tooltip": "The Bear S02 · India downloaders · week 10 · 2023-08-24-to-2023-08-30 · 6,294.296 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -4508,7 +4616,9 @@
                   "y": 22548.927272727273,
                   "tooltip": "The Bear S03 · India downloaders · week 10 · 2024-08-29-to-2024-09-04 · 22,548.927 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -4565,7 +4675,9 @@
                   "y": 15069.033333333333,
                   "tooltip": "The Bear S04 · India downloaders · week 10 · 2025-08-28-to-2025-09-03 · 15,069.033 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         },
@@ -4573,7 +4685,7 @@
           "title": "Philippines",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 151744.41333333333,
+          "y_max": 200000,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -4630,7 +4742,9 @@
                   "y": 7070.0,
                   "tooltip": "The Pitt 201–203 · Philippines downloaders · week 10 · 2026-03-13-to-2026-03-19 · 7,070.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -4687,7 +4801,9 @@
                   "y": 4028.0,
                   "tooltip": "The Pitt 213–215 · Philippines downloaders · week 10 · 2026-06-05-to-2026-06-11 · 4,028.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -4744,7 +4860,9 @@
                   "y": 5090.0,
                   "tooltip": "The Bear S05 · Philippines downloaders · week 10 · 2026-08-28-to-2026-09-03 · 5,090.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -4801,7 +4919,9 @@
                   "y": 4530.944444444444,
                   "tooltip": "The Bear S02 · Philippines downloaders · week 10 · 2023-08-24-to-2023-08-30 · 4,530.944 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -4858,7 +4978,9 @@
                   "y": 4424.163636363636,
                   "tooltip": "The Bear S03 · Philippines downloaders · week 10 · 2024-08-29-to-2024-09-04 · 4,424.164 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -4915,7 +5037,9 @@
                   "y": 4737.666666666666,
                   "tooltip": "The Bear S04 · Philippines downloaders · week 10 · 2025-08-28-to-2025-09-03 · 4,737.667 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         },
@@ -4923,7 +5047,7 @@
           "title": "Australia",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 151744.41333333333,
+          "y_max": 200000,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -4980,7 +5104,9 @@
                   "y": 39741.0,
                   "tooltip": "The Pitt 201–203 · Australia downloaders · week 10 · 2026-03-13-to-2026-03-19 · 39,741.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -5037,7 +5163,9 @@
                   "y": 29969.0,
                   "tooltip": "The Pitt 213–215 · Australia downloaders · week 10 · 2026-06-05-to-2026-06-11 · 29,969.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -5094,7 +5222,9 @@
                   "y": 32367.0,
                   "tooltip": "The Bear S05 · Australia downloaders · week 10 · 2026-08-28-to-2026-09-03 · 32,367.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -5151,7 +5281,9 @@
                   "y": 26229.999999999996,
                   "tooltip": "The Bear S02 · Australia downloaders · week 10 · 2023-08-24-to-2023-08-30 · 26,230.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -5208,7 +5340,9 @@
                   "y": 28606.78181818182,
                   "tooltip": "The Bear S03 · Australia downloaders · week 10 · 2024-08-29-to-2024-09-04 · 28,606.782 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -5265,17 +5399,20 @@
                   "y": 29927.616666666665,
                   "tooltip": "The Bear S04 · Australia downloaders · week 10 · 2025-08-28-to-2025-09-03 · 29,927.617 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     },
     "mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders": {
       "title": "Weekly country uploaders",
       "subtitle": "Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–10",
       "accessible_title": "Weekly adjusted country uploaders weights",
-      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted.",
+      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
       "xmax": 10,
@@ -5327,7 +5464,7 @@
           "title": "India",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 65222.82666666667,
+          "y_max": 100000,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -5384,7 +5521,9 @@
                   "y": 1571.0,
                   "tooltip": "The Pitt 201–203 · India uploaders · week 10 · 2026-03-13-to-2026-03-19 · 1,571.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -5441,7 +5580,9 @@
                   "y": 926.0,
                   "tooltip": "The Pitt 213–215 · India uploaders · week 10 · 2026-06-05-to-2026-06-11 · 926.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -5498,7 +5639,9 @@
                   "y": 573.0,
                   "tooltip": "The Bear S05 · India uploaders · week 10 · 2026-08-28-to-2026-09-03 · 573.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -5555,7 +5698,9 @@
                   "y": 2423.055555555555,
                   "tooltip": "The Bear S02 · India uploaders · week 10 · 2023-08-24-to-2023-08-30 · 2,423.056 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -5612,7 +5757,9 @@
                   "y": 2843.709090909091,
                   "tooltip": "The Bear S03 · India uploaders · week 10 · 2024-08-29-to-2024-09-04 · 2,843.709 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -5669,7 +5816,9 @@
                   "y": 1609.3833333333332,
                   "tooltip": "The Bear S04 · India uploaders · week 10 · 2025-08-28-to-2025-09-03 · 1,609.383 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         },
@@ -5677,7 +5826,7 @@
           "title": "Philippines",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 65222.82666666667,
+          "y_max": 100000,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -5734,7 +5883,9 @@
                   "y": 1909.0,
                   "tooltip": "The Pitt 201–203 · Philippines uploaders · week 10 · 2026-03-13-to-2026-03-19 · 1,909.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -5791,7 +5942,9 @@
                   "y": 888.0,
                   "tooltip": "The Pitt 213–215 · Philippines uploaders · week 10 · 2026-06-05-to-2026-06-11 · 888.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -5848,7 +6001,9 @@
                   "y": 441.0,
                   "tooltip": "The Bear S05 · Philippines uploaders · week 10 · 2026-08-28-to-2026-09-03 · 441.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -5905,7 +6060,9 @@
                   "y": 1955.3888888888887,
                   "tooltip": "The Bear S02 · Philippines uploaders · week 10 · 2023-08-24-to-2023-08-30 · 1,955.389 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -5962,7 +6119,9 @@
                   "y": 1435.1636363636364,
                   "tooltip": "The Bear S03 · Philippines uploaders · week 10 · 2024-08-29-to-2024-09-04 · 1,435.164 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -6019,7 +6178,9 @@
                   "y": 932.2833333333333,
                   "tooltip": "The Bear S04 · Philippines uploaders · week 10 · 2025-08-28-to-2025-09-03 · 932.283 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         },
@@ -6027,7 +6188,7 @@
           "title": "Australia",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 65222.82666666667,
+          "y_max": 100000,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -6084,7 +6245,9 @@
                   "y": 7979.0,
                   "tooltip": "The Pitt 201–203 · Australia uploaders · week 10 · 2026-03-13-to-2026-03-19 · 7,979.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -6141,7 +6304,9 @@
                   "y": 6959.0,
                   "tooltip": "The Pitt 213–215 · Australia uploaders · week 10 · 2026-06-05-to-2026-06-11 · 6,959.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -6198,7 +6363,9 @@
                   "y": 4440.0,
                   "tooltip": "The Bear S05 · Australia uploaders · week 10 · 2026-08-28-to-2026-09-03 · 4,440.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -6255,7 +6422,9 @@
                   "y": 8711.703703703703,
                   "tooltip": "The Bear S02 · Australia uploaders · week 10 · 2023-08-24-to-2023-08-30 · 8,711.704 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -6312,7 +6481,9 @@
                   "y": 6708.890909090909,
                   "tooltip": "The Bear S03 · Australia uploaders · week 10 · 2024-08-29-to-2024-09-04 · 6,708.891 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -6369,17 +6540,20 @@
                   "y": 7906.616666666666,
                   "tooltip": "The Bear S04 · Australia uploaders · week 10 · 2025-08-28-to-2025-09-03 · 7,906.617 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     },
     "mellon-7.6-pitt-bear-extended-shares": {
       "title": "Weekly country downloaders",
       "subtitle": "Country share of worldwide interval weight · weeks 1–26",
       "accessible_title": "Weekly country shares",
-      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted.",
+      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
       "xmax": 26,
@@ -6415,7 +6589,7 @@
           "title": "India",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 6.507096202045996,
+          "y_max": 10,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -6552,7 +6726,9 @@
                   "y": 0.30132934159944963,
                   "tooltip": "The Pitt 201–203 · India downloaders · week 26 · 2026-07-03-to-2026-07-09-partial · 0.301% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -6674,7 +6850,9 @@
                   "y": 0.40559583920504216,
                   "tooltip": "The Pitt 213–215 · India downloaders · week 23 · 2026-09-04-to-2026-09-10 · 0.406% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -6736,7 +6914,9 @@
                   "y": 0.44279329915279797,
                   "tooltip": "The Bear S05 · India downloaders · week 11 · 2026-09-04-to-2026-09-10 · 0.443% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -6873,7 +7053,9 @@
                   "y": 0.34072883150298044,
                   "tooltip": "The Bear S02 · India downloaders · week 26 · 2023-12-14-to-2023-12-20 · 0.341% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -7010,7 +7192,9 @@
                   "y": 0.5776413722834528,
                   "tooltip": "The Bear S03 · India downloaders · week 26 · 2024-12-19-to-2024-12-25 · 0.578% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -7147,7 +7331,9 @@
                   "y": 0.7274926580772214,
                   "tooltip": "The Bear S04 · India downloaders · week 26 · 2025-12-18-to-2025-12-24 · 0.727% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         },
@@ -7155,7 +7341,7 @@
           "title": "Philippines",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 6.507096202045996,
+          "y_max": 10,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -7292,7 +7478,9 @@
                   "y": 0.1321463177310794,
                   "tooltip": "The Pitt 201–203 · Philippines downloaders · week 26 · 2026-07-03-to-2026-07-09-partial · 0.132% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -7414,7 +7602,9 @@
                   "y": 0.18521404409969308,
                   "tooltip": "The Pitt 213–215 · Philippines downloaders · week 23 · 2026-09-04-to-2026-09-10 · 0.185% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -7476,7 +7666,9 @@
                   "y": 0.18085785571322818,
                   "tooltip": "The Bear S05 · Philippines downloaders · week 11 · 2026-09-04-to-2026-09-10 · 0.181% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -7613,7 +7805,9 @@
                   "y": 0.19740253985267164,
                   "tooltip": "The Bear S02 · Philippines downloaders · week 26 · 2023-12-14-to-2023-12-20 · 0.197% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -7750,7 +7944,9 @@
                   "y": 0.12609500615067284,
                   "tooltip": "The Bear S03 · Philippines downloaders · week 26 · 2024-12-19-to-2024-12-25 · 0.126% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -7887,7 +8083,9 @@
                   "y": 0.15184780430717942,
                   "tooltip": "The Bear S04 · Philippines downloaders · week 26 · 2025-12-18-to-2025-12-24 · 0.152% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         },
@@ -7895,7 +8093,7 @@
           "title": "Australia",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 6.507096202045996,
+          "y_max": 10,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -8032,7 +8230,9 @@
                   "y": 0.9454106566624242,
                   "tooltip": "The Pitt 201–203 · Australia downloaders · week 26 · 2026-07-03-to-2026-07-09-partial · 0.945% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -8154,7 +8354,9 @@
                   "y": 1.1484520772723825,
                   "tooltip": "The Pitt 213–215 · Australia downloaders · week 23 · 2026-09-04-to-2026-09-10 · 1.148% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -8216,7 +8418,9 @@
                   "y": 1.1372731035221095,
                   "tooltip": "The Bear S05 · Australia downloaders · week 11 · 2026-09-04-to-2026-09-10 · 1.137% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -8353,7 +8557,9 @@
                   "y": 0.9142417173674768,
                   "tooltip": "The Bear S02 · Australia downloaders · week 26 · 2023-12-14-to-2023-12-20 · 0.914% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -8490,7 +8696,9 @@
                   "y": 0.8204376296922179,
                   "tooltip": "The Bear S03 · Australia downloaders · week 26 · 2024-12-19-to-2024-12-25 · 0.820% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -8627,17 +8835,20 @@
                   "y": 0.9769766644252649,
                   "tooltip": "The Bear S04 · Australia downloaders · week 26 · 2025-12-18-to-2025-12-24 · 0.977% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     },
     "mellon-7.6-pitt-bear-extended-itu-2026": {
       "title": "Weekly country downloaders",
       "subtitle": "Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–26",
       "accessible_title": "Weekly adjusted country downloaders weights",
-      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted.",
+      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
       "xmax": 26,
@@ -8673,7 +8884,7 @@
           "title": "India",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 151744.41333333333,
+          "y_max": 200000,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -8810,7 +9021,9 @@
                   "y": 7420.0,
                   "tooltip": "The Pitt 201–203 · India downloaders · week 26 · 2026-07-03-to-2026-07-09-partial · 7,420.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -8932,7 +9145,9 @@
                   "y": 9734.0,
                   "tooltip": "The Pitt 213–215 · India downloaders · week 23 · 2026-09-04-to-2026-09-10 · 9,734.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -8994,7 +9209,9 @@
                   "y": 13566.0,
                   "tooltip": "The Bear S05 · India downloaders · week 11 · 2026-09-04-to-2026-09-10 · 13,566.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -9131,7 +9348,9 @@
                   "y": 5558.907407407407,
                   "tooltip": "The Bear S02 · India downloaders · week 26 · 2023-12-14-to-2023-12-20 · 5,558.907 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -9268,7 +9487,9 @@
                   "y": 12889.854545454546,
                   "tooltip": "The Bear S03 · India downloaders · week 26 · 2024-12-19-to-2024-12-25 · 12,889.855 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -9405,7 +9626,9 @@
                   "y": 24066.533333333333,
                   "tooltip": "The Bear S04 · India downloaders · week 26 · 2025-12-18-to-2025-12-24 · 24,066.533 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         },
@@ -9413,7 +9636,7 @@
           "title": "Philippines",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 151744.41333333333,
+          "y_max": 200000,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -9550,7 +9773,9 @@
                   "y": 3254.0,
                   "tooltip": "The Pitt 201–203 · Philippines downloaders · week 26 · 2026-07-03-to-2026-07-09-partial · 3,254.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -9672,7 +9897,9 @@
                   "y": 4445.0,
                   "tooltip": "The Pitt 213–215 · Philippines downloaders · week 23 · 2026-09-04-to-2026-09-10 · 4,445.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -9734,7 +9961,9 @@
                   "y": 5541.0,
                   "tooltip": "The Bear S05 · Philippines downloaders · week 11 · 2026-09-04-to-2026-09-10 · 5,541.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -9871,7 +10100,9 @@
                   "y": 3220.574074074074,
                   "tooltip": "The Bear S02 · Philippines downloaders · week 26 · 2023-12-14-to-2023-12-20 · 3,220.574 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -10008,7 +10239,9 @@
                   "y": 2813.7636363636366,
                   "tooltip": "The Bear S03 · Philippines downloaders · week 26 · 2024-12-19-to-2024-12-25 · 2,813.764 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -10145,7 +10378,9 @@
                   "y": 5023.349999999999,
                   "tooltip": "The Bear S04 · Philippines downloaders · week 26 · 2025-12-18-to-2025-12-24 · 5,023.350 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         },
@@ -10153,7 +10388,7 @@
           "title": "Australia",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 151744.41333333333,
+          "y_max": 200000,
           "series": [
             {
               "name": "The Pitt 201–203",
@@ -10290,7 +10525,9 @@
                   "y": 23280.0,
                   "tooltip": "The Pitt 201–203 · Australia downloaders · week 26 · 2026-07-03-to-2026-07-09-partial · 23,280.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-201",
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -10412,7 +10649,9 @@
                   "y": 27562.0,
                   "tooltip": "The Pitt 213–215 · Australia downloaders · week 23 · 2026-09-04-to-2026-09-10 · 27,562.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -10474,7 +10713,9 @@
                   "y": 34843.0,
                   "tooltip": "The Bear S05 · Australia downloaders · week 11 · 2026-09-04-to-2026-09-10 · 34,843.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -10611,7 +10852,9 @@
                   "y": 14915.629629629628,
                   "tooltip": "The Bear S02 · Australia downloaders · week 26 · 2023-12-14-to-2023-12-20 · 14,915.630 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-02",
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -10748,7 +10991,9 @@
                   "y": 18307.763636363637,
                   "tooltip": "The Bear S03 · Australia downloaders · week 26 · 2024-12-19-to-2024-12-25 · 18,307.764 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-03",
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -10885,16 +11130,19 @@
                   "y": 32319.833333333332,
                   "tooltip": "The Bear S04 · Australia downloaders · week 26 · 2025-12-18-to-2025-12-24 · 32,319.833 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "bear-04",
+              "line_label": "bear-04"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     },
     "mellon-7.6-pitt-bear-calendar": {
       "title": "Pitt 213–215 and Bear S05 in the same calendar weeks",
       "subtitle": "June 26–September 10, 2026 · matched calendar intervals · country downloader shares",
-      "description": "Izzi native lines. Existing calendar comparison; different elapsed sampling weeks.",
+      "description": "Izzi native lines. Existing calendar comparison; different elapsed sampling weeks. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
       "xmax": 11,
@@ -10926,7 +11174,7 @@
           "title": "India",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 2.9318454724684306,
+          "y_max": 5,
           "series": [
             {
               "name": "The Pitt 213–215",
@@ -10988,7 +11236,9 @@
                   "y": 0.40559583920504216,
                   "tooltip": "The Pitt 213–215 · India · 2026-09-04-to-2026-09-10 · 0.406% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -11050,7 +11300,9 @@
                   "y": 0.44279329915279797,
                   "tooltip": "The Bear S05 · India · 2026-09-04-to-2026-09-10 · 0.443% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             }
           ]
         },
@@ -11058,7 +11310,7 @@
           "title": "Philippines",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 2.9318454724684306,
+          "y_max": 5,
           "series": [
             {
               "name": "The Pitt 213–215",
@@ -11120,7 +11372,9 @@
                   "y": 0.18521404409969308,
                   "tooltip": "The Pitt 213–215 · Philippines · 2026-09-04-to-2026-09-10 · 0.185% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -11182,7 +11436,9 @@
                   "y": 0.18085785571322818,
                   "tooltip": "The Bear S05 · Philippines · 2026-09-04-to-2026-09-10 · 0.181% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             }
           ]
         },
@@ -11190,7 +11446,7 @@
           "title": "Australia",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 2.9318454724684306,
+          "y_max": 5,
           "series": [
             {
               "name": "The Pitt 213–215",
@@ -11252,7 +11508,9 @@
                   "y": 1.1484520772723825,
                   "tooltip": "The Pitt 213–215 · Australia · 2026-09-04-to-2026-09-10 · 1.148% of world"
                 }
-              ]
+              ],
+              "collection_key": "pitt-213",
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -11314,17 +11572,20 @@
                   "y": 1.1372731035221095,
                   "tooltip": "The Bear S05 · Australia · 2026-09-04-to-2026-09-10 · 1.137% of world"
                 }
-              ]
+              ],
+              "collection_key": "bear-05",
+              "line_label": "bear-05"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     },
     "mellon-7.6-godzilla-world-weekly-itu-2026": {
       "title": "Worldwide weekly circulation",
       "subtitle": "Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–15",
       "accessible_title": "Weekly worldwide weights at the 2026 Internet-user scale",
-      "description": "Izzi native weekly lines. Separate downloader and uploader scales. Not unique viewers.",
+      "description": "Izzi native weekly lines. Separate downloader and uploader scales. Not unique viewers. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
       "xmax": 15,
@@ -11477,7 +11738,9 @@
                   "y": 2844075.090909091,
                   "tooltip": "Godzilla Minus One · worldwide downloaders · week 15 · 2024-08-08-to-2024-08-14 · 2,844,075.09 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -11559,7 +11822,9 @@
                   "y": 3207622.890909091,
                   "tooltip": "Godzilla x Kong · worldwide downloaders · week 15 · 2024-08-20-to-2024-08-26 · 3,207,622.89 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -11641,7 +11906,9 @@
                   "y": 3446569.7142857136,
                   "tooltip": "Godzilla vs. Kong · worldwide downloaders · week 15 · 2021-07-07-to-2021-07-13 · 3,446,569.71 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -11723,7 +11990,9 @@
                   "y": 1013709.2962962962,
                   "tooltip": "Monarch 101 · worldwide downloaders · week 15 · 2024-02-23-to-2024-02-29 · 1,013,709.30 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -11805,7 +12074,9 @@
                   "y": 684542.0,
                   "tooltip": "Monarch 110 · worldwide downloaders · week 15 · 2024-04-19-to-2024-04-25 · 684,542.00 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -11887,7 +12158,9 @@
                   "y": 2322119.0,
                   "tooltip": "Monarch 201 · worldwide downloaders · week 15 · 2026-06-05-to-2026-06-11 · 2,322,119.00 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -11969,7 +12242,9 @@
                   "y": 3222549.0,
                   "tooltip": "Monarch 208 · worldwide downloaders · week 15 · 2026-07-24-to-2026-07-30 · 3,222,549.00 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         },
@@ -12058,7 +12333,9 @@
                   "y": 123892.1090909091,
                   "tooltip": "Godzilla Minus One · worldwide uploaders · week 15 · 2024-08-08-to-2024-08-14 · 123,892.11 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -12140,7 +12417,9 @@
                   "y": 252431.3090909091,
                   "tooltip": "Godzilla x Kong · worldwide uploaders · week 15 · 2024-08-20-to-2024-08-26 · 252,431.31 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -12222,7 +12501,9 @@
                   "y": 503882.4081632652,
                   "tooltip": "Godzilla vs. Kong · worldwide uploaders · week 15 · 2021-07-07-to-2021-07-13 · 503,882.41 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -12304,7 +12585,9 @@
                   "y": 57397.61111111111,
                   "tooltip": "Monarch 101 · worldwide uploaders · week 15 · 2024-02-23-to-2024-02-29 · 57,397.61 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -12386,7 +12669,9 @@
                   "y": 13362.327272727272,
                   "tooltip": "Monarch 110 · worldwide uploaders · week 15 · 2024-04-19-to-2024-04-25 · 13,362.33 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -12468,7 +12753,9 @@
                   "y": 74337.0,
                   "tooltip": "Monarch 201 · worldwide uploaders · week 15 · 2026-06-05-to-2026-06-11 · 74,337.00 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -12550,17 +12837,20 @@
                   "y": 54797.0,
                   "tooltip": "Monarch 208 · worldwide uploaders · week 15 · 2026-07-24-to-2026-07-30 · 54,797.00 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     },
     "mellon-7.6-godzilla-weekly": {
       "title": "Weekly country downloaders",
       "subtitle": "Country share of worldwide interval weight · weeks 1–15",
       "accessible_title": "Weekly country shares",
-      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted.",
+      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
       "xmax": 15,
@@ -12632,7 +12922,7 @@
           "title": "Japan",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 33.26055604437837,
+          "y_max": 50,
           "series": [
             {
               "name": "Godzilla Minus One",
@@ -12714,7 +13004,9 @@
                   "y": 1.5297953071562553,
                   "tooltip": "Godzilla Minus One · Japan downloaders · week 15 · 2024-08-08-to-2024-08-14 · 1.530% of world"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -12796,7 +13088,9 @@
                   "y": 0.9699116806742738,
                   "tooltip": "Godzilla x Kong · Japan downloaders · week 15 · 2024-08-20-to-2024-08-26 · 0.970% of world"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -12878,7 +13172,9 @@
                   "y": 3.618420577369575,
                   "tooltip": "Godzilla vs. Kong · Japan downloaders · week 15 · 2021-07-07-to-2021-07-13 · 3.618% of world"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -12960,7 +13256,9 @@
                   "y": 1.1499004883093265,
                   "tooltip": "Monarch 101 · Japan downloaders · week 15 · 2024-02-23-to-2024-02-29 · 1.150% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -13042,7 +13340,9 @@
                   "y": 0.9197841901459795,
                   "tooltip": "Monarch 110 · Japan downloaders · week 15 · 2024-04-19-to-2024-04-25 · 0.920% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -13124,7 +13424,9 @@
                   "y": 0.9577028567442065,
                   "tooltip": "Monarch 201 · Japan downloaders · week 15 · 2026-06-05-to-2026-06-11 · 0.958% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -13206,7 +13508,9 @@
                   "y": 1.08342805648572,
                   "tooltip": "Monarch 208 · Japan downloaders · week 15 · 2026-07-24-to-2026-07-30 · 1.083% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         },
@@ -13214,7 +13518,7 @@
           "title": "USA",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 33.26055604437837,
+          "y_max": 50,
           "series": [
             {
               "name": "Godzilla Minus One",
@@ -13296,7 +13600,9 @@
                   "y": 6.926604610171077,
                   "tooltip": "Godzilla Minus One · USA downloaders · week 15 · 2024-08-08-to-2024-08-14 · 6.927% of world"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -13378,7 +13684,9 @@
                   "y": 6.0831176033904555,
                   "tooltip": "Godzilla x Kong · USA downloaders · week 15 · 2024-08-20-to-2024-08-26 · 6.083% of world"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -13460,7 +13768,9 @@
                   "y": 29.696925039623544,
                   "tooltip": "Godzilla vs. Kong · USA downloaders · week 15 · 2021-07-07-to-2021-07-13 · 29.697% of world"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -13542,7 +13852,9 @@
                   "y": 7.7353902797247995,
                   "tooltip": "Monarch 101 · USA downloaders · week 15 · 2024-02-23-to-2024-02-29 · 7.735% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -13624,7 +13936,9 @@
                   "y": 7.141653570097698,
                   "tooltip": "Monarch 110 · USA downloaders · week 15 · 2024-04-19-to-2024-04-25 · 7.142% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -13706,7 +14020,9 @@
                   "y": 5.906803225846738,
                   "tooltip": "Monarch 201 · USA downloaders · week 15 · 2026-06-05-to-2026-06-11 · 5.907% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -13788,7 +14104,9 @@
                   "y": 6.371943452217484,
                   "tooltip": "Monarch 208 · USA downloaders · week 15 · 2026-07-24-to-2026-07-30 · 6.372% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         },
@@ -13796,7 +14114,7 @@
           "title": "China",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 33.26055604437837,
+          "y_max": 50,
           "series": [
             {
               "name": "Godzilla Minus One",
@@ -13878,7 +14196,9 @@
                   "y": 6.030659080539556,
                   "tooltip": "Godzilla Minus One · China downloaders · week 15 · 2024-08-08-to-2024-08-14 · 6.031% of world"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -13960,7 +14280,9 @@
                   "y": 3.9740411788035,
                   "tooltip": "Godzilla x Kong · China downloaders · week 15 · 2024-08-20-to-2024-08-26 · 3.974% of world"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -14042,7 +14364,9 @@
                   "y": 6.32647488438016,
                   "tooltip": "Godzilla vs. Kong · China downloaders · week 15 · 2021-07-07-to-2021-07-13 · 6.326% of world"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -14124,7 +14448,9 @@
                   "y": 4.607513856975068,
                   "tooltip": "Monarch 101 · China downloaders · week 15 · 2024-02-23-to-2024-02-29 · 4.608% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -14206,7 +14532,9 @@
                   "y": 2.955720095267413,
                   "tooltip": "Monarch 110 · China downloaders · week 15 · 2024-04-19-to-2024-04-25 · 2.956% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -14288,7 +14616,9 @@
                   "y": 7.790212301781261,
                   "tooltip": "Monarch 201 · China downloaders · week 15 · 2026-06-05-to-2026-06-11 · 7.790% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -14370,7 +14700,9 @@
                   "y": 9.66337517288333,
                   "tooltip": "Monarch 208 · China downloaders · week 15 · 2026-07-24-to-2026-07-30 · 9.663% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         },
@@ -14378,7 +14710,7 @@
           "title": "South Korea",
           "unit": "percent",
           "ylabel": "World share (%)",
-          "y_max": 33.26055604437837,
+          "y_max": 50,
           "series": [
             {
               "name": "Godzilla Minus One",
@@ -14460,7 +14792,9 @@
                   "y": 10.511439635304349,
                   "tooltip": "Godzilla Minus One · South Korea downloaders · week 15 · 2024-08-08-to-2024-08-14 · 10.511% of world"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -14542,7 +14876,9 @@
                   "y": 6.669919183823349,
                   "tooltip": "Godzilla x Kong · South Korea downloaders · week 15 · 2024-08-20-to-2024-08-26 · 6.670% of world"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -14624,7 +14960,9 @@
                   "y": 2.366143216897184,
                   "tooltip": "Godzilla vs. Kong · South Korea downloaders · week 15 · 2021-07-07-to-2021-07-13 · 2.366% of world"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -14706,7 +15044,9 @@
                   "y": 7.629081037952623,
                   "tooltip": "Monarch 101 · South Korea downloaders · week 15 · 2024-02-23-to-2024-02-29 · 7.629% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -14788,7 +15128,9 @@
                   "y": 5.069425317152995,
                   "tooltip": "Monarch 110 · South Korea downloaders · week 15 · 2024-04-19-to-2024-04-25 · 5.069% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -14870,7 +15212,9 @@
                   "y": 10.962573408167282,
                   "tooltip": "Monarch 201 · South Korea downloaders · week 15 · 2026-06-05-to-2026-06-11 · 10.963% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -14952,17 +15296,20 @@
                   "y": 12.830991863894079,
                   "tooltip": "Monarch 208 · South Korea downloaders · week 15 · 2026-07-24-to-2026-07-30 · 12.831% of world"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     },
     "mellon-7.6-godzilla-weekly-itu-2026": {
       "title": "Weekly country downloaders",
       "subtitle": "Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–15",
       "accessible_title": "Weekly adjusted country downloaders weights",
-      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted.",
+      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
       "xmax": 15,
@@ -15034,7 +15381,7 @@
           "title": "Japan",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 1771895.9314285715,
+          "y_max": 2000000,
           "series": [
             {
               "name": "Godzilla Minus One",
@@ -15116,7 +15463,9 @@
                   "y": 43508.527272727275,
                   "tooltip": "Godzilla Minus One · Japan downloaders · week 15 · 2024-08-08-to-2024-08-14 · 43,508.527 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -15198,7 +15547,9 @@
                   "y": 31111.109090909093,
                   "tooltip": "Godzilla x Kong · Japan downloaders · week 15 · 2024-08-20-to-2024-08-26 · 31,111.109 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -15280,7 +15631,9 @@
                   "y": 124711.38775510203,
                   "tooltip": "Godzilla vs. Kong · Japan downloaders · week 15 · 2021-07-07-to-2021-07-13 · 124,711.388 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -15362,7 +15715,9 @@
                   "y": 11656.648148148148,
                   "tooltip": "Monarch 101 · Japan downloaders · week 15 · 2024-02-23-to-2024-02-29 · 11,656.648 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -15444,7 +15799,9 @@
                   "y": 6296.3090909090915,
                   "tooltip": "Monarch 110 · Japan downloaders · week 15 · 2024-04-19-to-2024-04-25 · 6,296.309 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -15526,7 +15883,9 @@
                   "y": 22239.0,
                   "tooltip": "Monarch 201 · Japan downloaders · week 15 · 2026-06-05-to-2026-06-11 · 22,239.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -15608,7 +15967,9 @@
                   "y": 34914.0,
                   "tooltip": "Monarch 208 · Japan downloaders · week 15 · 2026-07-24-to-2026-07-30 · 34,914.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         },
@@ -15616,7 +15977,7 @@
           "title": "USA",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 1771895.9314285715,
+          "y_max": 2000000,
           "series": [
             {
               "name": "Godzilla Minus One",
@@ -15698,7 +16059,9 @@
                   "y": 196997.83636363636,
                   "tooltip": "Godzilla Minus One · USA downloaders · week 15 · 2024-08-08-to-2024-08-14 · 196,997.836 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -15780,7 +16143,9 @@
                   "y": 195123.47272727275,
                   "tooltip": "Godzilla x Kong · USA downloaders · week 15 · 2024-08-20-to-2024-08-26 · 195,123.473 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -15862,7 +16227,9 @@
                   "y": 1023525.2244897957,
                   "tooltip": "Godzilla vs. Kong · USA downloaders · week 15 · 2021-07-07-to-2021-07-13 · 1,023,525.224 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -15944,7 +16311,9 @@
                   "y": 78414.37037037036,
                   "tooltip": "Monarch 101 · USA downloaders · week 15 · 2024-02-23-to-2024-02-29 · 78,414.370 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -16026,7 +16395,9 @@
                   "y": 48887.61818181819,
                   "tooltip": "Monarch 110 · USA downloaders · week 15 · 2024-04-19-to-2024-04-25 · 48,887.618 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -16108,7 +16479,9 @@
                   "y": 137163.0,
                   "tooltip": "Monarch 201 · USA downloaders · week 15 · 2026-06-05-to-2026-06-11 · 137,163.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -16190,7 +16563,9 @@
                   "y": 205339.0,
                   "tooltip": "Monarch 208 · USA downloaders · week 15 · 2026-07-24-to-2026-07-30 · 205,339.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         },
@@ -16198,7 +16573,7 @@
           "title": "China",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 1771895.9314285715,
+          "y_max": 2000000,
           "series": [
             {
               "name": "Godzilla Minus One",
@@ -16280,7 +16655,9 @@
                   "y": 171516.47272727275,
                   "tooltip": "Godzilla Minus One · China downloaders · week 15 · 2024-08-08-to-2024-08-14 · 171,516.473 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -16362,7 +16739,9 @@
                   "y": 127472.25454545455,
                   "tooltip": "Godzilla x Kong · China downloaders · week 15 · 2024-08-20-to-2024-08-26 · 127,472.255 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -16444,7 +16823,9 @@
                   "y": 218046.36734693876,
                   "tooltip": "Godzilla vs. Kong · China downloaders · week 15 · 2021-07-07-to-2021-07-13 · 218,046.367 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -16526,7 +16907,9 @@
                   "y": 46706.79629629629,
                   "tooltip": "Monarch 101 · China downloaders · week 15 · 2024-02-23-to-2024-02-29 · 46,706.796 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -16608,7 +16991,9 @@
                   "y": 20233.145454545454,
                   "tooltip": "Monarch 110 · China downloaders · week 15 · 2024-04-19-to-2024-04-25 · 20,233.145 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -16690,7 +17075,9 @@
                   "y": 180898.0,
                   "tooltip": "Monarch 201 · China downloaders · week 15 · 2026-06-05-to-2026-06-11 · 180,898.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -16772,7 +17159,9 @@
                   "y": 311407.0,
                   "tooltip": "Monarch 208 · China downloaders · week 15 · 2026-07-24-to-2026-07-30 · 311,407.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         },
@@ -16780,7 +17169,7 @@
           "title": "South Korea",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 1771895.9314285715,
+          "y_max": 2000000,
           "series": [
             {
               "name": "Godzilla Minus One",
@@ -16862,7 +17251,9 @@
                   "y": 298953.2363636364,
                   "tooltip": "Godzilla Minus One · South Korea downloaders · week 15 · 2024-08-08-to-2024-08-14 · 298,953.236 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -16944,7 +17335,9 @@
                   "y": 213945.85454545455,
                   "tooltip": "Godzilla x Kong · South Korea downloaders · week 15 · 2024-08-20-to-2024-08-26 · 213,945.855 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -17026,7 +17419,9 @@
                   "y": 81550.77551020407,
                   "tooltip": "Godzilla vs. Kong · South Korea downloaders · week 15 · 2021-07-07-to-2021-07-13 · 81,550.776 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -17108,7 +17503,9 @@
                   "y": 77336.7037037037,
                   "tooltip": "Monarch 101 · South Korea downloaders · week 15 · 2024-02-23-to-2024-02-29 · 77,336.704 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -17190,7 +17587,9 @@
                   "y": 34702.34545454546,
                   "tooltip": "Monarch 110 · South Korea downloaders · week 15 · 2024-04-19-to-2024-04-25 · 34,702.345 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -17272,7 +17671,9 @@
                   "y": 254564.0,
                   "tooltip": "Monarch 201 · South Korea downloaders · week 15 · 2026-06-05-to-2026-06-11 · 254,564.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -17354,17 +17755,20 @@
                   "y": 413485.0,
                   "tooltip": "Monarch 208 · South Korea downloaders · week 15 · 2026-07-24-to-2026-07-30 · 413,485.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     },
     "mellon-7.6-godzilla-weekly-itu-2026-uploaders": {
       "title": "Weekly country uploaders",
       "subtitle": "Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–15",
       "accessible_title": "Weekly adjusted country uploaders weights",
-      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted.",
+      "description": "Izzi native weekly lines. Common vertical scale; missing intervals unplotted. Media-object names appear directly on their lines; no separate legend.",
       "columns": 1,
       "xmin": 1,
       "xmax": 15,
@@ -17436,7 +17840,7 @@
           "title": "Japan",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 183203.5657142857,
+          "y_max": 200000,
           "series": [
             {
               "name": "Godzilla Minus One",
@@ -17518,7 +17922,9 @@
                   "y": 950.4909090909091,
                   "tooltip": "Godzilla Minus One · Japan uploaders · week 15 · 2024-08-08-to-2024-08-14 · 950.491 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -17600,7 +18006,9 @@
                   "y": 666.5636363636364,
                   "tooltip": "Godzilla x Kong · Japan uploaders · week 15 · 2024-08-20-to-2024-08-26 · 666.564 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -17682,7 +18090,9 @@
                   "y": 2640.428571428571,
                   "tooltip": "Godzilla vs. Kong · Japan uploaders · week 15 · 2021-07-07-to-2021-07-13 · 2,640.429 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -17764,7 +18174,9 @@
                   "y": 159.27777777777777,
                   "tooltip": "Monarch 101 · Japan uploaders · week 15 · 2024-02-23-to-2024-02-29 · 159.278 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -17846,7 +18258,9 @@
                   "y": 31.054545454545455,
                   "tooltip": "Monarch 110 · Japan uploaders · week 15 · 2024-04-19-to-2024-04-25 · 31.055 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -17928,7 +18342,9 @@
                   "y": 289.0,
                   "tooltip": "Monarch 201 · Japan uploaders · week 15 · 2026-06-05-to-2026-06-11 · 289.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -18010,7 +18426,9 @@
                   "y": 151.0,
                   "tooltip": "Monarch 208 · Japan uploaders · week 15 · 2026-07-24-to-2026-07-30 · 151.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         },
@@ -18018,7 +18436,7 @@
           "title": "USA",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 183203.5657142857,
+          "y_max": 200000,
           "series": [
             {
               "name": "Godzilla Minus One",
@@ -18100,7 +18518,9 @@
                   "y": 20446.090909090908,
                   "tooltip": "Godzilla Minus One · USA uploaders · week 15 · 2024-08-08-to-2024-08-14 · 20,446.091 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -18182,7 +18602,9 @@
                   "y": 28079.96363636364,
                   "tooltip": "Godzilla x Kong · USA uploaders · week 15 · 2024-08-20-to-2024-08-26 · 28,079.964 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -18264,7 +18686,9 @@
                   "y": 46123.469387755096,
                   "tooltip": "Godzilla vs. Kong · USA uploaders · week 15 · 2021-07-07-to-2021-07-13 · 46,123.469 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -18346,7 +18770,9 @@
                   "y": 10992.425925925925,
                   "tooltip": "Monarch 101 · USA uploaders · week 15 · 2024-02-23-to-2024-02-29 · 10,992.426 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -18428,7 +18854,9 @@
                   "y": 1812.2545454545455,
                   "tooltip": "Monarch 110 · USA uploaders · week 15 · 2024-04-19-to-2024-04-25 · 1,812.255 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -18510,7 +18938,9 @@
                   "y": 18220.0,
                   "tooltip": "Monarch 201 · USA uploaders · week 15 · 2026-06-05-to-2026-06-11 · 18,220.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -18592,7 +19022,9 @@
                   "y": 14114.0,
                   "tooltip": "Monarch 208 · USA uploaders · week 15 · 2026-07-24-to-2026-07-30 · 14,114.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         },
@@ -18600,7 +19032,7 @@
           "title": "China",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 183203.5657142857,
+          "y_max": 200000,
           "series": [
             {
               "name": "Godzilla Minus One",
@@ -18682,7 +19114,9 @@
                   "y": 3552.418181818182,
                   "tooltip": "Godzilla Minus One · China uploaders · week 15 · 2024-08-08-to-2024-08-14 · 3,552.418 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -18764,7 +19198,9 @@
                   "y": 4787.945454545455,
                   "tooltip": "Godzilla x Kong · China uploaders · week 15 · 2024-08-20-to-2024-08-26 · 4,787.945 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -18846,7 +19282,9 @@
                   "y": 6859.38775510204,
                   "tooltip": "Godzilla vs. Kong · China uploaders · week 15 · 2021-07-07-to-2021-07-13 · 6,859.388 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -18928,7 +19366,9 @@
                   "y": 2343.9814814814813,
                   "tooltip": "Monarch 101 · China uploaders · week 15 · 2024-02-23-to-2024-02-29 · 2,343.981 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -19010,7 +19450,9 @@
                   "y": 222.92727272727274,
                   "tooltip": "Monarch 110 · China uploaders · week 15 · 2024-04-19-to-2024-04-25 · 222.927 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -19092,7 +19534,9 @@
                   "y": 14854.0,
                   "tooltip": "Monarch 201 · China uploaders · week 15 · 2026-06-05-to-2026-06-11 · 14,854.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -19174,7 +19618,9 @@
                   "y": 12152.0,
                   "tooltip": "Monarch 208 · China uploaders · week 15 · 2026-07-24-to-2026-07-30 · 12,152.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         },
@@ -19182,7 +19628,7 @@
           "title": "South Korea",
           "unit": "weight",
           "ylabel": "2026 adjusted weight",
-          "y_max": 183203.5657142857,
+          "y_max": 200000,
           "series": [
             {
               "name": "Godzilla Minus One",
@@ -19264,7 +19710,9 @@
                   "y": 415.90909090909093,
                   "tooltip": "Godzilla Minus One · South Korea uploaders · week 15 · 2024-08-08-to-2024-08-14 · 415.909 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-minus-one",
+              "line_label": "godzilla-minus-one"
             },
             {
               "name": "Godzilla x Kong",
@@ -19346,7 +19794,9 @@
                   "y": 921.6545454545455,
                   "tooltip": "Godzilla x Kong · South Korea uploaders · week 15 · 2024-08-20-to-2024-08-26 · 921.655 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-x-kong-the-new-empire",
+              "line_label": "Godzilla x Kong"
             },
             {
               "name": "Godzilla vs. Kong",
@@ -19428,7 +19878,9 @@
                   "y": 5752.673469387754,
                   "tooltip": "Godzilla vs. Kong · South Korea uploaders · week 15 · 2021-07-07-to-2021-07-13 · 5,752.673 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "godzilla-vs-kong",
+              "line_label": "godzilla-vs-kong"
             },
             {
               "name": "Monarch 101",
@@ -19510,7 +19962,9 @@
                   "y": 299.35185185185185,
                   "tooltip": "Monarch 101 · South Korea uploaders · week 15 · 2024-02-23-to-2024-02-29 · 299.352 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-101",
+              "line_label": "Monarch 101"
             },
             {
               "name": "Monarch 110",
@@ -19592,7 +20046,9 @@
                   "y": 73.2,
                   "tooltip": "Monarch 110 · South Korea uploaders · week 15 · 2024-04-19-to-2024-04-25 · 73.200 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-110",
+              "line_label": "Monarch 110"
             },
             {
               "name": "Monarch 201",
@@ -19674,7 +20130,9 @@
                   "y": 121.0,
                   "tooltip": "Monarch 201 · South Korea uploaders · week 15 · 2026-06-05-to-2026-06-11 · 121.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-201",
+              "line_label": "Monarch 201"
             },
             {
               "name": "Monarch 208",
@@ -19756,11 +20214,14 @@
                   "y": 211.0,
                   "tooltip": "Monarch 208 · South Korea uploaders · week 15 · 2026-07-24-to-2026-07-30 · 211.000 adjusted weight"
                 }
-              ]
+              ],
+              "collection_key": "monarch-legacy-of-monsters-208",
+              "line_label": "Monarch 208"
             }
           ]
         }
-      ]
+      ],
+      "layout": "izzi-standard"
     }
   }
 }

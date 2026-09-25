@@ -701,7 +701,7 @@ Each line shows that week’s country share of worldwide downloader weight. All 
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pitt-bear-compare-weekly.svg %}
-<figcaption>Seven-day interval shares, elapsed weeks 1–10; calendar dates differ by object. Missing sampling hours remain unadjusted. <a href="../resources/mellon-7.6-pitt-bear-compare-weekly.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Seven-day interval shares, elapsed weeks 1–10; calendar dates differ by object. Missing sampling hours remain unadjusted. <a href="../resources/mellon-7.6-pitt-bear-compare-weekly.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -710,7 +710,7 @@ Each line shows that week’s country share of worldwide downloader weight. All 
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pitt-bear-compare-weekly-itu-2026.svg %}
-<figcaption>Downloaders swarm weights, weeks 1–10, at the provisional 2026 Internet-user scale (6.1 billion). Each object uses its sample-start-year factor; country-specific penetration and missing hours are not adjusted. <a href="../resources/mellon-7.6-pitt-bear-compare-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Downloaders swarm weights, weeks 1–10, at the provisional 2026 Internet-user scale (6.1 billion). Each object uses its sample-start-year factor; country-specific penetration and missing hours are not adjusted. <a href="../resources/mellon-7.6-pitt-bear-compare-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -719,7 +719,7 @@ Each line shows that week’s country share of worldwide downloader weight. All 
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders.svg %}
-<figcaption>Uploaders swarm weights, weeks 1–10, at the provisional 2026 Internet-user scale (6.1 billion). Each object uses its sample-start-year factor; country-specific penetration and missing hours are not adjusted. <a href="../resources/mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Uploaders swarm weights, weeks 1–10, at the provisional 2026 Internet-user scale (6.1 billion). Each object uses its sample-start-year factor; country-specific penetration and missing hours are not adjusted. <a href="../resources/mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -943,7 +943,7 @@ separate from this unequal-length view.
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pitt-bear-extended-shares.svg %}
-<figcaption>Available weeks 1–26; lines stop at observed full-bin coverage. Country shares use each interval’s worldwide downloader denominator. <a href="../resources/mellon-7.6-pitt-bear-extended-shares.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Available weeks 1–26; lines stop at observed full-bin coverage. Country shares use each interval’s worldwide downloader denominator. <a href="../resources/mellon-7.6-pitt-bear-extended-shares.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -952,7 +952,7 @@ separate from this unequal-length view.
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pitt-bear-extended-itu-2026.svg %}
-<figcaption>Available weeks 1–26; lines stop at observed full-bin coverage. Adjusted downloader weights use the provisional 6.1-billion 2026 reference. <a href="../resources/mellon-7.6-pitt-bear-extended-itu-2026.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Available weeks 1–26; lines stop at observed full-bin coverage. Adjusted downloader weights use the provisional 6.1-billion 2026 reference. <a href="../resources/mellon-7.6-pitt-bear-extended-itu-2026.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -1412,7 +1412,7 @@ During this window, the Pitt audit reports one missing hour on August 30–31 an
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pitt-bear-calendar.svg %}
-<figcaption>Exact matching calendar intervals, June 26–September 10, 2026. Elapsed sampling weeks differ by 12. <a href="../resources/mellon-7.6-pitt-bear-calendar.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Exact matching calendar intervals, June 26–September 10, 2026. Elapsed sampling weeks differ by 12. <a href="../resources/mellon-7.6-pitt-bear-calendar.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}

@@ -165,7 +165,7 @@ Sources: [ITU 2021](https://www.itu.int/itu-d/reports/statistics/facts-figures-2
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-godzilla-world-weekly-itu-2026.svg %}
-<figcaption>Worldwide weekly downloaders and uploaders, weeks 1–15, scaled to the provisional 6.1-billion 2026 reference. The two role panels use different vertical scales. Raw interval values are retained in the ledger. <a href="../resources/mellon-7.6-godzilla-world-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Worldwide weekly downloaders and uploaders, weeks 1–15, scaled to the provisional 6.1-billion 2026 reference. The two role panels use different vertical scales. Raw interval values are retained in the ledger. <a href="../resources/mellon-7.6-godzilla-world-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -348,7 +348,7 @@ Each line shows that week’s country share of worldwide downloader weight. All 
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-godzilla-weekly.svg %}
-<figcaption>Seven-day interval shares, elapsed weeks 1–15; calendar dates differ by object. Missing sampling hours remain unadjusted. <a href="../resources/mellon-7.6-godzilla-weekly.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Seven-day interval shares, elapsed weeks 1–15; calendar dates differ by object. Missing sampling hours remain unadjusted. <a href="../resources/mellon-7.6-godzilla-weekly.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -357,7 +357,7 @@ Each line shows that week’s country share of worldwide downloader weight. All 
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-godzilla-weekly-itu-2026.svg %}
-<figcaption>Downloaders swarm weights, weeks 1–15, at the provisional 2026 Internet-user scale (6.1 billion). Each object uses its sample-start-year factor; country-specific penetration and missing hours are not adjusted. <a href="../resources/mellon-7.6-godzilla-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Downloaders swarm weights, weeks 1–15, at the provisional 2026 Internet-user scale (6.1 billion). Each object uses its sample-start-year factor; country-specific penetration and missing hours are not adjusted. <a href="../resources/mellon-7.6-godzilla-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -366,7 +366,7 @@ Each line shows that week’s country share of worldwide downloader weight. All 
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-godzilla-weekly-itu-2026-uploaders.svg %}
-<figcaption>Uploaders swarm weights, weeks 1–15, at the provisional 2026 Internet-user scale (6.1 billion). Each object uses its sample-start-year factor; country-specific penetration and missing hours are not adjusted. <a href="../resources/mellon-7.6-godzilla-weekly-itu-2026-uploaders.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Uploaders swarm weights, weeks 1–15, at the provisional 2026 Internet-user scale (6.1 billion). Each object uses its sample-start-year factor; country-specific penetration and missing hours are not adjusted. <a href="../resources/mellon-7.6-godzilla-weekly-itu-2026-uploaders.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}

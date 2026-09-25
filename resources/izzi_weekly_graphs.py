@@ -1,6 +1,8 @@
 """Native Izzi line charts; Python only assembles reviewed series and metadata."""
 import hashlib
 import json
+import math
+from copy import deepcopy
 from pathlib import Path
 import shutil
 import subprocess
@@ -20,7 +22,13 @@ def point(x, y, tooltip):
 
 
 class IzziWeeklyGraphs:
-    def __init__(self, izzi):
+    def __init__(self, izzi, collection_keys=None):
+        # AAPI subpages follow the animation/amazon_prime_video.html reference:
+        # native Izzi annotations and lines, with media-object names on the lines
+        # in Atkinson Hyperlegible 12pt. Do not add a separate series legend.
+        # Passing the reviewed name -> key mapping applies this to EVERY graph,
+        # including country, matched-pair, extended and calendar comparisons.
+        self.collection_keys = collection_keys
         self.temp = tempfile.TemporaryDirectory(prefix='alpha60-izzi-weekly-')
         self.directory = Path(self.temp.name)
         source = Path(__file__).with_name('izzi-weekly-graphs.cc')
@@ -37,6 +45,26 @@ class IzziWeeklyGraphs:
         self.specifications = {}
 
     def render(self, site, name, spec, inline=True):
+        spec = deepcopy(spec)
+        if self.collection_keys is not None:
+            spec['layout'] = 'izzi-standard'
+            spec['columns'] = 1
+            note = 'Media-object names appear directly on their lines; no separate legend.'
+            if note not in spec['description']:
+                spec['description'] += ' ' + note
+            for panel in spec['panels']:
+                # Keep common comparison scales common, using native Izzi's
+                # readable 1/2/5 tick ranges. The observations do not change.
+                if 'y_max' in panel:
+                    target = panel['y_max']
+                    base = 10 ** math.floor(math.log10(target)) if target > 0 else 1
+                    panel['y_max'] = next(base * n for n in [1, 2, 5, 10] if target <= base * n)
+                for item in panel['series']:
+                    key = self.collection_keys[item['name']]
+                    item['collection_key'] = key
+                    # Use the table's display name for long keys so crowded
+                    # country curves remain legible at the native 12pt size.
+                    item['line_label'] = item['name'] if len(key) > 24 else key
         self.specifications[name] = spec
         source = self.directory/(name+'.json')
         source.write_text(json.dumps(spec,ensure_ascii=False))
@@ -45,6 +73,16 @@ class IzziWeeklyGraphs:
         path=site/'resources'/(name+'.svg')
         ET.register_namespace('', 'http://www.w3.org/2000/svg')
         tree=ET.parse(path);root=tree.getroot()
+        if spec.get('layout') == 'izzi-standard':
+            # Izzi supplies the tick positions and typography. Preserve the
+            # approved calendar labels instead of displaying their bin indexes.
+            calendar_ticks = {float(x): label for x, label in spec['ticks'] if label != str(x)}
+            for group in root.iter():
+                if group.get('id') == 'tic-x-labels':
+                    for tick in group:
+                        value = float(tick.text.strip())
+                        if value in calendar_ticks:
+                            tick.text = calendar_ticks[value]
         root.set('id',name);root.set('role','group');root.set('class','analysis-svg')
         root.set('aria-label',spec.get('accessible_title',spec['title'])+'. '+spec['description'])
         for el in root:

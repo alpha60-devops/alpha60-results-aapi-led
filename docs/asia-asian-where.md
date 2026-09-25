@@ -95,7 +95,7 @@ Metadata: [pinned reviewed report (repository access required)](https://github.c
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pair-original-weekly.svg %}
-<figcaption>Weeks 1–15. Each point uses that interval’s worldwide total for the same role. Asia includes TWN; no ITU multiplier is needed for within-object shares. <a href="../resources/mellon-7.6-pair-original-weekly.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Weeks 1–15. Each point uses that interval’s worldwide total for the same role. Asia includes TWN; no ITU multiplier is needed for within-object shares. <a href="../resources/mellon-7.6-pair-original-weekly.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -184,7 +184,7 @@ Sources for **No More Bets**: [metadata](https://github.com/alpha60-devops/alpha
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pair-action-films-weekly.svg %}
-<figcaption>Weeks 1–15. Each point uses that interval’s worldwide total for the same role. Asia includes TWN; no ITU multiplier is needed for within-object shares. <a href="../resources/mellon-7.6-pair-action-films-weekly.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Weeks 1–15. Each point uses that interval’s worldwide total for the same role. Asia includes TWN; no ITU multiplier is needed for within-object shares. <a href="../resources/mellon-7.6-pair-action-films-weekly.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -273,7 +273,7 @@ Sources for **Vanguard**: [metadata](https://github.com/alpha60-devops/alpha60-r
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pair-beef-lazarus-weekly.svg %}
-<figcaption>Weeks 1–15. Each point uses that interval’s worldwide total for the same role. Asia includes TWN; no ITU multiplier is needed for within-object shares. <a href="../resources/mellon-7.6-pair-beef-lazarus-weekly.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs with media-object names directly on their lines. Weeks 1–15. Each point uses that interval’s worldwide total for the same role. Asia includes TWN; no ITU multiplier is needed for within-object shares. <a href="../resources/mellon-7.6-pair-beef-lazarus-weekly.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
