@@ -1,6 +1,7 @@
 // Reviewed weekly series through Izzi's native line-graph and marker APIs.
 #include "izzi-svg.h"
 #include "izzi-svg-graphs-line.h"
+#include "izzi-svg-fonts.h"
 #include <rapidjson/document.h>
 #include <fstream>
 #include <iomanip>
@@ -23,10 +24,87 @@ double ceiling(double value) {
   const double base=std::pow(10.,std::floor(std::log10(value)));
   return std::ceil(value/base*2)/2*base;
 }
+// Standard 1920 x 1080 Izzi plates, matching Alpha60 meta-collection graphs.
+// The library authors axes, bilateral ticks, grid and titles. Only original
+// measurement units are exposed; normalizing draw coordinates avoids the
+// pinned library's integer range helper truncating fractional ITU weights.
+void render_standard(const rapidjson::Document& doc, const char* destination) {
+  using namespace svg;
+  const area<> plate{1920,1080};
+  svg_element out(destination,area<>{1920.,1080.*doc["panels"].Size()});
+  add_atkinson_hyperlegible_font(out);
+  out.add_raw("<rect width=\"100%\" height=\"100%\" fill=\"white\"/>");
+  const marker_shape forms[]={marker_shape::circle,marker_shape::square,
+    marker_shape::triangle,marker_shape::hexagon,marker_shape::x,marker_shape::octahedron};
+  auto label=[&](const string& value,point_2t position,int size) {
+    typography typo=k::hyperl_typo;typo._M_size=size;
+    styled_text(out,value,position,typo);
+  };
+  for(rapidjson::SizeType i=0;i<doc["panels"].Size();++i) {
+    const auto& panel=doc["panels"][i];double maximum=0;
+    for(const auto& series:panel["series"].GetArray())
+      for(const auto& p:series["points"].GetArray()) maximum=std::max(maximum,p["y"].GetDouble());
+    const double target=maximum*1.08;
+    const double base10=target>0?std::pow(10.,std::floor(std::log10(target))):1;
+    for(double multiplier: {1.,2.,5.,10.}) if(target<=base10*multiplier) {
+      maximum=base10*multiplier;break;
+    }
+    const double unit=maximum>=1000000?1000000:1000;
+    const point_2t xrange{doc["xmin"].GetDouble(),doc["xmax"].GetDouble()};
+    const point_2t draw_yrange{0,100000000};
+    const style base={color::black,0,color::black,1,2};
+    graph_rstate annotations{select::title|select::ticks|select::axis|select::vector|select::linex|select::alt,
+      panel["title"].GetString(),plate,chart_line_style_1,
+      "Elapsed sampling week","2026 adjusted weight","",unit==1000000?"M":"k",
+      base,{"",marker_shape::none,0,"","","round",""},{0,0},"",""};
+    vrange ticks;
+    for(const auto& tick:doc["ticks"].GetArray())ticks.push_back({tick[0].GetDouble(),0});
+    out.add_raw("<g data-izzi-layout=\"standard\" transform=\"translate(0 "+std::to_string(i*1080)+")\">");
+    out.add_element(make_line_graph_annotations(ticks,annotations,xrange,{0,maximum/unit},1,1,k::hyperl_typo));
+    label(doc["subtitle"].GetString(),{960,163},19);
+    for(rapidjson::SizeType j=0;j<panel["series"].Size();++j) {
+      const auto& series=panel["series"][j];
+      const style stroke={parse_color(series["color"].GetString()),0,parse_color(series["color"].GetString()),1,2.5};
+      graph_rstate state{select::vector,"panel-"+std::to_string(i)+"-series-"+std::to_string(j),
+        plate,chart_line_style_1,"Weeks","2026 adjusted weight","","",stroke,
+        {"",marker_shape::none,0,series["dash"].GetString(),"","round",""},{0,0},"",""};
+      vrange points;
+      for(const auto& p:series["points"].GetArray())points.push_back({p["x"].GetDouble(),p["y"].GetDouble()/maximum*100000000});
+      if(points.empty())throw std::runtime_error("empty worldwide series");
+      out.add_raw("<g data-series=\""+escape_xml_attribute(series["name"].GetString())+"\">");
+      vrange segment;
+      auto flush=[&](){if(!segment.empty()){out.add_element(make_line_graph(segment,state,xrange,draw_yrange));segment.clear();}};
+      for(const auto& p:points) {
+        if(!segment.empty()) {
+          const auto gap=std::get<0>(p)-std::get<0>(segment.back());
+          if(gap<=0)throw std::runtime_error("unordered weekly points");
+          if(gap>1.001)flush();
+        }
+        segment.push_back(p);
+      }
+      flush();
+      const auto positions=transform_to_graph_points(points,state,xrange,draw_yrange);
+      style marker=stroke;marker._M_fill_opacity=1;
+      for(std::size_t n=0;n<points.size();++n)
+        out.add_raw(make_marker_instance(forms[j%6],positions[n],marker,6,series["points"][n]["tooltip"].GetString()));
+      out.add_raw("</g>");
+      // In-plate legend, matching native marker shapes and stroke patterns.
+      const double x=340+(j%3)*620,y=933+(j/3)*30;
+      out.add_element(make_polyline({{x-135,y-5},{x-85,y-5}},stroke,state.sstyle));
+      out.add_raw(make_marker_instance(forms[j%6],{x-110,y-5},marker,6));
+      label(series["name"].GetString(),{x+80,y},20);
+    }
+    label("All six media objects · weekly geographic interval weights · provisional 2026 ITU reference",{960,1052},17);
+    out.add_raw("</g>");
+  }
+}
 int main(int argc,char** argv) {
   if(argc!=3)return 2;
   std::ifstream input(argv[1]);string raw((std::istreambuf_iterator<char>(input)),{});
   rapidjson::Document doc;doc.Parse(raw.c_str());if(doc.HasParseError())throw std::runtime_error("invalid chart JSON");
+  if(doc.HasMember("layout") && doc["layout"]=="izzi-standard") {
+    render_standard(doc,argv[2]);return 0;
+  }
   using namespace svg;
   const int columns=doc["columns"].GetInt(),rows=(doc["panels"].Size()+columns-1)/columns;
   const double width=1200,cell=width/columns,plot_width=cell-125,plot_height=columns==1?255:270;

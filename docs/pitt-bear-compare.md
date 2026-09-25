@@ -144,7 +144,7 @@ Sources: [ITU 2023](https://www.itu.int/en/mediacentre/Pages/PR-2023-11-27-facts
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pitt-bear-compare-world-weekly-itu-2026.svg %}
-<figcaption>Worldwide weekly downloaders and uploaders, weeks 1–10, scaled to the provisional 6.1-billion 2026 reference. The two role panels use different vertical scales. Raw interval values are retained in the ledger. <a href="../resources/mellon-7.6-pitt-bear-compare-world-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs for all six media objects. Worldwide weekly downloaders and uploaders, weeks 1–10, scaled to the provisional 6.1-billion 2026 reference. The two role panels use different vertical scales. Raw interval values are retained in the ledger. <a href="../resources/mellon-7.6-pitt-bear-compare-world-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -227,14 +227,15 @@ Counts below are summed weekly swarm weights. Geographic shares use the worldwid
 | Australia | The Bear S04 | 199,826 | 4.24% | 4.63% | 25.41% | 28.57% | 5.47% |
 
 
+
 ## Pitt 201–203: combined resolution country close-ups
 
-These three plates follow the audit's Cahill–Keyes swarm-bubble cartography,
-with **≥1080p (1080 and 2160)** and **<1080p (720 and SD)** together on each
-country map. They cover **weeks 1–26, January 9–July 9, 2026**. Pink filled
-circles show ≥1080p; orange ringed circles show <1080p. Circle **area**, not
-radius, represents downloader weight on the same scale across all three plates.
-The two groups share city centers; transparency reveals overlapping marks.
+These six plates cover **Philippines (PHL), Australia (AUS), India (IND),
+Japan (JPN), China (CHN), and South Korea (KOR)**, with **≥1080p (1080 and
+2160)** and **<1080p (720 and SD)** together on each country map. They cover
+**weeks 1–26, January 9–July 9, 2026**. Pink filled circles show ≥1080p;
+orange rings show <1080p. Circle **area** represents downloader weight on
+one scale across all six plates. The two groups share city centers.
 Hover or focus a circle for its count and mobile rate.
 
 The source is the weekly **by-BTIH geographic product**, joined to all 392
@@ -245,14 +246,29 @@ the top-level weekly geographic product used in the comparison tables above;
 its totals are not interchangeable with those tables or unique-person counts.
 Missing sampling hours remain unadjusted, including the reported July 3 gap.
 
+**Izzi and Cartofreako** draw the vector plates using the audit's registered
+Cahill–Keyes projection. Each country outline and its mapped city
+coordinates fit the available panel width or height while preserving projected
+proportions. Geographic scale differs by country. Lake water is removed from
+the land polygons; interior holes and projection seams are preserved.
+Australia retains the mainland/Tasmania close-up; offshore islands across a
+projection cut would shrink the mainland. All sampled Australian cities fit
+this extent. The other five countries use their complete outlines.
+
 | Country | Resolution group | Downloader weight | Mobile rate |
 | --- | --- | --- | --- |
 | Philippines | ≥1080p (1080 + 2160) | 76,806 | 27.71% |
 | Philippines | <1080p (720 + SD) | 23,286 | 23.01% |
-| India | ≥1080p (1080 + 2160) | 133,346 | 19.18% |
-| India | <1080p (720 + SD) | 62,087 | 17.63% |
 | Australia | ≥1080p (1080 + 2160) | 652,992 | 3.28% |
 | Australia | <1080p (720 + SD) | 258,794 | 3.96% |
+| India | ≥1080p (1080 + 2160) | 133,346 | 19.18% |
+| India | <1080p (720 + SD) | 62,087 | 17.63% |
+| Japan | ≥1080p (1080 + 2160) | 451,517 | 24.76% |
+| Japan | <1080p (720 + SD) | 246,586 | 25.38% |
+| China | ≥1080p (1080 + 2160) | 5,000,498 | 0.91% |
+| China | <1080p (720 + SD) | 2,534,112 | 0.95% |
+| South Korea | ≥1080p (1080 + 2160) | 6,804,716 | 1.59% |
+| South Korea | <1080p (720 + SD) | 3,815,008 | 1.59% |
 
 
 ### Philippines
@@ -260,12 +276,12 @@ Missing sampling hours remain unadjusted, including the reported July 3 gap.
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pitt-201-phl.svg %}
-<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 101 identified city locations. Same circle-area scale across countries. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-phl.svg">Download SVG</a>.</figcaption>
+<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 101 identified city locations. One circle-area scale across all six countries. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-phl.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
 
-Unlocated or outside-crop downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
+Unlocated downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
 
 <details markdown="1"><summary>Philippines: top ten mapped cities and mobile rates</summary>
 
@@ -285,47 +301,17 @@ Unlocated or outside-crop downloader weight: ≥1080p **0**; <1080p **0**. These
 
 </details>
 
-### India
-
-{::nomarkdown}
-<figure class="analysis-figure">
-{% include mellon-7.6-pitt-201-ind.svg %}
-<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 269 identified city locations. Same circle-area scale across countries. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-ind.svg">Download SVG</a>.</figcaption>
-<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
-</figure>
-{:/}
-
-Unlocated or outside-crop downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
-
-<details markdown="1"><summary>India: top ten mapped cities and mobile rates</summary>
-
-| City | ≥1080p weight | ≥1080p mobile rate | <1080p weight | <1080p mobile rate |
-| --- | --- | --- | --- | --- |
-| Hyderabad | 18,679 | 24.84% | 10,013 | 26.43% |
-| Bengaluru | 19,374 | 9.97% | 8,141 | 9.26% |
-| Delhi | 17,876 | 17.85% | 7,047 | 11.98% |
-| Chennai | 11,600 | 15.35% | 10,471 | 19.35% |
-| Mumbai | 12,917 | 14.94% | 6,521 | 14.51% |
-| Kolkata | 3,674 | 33.02% | 1,518 | 20.29% |
-| Pune | 3,649 | 16.72% | 949 | 18.97% |
-| Mapusa | 2,503 | 4.67% | 1,592 | 0.06% |
-| Agartala | 2,705 | 16.93% | 1,314 | 10.27% |
-| Alappuzha | 2,200 | 22.45% | 1,114 | 21.36% |
-
-
-</details>
-
 ### Australia
 
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pitt-201-aus.svg %}
-<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 51 identified city locations. Same circle-area scale across countries. Australia crop covers mainland and Tasmania. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-aus.svg">Download SVG</a>.</figcaption>
+<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 51 identified city locations. One circle-area scale across all six countries. Australia extent: mainland and Tasmania. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-aus.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
 
-Unlocated or outside-crop downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
+Unlocated downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
 
 <details markdown="1"><summary>Australia: top ten mapped cities and mobile rates</summary>
 
@@ -345,12 +331,127 @@ Unlocated or outside-crop downloader weight: ≥1080p **0**; <1080p **0**. These
 
 </details>
 
-Projection: [Cartofreako native Cahill–Keyes](https://github.com/bdekoz/cartofreako/blob/ec201801a0386fc681c7637e26a838117ecf23de/src.projections/cart0freak0-cahill-keyes.h), with its one-degree longitude registration; developed from the Cahill–Keyes work of Gene Keyes and Mary Jo Graça. Basemap: [Natural Earth 1:10m countries](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/), public domain. [Country boundary extract](../data/mellon-7.6-country-boundaries.geojson) and [projection, crop and omitted-weight provenance](../data/mellon-7.6-country-plates-provenance.json). Member resolutions, all cities, weekly group totals and pinned source hashes are in the calculation ledger.
+### India
+
+{::nomarkdown}
+<figure class="analysis-figure">
+{% include mellon-7.6-pitt-201-ind.svg %}
+<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 269 identified city locations. One circle-area scale across all six countries. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-ind.svg">Download SVG</a>.</figcaption>
+<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
+</figure>
+{:/}
+
+Unlocated downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
+
+<details markdown="1"><summary>India: top ten mapped cities and mobile rates</summary>
+
+| City | ≥1080p weight | ≥1080p mobile rate | <1080p weight | <1080p mobile rate |
+| --- | --- | --- | --- | --- |
+| Hyderabad | 18,679 | 24.84% | 10,013 | 26.43% |
+| Bengaluru | 19,374 | 9.97% | 8,141 | 9.26% |
+| Delhi | 17,876 | 17.85% | 7,047 | 11.98% |
+| Chennai | 11,600 | 15.35% | 10,471 | 19.35% |
+| Mumbai | 12,917 | 14.94% | 6,521 | 14.51% |
+| Kolkata | 3,674 | 33.02% | 1,518 | 20.29% |
+| Pune | 3,649 | 16.72% | 949 | 18.97% |
+| Mapusa | 2,503 | 4.67% | 1,592 | 0.06% |
+| Agartala | 2,705 | 16.93% | 1,314 | 10.27% |
+| Alappuzha | 2,200 | 22.45% | 1,114 | 21.36% |
 
 
+</details>
+
+### Japan
+
+{::nomarkdown}
+<figure class="analysis-figure">
+{% include mellon-7.6-pitt-201-jpn.svg %}
+<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 366 identified city locations. One circle-area scale across all six countries. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-jpn.svg">Download SVG</a>.</figcaption>
+<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
+</figure>
+{:/}
+
+Unlocated downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
+
+<details markdown="1"><summary>Japan: top ten mapped cities and mobile rates</summary>
+
+| City | ≥1080p weight | ≥1080p mobile rate | <1080p weight | <1080p mobile rate |
+| --- | --- | --- | --- | --- |
+| Tokyo | 182,669 | 24.60% | 98,660 | 25.36% |
+| Osaka | 63,838 | 17.10% | 34,148 | 17.41% |
+| Yokohama | 47,008 | 38.77% | 26,803 | 39.06% |
+| Nagoya | 26,109 | 18.87% | 14,717 | 18.96% |
+| Ōi | 15,976 | 3.56% | 7,771 | 3.20% |
+| Kawasaki | 10,278 | 38.78% | 5,654 | 39.12% |
+| Kobe | 9,881 | 18.25% | 5,705 | 18.63% |
+| Saitama | 9,582 | 41.98% | 5,392 | 42.60% |
+| Ebara | 7,266 | 5.84% | 3,975 | 6.57% |
+| Chiba | 5,154 | 49.46% | 2,881 | 50.19% |
 
 
+</details>
 
+### China
+
+{::nomarkdown}
+<figure class="analysis-figure">
+{% include mellon-7.6-pitt-201-chn.svg %}
+<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 121 identified city locations. One circle-area scale across all six countries. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-chn.svg">Download SVG</a>.</figcaption>
+<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
+</figure>
+{:/}
+
+Unlocated downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
+
+<details markdown="1"><summary>China: top ten mapped cities and mobile rates</summary>
+
+| City | ≥1080p weight | ≥1080p mobile rate | <1080p weight | <1080p mobile rate |
+| --- | --- | --- | --- | --- |
+| Nanjing | 1,635,768 | 0.24% | 739,429 | 0.31% |
+| Shanghai | 786,669 | 2.92% | 434,918 | 2.93% |
+| Hangzhou | 719,693 | 0.16% | 377,860 | 0.19% |
+| Shenzhen | 512,250 | 0.38% | 284,727 | 0.37% |
+| Jiaxing | 144,582 | 0.60% | 80,082 | 0.51% |
+| Beijing | 126,122 | 0.21% | 67,880 | 0.18% |
+| Suzhou | 86,995 | 0.20% | 48,792 | 0.15% |
+| Zhengzhou | 86,798 | 0.13% | 47,929 | 0.13% |
+| Qingdao | 78,510 | 0.06% | 43,670 | 0.04% |
+| Shaoxing | 72,549 | 0.00% | 37,734 | 0.01% |
+
+
+</details>
+
+### South Korea
+
+{::nomarkdown}
+<figure class="analysis-figure">
+{% include mellon-7.6-pitt-201-kor.svg %}
+<figcaption>Combined ≥1080p and &lt;1080p downloader weights. Weeks 1–26. 135 identified city locations. One circle-area scale across all six countries. Country outlines use Natural Earth’s de facto boundaries; map orientation follows the registered audit projection. <a href="../resources/mellon-7.6-pitt-201-kor.svg">Download SVG</a>.</figcaption>
+<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
+</figure>
+{:/}
+
+Unlocated downloader weight: ≥1080p **0**; <1080p **0**. These weights remain in the country totals above.
+
+<details markdown="1"><summary>South Korea: top ten mapped cities and mobile rates</summary>
+
+| City | ≥1080p weight | ≥1080p mobile rate | <1080p weight | <1080p mobile rate |
+| --- | --- | --- | --- | --- |
+| Seoul | 2,527,321 | 2.72% | 1,416,103 | 2.72% |
+| Incheon | 636,972 | 1.19% | 357,281 | 1.18% |
+| Busan | 280,606 | 1.58% | 157,910 | 1.55% |
+| Daegu | 249,233 | 0.33% | 139,573 | 0.31% |
+| Suwon | 190,730 | 1.06% | 106,410 | 1.05% |
+| Seongnam-si | 155,077 | 0.99% | 87,366 | 1.01% |
+| Daejeon | 152,256 | 0.25% | 86,608 | 0.23% |
+| Goyang-si | 143,470 | 2.00% | 80,426 | 2.05% |
+| Hwaseong-si | 142,862 | 0.64% | 80,103 | 0.66% |
+| Gwangju | 140,445 | 1.24% | 78,531 | 1.18% |
+
+
+</details>
+
+Projection: [Cartofreako native Cahill–Keyes](https://github.com/bdekoz/cartofreako/blob/ec201801a0386fc681c7637e26a838117ecf23de/src.projections/cart0freak0-cahill-keyes.h), with its one-degree longitude registration; developed from the Cahill–Keyes work of Gene Keyes and Mary Jo Graça. [Izzi renderer](../resources/mellon-7-6-resolution-maps.cc). Basemap: Natural Earth v5.1.2 1:10m countries and lakes, public domain. [Country and lake geometry with upstream hashes](../data/mellon-7.6-resolution-map-boundaries.json) and [projection, extent, circle-area and omitted-weight provenance](../data/mellon-7.6-country-plates-provenance.json). Member resolutions, all cities, weekly group totals and pinned source hashes are in the calculation ledger.
 
 ## Hot and cold locations
 
@@ -1330,8 +1431,9 @@ Natural Earth v5.1.2 1:10m country polygons have intersecting lake and reservoir
 water removed. Interior rings are retained with even-odd filling, and country
 polygons are split at the registered octant seams before projection. This keeps
 Great Lakes shorelines visible and avoids lines bridging projection cuts.
-Boundaries follow Natural Earth's de facto geometry. The previously published
-Pitt resolution plates retain their original inputs and documented country crops.
+Boundaries follow Natural Earth's de facto geometry. The six Pitt resolution
+plates use this same vector geometry, with their original weekly by-BTIH input
+method and one shared circle-area scale across countries.
 
 References: [Cartofreako Cahill–Keyes geometry and octants](https://bdekoz.github.io/cartofreako/docs/pages/projections/cahill-keyes/context.html),
 [Izzi](https://github.com/bdekoz/izzi), and the

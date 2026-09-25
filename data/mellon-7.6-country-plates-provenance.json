@@ -1,54 +1,89 @@
 {
-  "boundary_source": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_0_countries.geojson",
-  "boundary_source_sha256": "239eec57ac17f100a11e2536cffc56752c318b50ae765b0918ff7aab4ce8f255",
+  "renderer": "Izzi circle_element / svg_element; Cartofreako native Cahill\u2013Keyes",
+  "renderer_sha256": "86261b87059acbfa854e77952220be952adbfd27d2f005a6af09e9fca9bc3ee9",
+  "projection": {
+    "url": "https://github.com/bdekoz/cartofreako/blob/ec201801a0386fc681c7637e26a838117ecf23de/src.projections/cart0freak0-cahill-keyes.h",
+    "sha256": "0c3b945711e655d4dd70208457bca2f400fd6edc0869f1a1c87ad57847f56ba2",
+    "izzi_commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
+    "boundary_sha256": "773cfc10d54371daf7703ac4087558e8cdc77ea9723952eebf9ce119f780549d",
+    "source": "Natural Earth 1:10m countries minus 1:10m lakes, v5.1.2",
+    "projection": "Cartofreako native Cahill\u2013Keyes; +1 degree registration; clipped seams; uniform fitting per country; Izzi SVG.",
+    "geometry_preparer_sha256": "f93649c4af040e71c3603effc6467156ed8375037277b0cd8152dcbaeb51d2fa"
+  },
+  "boundary_file": "mellon-7.6-resolution-map-boundaries.json",
+  "boundary_sha256": "8b92b5c787a5873eae2df501bd2224c395655131262e36585f963f169ce85a91",
   "area_points_squared_per_weight": 0.012,
+  "circle_radius_formula": "sqrt(downloader_weight * 0.012 / pi)",
+  "canvas_points": [
+    720,
+    770
+  ],
+  "fit": "Country land and located cities; Australia mainland/Tasmania crop; uniform scale; room for largest circle.",
   "countries": {
     "PHL": {
-      "extent_lon_lat": [
-        116,
-        4,
-        127,
-        22
-      ],
       "city_rows": 101,
       "plotted_city_rows": 101,
-      "unlocated_or_outside_crop_downloader_weight": {
+      "unlocated_downloader_weight": {
         "ge1080": 0,
         "lt1080": 0
-      }
-    },
-    "IND": {
-      "extent_lon_lat": [
-        67,
-        5,
-        99,
-        38
-      ],
-      "city_rows": 269,
-      "plotted_city_rows": 269,
-      "unlocated_or_outside_crop_downloader_weight": {
-        "ge1080": 0,
-        "lt1080": 0
-      }
+      },
+      "lake_features_removed": 2,
+      "extent_lon_lat": null
     },
     "AUS": {
+      "city_rows": 51,
+      "plotted_city_rows": 51,
+      "unlocated_downloader_weight": {
+        "ge1080": 0,
+        "lt1080": 0
+      },
+      "lake_features_removed": 31,
       "extent_lon_lat": [
         112,
         -44,
         154,
-        -10
-      ],
-      "city_rows": 51,
-      "plotted_city_rows": 51,
-      "unlocated_or_outside_crop_downloader_weight": {
+        -9
+      ]
+    },
+    "IND": {
+      "city_rows": 269,
+      "plotted_city_rows": 269,
+      "unlocated_downloader_weight": {
         "ge1080": 0,
         "lt1080": 0
-      }
+      },
+      "lake_features_removed": 12,
+      "extent_lon_lat": null
+    },
+    "JPN": {
+      "city_rows": 366,
+      "plotted_city_rows": 366,
+      "unlocated_downloader_weight": {
+        "ge1080": 0,
+        "lt1080": 0
+      },
+      "lake_features_removed": 1,
+      "extent_lon_lat": null
+    },
+    "CHN": {
+      "city_rows": 121,
+      "plotted_city_rows": 121,
+      "unlocated_downloader_weight": {
+        "ge1080": 0,
+        "lt1080": 0
+      },
+      "lake_features_removed": 123,
+      "extent_lon_lat": null
+    },
+    "KOR": {
+      "city_rows": 135,
+      "plotted_city_rows": 135,
+      "unlocated_downloader_weight": {
+        "ge1080": 0,
+        "lt1080": 0
+      },
+      "lake_features_removed": 0,
+      "extent_lon_lat": null
     }
-  },
-  "projection": {
-    "commit": "ec201801a0386fc681c7637e26a838117ecf23de",
-    "header_sha256": "0c3b945711e655d4dd70208457bca2f400fd6edc0869f1a1c87ad57847f56ba2",
-    "url": "https://github.com/bdekoz/cartofreako/blob/ec201801a0386fc681c7637e26a838117ecf23de/src.projections/cart0freak0-cahill-keyes.h"
   }
 }

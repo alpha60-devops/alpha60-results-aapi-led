@@ -825,8 +825,9 @@ Natural Earth v5.1.2 1:10m country polygons have intersecting lake and reservoir
 water removed. Interior rings are retained with even-odd filling, and country
 polygons are split at the registered octant seams before projection. This keeps
 Great Lakes shorelines visible and avoids lines bridging projection cuts.
-Boundaries follow Natural Earth's de facto geometry. The previously published
-Pitt resolution plates retain their original inputs and documented country crops.
+Boundaries follow Natural Earth's de facto geometry. The six Pitt resolution
+plates use this same vector geometry, with their original weekly by-BTIH input
+method and one shared circle-area scale across countries.
 
 References: [Cartofreako Cahill–Keyes geometry and octants](https://bdekoz.github.io/cartofreako/docs/pages/projections/cahill-keyes/context.html),
 [Izzi](https://github.com/bdekoz/izzi), and the

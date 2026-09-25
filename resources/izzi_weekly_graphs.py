@@ -31,7 +31,8 @@ class IzziWeeklyGraphs:
             'commit': subprocess.check_output(['git','-C',str(izzi),'rev-parse','HEAD'],text=True).strip(),
             'line_graph_header_sha256': hashlib.sha256((izzi/'src/izzi-svg-graphs-line.h').read_bytes()).hexdigest(),
             'renderer_sha256': hashlib.sha256(source.read_bytes()).hexdigest(),
-            'functions': ['svg::make_line_graph','svg::transform_to_graph_points','svg::make_marker_instance'],
+            'functions': ['svg::make_line_graph','svg::make_line_graph_annotations',
+                          'svg::transform_to_graph_points','svg::make_marker_instance'],
         }
         self.specifications = {}
 

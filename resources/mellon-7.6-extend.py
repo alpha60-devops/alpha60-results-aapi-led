@@ -31,7 +31,7 @@ def main():
     plates = {'collection_key': 'pitt-201', 'weeks': list(range(1, 27)),
               'groups': {'ge1080': '>=1080p: 1080 and 2160', 'lt1080': '<1080p: 720 and sd', 'unknown': 'Unclassified resolution'},
               'unit': 'Sum of published by-BTIH geographic feature weights over weeks 1–26, not unique people or the top-level aggregate product.',
-              'country': {c: {g: analysis.empty() for g in ['ge1080', 'lt1080', 'unknown']} for c in ['PHL', 'IND', 'AUS']},
+              'country': {c: {g: analysis.empty() for g in ['ge1080', 'lt1080', 'unknown']} for c in ['PHL', 'AUS', 'IND', 'JPN', 'CHN', 'KOR']},
               'cities': {}, 'members': [], 'weekly_country': [], 'sources': []}
     for key, record in data['objects'].items():
         if record['countries'] != ['IND', 'PHL', 'AUS']:
