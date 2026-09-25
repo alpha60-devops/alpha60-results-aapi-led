@@ -1,0 +1,833 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.39952pt" height="509.39976pt" viewBox="0 0 800.39952 509.39976" version="1.1" role="group" aria-label="Weekly worldwide weights at the 2026 Internet-user scale. Provisional 6.1-billion reference. Separate downloader and uploader panels; role scales differ. Not unique viewers." class="analysis-svg">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Alpha60 Mellon 7.6</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="mellon-7.6-godzilla-world-weekly-itu-2026-figure_1">
+  <g id="mellon-7.6-godzilla-world-weekly-itu-2026-patch_1">
+   <path d="M 0 509.39976  L 800.39952 509.39976  L 800.39952 -0  L 0 -0  z " style="fill: #ffffff" />
+  </g>
+  <g id="mellon-7.6-godzilla-world-weekly-itu-2026-axes_1">
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-patch_2">
+    <path d="M 60.58625 260.779531  L 793.19952 260.779531  L 793.19952 83.58372  L 60.58625 83.58372  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-matplotlib.axis_1">
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_1">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_1">
+      <defs>
+       <path id="mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8" />
+      </defs>
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="93.886853" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_2">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_2">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="141.459143" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_3">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_3">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="189.031434" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_4">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_4">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="236.603724" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_5">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_5">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="284.176014" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_6">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_6">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="331.748304" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_7">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_7">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="379.320595" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_8">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_8">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="426.892885" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_9">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_9">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="474.465175" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_10">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_10">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="522.037466" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_11">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_11">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="569.609756" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_12">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_12">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="617.182046" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_13">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_13">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="664.754336" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_14">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_14">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="712.326627" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_15">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_15">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="759.898917" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-matplotlib.axis_2">
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-ytick_1">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_16">
+      <path d="M 60.58625 260.779531  L 793.19952 260.779531  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_17">
+      <defs>
+       <path id="mellon-7.6-godzilla-world-weekly-itu-2026-m6b0521fb35" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8" />
+      </defs>
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="260.779531" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="265.338594" transform="rotate(-0 53.58625 265.338594)">0m</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-ytick_2">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_18">
+      <path d="M 60.58625 210.254656  L 793.19952 210.254656  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_19">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="210.254656" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="214.813719" transform="rotate(-0 53.58625 214.813719)">2m</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-ytick_3">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_20">
+      <path d="M 60.58625 159.729782  L 793.19952 159.729782  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_21">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="159.729782" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="164.288844" transform="rotate(-0 53.58625 164.288844)">4m</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-ytick_4">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_22">
+      <path d="M 60.58625 109.204907  L 793.19952 109.204907  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_23">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="109.204907" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="113.763969" transform="rotate(-0 53.58625 113.763969)">6m</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_5">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="27.766875" y="172.181626" transform="rotate(-90 27.766875 172.181626)">2026 adjusted weight</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_24">
+    <path d="M 93.886853 204.546808  L 141.459143 196.82557  L 189.031434 195.785865  L 236.603724 195.652302  L 284.176014 187.499889  L 331.748304 185.430259  L 379.320595 192.841025  L 426.892885 199.605521  L 474.465175 199.810952  L 522.037466 204.171474  L 569.609756 200.502556  L 617.182046 195.092719  L 664.754336 187.50653  L 712.326627 185.369067  L 759.898917 188.931262  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <defs>
+     <path id="mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" d="M 0 2  C 0.530406 2 1.03916 1.789267 1.414214 1.414214  C 1.789267 1.03916 2 0.530406 2 0  C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214  C 1.03916 -1.789267 0.530406 -2 0 -2  C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214  C -1.789267 -1.03916 -2 -0.530406 -2 0  C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214  C -1.03916 1.789267 -0.530406 2 0 2  z " style="stroke: #175b8c" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="93.886853" y="204.546808" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="141.459143" y="196.82557" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="189.031434" y="195.785865" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="236.603724" y="195.652302" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="284.176014" y="187.499889" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="331.748304" y="185.430259" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="379.320595" y="192.841025" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="426.892885" y="199.605521" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="474.465175" y="199.810952" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="522.037466" y="204.171474" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="569.609756" y="200.502556" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="617.182046" y="195.092719" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="664.754336" y="187.50653" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="712.326627" y="185.369067" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="759.898917" y="188.931262" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_25">
+    <path d="M 93.886853 129.591669  L 141.459143 140.59038  L 189.031434 150.14682  L 236.603724 158.074357  L 284.176014 165.988221  L 331.748304 172.94467  L 379.320595 176.833812  L 426.892885 177.076759  L 474.465175 175.174902  L 522.037466 200.089034  L 569.609756 166.189196  L 617.182046 166.669318  L 664.754336 176.83482  L 712.326627 179.469749  L 759.898917 179.747159  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" d="M -2 2  L 2 2  L 2 -2  L -2 -2  z " style="stroke: #9b4318; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="93.886853" y="129.591669" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="141.459143" y="140.59038" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="189.031434" y="150.14682" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="236.603724" y="158.074357" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="284.176014" y="165.988221" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="331.748304" y="172.94467" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="379.320595" y="176.833812" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="426.892885" y="177.076759" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="474.465175" y="175.174902" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="522.037466" y="200.089034" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="569.609756" y="166.189196" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="617.182046" y="166.669318" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="664.754336" y="176.83482" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="712.326627" y="179.469749" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="759.898917" y="179.747159" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_26">
+    <path d="M 93.886853 91.19813  L 141.459143 116.255372  L 189.031434 156.32578  L 236.603724 167.281566  L 284.176014 104.777561  L 331.748304 118.710356  L 379.320595 113.840925  L 426.892885 146.285134  L 474.465175 158.439824  L 522.037466 159.927243  L 569.609756 166.356268  L 617.182046 170.12979  L 664.754336 166.010265  L 712.326627 169.720605  L 759.898917 173.71078  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" d="M 0 -2  L -2 2  L 2 2  z " style="stroke: #606a24; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="93.886853" y="91.19813" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="141.459143" y="116.255372" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="189.031434" y="156.32578" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="236.603724" y="167.281566" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="284.176014" y="104.777561" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="331.748304" y="118.710356" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="379.320595" y="113.840925" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="426.892885" y="146.285134" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="474.465175" y="158.439824" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="522.037466" y="159.927243" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="569.609756" y="166.356268" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="617.182046" y="170.12979" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="664.754336" y="166.010265" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="712.326627" y="169.720605" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="759.898917" y="173.71078" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_27">
+    <path d="M 93.886853 220.874969  L 141.459143 222.510293  L 189.031434 221.305823  L 236.603724 224.530983  L 284.176014 228.708915  L 331.748304 231.458017  L 379.320595 229.30694  L 426.892885 229.555785  L 474.465175 229.975424  L 522.037466 235.55944  L 569.609756 236.774269  L 617.182046 239.462416  L 664.754336 237.714912  L 712.326627 235.65815  L 759.898917 235.170764  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" d="M -0 2.828427  L 2.828427 0  L 0 -2.828427  L -2.828427 -0  z " style="stroke: #4d405d; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="93.886853" y="220.874969" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="141.459143" y="222.510293" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="189.031434" y="221.305823" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="236.603724" y="224.530983" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="284.176014" y="228.708915" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="331.748304" y="231.458017" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="379.320595" y="229.30694" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="426.892885" y="229.555785" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="474.465175" y="229.975424" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="522.037466" y="235.55944" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="569.609756" y="236.774269" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="617.182046" y="239.462416" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="664.754336" y="237.714912" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="712.326627" y="235.65815" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="759.898917" y="235.170764" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_28">
+    <path d="M 93.886853 237.841645  L 141.459143 242.329847  L 189.031434 241.565142  L 236.603724 240.626052  L 284.176014 242.306956  L 331.748304 240.58394  L 379.320595 239.768578  L 426.892885 233.427832  L 474.465175 231.36868  L 522.037466 230.335168  L 569.609756 233.742814  L 617.182046 241.196673  L 664.754336 239.638657  L 712.326627 237.656192  L 759.898917 243.486332  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" d="M -0 2  L 2 -2  L -2 -2  z " style="stroke: #8c416d; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="93.886853" y="237.841645" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="141.459143" y="242.329847" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="189.031434" y="241.565142" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="236.603724" y="240.626052" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="284.176014" y="242.306956" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="331.748304" y="240.58394" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="379.320595" y="239.768578" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="426.892885" y="233.427832" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="474.465175" y="231.36868" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="522.037466" y="230.335168" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="569.609756" y="233.742814" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="617.182046" y="241.196673" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="664.754336" y="239.638657" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="712.326627" y="237.656192" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="759.898917" y="243.486332" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_29">
+    <path d="M 93.886853 235.480564  L 141.459143 209.217457  L 189.031434 178.452532  L 236.603724 178.515688  L 284.176014 178.21888  L 331.748304 180.056393  L 379.320595 186.748767  L 426.892885 192.039201  L 474.465175 193.636469  L 522.037466 193.347518  L 569.609756 194.15013  L 617.182046 185.723061  L 664.754336 185.298374  L 712.326627 187.615597  L 759.898917 202.117145  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" d="M -0.666667 2  L 0.666667 2  L 0.666667 0.666667  L 2 0.666667  L 2 -0.666667  L 0.666667 -0.666667  L 0.666667 -2  L -0.666667 -2  L -0.666667 -0.666667  L -2 -0.666667  L -2 0.666667  L -0.666667 0.666667  z " style="stroke: #525252; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="93.886853" y="235.480564" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="141.459143" y="209.217457" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="189.031434" y="178.452532" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="236.603724" y="178.515688" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="284.176014" y="178.21888" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="331.748304" y="180.056393" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="379.320595" y="186.748767" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="426.892885" y="192.039201" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="474.465175" y="193.636469" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="522.037466" y="193.347518" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="569.609756" y="194.15013" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="617.182046" y="185.723061" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="664.754336" y="185.298374" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="712.326627" y="187.615597" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="759.898917" y="202.117145" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_30">
+    <path d="M 93.886853 234.546334  L 141.459143 207.805842  L 189.031434 176.601048  L 236.603724 177.657144  L 284.176014 169.709278  L 331.748304 172.554207  L 379.320595 173.385746  L 426.892885 189.980262  L 474.465175 171.476057  L 522.037466 166.62385  L 569.609756 192.241427  L 617.182046 177.079139  L 664.754336 173.277926  L 712.326627 178.168481  L 759.898917 179.370089  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)" style="fill: none; stroke: #007f78; stroke-width: 1.7; stroke-linecap: square" />
+    <defs>
+     <path id="mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" d="M -1 2  L 0 1  L 1 2  L 2 1  L 1 0  L 2 -1  L 1 -2  L 0 -1  L -1 -2  L -2 -1  L -1 0  L -2 1  z " style="stroke: #007f78; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="93.886853" y="234.546334" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="141.459143" y="207.805842" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="189.031434" y="176.601048" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="236.603724" y="177.657144" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="284.176014" y="169.709278" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="331.748304" y="172.554207" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="379.320595" y="173.385746" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="426.892885" y="189.980262" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="474.465175" y="171.476057" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="522.037466" y="166.62385" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="569.609756" y="192.241427" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="617.182046" y="177.079139" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="664.754336" y="173.277926" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="712.326627" y="178.168481" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="759.898917" y="179.370089" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-patch_3">
+    <path d="M 60.58625 260.779531  L 60.58625 83.58372  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-patch_4">
+    <path d="M 60.58625 260.779531  L 793.19952 260.779531  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_6">
+    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="60.58625" y="77.58372" transform="rotate(-0 60.58625 77.58372)">Worldwide downloaders</text>
+   </g>
+  </g>
+  <g id="mellon-7.6-godzilla-world-weekly-itu-2026-axes_2">
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-patch_5">
+    <path d="M 60.58625 467.97226  L 793.19952 467.97226  L 793.19952 290.776449  L 60.58625 290.776449  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-matplotlib.axis_3">
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_16">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_31">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="93.886853" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_7">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="93.886853" y="484.090385" transform="rotate(-0 93.886853 484.090385)">1</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_17">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_32">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="141.459143" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_8">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="141.459143" y="484.090385" transform="rotate(-0 141.459143 484.090385)">2</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_18">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_33">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="189.031434" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_9">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="189.031434" y="484.090385" transform="rotate(-0 189.031434 484.090385)">3</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_19">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_34">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="236.603724" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_10">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="236.603724" y="484.090385" transform="rotate(-0 236.603724 484.090385)">4</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_20">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_35">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="284.176014" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_11">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="284.176014" y="484.090385" transform="rotate(-0 284.176014 484.090385)">5</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_21">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_36">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="331.748304" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_12">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="331.748304" y="484.090385" transform="rotate(-0 331.748304 484.090385)">6</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_22">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_37">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="379.320595" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_13">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="379.320595" y="484.090385" transform="rotate(-0 379.320595 484.090385)">7</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_23">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_38">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="426.892885" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_14">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="426.892885" y="484.090385" transform="rotate(-0 426.892885 484.090385)">8</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_24">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_39">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="474.465175" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_15">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="474.465175" y="484.090385" transform="rotate(-0 474.465175 484.090385)">9</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_25">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_40">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="522.037466" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_16">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="522.037466" y="484.090385" transform="rotate(-0 522.037466 484.090385)">10</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_26">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_41">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="569.609756" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_17">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="569.609756" y="484.090385" transform="rotate(-0 569.609756 484.090385)">11</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_27">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_42">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="617.182046" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_18">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="617.182046" y="484.090385" transform="rotate(-0 617.182046 484.090385)">12</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_28">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_43">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="664.754336" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_19">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="664.754336" y="484.090385" transform="rotate(-0 664.754336 484.090385)">13</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_29">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_44">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="712.326627" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_20">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="712.326627" y="484.090385" transform="rotate(-0 712.326627 484.090385)">14</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-xtick_30">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_45">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m009e2501a5" x="759.898917" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_21">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="759.898917" y="484.090385" transform="rotate(-0 759.898917 484.090385)">15</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_22">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="426.892885" y="499.704135" transform="rotate(-0 426.892885 499.704135)">Elapsed sampling week (seven-day interval)</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-matplotlib.axis_4">
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-ytick_5">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_46">
+      <path d="M 60.58625 467.97226  L 793.19952 467.97226  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_47">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_23">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="472.531322" transform="rotate(-0 53.58625 472.531322)">0m</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-ytick_6">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_48">
+      <path d="M 60.58625 434.173605  L 793.19952 434.173605  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_49">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="434.173605" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_24">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="438.732667" transform="rotate(-0 53.58625 438.732667)">0.5m</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-ytick_7">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_50">
+      <path d="M 60.58625 400.37495  L 793.19952 400.37495  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_51">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="400.37495" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_25">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="404.934012" transform="rotate(-0 53.58625 404.934012)">1m</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-ytick_8">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_52">
+      <path d="M 60.58625 366.576295  L 793.19952 366.576295  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_53">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="366.576295" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_26">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="371.135357" transform="rotate(-0 53.58625 371.135357)">1.5m</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-ytick_9">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_54">
+      <path d="M 60.58625 332.77764  L 793.19952 332.77764  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_55">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="332.77764" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_27">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="337.336702" transform="rotate(-0 53.58625 337.336702)">2m</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-ytick_10">
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_56">
+      <path d="M 60.58625 298.978985  L 793.19952 298.978985  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_57">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m6b0521fb35" x="60.58625" y="298.978985" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_28">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="53.58625" y="303.538047" transform="rotate(-0 53.58625 303.538047)">2.5m</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_29">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="379.374354" transform="rotate(-90 16.318125 379.374354)">2026 adjusted weight</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_58">
+    <path d="M 93.886853 417.747836  L 141.459143 432.759542  L 189.031434 441.847595  L 236.603724 448.387889  L 284.176014 443.449737  L 331.748304 446.983596  L 379.320595 450.440535  L 426.892885 452.78722  L 474.465175 455.231518  L 522.037466 457.499333  L 569.609756 457.398871  L 617.182046 458.446373  L 664.754336 458.579148  L 712.326627 458.619258  L 759.898917 459.597487  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="93.886853" y="417.747836" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="141.459143" y="432.759542" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="189.031434" y="441.847595" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="236.603724" y="448.387889" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="284.176014" y="443.449737" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="331.748304" y="446.983596" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="379.320595" y="450.440535" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="426.892885" y="452.78722" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="474.465175" y="455.231518" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="522.037466" y="457.499333" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="569.609756" y="457.398871" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="617.182046" y="458.446373" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="664.754336" y="458.579148" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="712.326627" y="458.619258" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="759.898917" y="459.597487" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_59">
+    <path d="M 93.886853 358.917501  L 141.459143 393.208144  L 189.031434 410.061826  L 236.603724 419.060138  L 284.176014 425.354301  L 331.748304 430.145958  L 379.320595 434.238656  L 426.892885 437.738553  L 474.465175 439.509082  L 522.037466 448.450715  L 569.609756 444.362366  L 617.182046 446.468992  L 664.754336 448.321464  L 712.326627 450.153694  L 759.898917 450.908583  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="93.886853" y="358.917501" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="141.459143" y="393.208144" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="189.031434" y="410.061826" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="236.603724" y="419.060138" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="284.176014" y="425.354301" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="331.748304" y="430.145958" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="379.320595" y="434.238656" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="426.892885" y="437.738553" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="474.465175" y="439.509082" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="522.037466" y="448.450715" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="569.609756" y="444.362366" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="617.182046" y="446.468992" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="664.754336" y="448.321464" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="712.326627" y="450.153694" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="759.898917" y="450.908583" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_60">
+    <path d="M 93.886853 299.171332  L 141.459143 326.30657  L 189.031434 368.465336  L 236.603724 383.590436  L 284.176014 393.736697  L 331.748304 406.310483  L 379.320595 404.192552  L 426.892885 408.887715  L 474.465175 412.770393  L 522.037466 417.742163  L 569.609756 422.020185  L 617.182046 424.88084  L 664.754336 426.898294  L 712.326627 431.358589  L 759.898917 433.911165  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="93.886853" y="299.171332" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="141.459143" y="326.30657" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="189.031434" y="368.465336" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="236.603724" y="383.590436" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="284.176014" y="393.736697" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="331.748304" y="406.310483" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="379.320595" y="404.192552" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="426.892885" y="408.887715" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="474.465175" y="412.770393" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="522.037466" y="417.742163" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="569.609756" y="422.020185" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="617.182046" y="424.88084" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="664.754336" y="426.898294" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="712.326627" y="431.358589" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="759.898917" y="433.911165" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_61">
+    <path d="M 93.886853 431.291854  L 141.459143 442.331972  L 189.031434 442.368777  L 236.603724 447.930911  L 284.176014 450.865957  L 331.748304 454.282911  L 379.320595 455.363557  L 426.892885 455.855696  L 474.465175 456.003071  L 522.037466 459.476913  L 569.609756 462.083459  L 617.182046 463.534374  L 664.754336 463.586986  L 712.326627 463.793387  L 759.898917 464.092336  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="93.886853" y="431.291854" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="141.459143" y="442.331972" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="189.031434" y="442.368777" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="236.603724" y="447.930911" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="284.176014" y="450.865957" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="331.748304" y="454.282911" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="379.320595" y="455.363557" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="426.892885" y="455.855696" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="474.465175" y="456.003071" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="522.037466" y="459.476913" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="569.609756" y="462.083459" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="617.182046" y="463.534374" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="664.754336" y="463.586986" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="712.326627" y="463.793387" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="759.898917" y="464.092336" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_62">
+    <path d="M 93.886853 447.399239  L 141.459143 459.531212  L 189.031434 462.261001  L 236.603724 463.49166  L 284.176014 464.462466  L 331.748304 465.711568  L 379.320595 466.177216  L 426.892885 466.349051  L 474.465175 466.482125  L 522.037466 466.637916  L 569.609756 466.633643  L 617.182046 466.648862  L 664.754336 466.737778  L 712.326627 466.77144  L 759.898917 467.069003  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="93.886853" y="447.399239" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="141.459143" y="459.531212" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="189.031434" y="462.261001" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="236.603724" y="463.49166" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="284.176014" y="464.462466" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="331.748304" y="465.711568" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="379.320595" y="466.177216" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="426.892885" y="466.349051" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="474.465175" y="466.482125" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="522.037466" y="466.637916" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="569.609756" y="466.633643" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="617.182046" y="466.648862" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="664.754336" y="466.737778" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="712.326627" y="466.77144" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="759.898917" y="467.069003" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_63">
+    <path d="M 93.886853 458.635314  L 141.459143 452.50221  L 189.031434 447.752215  L 236.603724 454.064519  L 284.176014 454.562103  L 331.748304 455.816033  L 379.320595 456.573731  L 426.892885 456.535674  L 474.465175 457.340285  L 522.037466 457.165005  L 569.609756 459.760133  L 617.182046 460.828306  L 664.754336 461.620208  L 712.326627 462.270832  L 759.898917 462.947279  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="93.886853" y="458.635314" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="141.459143" y="452.50221" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="189.031434" y="447.752215" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="236.603724" y="454.064519" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="284.176014" y="454.562103" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="331.748304" y="455.816033" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="379.320595" y="456.573731" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="426.892885" y="456.535674" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="474.465175" y="457.340285" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="522.037466" y="457.165005" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="569.609756" y="459.760133" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="617.182046" y="460.828306" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="664.754336" y="461.620208" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="712.326627" y="462.270832" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="759.898917" y="462.947279" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_64">
+    <path d="M 93.886853 458.034577  L 141.459143 451.496835  L 189.031434 443.142348  L 236.603724 454.159088  L 284.176014 457.649272  L 331.748304 459.897153  L 379.320595 460.806202  L 426.892885 461.837399  L 474.465175 462.350868  L 522.037466 462.760575  L 569.609756 464.293817  L 617.182046 463.760272  L 664.754336 463.931969  L 712.326627 464.276174  L 759.898917 464.26813  " clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)" style="fill: none; stroke: #007f78; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228)">
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="93.886853" y="458.034577" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="141.459143" y="451.496835" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="189.031434" y="443.142348" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="236.603724" y="454.159088" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="284.176014" y="457.649272" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="331.748304" y="459.897153" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="379.320595" y="460.806202" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="426.892885" y="461.837399" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="474.465175" y="462.350868" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="522.037466" y="462.760575" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="569.609756" y="464.293817" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="617.182046" y="463.760272" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="664.754336" y="463.931969" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="712.326627" y="464.276174" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="759.898917" y="464.26813" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-patch_6">
+    <path d="M 60.58625 467.97226  L 60.58625 290.776449  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-patch_7">
+    <path d="M 60.58625 467.97226  L 793.19952 467.97226  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_30">
+    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="60.58625" y="284.776449" transform="rotate(-0 60.58625 284.776449)">Worldwide uploaders</text>
+   </g>
+  </g>
+  <g id="mellon-7.6-godzilla-world-weekly-itu-2026-legend_1">
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_65">
+    <path d="M 189.998197 15.718125  L 201.998197 15.718125  L 213.998197 15.718125  " style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g>
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m0cfabb88ed" x="201.998197" y="15.718125" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_31">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="223.598197" y="19.918125" transform="rotate(-0 223.598197 19.918125)">Godzilla Minus One</text>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_66">
+    <path d="M 189.998197 33.331875  L 201.998197 33.331875  L 213.998197 33.331875  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g>
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m567847878a" x="201.998197" y="33.331875" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_32">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="223.598197" y="37.531875" transform="rotate(-0 223.598197 37.531875)">Godzilla x Kong</text>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_67">
+    <path d="M 189.998197 50.945625  L 201.998197 50.945625  L 213.998197 50.945625  " style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <g>
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m38bf5b1055" x="201.998197" y="50.945625" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_33">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="223.598197" y="55.145625" transform="rotate(-0 223.598197 55.145625)">Godzilla vs. Kong</text>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_68">
+    <path d="M 362.721322 15.718125  L 374.721322 15.718125  L 386.721322 15.718125  " style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <g>
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m09b4d3e2df" x="374.721322" y="15.718125" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_34">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="396.321322" y="19.918125" transform="rotate(-0 396.321322 19.918125)">Monarch 101</text>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_69">
+    <path d="M 362.721322 33.331875  L 374.721322 33.331875  L 386.721322 33.331875  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <g>
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m840ec05fe5" x="374.721322" y="33.331875" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_35">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="396.321322" y="37.531875" transform="rotate(-0 396.321322 37.531875)">Monarch 110</text>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_70">
+    <path d="M 498.561322 15.718125  L 510.561322 15.718125  L 522.561322 15.718125  " style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <g>
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-m35dfb26189" x="510.561322" y="15.718125" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_36">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="532.161322" y="19.918125" transform="rotate(-0 532.161322 19.918125)">Monarch 201</text>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-line2d_71">
+    <path d="M 498.561322 33.331875  L 510.561322 33.331875  L 522.561322 33.331875  " style="fill: none; stroke: #007f78; stroke-width: 1.7; stroke-linecap: square" />
+    <g>
+     <use xlink:href="#mellon-7.6-godzilla-world-weekly-itu-2026-mde24e76e58" x="510.561322" y="33.331875" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-world-weekly-itu-2026-text_37">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="532.161322" y="37.531875" transform="rotate(-0 532.161322 37.531875)">Monarch 208</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="mellon-7.6-godzilla-world-weekly-itu-2026-pfd302a28af">
+   <rect x="60.58625" y="83.58372" width="732.61327" height="177.195811" />
+  </clipPath>
+  <clipPath id="mellon-7.6-godzilla-world-weekly-itu-2026-p8548bc8228">
+   <rect x="60.58625" y="290.776449" width="732.61327" height="177.195811" />
+  </clipPath>
+ </defs>
+</svg>

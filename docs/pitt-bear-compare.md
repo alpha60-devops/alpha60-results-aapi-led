@@ -62,11 +62,16 @@ The comparison includes two three-episode Pitt groups from 2026 and Bear seasons
 | The Bear S04 / `bear-04` | 2025-06-26-to-2025-12-31 | 2025-06-26 to 2025-09-03 | 31,111,154 | 4,709,617 |
 
 
-Within the selected windows, the audits report one missing hour for Pitt
-201–203 (February 8–9), seven missing hours for Pitt 213–215 (April 25–26
-and June 2–3), and 29 missing hours including August 15 for Bear S05.
-The pooled comparison is not adjusted for those missing observations.
-Bear S02 adds a four-hour gap on August 29 within its selected window; its December gap and Bear S03's December gaps are outside. The Bear S04 audit verifies its release and records no sparse weekly intervals, but does not establish complete hourly coverage. Other gaps listed in the ledger fall outside these matched windows.
+### Sampling coverage
+
+- **The Pitt 201–203:** Hourly discontinuities: 3 (34 missing hours); Missing days: 1; hourly gap: last `2026-02-08 22:00`, resumed `2026-02-09 00:00` — missing 1 hour(s); hourly gap: last `2026-03-29 01:00`, resumed `2026-03-29 03:00` — missing 1 hour(s); hourly gap: last `2026-07-02 23:00`, resumed `2026-07-04 08:26` — missing 32 hour(s); missing day: `2026-07-03`; Input: **sample-cache-cumulative**. These country close-ups are drawn directly from the original cumulative sample cache after duplicate-BTIH coalescing and IP geolocation. No published GeoJSON, cell publication threshold or product rescaling is used. No ITU adjustment or missing-hour imputation is applied.
+- **The Pitt 213–215:** Hourly discontinuities: 4 (17 missing hours); Missing days: 0; hourly gap: last `2026-04-25 22:01`, resumed `2026-04-26 03:01` — missing 4 hour(s); hourly gap: last `2026-06-02 22:01`, resumed `2026-06-03 02:01` — missing 3 hour(s); hourly gap: last `2026-08-30 22:01`, resumed `2026-08-31 00:01` — missing 1 hour(s); hourly gap: last `2026-09-10 22:01`, resumed `2026-09-11 08:01` — missing 9 hour(s)
+- **The Bear S05:** Hourly discontinuities: 1 (29 missing hours); Missing days: 1; hourly gap: last `2026-08-14 18:02`, resumed `2026-08-16 00:02` — missing 29 hour(s); missing day: `2026-08-15`
+- **The Bear S02:** Hourly discontinuities: 2 (27 missing hours); Missing days: 0; hourly gap: last `2023-08-29 09:06`, resumed `2023-08-29 14:06` — missing 4 hour(s); hourly gap: last `2023-12-01 22:06`, resumed `2023-12-02 22:30` — missing 23 hour(s)
+- **The Bear S03:** Hourly discontinuities: 2 (48 missing hours); Missing days: 1; hourly gap: last `2024-12-12 22:00`, resumed `2024-12-13 00:00` — missing 1 hour(s); hourly gap: last `2024-12-28 22:00`, resumed `2024-12-30 22:00` — missing 47 hour(s); missing day: `2024-12-29`
+- **The Bear S04:** No gap inventory found; this does not establish complete hourly coverage.
+
+These are full-sample audit notes. Only dates overlapping the selected intervals enter the coverage sensitivity below. Opening bins are retained. Missing hours are not imputed.
 
 ## ITU adjustment to 2026 — provisional reference
 
@@ -125,16 +130,25 @@ Adjusted values are rounded only for display. Raw counts and unrounded calculati
 
 ### Revised 2024 denominator sensitivity
 
-Using the later 5.8-billion estimate changes Bear S03’s multiplier from 1.109091 to 1.051724, lowering its adjusted weights by 5.17%. This changes counts, but not its country shares or mobile rates. It replaces only the 2024 denominator; it is not a fully revised historical ITU series.
+Using the later 5.8-billion estimate changes every 2024 object’s multiplier from 1.109091 to 1.051724, lowering its adjusted weights by 5.17%. Country shares and mobile rates are unchanged. This replaces only the 2024 denominator; it is not a fully revised historical ITU series.
 
-| Country | S03 adjusted with 5.5b | S03 adjusted with revised 5.8b |
-| --- | --- | --- |
-| India | 265,429 | 251,700 |
-| Philippines | 75,531 | 71,625 |
-| Australia | 421,723 | 399,910 |
+| Country | 2024 object | Adjusted with 5.5b | Adjusted with revised 5.8b |
+| --- | --- | --- | --- |
+| India | The Bear S03 | 265,429 | 251,700 |
+| Philippines | The Bear S03 | 75,531 | 71,625 |
+| Australia | The Bear S03 | 421,723 | 399,910 |
 
 
-Sources: [ITU 2023](https://www.itu.int/en/mediacentre/Pages/PR-2023-11-27-facts-and-figures-measuring-digital-development.aspx), [ITU 2024](https://www.itu.int/en/mediacentre/Pages/PR-2024-11-27-facts-and-figures.aspx), [ITU 2025 and revised 2024](https://www.itu.int/en/mediacentre/Pages/PR-2025-11-17-Facts-and-Figures.aspx), [latest publication index](https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx), and [versioned calculation policy](../data/mellon-7.6-itu-2026.json).
+Sources: [ITU 2023](https://www.itu.int/en/mediacentre/Pages/PR-2023-11-27-facts-and-figures-measuring-digital-development.aspx), [ITU 2024](https://www.itu.int/en/mediacentre/Pages/PR-2024-11-27-facts-and-figures.aspx), [ITU 2025](https://www.itu.int/en/mediacentre/Pages/PR-2025-11-17-Facts-and-Figures.aspx), [ITU 2025 and revised 2024](https://www.itu.int/en/mediacentre/Pages/PR-2025-11-17-Facts-and-Figures.aspx), [latest publication index](https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx), and [versioned calculation policy](../data/mellon-7.6-itu-2026.json).
+
+{::nomarkdown}
+<figure class="analysis-figure">
+{% include mellon-7.6-pitt-bear-compare-world-weekly-itu-2026.svg %}
+<figcaption>Worldwide weekly downloaders and uploaders, weeks 1–10, scaled to the provisional 6.1-billion 2026 reference. The two role panels use different vertical scales. Raw interval values are retained in the ledger. <a href="../resources/mellon-7.6-pitt-bear-compare-world-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
+<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
+</figure>
+{:/}
+
 
 ### Coverage sensitivity
 
@@ -161,7 +175,7 @@ As a conservative check, exclude every elapsed-week index that has a `-partial` 
 | Australia | The Bear S03 | 1.86% | 1.47% |
 | Australia | The Bear S04 | 1.91% | 1.52% |
 
-Only week 6 survives this strict all-six intersection. That one-week diagnostic is too narrow to establish robustness of the ten-week conclusions; it is shown as a coverage limitation, not a replacement comparison.
+This leaves 1 of 10 intervals. It is a sparse coverage diagnostic; missing observations are not estimated.
 
 ## Country distribution and network composition
 
@@ -332,6 +346,8 @@ Unlocated or outside-crop downloader weight: ≥1080p **0**; <1080p **0**. These
 </details>
 
 Projection: [Cartofreako native Cahill–Keyes](https://github.com/bdekoz/cartofreako/blob/ec201801a0386fc681c7637e26a838117ecf23de/src.projections/cart0freak0-cahill-keyes.h), with its one-degree longitude registration; developed from the Cahill–Keyes work of Gene Keyes and Mary Jo Graça. Basemap: [Natural Earth 1:10m countries](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/), public domain. [Country boundary extract](../data/mellon-7.6-country-boundaries.geojson) and [projection, crop and omitted-weight provenance](../data/mellon-7.6-country-plates-provenance.json). Member resolutions, all cities, weekly group totals and pinned source hashes are in the calculation ledger.
+
+
 
 ## Hot and cold locations
 
@@ -590,7 +606,16 @@ Each line shows that week’s country share of worldwide downloader weight. All 
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pitt-bear-compare-weekly-itu-2026.svg %}
-<figcaption>Downloader swarm weights at the provisional 2026 Internet-user scale (6.1 billion). Each title uses its sample-start-year factor; this does not adjust country-specific Internet penetration or missing sampling hours. <a href="../resources/mellon-7.6-pitt-bear-compare-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
+<figcaption>Downloaders swarm weights, weeks 1–10, at the provisional 2026 Internet-user scale (6.1 billion). Each object uses its sample-start-year factor; country-specific penetration and missing hours are not adjusted. <a href="../resources/mellon-7.6-pitt-bear-compare-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
+<div class="map-tooltip" role="status" aria-live="polite" hidden></div>
+</figure>
+{:/}
+
+
+{::nomarkdown}
+<figure class="analysis-figure">
+{% include mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders.svg %}
+<figcaption>Uploaders swarm weights, weeks 1–10, at the provisional 2026 Internet-user scale (6.1 billion). Each object uses its sample-start-year factor; country-specific penetration and missing hours are not adjusted. <a href="../resources/mellon-7.6-pitt-bear-compare-weekly-itu-2026-uploaders.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}
@@ -602,7 +627,7 @@ Each line shows that week’s country share of worldwide downloader weight. All 
 - **The Bear S03:** India peaks in week 1 (34,513); week 10 versus week 1 weight changes -41.1%, and mobile rate changes -3.27 pp; Philippines peaks in week 1 (16,289); week 10 versus week 1 weight changes -75.5%, and mobile rate changes -0.94 pp; Australia peaks in week 1 (71,355); week 10 versus week 1 weight changes -63.9%, and mobile rate changes -2.40 pp.
 - **The Bear S04:** India peaks in week 1 (39,573); week 10 versus week 1 weight changes -62.5%, and mobile rate changes -5.59 pp; Philippines peaks in week 1 (18,544); week 10 versus week 1 weight changes -74.9%, and mobile rate changes +4.24 pp; Australia peaks in week 1 (133,265); week 10 versus week 1 weight changes -77.9%, and mobile rate changes -0.43 pp.
 
-These are descriptive peaks within the selected ten bins, not release-day peaks or evidence of a weekday effect. No daily or hourly behavioral claim is inferred from weekly data.
+These are descriptive peaks within the selected bins, not release-day peaks or evidence of a weekday effect. No daily or hourly behavioral claim is inferred from weekly data.
 
 <details markdown="1"><summary>Weekly counts, mobile rates and calendar dates</summary>
 
@@ -1289,28 +1314,30 @@ During this window, the Pitt audit reports one missing hour on August 30–31 an
 {:/}
 
 
-## Projection choices
+## Map projection and country outlines
 
-1. **Equal Earth, centered at 120°E, cropped to 65–156°E and 46°S–39°N, keeps India, the Philippines and Australia together.** The city-difference maps use that geographic
-   preclip and central-meridian variant with the spherical Equal Earth equations
-   through PROJ. It is an area-preserving display, not a density normalization.
-   Cartofreako documents Equal Earth as an **exploration-only comparison method**,
-   outside its six production atlas families. This centered variant is not
-   EPSG:8857 and is not presented as a new registered CRS.
-2. **Cahill–Keyes**, for a complementary full-world view consistent with Alpha60's
-   existing geography. Its 70–160°E northern and southern octants place most of
-   South/East Asia and Australia together. A Pacific/USA comparison crosses
-   octants; retain visible cuts and split paths correctly. Use the same data,
-   colors and denominators when comparing layouts. The three country close-ups above use the native registered Cahill–Keyes projection. The city-difference maps use Equal Earth.
+The city-difference panels use **Cartofreako's native Cahill–Keyes projection**,
+with its one-degree longitude registration, and **Izzi** for the vector SVG.
+Each country's complete projected outline and selected city coordinates are
+uniformly fitted into its panel, preserving projected proportions. Panel scales
+therefore differ by country; geographic area is not comparable between panels.
+City values still use the same world denominators and color scale across maps.
 
-References: [Cartofreako Equal Earth context](https://bdekoz.github.io/cartofreako/docs/pages/projections/equal-earth/context.html),
-[equations and implementation boundary](https://bdekoz.github.io/cartofreako/docs/pages/projections/equal-earth/implementation.html),
-[Cahill–Keyes geometry and octants](https://bdekoz.github.io/cartofreako/docs/pages/projections/cahill-keyes/context.html).
+Natural Earth v5.1.2 1:10m country polygons have intersecting lake and reservoir
+water removed. Interior rings are retained with even-odd filling, and country
+polygons are split at the registered octant seams before projection. This keeps
+Great Lakes shorelines visible and avoids lines bridging projection cuts.
+Boundaries follow Natural Earth's de facto geometry. The previously published
+Pitt resolution plates retain their original inputs and documented country crops.
+
+References: [Cartofreako Cahill–Keyes geometry and octants](https://bdekoz.github.io/cartofreako/docs/pages/projections/cahill-keyes/context.html),
+[Izzi](https://github.com/bdekoz/izzi), and the
+[country and lake geometry with source hashes](../data/mellon-7.6-map-boundaries.json).
 
 ## Methods and limits
 
 - **Units:** sum `downloaders.size` or `uploaders.size` in the top-level
-  `features` array of each weekly aggregate GeoJSON. Summing ten intervals
+  `features` array of each weekly aggregate GeoJSON. Summing the selected intervals
   produces repeated swarm weights across weeks and torrents, not unique people,
   unique addresses over the full window, or completed views. The nested
   `collection_week_by_btiha` is not added again.
@@ -1348,15 +1375,15 @@ References: [Cartofreako Equal Earth context](https://bdekoz.github.io/cartofrea
 ## References and reproduction
 
 - [Calculation ledger: every interval, country, network field, city and source SHA-256](../data/mellon-7.6-analysis.json). All ten flags for both roles are retained.
-- [The Pitt 201–203: pitt-201-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2026/blob/55986b899dad42e378dffedb0e13d2888358833f/data/json/pitt-201-cumulative.json).
-- [The Pitt 201–203: pitt-201-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2026/blob/55986b899dad42e378dffedb0e13d2888358833f/docs/itemized/pitt-201-sample-cache-audit.md).
-- [The Pitt 201–203: first analyzed weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2026/blob/55986b899dad42e378dffedb0e13d2888358833f/data/geojson.week/pitt-201-week-00001.geojson.gz); matched and extended interval filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
-- [The Pitt 213–215: pitt-213-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2026/blob/55986b899dad42e378dffedb0e13d2888358833f/data/json/pitt-213-cumulative.json).
-- [The Pitt 213–215: pitt-213-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2026/blob/55986b899dad42e378dffedb0e13d2888358833f/docs/itemized/pitt-213-sample-cache-audit.md).
-- [The Pitt 213–215: first analyzed weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2026/blob/55986b899dad42e378dffedb0e13d2888358833f/data/geojson.week/pitt-213-week-00001.geojson.gz); matched and extended interval filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
-- [The Bear S05: bear-05-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2026/blob/55986b899dad42e378dffedb0e13d2888358833f/data/json/bear-05-cumulative.json).
-- [The Bear S05: bear-05-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2026/blob/55986b899dad42e378dffedb0e13d2888358833f/docs/itemized/bear-05-sample-cache-audit.md).
-- [The Bear S05: first analyzed weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2026/blob/55986b899dad42e378dffedb0e13d2888358833f/data/geojson.week/bear-05-week-00001.geojson.gz); matched and extended interval filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
+- [The Pitt 201–203: pitt-201-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2026/blob/834a62f1dda3071906190c64caef241282d90bff/data/json/pitt-201-cumulative.json).
+- [The Pitt 201–203: pitt-201-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2026/blob/834a62f1dda3071906190c64caef241282d90bff/docs/itemized/pitt-201-sample-cache-audit.md).
+- [The Pitt 201–203: first analyzed weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2026/blob/834a62f1dda3071906190c64caef241282d90bff/data/geojson.week/pitt-201-week-00001.geojson.gz); matched and extended interval filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
+- [The Pitt 213–215: pitt-213-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2026/blob/834a62f1dda3071906190c64caef241282d90bff/data/json/pitt-213-cumulative.json).
+- [The Pitt 213–215: pitt-213-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2026/blob/834a62f1dda3071906190c64caef241282d90bff/docs/itemized/pitt-213-sample-cache-audit.md).
+- [The Pitt 213–215: first analyzed weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2026/blob/834a62f1dda3071906190c64caef241282d90bff/data/geojson.week/pitt-213-week-00001.geojson.gz); matched and extended interval filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
+- [The Bear S05: bear-05-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2026/blob/834a62f1dda3071906190c64caef241282d90bff/data/json/bear-05-cumulative.json).
+- [The Bear S05: bear-05-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2026/blob/834a62f1dda3071906190c64caef241282d90bff/docs/itemized/bear-05-sample-cache-audit.md).
+- [The Bear S05: first analyzed weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2026/blob/834a62f1dda3071906190c64caef241282d90bff/data/geojson.week/bear-05-week-00001.geojson.gz); matched and extended interval filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
 - [The Bear S02: bear-02-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2023/blob/188eac9b11645cc48caa174c7785c554bf972402/data/json/bear-02-cumulative.json).
 - [The Bear S02: bear-02-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2023/blob/188eac9b11645cc48caa174c7785c554bf972402/docs/itemized/bear-02-sample-cache-audit.md).
 - [The Bear S02: first analyzed weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2023/blob/188eac9b11645cc48caa174c7785c554bf972402/data/geojson.week/bear-02-week-00001.geojson.gz); matched and extended interval filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
@@ -1366,5 +1393,5 @@ References: [Cartofreako Equal Earth context](https://bdekoz.github.io/cartofrea
 - [The Bear S04: bear-04-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2025/blob/3f07b93850efbd8bd77d9bdf020ec04401bf4ac5/data/json/bear-04-cumulative.json).
 - [The Bear S04: bear-04-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2025/blob/3f07b93850efbd8bd77d9bdf020ec04401bf4ac5/docs/itemized/bear-04-sample-cache-audit.md).
 - [The Bear S04: first analyzed weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2025/blob/3f07b93850efbd8bd77d9bdf020ec04401bf4ac5/data/geojson.week/bear-04-week-00001.geojson.gz); matched and extended interval filenames and hashes are in the ledger. Companion export version `2026-06-18`; IP-geolocation version `6:1777968300`.
-- [Basemap source](https://github.com/bdekoz/cartofreako/blob/ec201801a0386fc681c7637e26a838117ecf23de/src.wasm/cartofreako-cahill-keyes-land-110m.geojson); SHA-256 `7e3775f54f715d69ea7ddf91c4e270d195473250543a7a3e60f45002fe34dffa`. Natural Earth data are public domain.
+- [Native projection source](https://github.com/bdekoz/cartofreako/blob/ec201801a0386fc681c7637e26a838117ecf23de/src.projections/cart0freak0-cahill-keyes.h); SHA-256 `0c3b945711e655d4dd70208457bca2f400fd6edc0869f1a1c87ad57847f56ba2`. Natural Earth data are public domain; [country and lake geometry with upstream hashes](../data/mellon-7.6-map-boundaries.json).
 - [Download the analysis script](../resources/mellon-7.6-analyze.py) and [ITU configuration](../data/mellon-7.6-itu-2026.json). Run with `--source-root /path/to/checkouts --output /path/to/output --itu-config /path/to/mellon-7.6-itu-2026.json`, with the annual repositories checked out at the ledger commits. It emits JSON only. Then run the [extension script](../resources/mellon-7.6-extend.py) in the same directory as the analysis script with `--source-root /path/to/checkouts --ledger /path/to/output/analysis.json` to add extended intervals and by-BTIH resolution weights. [Figure and validation scripts (repository access required)](https://github.com/bdekoz/alpha60/tree/main/scripts): `render-mellon-7-6-aapi.py` and `check-mellon-7-6-aapi.py`.

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.39952pt" height="559.19952pt" viewBox="0 0 800.39952 559.19952" version="1.1" role="group" aria-label="Weekly adjusted country weights. Common vertical scale; provisional 2026 ITU scaling." class="analysis-svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.39952pt" height="559.19952pt" viewBox="0 0 800.39952 559.19952" version="1.1" role="group" aria-label="Weekly adjusted country downloaders weights. Common vertical scale; provisional 2026 ITU scaling." class="analysis-svg">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
@@ -832,7 +832,7 @@
    </g>
   </g>
   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_36">
-   <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle" x="400.19976" y="17.077969" transform="rotate(-0 400.19976 17.077969)">2026 Internet-user scale · provisional 6.1 billion reference</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle" x="400.19976" y="17.077969" transform="rotate(-0 400.19976 17.077969)">Downloaders · 2026 scale · provisional 6.1 billion reference</text>
   </g>
  </g>
  <defs>

@@ -1,0 +1,1099 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.39952pt" height="509.39976pt" viewBox="0 0 800.39952 509.39976" version="1.1" role="group" aria-label="Beef S02 versus Lazarus 101 weekly geography. Weeks 1–15; USA and Asia-28 including Taiwan; downloaders and uploaders; identical 0–100 percent axes." class="analysis-svg">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Alpha60 Mellon 7.6</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="mellon-7.6-pair-beef-lazarus-weekly-figure_1">
+  <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_1">
+   <path d="M 0 509.39976  L 800.39952 509.39976  L 800.39952 -0  L 0 -0  z " style="fill: #ffffff" />
+  </g>
+  <g id="mellon-7.6-pair-beef-lazarus-weekly-axes_1">
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_2">
+    <path d="M 52.71875 243.165781  L 417.249135 243.165781  L 417.249135 48.35622  L 52.71875 48.35622  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-matplotlib.axis_1">
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_1">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_1">
+      <defs>
+       <path id="mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8" />
+      </defs>
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="69.288313" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_2">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_2">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="92.959117" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_3">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_3">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="116.629921" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_4">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_4">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="140.300726" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_5">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_5">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="163.97153" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_6">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_6">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="187.642334" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_7">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_7">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="211.313138" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_8">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_8">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="234.983943" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_9">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_9">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="258.654747" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_10">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_10">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="282.325551" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_11">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_11">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="305.996355" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_12">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_12">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="329.667159" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_13">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_13">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="353.337964" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_14">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_14">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="377.008768" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_15">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_15">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="400.679572" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-matplotlib.axis_2">
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_1">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_16">
+      <path d="M 52.71875 243.165781  L 417.249135 243.165781  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_17">
+      <defs>
+       <path id="mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8" />
+      </defs>
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="52.71875" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="247.724844" transform="rotate(-0 45.71875 247.724844)">0</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_2">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_18">
+      <path d="M 52.71875 204.203869  L 417.249135 204.203869  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_19">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="52.71875" y="204.203869" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="208.762931" transform="rotate(-0 45.71875 208.762931)">20</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_3">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_20">
+      <path d="M 52.71875 165.241957  L 417.249135 165.241957  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_21">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="52.71875" y="165.241957" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="169.801019" transform="rotate(-0 45.71875 169.801019)">40</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_4">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_22">
+      <path d="M 52.71875 126.280044  L 417.249135 126.280044  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_23">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="52.71875" y="126.280044" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="130.839107" transform="rotate(-0 45.71875 130.839107)">60</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_5">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_24">
+      <path d="M 52.71875 87.318132  L 417.249135 87.318132  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_25">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="52.71875" y="87.318132" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="91.877195" transform="rotate(-0 45.71875 91.877195)">80</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_6">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_26">
+      <path d="M 52.71875 48.35622  L 417.249135 48.35622  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-p51a326f11e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_27">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="52.71875" y="48.35622" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="52.915282" transform="rotate(-0 45.71875 52.915282)">100</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-text_7">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="145.761001" transform="rotate(-90 16.318125 145.761001)">World share (%)</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_28">
+    <path d="M 69.288313 225.054299  L 92.959117 228.609936  L 116.629921 229.83758  L 140.300726 230.100251  L 163.97153 230.355809  L 187.642334 230.676718  L 211.313138 230.647941  L 234.983943 231.869414  L 258.654747 230.557761  L 282.325551 230.992012  L 305.996355 230.373515  L 329.667159 230.481558  L 353.337964 230.24354  L 377.008768 230.930585  L 400.679572 230.985332  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-p51a326f11e)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <defs>
+     <path id="mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" d="M 0 2  C 0.530406 2 1.03916 1.789267 1.414214 1.414214  C 1.789267 1.03916 2 0.530406 2 0  C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214  C 1.03916 -1.789267 0.530406 -2 0 -2  C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214  C -1.789267 -1.03916 -2 -0.530406 -2 0  C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214  C -1.03916 1.789267 -0.530406 2 0 2  z " style="stroke: #175b8c" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-p51a326f11e)">
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="69.288313" y="225.054299" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="92.959117" y="228.609936" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="116.629921" y="229.83758" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="140.300726" y="230.100251" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="163.97153" y="230.355809" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="187.642334" y="230.676718" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="211.313138" y="230.647941" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="234.983943" y="231.869414" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="258.654747" y="230.557761" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="282.325551" y="230.992012" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="305.996355" y="230.373515" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="329.667159" y="230.481558" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="353.337964" y="230.24354" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="377.008768" y="230.930585" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="400.679572" y="230.985332" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_29">
+    <path d="M 69.288313 228.365496  L 92.959117 226.632998  L 116.629921 228.776569  L 140.300726 228.730656  L 163.97153 229.677603  L 187.642334 230.300583  L 211.313138 228.780198  L 234.983943 228.40312  L 258.654747 229.465944  L 282.325551 228.396808  L 305.996355 229.219547  L 329.667159 229.800616  L 353.337964 229.429681  L 377.008768 230.107331  L 400.679572 228.838466  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-p51a326f11e)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-pair-beef-lazarus-weekly-m567847878a" d="M -2 2  L 2 2  L 2 -2  L -2 -2  z " style="stroke: #9b4318; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-p51a326f11e)">
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="69.288313" y="228.365496" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="92.959117" y="226.632998" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="116.629921" y="228.776569" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="140.300726" y="228.730656" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="163.97153" y="229.677603" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="187.642334" y="230.300583" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="211.313138" y="228.780198" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="234.983943" y="228.40312" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="258.654747" y="229.465944" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="282.325551" y="228.396808" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="305.996355" y="229.219547" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="329.667159" y="229.800616" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="353.337964" y="229.429681" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="377.008768" y="230.107331" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="400.679572" y="228.838466" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_3">
+    <path d="M 52.71875 243.165781  L 52.71875 48.35622  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_4">
+    <path d="M 52.71875 243.165781  L 417.249135 243.165781  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-text_8">
+    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="52.71875" y="42.35622" transform="rotate(-0 52.71875 42.35622)">USA · downloaders</text>
+   </g>
+  </g>
+  <g id="mellon-7.6-pair-beef-lazarus-weekly-axes_2">
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_5">
+    <path d="M 428.669135 243.165781  L 793.19952 243.165781  L 793.19952 48.35622  L 428.669135 48.35622  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-matplotlib.axis_3">
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_16">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_30">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="445.238698" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_17">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_31">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="468.909502" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_18">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_32">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="492.580306" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_19">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_33">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="516.251111" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_20">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_34">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="539.921915" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_21">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_35">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="563.592719" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_22">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_36">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="587.263523" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_23">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_37">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="610.934327" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_24">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_38">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="634.605132" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_25">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_39">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="658.275936" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_26">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_40">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="681.94674" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_27">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_41">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="705.617544" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_28">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_42">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="729.288349" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_29">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_43">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="752.959153" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_30">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_44">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="776.629957" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-matplotlib.axis_4">
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_7">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_45">
+      <path d="M 428.669135 243.165781  L 793.19952 243.165781  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_46">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="428.669135" y="243.165781" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_8">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_47">
+      <path d="M 428.669135 204.203869  L 793.19952 204.203869  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_48">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="428.669135" y="204.203869" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_9">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_49">
+      <path d="M 428.669135 165.241957  L 793.19952 165.241957  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_50">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="428.669135" y="165.241957" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_10">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_51">
+      <path d="M 428.669135 126.280044  L 793.19952 126.280044  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_52">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="428.669135" y="126.280044" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_11">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_53">
+      <path d="M 428.669135 87.318132  L 793.19952 87.318132  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_54">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="428.669135" y="87.318132" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_12">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_55">
+      <path d="M 428.669135 48.35622  L 793.19952 48.35622  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pb8318d7784)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_56">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="428.669135" y="48.35622" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_57">
+    <path d="M 445.238698 201.209215  L 468.909502 197.11572  L 492.580306 190.781435  L 516.251111 190.437857  L 539.921915 185.250703  L 563.592719 186.815466  L 587.263523 186.49911  L 610.934327 200.094693  L 634.605132 182.946906  L 658.275936 180.983889  L 681.94674 177.31379  L 705.617544 180.009348  L 729.288349 182.969164  L 752.959153 185.626843  L 776.629957 191.468519  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pb8318d7784)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pb8318d7784)">
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="445.238698" y="201.209215" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="468.909502" y="197.11572" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="492.580306" y="190.781435" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="516.251111" y="190.437857" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="539.921915" y="185.250703" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="563.592719" y="186.815466" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="587.263523" y="186.49911" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="610.934327" y="200.094693" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="634.605132" y="182.946906" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="658.275936" y="180.983889" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="681.94674" y="177.31379" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="705.617544" y="180.009348" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="729.288349" y="182.969164" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="752.959153" y="185.626843" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="776.629957" y="191.468519" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_58">
+    <path d="M 445.238698 201.000842  L 468.909502 191.447586  L 492.580306 203.464306  L 516.251111 209.20503  L 539.921915 204.109463  L 563.592719 209.205502  L 587.263523 196.693358  L 610.934327 190.684109  L 634.605132 205.041482  L 658.275936 192.264398  L 681.94674 192.344935  L 705.617544 198.233719  L 729.288349 201.789466  L 752.959153 207.013037  L 776.629957 188.313631  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pb8318d7784)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pb8318d7784)">
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="445.238698" y="201.000842" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="468.909502" y="191.447586" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="492.580306" y="203.464306" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="516.251111" y="209.20503" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="539.921915" y="204.109463" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="563.592719" y="209.205502" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="587.263523" y="196.693358" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="610.934327" y="190.684109" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="634.605132" y="205.041482" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="658.275936" y="192.264398" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="681.94674" y="192.344935" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="705.617544" y="198.233719" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="729.288349" y="201.789466" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="752.959153" y="207.013037" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="776.629957" y="188.313631" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_6">
+    <path d="M 428.669135 243.165781  L 428.669135 48.35622  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_7">
+    <path d="M 428.669135 243.165781  L 793.19952 243.165781  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-text_9">
+    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="428.669135" y="42.35622" transform="rotate(-0 428.669135 42.35622)">Asia-28 · downloaders</text>
+   </g>
+  </g>
+  <g id="mellon-7.6-pair-beef-lazarus-weekly-axes_3">
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_8">
+    <path d="M 52.71875 467.97226  L 417.249135 467.97226  L 417.249135 273.162699  L 52.71875 273.162699  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-matplotlib.axis_5">
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_31">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_59">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="69.288313" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_10">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="69.288313" y="484.090385" transform="rotate(-0 69.288313 484.090385)">1</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_32">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_60">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="92.959117" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_11">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="92.959117" y="484.090385" transform="rotate(-0 92.959117 484.090385)">2</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_33">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_61">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="116.629921" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_12">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="116.629921" y="484.090385" transform="rotate(-0 116.629921 484.090385)">3</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_34">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_62">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="140.300726" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_13">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="140.300726" y="484.090385" transform="rotate(-0 140.300726 484.090385)">4</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_35">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_63">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="163.97153" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_14">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="163.97153" y="484.090385" transform="rotate(-0 163.97153 484.090385)">5</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_36">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_64">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="187.642334" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_15">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="187.642334" y="484.090385" transform="rotate(-0 187.642334 484.090385)">6</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_37">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_65">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="211.313138" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_16">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="211.313138" y="484.090385" transform="rotate(-0 211.313138 484.090385)">7</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_38">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_66">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="234.983943" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_17">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="234.983943" y="484.090385" transform="rotate(-0 234.983943 484.090385)">8</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_39">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_67">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="258.654747" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_18">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="258.654747" y="484.090385" transform="rotate(-0 258.654747 484.090385)">9</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_40">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_68">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="282.325551" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_19">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="282.325551" y="484.090385" transform="rotate(-0 282.325551 484.090385)">10</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_41">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_69">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="305.996355" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_20">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="305.996355" y="484.090385" transform="rotate(-0 305.996355 484.090385)">11</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_42">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_70">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="329.667159" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_21">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="329.667159" y="484.090385" transform="rotate(-0 329.667159 484.090385)">12</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_43">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_71">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="353.337964" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_22">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="353.337964" y="484.090385" transform="rotate(-0 353.337964 484.090385)">13</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_44">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_72">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="377.008768" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_23">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="377.008768" y="484.090385" transform="rotate(-0 377.008768 484.090385)">14</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_45">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_73">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="400.679572" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_24">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="400.679572" y="484.090385" transform="rotate(-0 400.679572 484.090385)">15</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-text_25">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="234.983943" y="499.704135" transform="rotate(-0 234.983943 499.704135)">Elapsed sampling week</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-matplotlib.axis_6">
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_13">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_74">
+      <path d="M 52.71875 467.97226  L 417.249135 467.97226  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_75">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="52.71875" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_26">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="472.531322" transform="rotate(-0 45.71875 472.531322)">0</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_14">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_76">
+      <path d="M 52.71875 429.010348  L 417.249135 429.010348  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_77">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="52.71875" y="429.010348" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_27">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="433.56941" transform="rotate(-0 45.71875 433.56941)">20</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_15">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_78">
+      <path d="M 52.71875 390.048435  L 417.249135 390.048435  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_79">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="52.71875" y="390.048435" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_28">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="394.607498" transform="rotate(-0 45.71875 394.607498)">40</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_16">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_80">
+      <path d="M 52.71875 351.086523  L 417.249135 351.086523  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_81">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="52.71875" y="351.086523" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_29">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="355.645586" transform="rotate(-0 45.71875 355.645586)">60</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_17">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_82">
+      <path d="M 52.71875 312.124611  L 417.249135 312.124611  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_83">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="52.71875" y="312.124611" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_30">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="316.683673" transform="rotate(-0 45.71875 316.683673)">80</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_18">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_84">
+      <path d="M 52.71875 273.162699  L 417.249135 273.162699  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-paf324e72a6)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_85">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="52.71875" y="273.162699" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_31">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="45.71875" y="277.721761" transform="rotate(-0 45.71875 277.721761)">100</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-text_32">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="370.567479" transform="rotate(-90 16.318125 370.567479)">World share (%)</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_86">
+    <path d="M 69.288313 431.713114  L 92.959117 431.51927  L 116.629921 432.025849  L 140.300726 428.645737  L 163.97153 426.164699  L 187.642334 423.284865  L 211.313138 423.974677  L 234.983943 424.315101  L 258.654747 424.134867  L 282.325551 426.885529  L 305.996355 425.21333  L 329.667159 425.978625  L 353.337964 421.597122  L 377.008768 422.659823  L 400.679572 426.886705  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-paf324e72a6)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-paf324e72a6)">
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="69.288313" y="431.713114" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="92.959117" y="431.51927" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="116.629921" y="432.025849" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="140.300726" y="428.645737" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="163.97153" y="426.164699" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="187.642334" y="423.284865" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="211.313138" y="423.974677" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="234.983943" y="424.315101" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="258.654747" y="424.134867" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="282.325551" y="426.885529" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="305.996355" y="425.21333" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="329.667159" y="425.978625" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="353.337964" y="421.597122" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="377.008768" y="422.659823" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="400.679572" y="426.886705" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_87">
+    <path d="M 69.288313 439.099072  L 92.959117 434.879028  L 116.629921 433.05699  L 140.300726 433.734377  L 163.97153 433.900268  L 187.642334 428.508479  L 211.313138 429.171521  L 234.983943 426.847162  L 258.654747 424.446873  L 282.325551 422.734017  L 305.996355 423.448672  L 329.667159 428.52921  L 353.337964 427.061531  L 377.008768 423.941037  L 400.679572 429.651793  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-paf324e72a6)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-paf324e72a6)">
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="69.288313" y="439.099072" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="92.959117" y="434.879028" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="116.629921" y="433.05699" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="140.300726" y="433.734377" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="163.97153" y="433.900268" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="187.642334" y="428.508479" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="211.313138" y="429.171521" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="234.983943" y="426.847162" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="258.654747" y="424.446873" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="282.325551" y="422.734017" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="305.996355" y="423.448672" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="329.667159" y="428.52921" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="353.337964" y="427.061531" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="377.008768" y="423.941037" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="400.679572" y="429.651793" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_9">
+    <path d="M 52.71875 467.97226  L 52.71875 273.162699  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_10">
+    <path d="M 52.71875 467.97226  L 417.249135 467.97226  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-text_33">
+    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="52.71875" y="267.162699" transform="rotate(-0 52.71875 267.162699)">USA · uploaders</text>
+   </g>
+  </g>
+  <g id="mellon-7.6-pair-beef-lazarus-weekly-axes_4">
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_11">
+    <path d="M 428.669135 467.97226  L 793.19952 467.97226  L 793.19952 273.162699  L 428.669135 273.162699  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-matplotlib.axis_7">
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_46">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_88">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="445.238698" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_34">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="445.238698" y="484.090385" transform="rotate(-0 445.238698 484.090385)">1</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_47">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_89">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="468.909502" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_35">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="468.909502" y="484.090385" transform="rotate(-0 468.909502 484.090385)">2</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_48">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_90">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="492.580306" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_36">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="492.580306" y="484.090385" transform="rotate(-0 492.580306 484.090385)">3</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_49">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_91">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="516.251111" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_37">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="516.251111" y="484.090385" transform="rotate(-0 516.251111 484.090385)">4</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_50">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_92">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="539.921915" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_38">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="539.921915" y="484.090385" transform="rotate(-0 539.921915 484.090385)">5</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_51">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_93">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="563.592719" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_39">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="563.592719" y="484.090385" transform="rotate(-0 563.592719 484.090385)">6</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_52">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_94">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="587.263523" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_40">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="587.263523" y="484.090385" transform="rotate(-0 587.263523 484.090385)">7</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_53">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_95">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="610.934327" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_41">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="610.934327" y="484.090385" transform="rotate(-0 610.934327 484.090385)">8</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_54">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_96">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="634.605132" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_42">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="634.605132" y="484.090385" transform="rotate(-0 634.605132 484.090385)">9</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_55">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_97">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="658.275936" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_43">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="658.275936" y="484.090385" transform="rotate(-0 658.275936 484.090385)">10</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_56">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_98">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="681.94674" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_44">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="681.94674" y="484.090385" transform="rotate(-0 681.94674 484.090385)">11</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_57">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_99">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="705.617544" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_45">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="705.617544" y="484.090385" transform="rotate(-0 705.617544 484.090385)">12</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_58">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_100">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="729.288349" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_46">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="729.288349" y="484.090385" transform="rotate(-0 729.288349 484.090385)">13</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_59">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_101">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="752.959153" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_47">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="752.959153" y="484.090385" transform="rotate(-0 752.959153 484.090385)">14</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-xtick_60">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_102">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m009e2501a5" x="776.629957" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-text_48">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="776.629957" y="484.090385" transform="rotate(-0 776.629957 484.090385)">15</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-text_49">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="610.934327" y="499.704135" transform="rotate(-0 610.934327 499.704135)">Elapsed sampling week</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-matplotlib.axis_8">
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_19">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_103">
+      <path d="M 428.669135 467.97226  L 793.19952 467.97226  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_104">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="428.669135" y="467.97226" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_20">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_105">
+      <path d="M 428.669135 429.010348  L 793.19952 429.010348  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_106">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="428.669135" y="429.010348" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_21">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_107">
+      <path d="M 428.669135 390.048435  L 793.19952 390.048435  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_108">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="428.669135" y="390.048435" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_22">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_109">
+      <path d="M 428.669135 351.086523  L 793.19952 351.086523  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_110">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="428.669135" y="351.086523" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_23">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_111">
+      <path d="M 428.669135 312.124611  L 793.19952 312.124611  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_112">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="428.669135" y="312.124611" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pair-beef-lazarus-weekly-ytick_24">
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_113">
+      <path d="M 428.669135 273.162699  L 793.19952 273.162699  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pfd45252ebb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_114">
+      <g>
+       <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m6b0521fb35" x="428.669135" y="273.162699" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_115">
+    <path d="M 445.238698 433.483073  L 468.909502 441.818034  L 492.580306 447.073773  L 516.251111 446.792962  L 539.921915 444.893712  L 563.592719 445.747259  L 587.263523 448.060191  L 610.934327 441.941594  L 634.605132 439.521138  L 658.275936 441.145329  L 681.94674 444.261348  L 705.617544 446.009649  L 729.288349 448.582624  L 752.959153 451.760614  L 776.629957 444.82257  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pfd45252ebb)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pfd45252ebb)">
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="445.238698" y="433.483073" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="468.909502" y="441.818034" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="492.580306" y="447.073773" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="516.251111" y="446.792962" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="539.921915" y="444.893712" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="563.592719" y="445.747259" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="587.263523" y="448.060191" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="610.934327" y="441.941594" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="634.605132" y="439.521138" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="658.275936" y="441.145329" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="681.94674" y="444.261348" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="705.617544" y="446.009649" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="729.288349" y="448.582624" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="752.959153" y="451.760614" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="776.629957" y="444.82257" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_116">
+    <path d="M 445.238698 417.689659  L 468.909502 423.493708  L 492.580306 423.94042  L 516.251111 424.366505  L 539.921915 423.625083  L 563.592719 427.428879  L 587.263523 424.411067  L 610.934327 422.243999  L 634.605132 427.548047  L 658.275936 428.933684  L 681.94674 430.161798  L 705.617544 427.57988  L 729.288349 423.7508  L 752.959153 423.929822  L 776.629957 421.989003  " clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pfd45252ebb)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pair-beef-lazarus-weekly-pfd45252ebb)">
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="445.238698" y="417.689659" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="468.909502" y="423.493708" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="492.580306" y="423.94042" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="516.251111" y="424.366505" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="539.921915" y="423.625083" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="563.592719" y="427.428879" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="587.263523" y="424.411067" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="610.934327" y="422.243999" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="634.605132" y="427.548047" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="658.275936" y="428.933684" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="681.94674" y="430.161798" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="705.617544" y="427.57988" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="729.288349" y="423.7508" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="752.959153" y="423.929822" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="776.629957" y="421.989003" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_12">
+    <path d="M 428.669135 467.97226  L 428.669135 273.162699  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-patch_13">
+    <path d="M 428.669135 467.97226  L 793.19952 467.97226  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-text_50">
+    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="428.669135" y="267.162699" transform="rotate(-0 428.669135 267.162699)">Asia-28 · uploaders</text>
+   </g>
+  </g>
+  <g id="mellon-7.6-pair-beef-lazarus-weekly-legend_1">
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_117">
+    <path d="M 291.036322 15.718125  L 303.036322 15.718125  L 315.036322 15.718125  " style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g>
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m0cfabb88ed" x="303.036322" y="15.718125" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-text_51">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="324.636322" y="19.918125" transform="rotate(-0 324.636322 19.918125)">Beef S02</text>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-line2d_118">
+    <path d="M 402.563197 15.718125  L 414.563197 15.718125  L 426.563197 15.718125  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g>
+     <use xlink:href="#mellon-7.6-pair-beef-lazarus-weekly-m567847878a" x="414.563197" y="15.718125" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pair-beef-lazarus-weekly-text_52">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="436.163197" y="19.918125" transform="rotate(-0 436.163197 19.918125)">Lazarus 101</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="mellon-7.6-pair-beef-lazarus-weekly-p51a326f11e">
+   <rect x="52.71875" y="48.35622" width="364.530385" height="194.809561" />
+  </clipPath>
+  <clipPath id="mellon-7.6-pair-beef-lazarus-weekly-pb8318d7784">
+   <rect x="428.669135" y="48.35622" width="364.530385" height="194.809561" />
+  </clipPath>
+  <clipPath id="mellon-7.6-pair-beef-lazarus-weekly-paf324e72a6">
+   <rect x="52.71875" y="273.162699" width="364.530385" height="194.809561" />
+  </clipPath>
+  <clipPath id="mellon-7.6-pair-beef-lazarus-weekly-pfd45252ebb">
+   <rect x="428.669135" y="273.162699" width="364.530385" height="194.809561" />
+  </clipPath>
+ </defs>
+</svg>

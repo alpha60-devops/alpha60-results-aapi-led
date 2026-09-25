@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "method": "global-internet-user-scaling",
   "reference_year": 2026,
   "reference_users_billions": 6.1,
@@ -15,6 +15,11 @@
     "sha256": "302f0f874d5ed3ba2cb7f097c6d5eb3bcf153974087db90b0f5fcbdd16ccf685"
   },
   "years": {
+    "2021": {
+      "users_billions": 4.9,
+      "status": "official_estimate_as_published",
+      "source_url": "https://www.itu.int/itu-d/reports/statistics/facts-figures-2021/"
+    },
     "2023": {
       "users_billions": 5.4,
       "status": "official_estimate_as_published",
@@ -43,6 +48,6 @@
   "revision_sensitivity": {
     "2024_users_billions": 5.8,
     "source_url": "https://www.itu.int/en/mediacentre/Pages/PR-2025-11-17-Facts-and-Figures.aspx",
-    "description": "The 2025 release revises the 2024 estimate to 5.8 billion. This scenario replaces only the Bear S03 denominator."
+    "description": "The 2025 release revises the 2024 estimate to 5.8 billion. This scenario replaces the denominator for every 2024 object, including Bear S03, the two 2024 Godzilla films, and Monarch 110."
   }
 }

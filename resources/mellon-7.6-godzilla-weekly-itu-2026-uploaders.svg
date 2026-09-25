@@ -1,0 +1,1452 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.39952pt" height="742.79952pt" viewBox="0 0 800.39952 742.79952" version="1.1" role="group" aria-label="Weekly adjusted country uploaders weights. Common vertical scale; provisional 2026 ITU scaling." class="analysis-svg">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Alpha60 Mellon 7.6</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-figure_1">
+  <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_1">
+   <path d="M 0 742.79952  L 800.39952 742.79952  L 800.39952 -0  L 0 -0  z " style="fill: #ffffff" />
+  </g>
+  <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-axes_1">
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_2">
+    <path d="M 59.6675 231.545315  L 793.19952 231.545315  L 793.19952 103.869549  L 59.6675 103.869549  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-matplotlib.axis_1">
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_1">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_1">
+      <defs>
+       <path id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8" />
+      </defs>
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="93.009865" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_2">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_2">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="140.641814" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_3">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_3">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="188.273763" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_4">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_4">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="235.905713" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_5">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_5">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="283.537662" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_6">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_6">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="331.169611" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_7">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_7">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="378.801561" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_8">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_8">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="426.43351" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_9">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_9">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="474.065459" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_10">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_10">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="521.697409" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_11">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_11">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="569.329358" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_12">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_12">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="616.961307" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_13">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_13">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="664.593257" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_14">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_14">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="712.225206" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_15">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_15">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="759.857155" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-matplotlib.axis_2">
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_1">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_16">
+      <path d="M 59.6675 231.545315  L 793.19952 231.545315  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_17">
+      <defs>
+       <path id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8" />
+      </defs>
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="231.545315" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="236.104377" transform="rotate(-0 52.6675 236.104377)">0k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_2">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_18">
+      <path d="M 59.6675 196.699987  L 793.19952 196.699987  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_19">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="196.699987" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="201.259049" transform="rotate(-0 52.6675 201.259049)">50k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_3">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_20">
+      <path d="M 59.6675 161.854659  L 793.19952 161.854659  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_21">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="161.854659" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="166.413722" transform="rotate(-0 52.6675 166.413722)">100k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_4">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_22">
+      <path d="M 59.6675 127.009332  L 793.19952 127.009332  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_23">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="127.009332" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="131.568394" transform="rotate(-0 52.6675 131.568394)">150k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_5">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="167.707432" transform="rotate(-90 16.318125 167.707432)">Adjusted weight</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_24">
+    <path d="M 93.009865 227.642004  L 140.641814 229.565834  L 188.273763 230.015681  L 235.905713 230.341085  L 283.537662 230.309395  L 331.169611 230.317897  L 378.801561 230.54514  L 426.43351 230.673446  L 474.065459 230.804072  L 521.697409 230.781657  L 569.329358 230.760015  L 616.961307 230.89837  L 664.593257 230.966388  L 712.225206 230.874409  L 759.857155 230.882911  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <defs>
+     <path id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" d="M 0 2  C 0.530406 2 1.03916 1.789267 1.414214 1.414214  C 1.789267 1.03916 2 0.530406 2 0  C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214  C 1.03916 -1.789267 0.530406 -2 0 -2  C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214  C -1.789267 -1.03916 -2 -0.530406 -2 0  C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214  C -1.03916 1.789267 -0.530406 2 0 2  z " style="stroke: #175b8c" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="93.009865" y="227.642004" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="140.641814" y="229.565834" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="188.273763" y="230.015681" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="235.905713" y="230.341085" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="283.537662" y="230.309395" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="331.169611" y="230.317897" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="378.801561" y="230.54514" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="426.43351" y="230.673446" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="474.065459" y="230.804072" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="521.697409" y="230.781657" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="569.329358" y="230.760015" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="616.961307" y="230.89837" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="664.593257" y="230.966388" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="712.225206" y="230.874409" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="759.857155" y="230.882911" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_25">
+    <path d="M 93.009865 227.916395  L 140.641814 229.508637  L 188.273763 230.085245  L 235.905713 230.21587  L 283.537662 230.380505  L 331.169611 230.542821  L 378.801561 230.712093  L 426.43351 230.7376  L 474.065459 230.779338  L 521.697409 231.024358  L 569.329358 230.932379  L 616.961307 231.011991  L 664.593257 231.00658  L 712.225206 230.98262  L 759.857155 231.080782  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" d="M -2 2  L 2 2  L 2 -2  L -2 -2  z " style="stroke: #9b4318; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="93.009865" y="227.916395" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="140.641814" y="229.508637" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="188.273763" y="230.085245" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="235.905713" y="230.21587" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="283.537662" y="230.380505" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="331.169611" y="230.542821" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="378.801561" y="230.712093" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="426.43351" y="230.7376" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="474.065459" y="230.779338" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="521.697409" y="231.024358" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="569.329358" y="230.932379" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="616.961307" y="231.011991" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="664.593257" y="231.00658" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="712.225206" y="230.98262" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="759.857155" y="231.080782" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_26">
+    <path d="M 93.009865 226.361539  L 140.641814 227.727973  L 188.273763 229.247969  L 235.905713 229.607146  L 283.537662 227.614321  L 331.169611 227.695873  L 378.801561 227.367061  L 426.43351 229.167285  L 474.065459 228.8966  L 521.697409 229.493494  L 569.329358 229.765045  L 616.961307 229.62016  L 664.593257 229.468334  L 712.225206 229.806689  L 759.857155 229.705183  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" d="M 0 -2  L -2 2  L 2 2  z " style="stroke: #606a24; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="93.009865" y="226.361539" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="140.641814" y="227.727973" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="188.273763" y="229.247969" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="235.905713" y="229.607146" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="283.537662" y="227.614321" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="331.169611" y="227.695873" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="378.801561" y="227.367061" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="426.43351" y="229.167285" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="474.065459" y="228.8966" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="521.697409" y="229.493494" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="569.329358" y="229.765045" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="616.961307" y="229.62016" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="664.593257" y="229.468334" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="712.225206" y="229.806689" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="759.857155" y="229.705183" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_27">
+    <path d="M 93.009865 229.836203  L 140.641814 230.526618  L 188.273763 230.521894  L 235.905713 230.686429  L 283.537662 230.801367  L 331.169611 230.985582  L 378.801561 231.073754  L 426.43351 231.180032  L 474.065459 231.139883  L 521.697409 231.261119  L 569.329358 231.348503  L 616.961307 231.417781  L 664.593257 231.421717  L 712.225206 231.418568  L 759.857155 231.434313  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" d="M -0 2.828427  L 2.828427 0  L 0 -2.828427  L -2.828427 -0  z " style="stroke: #4d405d; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="93.009865" y="229.836203" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="140.641814" y="230.526618" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="188.273763" y="230.521894" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="235.905713" y="230.686429" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="283.537662" y="230.801367" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="331.169611" y="230.985582" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="378.801561" y="231.073754" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="426.43351" y="231.180032" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="474.065459" y="231.139883" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="521.697409" y="231.261119" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="569.329358" y="231.348503" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="616.961307" y="231.417781" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="664.593257" y="231.421717" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="712.225206" y="231.418568" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="759.857155" y="231.434313" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_28">
+    <path d="M 93.009865 230.729871  L 140.641814 231.292566  L 188.273763 231.392274  L 235.905713 231.423964  L 283.537662 231.440196  L 331.169611 231.477297  L 378.801561 231.50203  L 426.43351 231.498166  L 474.065459 231.505122  L 521.697409 231.510533  L 569.329358 231.518262  L 616.961307 231.515943  L 664.593257 231.514397  L 712.225206 231.516716  L 759.857155 231.523672  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" d="M -0 2  L 2 -2  L -2 -2  z " style="stroke: #8c416d; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="93.009865" y="230.729871" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="140.641814" y="231.292566" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="188.273763" y="231.392274" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="235.905713" y="231.423964" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="283.537662" y="231.440196" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="331.169611" y="231.477297" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="378.801561" y="231.50203" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="426.43351" y="231.498166" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="474.065459" y="231.505122" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="521.697409" y="231.510533" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="569.329358" y="231.518262" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="616.961307" y="231.515943" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="664.593257" y="231.514397" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="712.225206" y="231.516716" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="759.857155" y="231.523672" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_29">
+    <path d="M 93.009865 231.104173  L 140.641814 230.833076  L 188.273763 230.697876  L 235.905713 230.999637  L 283.537662 230.981517  L 331.169611 231.102082  L 378.801561 231.171076  L 426.43351 231.166197  L 474.065459 231.214981  L 521.697409 231.162016  L 569.329358 231.270037  L 616.961307 231.238676  L 664.593257 231.33694  L 712.225206 231.365513  L 759.857155 231.343909  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" d="M -0.666667 2  L 0.666667 2  L 0.666667 0.666667  L 2 0.666667  L 2 -0.666667  L 0.666667 -0.666667  L 0.666667 -2  L -0.666667 -2  L -0.666667 -0.666667  L -2 -0.666667  L -2 0.666667  L -0.666667 0.666667  z " style="stroke: #525252; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="93.009865" y="231.104173" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="140.641814" y="230.833076" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="188.273763" y="230.697876" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="235.905713" y="230.999637" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="283.537662" y="230.981517" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="331.169611" y="231.102082" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="378.801561" y="231.171076" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="426.43351" y="231.166197" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="474.065459" y="231.214981" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="521.697409" y="231.162016" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="569.329358" y="231.270037" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="616.961307" y="231.238676" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="664.593257" y="231.33694" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="712.225206" y="231.365513" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="759.857155" y="231.343909" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_30">
+    <path d="M 93.009865 231.094416  L 140.641814 230.857468  L 188.273763 230.518074  L 235.905713 230.975942  L 283.537662 231.079084  L 331.169611 231.244251  L 378.801561 231.288156  L 426.43351 231.294428  L 474.065459 231.292338  L 521.697409 231.311851  L 569.329358 231.410812  L 616.961307 231.400358  L 664.593257 231.394086  L 712.225206 231.430325  L 759.857155 231.440082  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)" style="fill: none; stroke: #007f78; stroke-width: 1.7; stroke-linecap: square" />
+    <defs>
+     <path id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" d="M -1 2  L 0 1  L 1 2  L 2 1  L 1 0  L 2 -1  L 1 -2  L 0 -1  L -1 -2  L -2 -1  L -1 0  L -2 1  z " style="stroke: #007f78; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="93.009865" y="231.094416" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="140.641814" y="230.857468" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="188.273763" y="230.518074" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="235.905713" y="230.975942" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="283.537662" y="231.079084" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="331.169611" y="231.244251" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="378.801561" y="231.288156" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="426.43351" y="231.294428" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="474.065459" y="231.292338" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="521.697409" y="231.311851" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="569.329358" y="231.410812" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="616.961307" y="231.400358" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="664.593257" y="231.394086" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="712.225206" y="231.430325" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="759.857155" y="231.440082" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_3">
+    <path d="M 59.6675 231.545315  L 59.6675 103.869549  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_4">
+    <path d="M 59.6675 231.545315  L 793.19952 231.545315  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_6">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="59.6675" y="97.869549" transform="rotate(-0 59.6675 97.869549)">Japan</text>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-legend_1">
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_31">
+     <path d="M 233.748744 35.288583  L 244.748744 35.288583  L 255.748744 35.288583  " style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+     <g>
+      <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="244.748744" y="35.288583" style="fill: #175b8c; stroke: #175b8c" />
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_7">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="264.548744" y="39.138583" transform="rotate(-0 264.548744 39.138583)">Godzilla Minus One</text>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_32">
+     <path d="M 233.748744 51.43452  L 244.748744 51.43452  L 255.748744 51.43452  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="244.748744" y="51.43452" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_8">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="264.548744" y="55.28452" transform="rotate(-0 264.548744 55.28452)">Godzilla x Kong</text>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_33">
+     <path d="M 233.748744 67.580458  L 244.748744 67.580458  L 255.748744 67.580458  " style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="244.748744" y="67.580458" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_9">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="264.548744" y="71.430458" transform="rotate(-0 264.548744 71.430458)">Godzilla vs. Kong</text>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_34">
+     <path d="M 392.078276 35.288583  L 403.078276 35.288583  L 414.078276 35.288583  " style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="403.078276" y="35.288583" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_10">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="422.878276" y="39.138583" transform="rotate(-0 422.878276 39.138583)">Monarch 101</text>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_35">
+     <path d="M 392.078276 51.43452  L 403.078276 51.43452  L 414.078276 51.43452  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="403.078276" y="51.43452" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_11">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="422.878276" y="55.28452" transform="rotate(-0 422.878276 55.28452)">Monarch 110</text>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_36">
+     <path d="M 516.598276 35.288583  L 527.598276 35.288583  L 538.598276 35.288583  " style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="527.598276" y="35.288583" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_12">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="547.398276" y="39.138583" transform="rotate(-0 547.398276 39.138583)">Monarch 201</text>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_37">
+     <path d="M 516.598276 51.43452  L 527.598276 51.43452  L 538.598276 51.43452  " style="fill: none; stroke: #007f78; stroke-width: 1.7; stroke-linecap: square" />
+     <g>
+      <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="527.598276" y="51.43452" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_13">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="547.398276" y="55.28452" transform="rotate(-0 547.398276 55.28452)">Monarch 208</text>
+    </g>
+   </g>
+  </g>
+  <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-axes_2">
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_5">
+    <path d="M 59.6675 388.154216  L 793.19952 388.154216  L 793.19952 260.478451  L 59.6675 260.478451  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-matplotlib.axis_3">
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_16">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_38">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="93.009865" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_17">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_39">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="140.641814" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_18">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_40">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="188.273763" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_19">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_41">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="235.905713" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_20">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_42">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="283.537662" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_21">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_43">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="331.169611" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_22">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_44">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="378.801561" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_23">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_45">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="426.43351" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_24">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_46">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="474.065459" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_25">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_47">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="521.697409" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_26">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_48">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="569.329358" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_27">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_49">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="616.961307" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_28">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_50">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="664.593257" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_29">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_51">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="712.225206" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_30">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_52">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="759.857155" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-matplotlib.axis_4">
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_5">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_53">
+      <path d="M 59.6675 388.154216  L 793.19952 388.154216  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_54">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="388.154216" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_14">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="392.713279" transform="rotate(-0 52.6675 392.713279)">0k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_6">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_55">
+      <path d="M 59.6675 353.308889  L 793.19952 353.308889  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_56">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="353.308889" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_15">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="357.867951" transform="rotate(-0 52.6675 357.867951)">50k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_7">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_57">
+      <path d="M 59.6675 318.463561  L 793.19952 318.463561  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_58">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="318.463561" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_16">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="323.022624" transform="rotate(-0 52.6675 323.022624)">100k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_8">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_59">
+      <path d="M 59.6675 283.618233  L 793.19952 283.618233  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_60">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="283.618233" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_17">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="288.177296" transform="rotate(-0 52.6675 288.177296)">150k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_18">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="324.316334" transform="rotate(-90 16.318125 324.316334)">Adjusted weight</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_61">
+    <path d="M 93.009865 340.85769  L 140.641814 356.988023  L 188.273763 358.489058  L 235.905713 364.640057  L 283.537662 356.640203  L 331.169611 361.652672  L 378.801561 366.676735  L 426.43351 368.997852  L 474.065459 370.716854  L 521.697409 372.941355  L 569.329358 372.278178  L 616.961307 373.801629  L 664.593257 373.484726  L 712.225206 372.457499  L 759.857155 373.905202  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="93.009865" y="340.85769" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="140.641814" y="356.988023" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="188.273763" y="358.489058" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="235.905713" y="364.640057" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="283.537662" y="356.640203" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="331.169611" y="361.652672" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="378.801561" y="366.676735" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="426.43351" y="368.997852" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="474.065459" y="370.716854" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="521.697409" y="372.941355" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="569.329358" y="372.278178" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="616.961307" y="373.801629" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="664.593257" y="373.484726" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="712.225206" y="372.457499" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="759.857155" y="373.905202" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_62">
+    <path d="M 93.009865 308.380603  L 140.641814 337.405  L 188.273763 347.025693  L 235.905713 350.680892  L 283.537662 355.585923  L 331.169611 358.68461  L 378.801561 358.362298  L 426.43351 359.619086  L 474.065459 361.327267  L 521.697409 369.249828  L 569.329358 364.921405  L 616.961307 365.798683  L 664.593257 367.247932  L 712.225206 367.666089  L 759.857155 368.585106  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="93.009865" y="308.380603" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="140.641814" y="337.405" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="188.273763" y="347.025693" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="235.905713" y="350.680892" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="283.537662" y="355.585923" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="331.169611" y="358.68461" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="378.801561" y="358.362298" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="426.43351" y="359.619086" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="474.065459" y="361.327267" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="521.697409" y="369.249828" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="569.329358" y="364.921405" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="616.961307" y="365.798683" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="664.593257" y="367.247932" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="712.225206" y="367.666089" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="759.857155" y="368.585106" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_63">
+    <path d="M 93.009865 274.157997  L 140.641814 312.138807  L 188.273763 337.820837  L 235.905713 345.018261  L 283.537662 338.073303  L 331.169611 340.436584  L 378.801561 338.186955  L 426.43351 350.871807  L 474.065459 345.464196  L 521.697409 348.269074  L 569.329358 351.52249  L 616.961307 350.944683  L 664.593257 352.410889  L 712.225206 355.954943  L 759.857155 356.010468  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="93.009865" y="274.157997" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="140.641814" y="312.138807" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="188.273763" y="337.820837" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="235.905713" y="345.018261" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="283.537662" y="338.073303" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="331.169611" y="340.436584" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="378.801561" y="338.186955" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="426.43351" y="350.871807" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="474.065459" y="345.464196" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="521.697409" y="348.269074" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="569.329358" y="351.52249" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="616.961307" y="350.944683" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="664.593257" y="352.410889" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="712.225206" y="355.954943" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="759.857155" y="356.010468" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_64">
+    <path d="M 93.009865 344.766712  L 140.641814 357.516952  L 188.273763 356.948561  L 235.905713 363.51262  L 283.537662 366.090065  L 331.169611 369.786186  L 378.801561 370.593901  L 426.43351 370.417557  L 474.065459 370.677349  L 521.697409 375.011927  L 569.329358 378.213657  L 616.961307 380.263647  L 664.593257 379.692893  L 712.225206 379.994409  L 759.857155 380.493523  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="93.009865" y="344.766712" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="140.641814" y="357.516952" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="188.273763" y="356.948561" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="235.905713" y="363.51262" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="283.537662" y="366.090065" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="331.169611" y="369.786186" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="378.801561" y="370.593901" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="426.43351" y="370.417557" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="474.065459" y="370.677349" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="521.697409" y="375.011927" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="569.329358" y="378.213657" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="616.961307" y="380.263647" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="664.593257" y="379.692893" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="712.225206" y="379.994409" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="759.857155" y="380.493523" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_65">
+    <path d="M 93.009865 364.344024  L 140.641814 379.590895  L 188.273763 382.226595  L 235.905713 383.205901  L 283.537662 384.390807  L 331.169611 385.985367  L 378.801561 386.649316  L 426.43351 386.263623  L 474.065459 386.465358  L 521.697409 386.711151  L 569.329358 386.72661  L 616.961307 386.805449  L 664.593257 387.007184  L 712.225206 387.126216  L 759.857155 386.891244  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="93.009865" y="364.344024" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="140.641814" y="379.590895" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="188.273763" y="382.226595" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="235.905713" y="383.205901" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="283.537662" y="384.390807" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="331.169611" y="385.985367" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="378.801561" y="386.649316" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="426.43351" y="386.263623" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="474.065459" y="386.465358" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="521.697409" y="386.711151" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="569.329358" y="386.72661" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="616.961307" y="386.805449" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="664.593257" y="387.007184" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="712.225206" y="387.126216" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="759.857155" y="386.891244" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_66">
+    <path d="M 93.009865 372.891963  L 140.641814 363.009131  L 188.273763 357.378126  L 235.905713 368.055431  L 283.537662 365.133999  L 331.169611 367.158513  L 378.801561 367.255383  L 426.43351 368.090974  L 474.065459 368.619229  L 521.697409 367.876326  L 569.329358 370.206085  L 616.961307 369.281987  L 664.593257 370.460456  L 712.225206 374.353376  L 759.857155 375.456579  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="93.009865" y="372.891963" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="140.641814" y="363.009131" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="188.273763" y="357.378126" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="235.905713" y="368.055431" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="283.537662" y="365.133999" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="331.169611" y="367.158513" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="378.801561" y="367.255383" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="426.43351" y="368.090974" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="474.065459" y="368.619229" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="521.697409" y="367.876326" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="569.329358" y="370.206085" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="616.961307" y="369.281987" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="664.593257" y="370.460456" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="712.225206" y="374.353376" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="759.857155" y="375.456579" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_67">
+    <path d="M 93.009865 373.326136  L 140.641814 362.862781  L 188.273763 345.851292  L 235.905713 361.356069  L 283.537662 363.017494  L 331.169611 366.412823  L 378.801561 370.585899  L 426.43351 372.706586  L 474.065459 372.589505  L 521.697409 373.397917  L 569.329358 378.447005  L 616.961307 376.732615  L 664.593257 377.306169  L 712.225206 377.487365  L 759.857155 378.318077  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)" style="fill: none; stroke: #007f78; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="93.009865" y="373.326136" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="140.641814" y="362.862781" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="188.273763" y="345.851292" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="235.905713" y="361.356069" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="283.537662" y="363.017494" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="331.169611" y="366.412823" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="378.801561" y="370.585899" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="426.43351" y="372.706586" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="474.065459" y="372.589505" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="521.697409" y="373.397917" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="569.329358" y="378.447005" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="616.961307" y="376.732615" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="664.593257" y="377.306169" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="712.225206" y="377.487365" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="759.857155" y="378.318077" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_6">
+    <path d="M 59.6675 388.154216  L 59.6675 260.478451  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_7">
+    <path d="M 59.6675 388.154216  L 793.19952 388.154216  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_19">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="59.6675" y="254.478451" transform="rotate(-0 59.6675 254.478451)">USA</text>
+   </g>
+  </g>
+  <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-axes_3">
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_8">
+    <path d="M 59.6675 544.763118  L 793.19952 544.763118  L 793.19952 417.087353  L 59.6675 417.087353  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-matplotlib.axis_5">
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_31">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_68">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="93.009865" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_32">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_69">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="140.641814" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_33">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_70">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="188.273763" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_34">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_71">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="235.905713" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_35">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_72">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="283.537662" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_36">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_73">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="331.169611" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_37">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_74">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="378.801561" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_38">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_75">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="426.43351" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_39">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_76">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="474.065459" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_40">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_77">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="521.697409" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_41">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_78">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="569.329358" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_42">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_79">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="616.961307" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_43">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_80">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="664.593257" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_44">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_81">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="712.225206" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_45">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_82">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="759.857155" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-matplotlib.axis_6">
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_9">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_83">
+      <path d="M 59.6675 544.763118  L 793.19952 544.763118  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_84">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="544.763118" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_20">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="549.322181" transform="rotate(-0 52.6675 549.322181)">0k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_10">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_85">
+      <path d="M 59.6675 509.917791  L 793.19952 509.917791  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_86">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="509.917791" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_21">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="514.476853" transform="rotate(-0 52.6675 514.476853)">50k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_11">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_87">
+      <path d="M 59.6675 475.072463  L 793.19952 475.072463  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_88">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="475.072463" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_22">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="479.631525" transform="rotate(-0 52.6675 479.631525)">100k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_12">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_89">
+      <path d="M 59.6675 440.227135  L 793.19952 440.227135  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_90">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="440.227135" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_23">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="444.786198" transform="rotate(-0 52.6675 444.786198)">150k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_24">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="480.925235" transform="rotate(-90 16.318125 480.925235)">Adjusted weight</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_91">
+    <path d="M 93.009865 529.04244  L 140.641814 529.785228  L 188.273763 536.730801  L 235.905713 539.218099  L 283.537662 539.700409  L 331.169611 540.021949  L 378.801561 540.830437  L 426.43351 540.892271  L 474.065459 541.713126  L 521.697409 541.829066  L 569.329358 540.811886  L 616.961307 541.192942  L 664.593257 540.291702  L 712.225206 541.205309  L 759.857155 542.287415  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="93.009865" y="529.04244" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="140.641814" y="529.785228" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="188.273763" y="536.730801" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="235.905713" y="539.218099" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="283.537662" y="539.700409" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="331.169611" y="540.021949" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="378.801561" y="540.830437" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="426.43351" y="540.892271" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="474.065459" y="541.713126" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="521.697409" y="541.829066" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="569.329358" y="540.811886" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="616.961307" y="541.192942" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="664.593257" y="540.291702" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="712.225206" y="541.205309" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="759.857155" y="542.287415" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_92">
+    <path d="M 93.009865 518.217517  L 140.641814 531.851277  L 188.273763 535.856614  L 235.905713 536.80423  L 283.537662 537.7874  L 331.169611 537.940441  L 378.801561 538.86796  L 426.43351 538.826222  L 474.065459 539.201867  L 521.697409 540.725318  L 569.329358 538.987765  L 616.961307 538.942162  L 664.593257 541.516028  L 712.225206 541.393132  L 759.857155 541.426368  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="93.009865" y="518.217517" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="140.641814" y="531.851277" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="188.273763" y="535.856614" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="235.905713" y="536.80423" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="283.537662" y="537.7874" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="331.169611" y="537.940441" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="378.801561" y="538.86796" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="426.43351" y="538.826222" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="474.065459" y="539.201867" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="521.697409" y="540.725318" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="569.329358" y="538.987765" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="616.961307" y="538.942162" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="664.593257" y="541.516028" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="712.225206" y="541.393132" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="759.857155" y="541.426368" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_93">
+    <path d="M 93.009865 487.968022  L 140.641814 509.051024  L 188.273763 523.475368  L 235.905713 531.805848  L 283.537662 526.600382  L 331.169611 531.403292  L 378.801561 531.805848  L 426.43351 535.015884  L 474.065459 535.156432  L 521.697409 536.620035  L 569.329358 536.412684  L 616.961307 538.130488  L 664.593257 538.57729  L 712.225206 539.829205  L 759.857155 539.982766  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="93.009865" y="487.968022" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="140.641814" y="509.051024" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="188.273763" y="523.475368" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="235.905713" y="531.805848" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="283.537662" y="526.600382" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="331.169611" y="531.403292" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="378.801561" y="531.805848" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="426.43351" y="535.015884" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="474.065459" y="535.156432" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="521.697409" y="536.620035" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="569.329358" y="536.412684" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="616.961307" y="538.130488" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="664.593257" y="538.57729" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="712.225206" y="539.829205" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="759.857155" y="539.982766" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_94">
+    <path d="M 93.009865 507.618476  L 140.641814 533.676329  L 188.273763 532.567886  L 235.905713 537.074084  L 283.537662 538.395083  L 331.169611 539.805041  L 378.801561 540.334071  L 426.43351 540.238814  L 474.065459 538.72179  L 521.697409 541.371661  L 569.329358 542.446252  L 616.961307 542.821769  L 664.593257 543.187051  L 712.225206 542.959537  L 759.857155 543.129582  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="93.009865" y="507.618476" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="140.641814" y="533.676329" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="188.273763" y="532.567886" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="235.905713" y="537.074084" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="283.537662" y="538.395083" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="331.169611" y="539.805041" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="378.801561" y="540.334071" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="426.43351" y="540.238814" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="474.065459" y="538.72179" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="521.697409" y="541.371661" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="569.329358" y="542.446252" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="616.961307" y="542.821769" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="664.593257" y="543.187051" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="712.225206" y="542.959537" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="759.857155" y="543.129582" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_95">
+    <path d="M 93.009865 537.850781  L 140.641814 541.275646  L 188.273763 542.705571  L 235.905713 542.932814  L 283.537662 543.492417  L 331.169611 544.087575  L 378.801561 544.43153  L 426.43351 544.406796  L 474.065459 544.448535  L 521.697409 544.525828  L 569.329358 544.492592  L 616.961307 544.50264  L 664.593257 544.503413  L 712.225206 544.471723  L 759.857155 544.607759  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="93.009865" y="537.850781" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="140.641814" y="541.275646" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="188.273763" y="542.705571" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="235.905713" y="542.932814" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="283.537662" y="543.492417" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="331.169611" y="544.087575" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="378.801561" y="544.43153" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="426.43351" y="544.406796" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="474.065459" y="544.448535" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="521.697409" y="544.525828" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="569.329358" y="544.492592" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="616.961307" y="544.50264" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="664.593257" y="544.503413" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="712.225206" y="544.471723" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="759.857155" y="544.607759" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_96">
+    <path d="M 93.009865 540.361456  L 140.641814 535.194591  L 188.273763 529.7183  L 235.905713 533.886498  L 283.537662 534.625219  L 331.169611 533.643974  L 378.801561 533.210498  L 426.43351 529.355908  L 474.065459 530.292551  L 521.697409 528.083357  L 569.329358 534.200802  L 616.961307 536.708969  L 664.593257 537.575921  L 712.225206 534.190349  L 759.857155 534.411268  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="93.009865" y="540.361456" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="140.641814" y="535.194591" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="188.273763" y="529.7183" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="235.905713" y="533.886498" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="283.537662" y="534.625219" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="331.169611" y="533.643974" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="378.801561" y="533.210498" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="426.43351" y="529.355908" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="474.065459" y="530.292551" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="521.697409" y="528.083357" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="569.329358" y="534.200802" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="616.961307" y="536.708969" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="664.593257" y="537.575921" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="712.225206" y="534.190349" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="759.857155" y="534.411268" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_97">
+    <path d="M 93.009865 532.956824  L 140.641814 522.784776  L 188.273763 513.926397  L 235.905713 526.661667  L 283.537662 531.46405  L 331.169611 536.920829  L 378.801561 532.372817  L 426.43351 531.351152  L 474.065459 532.871802  L 521.697409 534.36806  L 569.329358 537.430964  L 616.961307 535.817626  L 664.593257 536.155625  L 712.225206 538.507685  L 759.857155 536.29431  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)" style="fill: none; stroke: #007f78; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="93.009865" y="532.956824" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="140.641814" y="522.784776" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="188.273763" y="513.926397" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="235.905713" y="526.661667" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="283.537662" y="531.46405" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="331.169611" y="536.920829" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="378.801561" y="532.372817" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="426.43351" y="531.351152" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="474.065459" y="532.871802" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="521.697409" y="534.36806" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="569.329358" y="537.430964" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="616.961307" y="535.817626" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="664.593257" y="536.155625" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="712.225206" y="538.507685" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="759.857155" y="536.29431" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_9">
+    <path d="M 59.6675 544.763118  L 59.6675 417.087353  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_10">
+    <path d="M 59.6675 544.763118  L 793.19952 544.763118  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_25">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="59.6675" y="411.087353" transform="rotate(-0 59.6675 411.087353)">China</text>
+   </g>
+  </g>
+  <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-axes_4">
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_11">
+    <path d="M 59.6675 701.37202  L 793.19952 701.37202  L 793.19952 573.696254  L 59.6675 573.696254  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-matplotlib.axis_7">
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_46">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_98">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="93.009865" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_26">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="93.009865" y="717.490145" transform="rotate(-0 93.009865 717.490145)">1</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_47">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_99">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="140.641814" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_27">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="140.641814" y="717.490145" transform="rotate(-0 140.641814 717.490145)">2</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_48">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_100">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="188.273763" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_28">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="188.273763" y="717.490145" transform="rotate(-0 188.273763 717.490145)">3</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_49">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_101">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="235.905713" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_29">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="235.905713" y="717.490145" transform="rotate(-0 235.905713 717.490145)">4</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_50">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_102">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="283.537662" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_30">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="283.537662" y="717.490145" transform="rotate(-0 283.537662 717.490145)">5</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_51">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_103">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="331.169611" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_31">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="331.169611" y="717.490145" transform="rotate(-0 331.169611 717.490145)">6</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_52">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_104">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="378.801561" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_32">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="378.801561" y="717.490145" transform="rotate(-0 378.801561 717.490145)">7</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_53">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_105">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="426.43351" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_33">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="426.43351" y="717.490145" transform="rotate(-0 426.43351 717.490145)">8</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_54">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_106">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="474.065459" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_34">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="474.065459" y="717.490145" transform="rotate(-0 474.065459 717.490145)">9</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_55">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_107">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="521.697409" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_35">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="521.697409" y="717.490145" transform="rotate(-0 521.697409 717.490145)">10</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_56">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_108">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="569.329358" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_36">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="569.329358" y="717.490145" transform="rotate(-0 569.329358 717.490145)">11</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_57">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_109">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="616.961307" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_37">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="616.961307" y="717.490145" transform="rotate(-0 616.961307 717.490145)">12</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_58">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_110">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="664.593257" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_38">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="664.593257" y="717.490145" transform="rotate(-0 664.593257 717.490145)">13</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_59">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_111">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="712.225206" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_39">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="712.225206" y="717.490145" transform="rotate(-0 712.225206 717.490145)">14</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-xtick_60">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_112">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m009e2501a5" x="759.857155" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_40">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="759.857155" y="717.490145" transform="rotate(-0 759.857155 717.490145)">15</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_41">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="426.43351" y="733.103895" transform="rotate(-0 426.43351 733.103895)">Elapsed sampling week (each point is that seven-day interval)</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-matplotlib.axis_8">
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_13">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_113">
+      <path d="M 59.6675 701.37202  L 793.19952 701.37202  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_114">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="701.37202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_42">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="705.931082" transform="rotate(-0 52.6675 705.931082)">0k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_14">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_115">
+      <path d="M 59.6675 666.526692  L 793.19952 666.526692  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_116">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="666.526692" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_43">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="671.085755" transform="rotate(-0 52.6675 671.085755)">50k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_15">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_117">
+      <path d="M 59.6675 631.681365  L 793.19952 631.681365  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_118">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="631.681365" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_44">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="636.240427" transform="rotate(-0 52.6675 636.240427)">100k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-ytick_16">
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_119">
+      <path d="M 59.6675 596.836037  L 793.19952 596.836037  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_120">
+      <g>
+       <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m6b0521fb35" x="59.6675" y="596.836037" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_45">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="601.395099" transform="rotate(-0 52.6675 601.395099)">150k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_46">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="637.534137" transform="rotate(-90 16.318125 637.534137)">Adjusted weight</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_121">
+    <path d="M 93.009865 693.35207  L 140.641814 698.393137  L 188.273763 699.692437  L 235.905713 699.891081  L 283.537662 699.784416  L 331.169611 700.080449  L 378.801561 700.4074  L 426.43351 700.633096  L 474.065459 700.825557  L 521.697409 700.820919  L 569.329358 700.974733  L 616.961307 700.984781  L 664.593257 700.983235  L 712.225206 700.963912  L 759.857155 701.08217  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="93.009865" y="693.35207" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="140.641814" y="698.393137" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="188.273763" y="699.692437" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="235.905713" y="699.891081" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="283.537662" y="699.784416" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="331.169611" y="700.080449" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="378.801561" y="700.4074" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="426.43351" y="700.633096" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="474.065459" y="700.825557" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="521.697409" y="700.820919" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="569.329358" y="700.974733" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="616.961307" y="700.984781" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="664.593257" y="700.983235" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="712.225206" y="700.963912" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m0cfabb88ed" x="759.857155" y="701.08217" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_122">
+    <path d="M 93.009865 676.679138  L 140.641814 693.01739  L 188.273763 696.753747  L 235.905713 697.729961  L 283.537662 697.647257  L 331.169611 699.122786  L 378.801561 699.816106  L 426.43351 699.813015  L 474.065459 699.966055  L 521.697409 700.570489  L 569.329358 700.358705  L 616.961307 700.525659  L 664.593257 700.598314  L 712.225206 700.630778  L 759.857155 700.729713  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="93.009865" y="676.679138" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="140.641814" y="693.01739" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="188.273763" y="696.753747" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="235.905713" y="697.729961" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="283.537662" y="697.647257" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="331.169611" y="699.122786" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="378.801561" y="699.816106" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="426.43351" y="699.813015" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="474.065459" y="699.966055" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="521.697409" y="700.570489" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="569.329358" y="700.358705" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="616.961307" y="700.525659" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="664.593257" y="700.598314" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="712.225206" y="700.630778" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m567847878a" x="759.857155" y="700.729713" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_123">
+    <path d="M 93.009865 625.373962  L 140.641814 644.534412  L 188.273763 675.538163  L 235.905713 681.178285  L 283.537662 682.955084  L 331.169611 687.578405  L 378.801561 689.286665  L 426.43351 692.018666  L 474.065459 693.323503  L 521.697409 694.04099  L 569.329358 695.380529  L 616.961307 696.348746  L 664.593257 696.840662  L 712.225206 697.161666  L 759.857155 697.362944  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="93.009865" y="625.373962" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="140.641814" y="644.534412" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="188.273763" y="675.538163" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="235.905713" y="681.178285" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="283.537662" y="682.955084" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="331.169611" y="687.578405" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="378.801561" y="689.286665" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="426.43351" y="692.018666" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="474.065459" y="693.323503" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="521.697409" y="694.04099" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="569.329358" y="695.380529" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="616.961307" y="696.348746" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="664.593257" y="696.840662" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="712.225206" y="697.161666" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m38bf5b1055" x="759.857155" y="697.362944" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_124">
+    <path d="M 93.009865 697.824688  L 140.641814 699.740846  L 188.273763 699.803825  L 235.905713 700.15415  L 283.537662 700.490304  L 331.169611 700.718606  L 378.801561 700.76033  L 426.43351 700.693414  L 474.065459 700.684754  L 521.697409 700.654839  L 569.329358 701.010674  L 616.961307 701.105931  L 664.593257 701.116952  L 712.225206 701.144506  L 759.857155 701.1634  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="93.009865" y="697.824688" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="140.641814" y="699.740846" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="188.273763" y="699.803825" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="235.905713" y="700.15415" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="283.537662" y="700.490304" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="331.169611" y="700.718606" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="378.801561" y="700.76033" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="426.43351" y="700.693414" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="474.065459" y="700.684754" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="521.697409" y="700.654839" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="569.329358" y="701.010674" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="616.961307" y="701.105931" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="664.593257" y="701.116952" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="712.225206" y="701.144506" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m09b4d3e2df" x="759.857155" y="701.1634" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_125">
+    <path d="M 93.009865 699.602004  L 140.641814 700.704979  L 188.273763 700.892029  L 235.905713 701.044297  L 283.537662 701.082943  L 331.169611 701.198883  L 378.801561 701.225163  L 426.43351 701.232892  L 474.065459 701.259172  L 521.697409 701.269993  L 569.329358 701.191927  L 616.961307 701.207385  L 664.593257 701.273085  L 712.225206 701.30091  L 759.857155 701.321006  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="93.009865" y="699.602004" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="140.641814" y="700.704979" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="188.273763" y="700.892029" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="235.905713" y="701.044297" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="283.537662" y="701.082943" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="331.169611" y="701.198883" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="378.801561" y="701.225163" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="426.43351" y="701.232892" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="474.065459" y="701.259172" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="521.697409" y="701.269993" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="569.329358" y="701.191927" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="616.961307" y="701.207385" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="664.593257" y="701.273085" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="712.225206" y="701.30091" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m840ec05fe5" x="759.857155" y="701.321006" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_126">
+    <path d="M 93.009865 700.71414  L 140.641814 699.714079  L 188.273763 699.09662  L 235.905713 700.166372  L 283.537662 700.82913  L 331.169611 700.929484  L 378.801561 700.981055  L 426.43351 700.976177  L 474.065459 701.036808  L 521.697409 701.096045  L 569.329358 701.171311  L 616.961307 701.221488  L 664.593257 701.205459  L 712.225206 701.264696  L 759.857155 701.287694  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="93.009865" y="700.71414" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="140.641814" y="699.714079" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="188.273763" y="699.09662" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="235.905713" y="700.166372" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="283.537662" y="700.82913" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="331.169611" y="700.929484" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="378.801561" y="700.981055" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="426.43351" y="700.976177" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="474.065459" y="701.036808" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="521.697409" y="701.096045" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="569.329358" y="701.171311" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="616.961307" y="701.221488" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="664.593257" y="701.205459" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="712.225206" y="701.264696" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-m35dfb26189" x="759.857155" y="701.287694" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-line2d_127">
+    <path d="M 93.009865 700.236062  L 140.641814 700.408198  L 188.273763 699.990751  L 235.905713 700.856309  L 283.537662 701.040292  L 331.169611 701.10162  L 378.801561 701.174795  L 426.43351 701.219397  L 474.065459 701.236123  L 521.697409 701.229851  L 569.329358 701.259818  L 616.961307 701.214519  L 664.593257 701.233336  L 712.225206 701.224276  L 759.857155 701.224973  " clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)" style="fill: none; stroke: #007f78; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4)">
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="93.009865" y="700.236062" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="140.641814" y="700.408198" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="188.273763" y="699.990751" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="235.905713" y="700.856309" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="283.537662" y="701.040292" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="331.169611" y="701.10162" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="378.801561" y="701.174795" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="426.43351" y="701.219397" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="474.065459" y="701.236123" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="521.697409" y="701.229851" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="569.329358" y="701.259818" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="616.961307" y="701.214519" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="664.593257" y="701.233336" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="712.225206" y="701.224276" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-godzilla-weekly-itu-2026-uploaders-mde24e76e58" x="759.857155" y="701.224973" style="fill: #007f78; stroke: #007f78; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_12">
+    <path d="M 59.6675 701.37202  L 59.6675 573.696254  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-patch_13">
+    <path d="M 59.6675 701.37202  L 793.19952 701.37202  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_47">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="59.6675" y="567.696254" transform="rotate(-0 59.6675 567.696254)">South Korea</text>
+   </g>
+  </g>
+  <g id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-text_48">
+   <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle" x="400.19976" y="17.077969" transform="rotate(-0 400.19976 17.077969)">Uploaders · 2026 scale · provisional 6.1 billion reference</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-pe9cb074721">
+   <rect x="59.6675" y="103.869549" width="733.53202" height="127.675766" />
+  </clipPath>
+  <clipPath id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-p4ab706a669">
+   <rect x="59.6675" y="260.478451" width="733.53202" height="127.675766" />
+  </clipPath>
+  <clipPath id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-p93a8190505">
+   <rect x="59.6675" y="417.087353" width="733.53202" height="127.675766" />
+  </clipPath>
+  <clipPath id="mellon-7.6-godzilla-weekly-itu-2026-uploaders-pba7608eeb4">
+   <rect x="59.6675" y="573.696254" width="733.53202" height="127.675766" />
+  </clipPath>
+ </defs>
+</svg>

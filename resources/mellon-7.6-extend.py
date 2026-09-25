@@ -34,7 +34,7 @@ def main():
               'country': {c: {g: analysis.empty() for g in ['ge1080', 'lt1080', 'unknown']} for c in ['PHL', 'IND', 'AUS']},
               'cities': {}, 'members': [], 'weekly_country': [], 'sources': []}
     for key, record in data['objects'].items():
-        if 'itu_2026' not in record:
+        if record['countries'] != ['IND', 'PHL', 'AUS']:
             continue
         repo = args.source_root / f"alpha60-results-{record['year']}"
         assert subprocess.check_output(['git', '-C', str(repo), 'rev-parse', 'HEAD'], text=True).strip() == record['source_commit']
