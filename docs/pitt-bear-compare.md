@@ -144,7 +144,7 @@ Sources: [ITU 2023](https://www.itu.int/en/mediacentre/Pages/PR-2023-11-27-facts
 {::nomarkdown}
 <figure class="analysis-figure">
 {% include mellon-7.6-pitt-bear-compare-world-weekly-itu-2026.svg %}
-<figcaption>Standard Izzi C++ weekly graphs for all six media objects. Worldwide weekly downloaders and uploaders, weeks 1–10, scaled to the provisional 6.1-billion 2026 reference. The two role panels use different vertical scales. Raw interval values are retained in the ledger. <a href="../resources/mellon-7.6-pitt-bear-compare-world-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
+<figcaption>Standard Izzi C++ weekly graphs for all six media objects, with names directly on their lines. Worldwide weekly downloaders and uploaders, weeks 1–10, scaled to the provisional 6.1-billion 2026 reference. The two role panels use different vertical scales. Raw interval values are retained in the ledger. <a href="../resources/mellon-7.6-pitt-bear-compare-world-weekly-itu-2026.svg">Download SVG</a>.</figcaption>
 <div class="map-tooltip" role="status" aria-live="polite" hidden></div>
 </figure>
 {:/}

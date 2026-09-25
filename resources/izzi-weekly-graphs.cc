@@ -62,6 +62,7 @@ void render_standard(const rapidjson::Document& doc, const char* destination) {
     out.add_raw("<g data-izzi-layout=\"standard\" transform=\"translate(0 "+std::to_string(i*1080)+")\">");
     out.add_element(make_line_graph_annotations(ticks,annotations,xrange,{0,maximum/unit},1,1,k::hyperl_typo));
     label(doc["subtitle"].GetString(),{960,163},19);
+    std::vector<std::array<double,4>> label_boxes;
     for(rapidjson::SizeType j=0;j<panel["series"].Size();++j) {
       const auto& series=panel["series"][j];
       const style stroke={parse_color(series["color"].GetString()),0,parse_color(series["color"].GetString()),1,2.5};
@@ -87,12 +88,35 @@ void render_standard(const rapidjson::Document& doc, const char* destination) {
       style marker=stroke;marker._M_fill_opacity=1;
       for(std::size_t n=0;n<points.size();++n)
         out.add_raw(make_marker_instance(forms[j%6],positions[n],marker,6,series["points"][n]["tooltip"].GetString()));
+      // Match graph_by in a60-meta-collection-graph-json.h: the media-object
+      // name is right-aligned just above its line, using native 12pt type.
+      // When ending values coincide, anchor at an earlier observed point on
+      // that same line rather than letting the labels cover one another.
+      const string name=series.HasMember("line_label")?series["line_label"].GetString():series["name"].GetString();
+      typography typo=k::hyperl_typo;
+      typo._M_align=typography::align::right;
+      typo._M_anchor=typography::anchor::end;
+      typo._M_size=graph_rstate::tpsz;
+      const double label_width=name.size()*graph_rstate::tpsz*.8;
+      std::size_t index=positions.size()-1;
+      std::array<double,4> box{};
+      bool placed=false;
+      for(std::size_t candidate=positions.size();candidate-->0;) {
+        const auto [x,y]=positions[candidate];
+        const double baseline=y-graph_rstate::tticsz/2.;
+        box={x-label_width,baseline-16,x,baseline+4};
+        bool collision=false;
+        for(const auto& used:label_boxes)
+          if(box[0]<used[2]+5 && box[2]>used[0]-5 && box[1]<used[3]+5 && box[3]>used[1]-5)collision=true;
+        if(!collision){index=candidate;placed=true;break;}
+      }
+      if(!placed)throw std::runtime_error("no clear line-label position for "+name);
+      label_boxes.push_back(box);
+      const auto [mx,my]=positions[index];
+      out.add_raw("<g class=\"series-label\" data-label-week=\""+number(series["points"][index]["x"].GetDouble())+"\">");
+      out.add_element(style_text(name,{mx,my-graph_rstate::tticsz/2.},typo));
       out.add_raw("</g>");
-      // In-plate legend, matching native marker shapes and stroke patterns.
-      const double x=340+(j%3)*620,y=933+(j/3)*30;
-      out.add_element(make_polyline({{x-135,y-5},{x-85,y-5}},stroke,state.sstyle));
-      out.add_raw(make_marker_instance(forms[j%6],{x-110,y-5},marker,6));
-      label(series["name"].GetString(),{x+80,y},20);
+      out.add_raw("</g>");
     }
     label("All six media objects · weekly geographic interval weights · provisional 2026 ITU reference",{960,1052},17);
     out.add_raw("</g>");

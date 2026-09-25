@@ -3,7 +3,7 @@
     "library": "Izzi",
     "commit": "4ffe3dd84b4f89719168f55b65a196e77c4e18b3",
     "line_graph_header_sha256": "9568d4a97de6f70cf76a8770c3d5958be4c7175bcd41b5966b71cb520b8144ab",
-    "renderer_sha256": "a09871464faeaa3da698f831e55d077ca45d776b13c4bacc03946e94e6fbfc90",
+    "renderer_sha256": "96ae062b41f032ab1399670d75a053a23cc8d324d9a4bd8fbb75279911007b8c",
     "functions": [
       "svg::make_line_graph",
       "svg::make_line_graph_annotations",
@@ -2302,7 +2302,7 @@
       "title": "Worldwide weekly circulation",
       "subtitle": "Provisional 2026 Internet-user scale · 6.1 billion reference · weeks 1–10",
       "accessible_title": "Weekly worldwide weights at the 2026 Internet-user scale",
-      "description": "Standard Izzi C++ weekly graphs: native axes, ticks, grid, typography and markers. All six Pitt/Bear objects; separate downloader and uploader scales.",
+      "description": "Standard Izzi C++ weekly graphs with media-object names directly on the lines. All six Pitt/Bear objects; separate downloader and uploader scales.",
       "columns": 1,
       "xmin": 1,
       "xmax": 10,
@@ -2410,7 +2410,8 @@
                   "y": 3087203.0,
                   "tooltip": "The Pitt 201–203 · worldwide downloaders · week 10 · 2026-03-13-to-2026-03-19 · 3,087,203.00 adjusted weight"
                 }
-              ]
+              ],
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -2467,7 +2468,8 @@
                   "y": 2901241.0,
                   "tooltip": "The Pitt 213–215 · worldwide downloaders · week 10 · 2026-06-05-to-2026-06-11 · 2,901,241.00 adjusted weight"
                 }
-              ]
+              ],
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -2524,7 +2526,8 @@
                   "y": 3263467.0,
                   "tooltip": "The Bear S05 · worldwide downloaders · week 10 · 2026-08-28-to-2026-09-03 · 3,263,467.00 adjusted weight"
                 }
-              ]
+              ],
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -2581,7 +2584,8 @@
                   "y": 807586.9074074073,
                   "tooltip": "The Bear S02 · worldwide downloaders · week 10 · 2023-08-24-to-2023-08-30 · 807,586.91 adjusted weight"
                 }
-              ]
+              ],
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -2638,7 +2642,8 @@
                   "y": 2146950.4545454546,
                   "tooltip": "The Bear S03 · worldwide downloaders · week 10 · 2024-08-29-to-2024-09-04 · 2,146,950.45 adjusted weight"
                 }
-              ]
+              ],
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -2695,7 +2700,8 @@
                   "y": 2921030.75,
                   "tooltip": "The Bear S04 · worldwide downloaders · week 10 · 2025-08-28-to-2025-09-03 · 2,921,030.75 adjusted weight"
                 }
-              ]
+              ],
+              "line_label": "bear-04"
             }
           ]
         },
@@ -2759,7 +2765,8 @@
                   "y": 134538.0,
                   "tooltip": "The Pitt 201–203 · worldwide uploaders · week 10 · 2026-03-13-to-2026-03-19 · 134,538.00 adjusted weight"
                 }
-              ]
+              ],
+              "line_label": "pitt-201"
             },
             {
               "name": "The Pitt 213–215",
@@ -2816,7 +2823,8 @@
                   "y": 158792.0,
                   "tooltip": "The Pitt 213–215 · worldwide uploaders · week 10 · 2026-06-05-to-2026-06-11 · 158,792.00 adjusted weight"
                 }
-              ]
+              ],
+              "line_label": "pitt-213"
             },
             {
               "name": "The Bear S05",
@@ -2873,7 +2881,8 @@
                   "y": 126993.0,
                   "tooltip": "The Bear S05 · worldwide uploaders · week 10 · 2026-08-28-to-2026-09-03 · 126,993.00 adjusted weight"
                 }
-              ]
+              ],
+              "line_label": "bear-05"
             },
             {
               "name": "The Bear S02",
@@ -2930,7 +2939,8 @@
                   "y": 203221.49999999997,
                   "tooltip": "The Bear S02 · worldwide uploaders · week 10 · 2023-08-24-to-2023-08-30 · 203,221.50 adjusted weight"
                 }
-              ]
+              ],
+              "line_label": "bear-02"
             },
             {
               "name": "The Bear S03",
@@ -2987,7 +2997,8 @@
                   "y": 220020.34545454546,
                   "tooltip": "The Bear S03 · worldwide uploaders · week 10 · 2024-08-29-to-2024-09-04 · 220,020.35 adjusted weight"
                 }
-              ]
+              ],
+              "line_label": "bear-03"
             },
             {
               "name": "The Bear S04",
@@ -3044,7 +3055,8 @@
                   "y": 266190.7833333333,
                   "tooltip": "The Bear S04 · worldwide uploaders · week 10 · 2025-08-28-to-2025-09-03 · 266,190.78 adjusted weight"
                 }
-              ]
+              ],
+              "line_label": "bear-04"
             }
           ]
         }
