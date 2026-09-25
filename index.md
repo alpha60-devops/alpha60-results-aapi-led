@@ -42,7 +42,7 @@ Sample dates: 2018 to 2026
 ## Results, Commentary
 - [AAPI-Led](docs/aapi.html)
 - [AAPI and Asian-global: matched geographic comparisons](docs/asia-asian-where.html)
-- [Top 25 media objects by Asia-28 share, 2017–2026](docs/top-25-asia-28.html)
+- [Asia-28 regional rankings](https://alpha60-devops.github.io/alpha60-results/docs/region-top-asia-28.html)
 - [The Pitt versus The Bear: India, Philippines and Australia](docs/pitt-bear-compare.html)
 - [Godzilla and Monarch: Japan, USA, China and South Korea](docs/godzilla.html)
 - [Fail: meta-compare aapi-led vs. white-led](https://github.com/bdekoz/alpha60/blob/main/docs/development/20260916_swarm_analysis_mellon_7.1_hex_space_cardinality_results.md)
