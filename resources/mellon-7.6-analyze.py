@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Reproduce 7.6 from pinned public annual exports; no network or CSV output.
 
-Usage: python3 scripts/analyze-mellon-7-6-aapi.py --source-root ../ --output outputs/mellon-7.6
+Usage: python3 scripts/analyze-mellon-7-6-aapi.py --source-root ../ --output outputs/mellon-7.6 --itu-config config/mellon-7/itu-2026-provisional-7.6.json
 Weekly GeoJSON top-level features are interval measurements. The similarly named
 JSON collection_week array is a cumulative prefix and is deliberately not used.
 """
@@ -19,6 +19,9 @@ COHORTS = {
     'pitt-201': (2026, 'The Pitt 201–203', ['IND', 'PHL', 'AUS']),
     'pitt-213': (2026, 'The Pitt 213–215', ['IND', 'PHL', 'AUS']),
     'bear-05': (2026, 'The Bear S05', ['IND', 'PHL', 'AUS']),
+    'bear-02': (2023, 'The Bear S02', ['IND', 'PHL', 'AUS']),
+    'bear-03': (2024, 'The Bear S03', ['IND', 'PHL', 'AUS']),
+    'bear-04': (2025, 'The Bear S04', ['IND', 'PHL', 'AUS']),
     'godzilla-minus-one': (2024, 'Godzilla Minus One', ['JPN', 'USA', 'CHN', 'KOR']),
     'godzilla-x-kong-the-new-empire': (2024, 'Godzilla x Kong', ['JPN', 'USA', 'CHN', 'KOR']),
     'godzilla-vs-kong': (2021, 'Godzilla vs. Kong', ['JPN', 'USA', 'CHN', 'KOR']),
@@ -50,17 +53,19 @@ def main():
     parser.add_argument('--source-root', type=Path, required=True)
     parser.add_argument('--output', type=Path, required=True)
     parser.add_argument('--reuse', action='store_true', help='Reuse completed objects only after checking commit and every source hash.')
+    parser.add_argument('--itu-config', type=Path, required=True, help='Explicit versioned ITU estimates and reference-year status.')
     args = parser.parse_args()
     args.output.mkdir(parents=True, exist_ok=True)
-    results = {'schema_version': 1, 'weeks': list(range(2, 12)),
+    results = {'schema_version': 2, 'windows': {'pitt-bear-compare': list(range(1, 11)), 'godzilla': list(range(2, 12))},
                'unit': 'Sum of interval GeoJSON swarm weights across ten weeks; repeated peers may recur across weeks and torrents. Not unique people.',
                'denominator': 'Worldwide top-level aggregate features in the same selected weeks, including unclassified countries.',
                'objects': {}}
     for key, (year, label, countries) in COHORTS.items():
         repo = args.source_root / f'alpha60-results-{year}'
         commit = subprocess.check_output(['git', '-C', str(repo), 'rev-parse', 'HEAD'], text=True).strip()
+        weeks = range(1, 11) if countries == ['IND', 'PHL', 'AUS'] else range(2, 12)
         cached = args.output / f'{key}.json'
-        if args.reuse and cached.exists():
+        if args.reuse and cached.exists() and [w['week'] for w in json.loads(cached.read_text())['weeks']] == list(weeks):
             record = json.loads(cached.read_text())
             assert record['source_commit'] == commit
             assert all(digest((repo / s['path']).read_bytes()) == s['sha256'] for s in record['sources'])
@@ -88,14 +93,14 @@ def main():
                   'coverage_notes': [l for l in audit.splitlines() if 'missing' in l.lower() or 'hourly gap:' in l],
                   'weeks': [], 'world': empty(), 'country': {c: empty() for c in countries}}
         cities = {}
-        for week in range(2, 12):
+        for week in weeks:
             relative = f'data/geojson.week/{key}-week-{week:05d}.geojson.gz'
             doc = json.loads(read(relative))
             assert doc['id'] == key and doc['duration_index'] == week and doc['duration_type'] == 'week'
             assert doc['swarm_hexagon_resolution'] == 5 and doc['swarm_size_min'] == 3
             dates = doc['datestamp'].removesuffix('-partial').split('-to-')
             assert len(dates) == 2 and len(dates[1]) == 10, doc['datestamp']
-            assert (date.fromisoformat(dates[1]) - date.fromisoformat(dates[0])).days == 6
+            assert 0 <= (date.fromisoformat(dates[1]) - date.fromisoformat(dates[0])).days <= 6
             row = {'week': week, 'dates': doc['datestamp'], 'features': len(doc['features']),
                    'world': empty(), 'country': {c: empty() for c in countries}}
             for feature in doc['features']:
@@ -120,7 +125,7 @@ def main():
         results['objects'][key] = record
         (args.output / f'{key}.json').write_text(json.dumps(record, ensure_ascii=False, indent=2) + '\n')
     results['coverage_sensitivity'] = {}
-    for group, keys in [('pitt-bear-compare', ['pitt-201', 'pitt-213', 'bear-05']),
+    for group, keys in [('pitt-bear-compare', ['pitt-201', 'pitt-213', 'bear-05', 'bear-02', 'bear-03', 'bear-04']),
                         ('godzilla', ['godzilla-minus-one', 'godzilla-x-kong-the-new-empire', 'godzilla-vs-kong'])]:
         affected = set()
         for key in keys:
@@ -133,7 +138,7 @@ def main():
                     dates = re.findall(r'\d{4}-\d{2}-\d{2}', note)
                     if dates and min(dates) <= end and max(dates) >= begin:
                         affected.add(week['week'])
-        retained = [w for w in range(2, 12) if w not in affected]
+        retained = [w for w in results['windows'][group] if w not in affected]
         sensitivity = {'excluded_weeks_in_all_objects': sorted(affected), 'retained_weeks': retained, 'objects': {}}
         for key in keys:
             record = results['objects'][key]
@@ -145,6 +150,31 @@ def main():
                         add(value['country'][c], week['country'][c])
             sensitivity['objects'][key] = value
         results['coverage_sensitivity'][group] = sensitivity
+    policy = json.loads(args.itu_config.read_text())
+    assert policy['reference_year'] == 2026 and policy['reference_users_billions'] > 0
+    results['itu_policy'] = policy
+    results['itu_policy_sha256'] = digest(args.itu_config.read_bytes())
+
+    def scale(value, factor):
+        return {k: scale(v, factor) if isinstance(v, dict) else v * factor for k, v in value.items()}
+
+    for key, record in results['objects'].items():
+        if record['countries'] != ['IND', 'PHL', 'AUS']:
+            continue
+        source_year = int(record['sample_duration'][:4])
+        assert source_year == record['year']
+        source_users = policy['years'][str(source_year)]['users_billions']
+        factor = policy['reference_users_billions'] / source_users
+        record['itu_2026'] = {'source_year': source_year, 'source_users_billions': source_users,
+                              'reference_users_billions': policy['reference_users_billions'],
+                              'factor': factor, 'status': policy['reference_status'],
+                              'world': scale(record['world'], factor),
+                              'country': scale(record['country'], factor),
+                              'weeks': [{'week': w['week'], 'world': scale(w['world'], factor),
+                                         'country': scale(w['country'], factor)} for w in record['weeks']]}
+        if source_year == 2024:
+            revised_factor = policy['reference_users_billions'] / policy['revision_sensitivity']['2024_users_billions']
+            record['itu_2026']['revised_2024_scenario'] = {'factor': revised_factor, 'world': scale(record['world'], revised_factor), 'country': scale(record['country'], revised_factor)}
     (args.output / 'analysis.json').write_text(json.dumps(results, ensure_ascii=False, indent=2) + '\n')
 
 

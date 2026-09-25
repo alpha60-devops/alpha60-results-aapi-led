@@ -1,4 +1,4 @@
-/* Local enhancement; every plotted value also has a Markdown table. */
+/* Local enhancement; plotted values are available in the Markdown tables and JSON ledger. */
 'use strict';
 document.querySelectorAll('main table').forEach(table => {
   const wrap = document.createElement('div');

@@ -1,0 +1,849 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.39952pt" height="559.19952pt" viewBox="0 0 800.39952 559.19952" version="1.1" role="group" aria-label="Weekly adjusted country weights. Common vertical scale; provisional 2026 ITU scaling." class="analysis-svg">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Alpha60 Mellon 7.6</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-figure_1">
+  <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-patch_1">
+   <path d="M 0 559.19952  L 800.39952 559.19952  L 800.39952 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-axes_1">
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-patch_2">
+    <path d="M 59.6675 218.612779  L 793.19952 218.612779  L 793.19952 97.966295  L 59.6675 97.966295  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-matplotlib.axis_1">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_1">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_1">
+      <defs>
+       <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8" />
+      </defs>
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="93.009865" y="218.612779" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_2">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_2">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="167.104008" y="218.612779" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_3">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_3">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="241.198151" y="218.612779" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_4">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_4">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="315.292295" y="218.612779" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_5">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_5">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="389.386438" y="218.612779" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_6">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_6">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="463.480582" y="218.612779" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_7">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_7">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="537.574725" y="218.612779" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_8">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_8">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="611.668869" y="218.612779" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_9">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_9">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="685.763012" y="218.612779" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_10">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_10">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="759.857155" y="218.612779" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-matplotlib.axis_2">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-ytick_1">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_11">
+      <path d="M 59.6675 218.612779  L 793.19952 218.612779  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_12">
+      <defs>
+       <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8" />
+      </defs>
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" x="59.6675" y="218.612779" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="223.171842" transform="rotate(-0 52.6675 223.171842)">0k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-ytick_2">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_13">
+      <path d="M 59.6675 178.859591  L 793.19952 178.859591  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_14">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" x="59.6675" y="178.859591" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="183.418654" transform="rotate(-0 52.6675 183.418654)">50k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-ytick_3">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_15">
+      <path d="M 59.6675 139.106403  L 793.19952 139.106403  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_16">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" x="59.6675" y="139.106403" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="143.665466" transform="rotate(-0 52.6675 143.665466)">100k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-ytick_4">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_17">
+      <path d="M 59.6675 99.353215  L 793.19952 99.353215  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_18">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" x="59.6675" y="99.353215" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="103.912278" transform="rotate(-0 52.6675 103.912278)">150k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_5">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="158.289537" transform="rotate(-90 16.318125 158.289537)">Adjusted weight</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_19">
+    <path d="M 93.009865 210.374329  L 167.104008 203.40798  L 241.198151 197.951457  L 315.292295 201.258128  L 389.386438 202.264678  L 463.480582 201.306626  L 537.574725 204.924167  L 611.668869 206.014994  L 685.763012 203.083594  L 759.857155 203.144019  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <defs>
+     <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" d="M 0 2  C 0.530406 2 1.03916 1.789267 1.414214 1.414214  C 1.789267 1.03916 2 0.530406 2 0  C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214  C 1.03916 -1.789267 0.530406 -2 0 -2  C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214  C -1.789267 -1.03916 -2 -0.530406 -2 0  C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214  C -1.03916 1.789267 -0.530406 2 0 2  z " style="stroke: #175b8c" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="93.009865" y="210.374329" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="167.104008" y="203.40798" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="241.198151" y="197.951457" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="315.292295" y="201.258128" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="389.386438" y="202.264678" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="463.480582" y="201.306626" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="537.574725" y="204.924167" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="611.668869" y="206.014994" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="685.763012" y="203.083594" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="759.857155" y="203.144019" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_20">
+    <path d="M 93.009865 212.240343  L 167.104008 208.863707  L 241.198151 202.437207  L 315.292295 208.117938  L 389.386438 209.223871  L 463.480582 209.859127  L 537.574725 209.129259  L 611.668869 210.049148  L 685.763012 210.678043  L 759.857155 212.270556  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" d="M -2 2  L 2 2  L 2 -2  L -2 -2  z " style="stroke: #9b4318; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="93.009865" y="212.240343" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="167.104008" y="208.863707" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="241.198151" y="202.437207" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="315.292295" y="208.117938" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="389.386438" y="209.223871" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="463.480582" y="209.859127" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="537.574725" y="209.129259" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="611.668869" y="210.049148" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="685.763012" y="210.678043" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="759.857155" y="212.270556" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_21">
+    <path d="M 93.009865 193.326571  L 167.104008 202.604966  L 241.198151 205.920381  L 315.292295 207.413511  L 389.386438 208.157691  L 463.480582 208.303188  L 537.574725 208.665737  L 611.668869 211.210736  L 685.763012 209.921937  L 759.857155 210.442704  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" d="M 0 -2  L -2 2  L 2 2  z " style="stroke: #606a24; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="93.009865" y="193.326571" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="167.104008" y="202.604966" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="241.198151" y="205.920381" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="315.292295" y="207.413511" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="389.386438" y="208.157691" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="463.480582" y="208.303188" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="537.574725" y="208.665737" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="611.668869" y="211.210736" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="685.763012" y="209.921937" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="759.857155" y="210.442704" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_22">
+    <path d="M 93.009865 195.515632  L 167.104008 205.504607  L 241.198151 208.003198  L 315.292295 208.626499  L 389.386438 210.668841  L 463.480582 211.068508  L 537.574725 212.869253  L 611.668869 213.192579  L 685.763012 213.664994  L 759.857155 213.608412  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" d="M -0 2.828427  L 2.828427 0  L 0 -2.828427  L -2.828427 -0  z " style="stroke: #4d405d; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="93.009865" y="195.515632" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="167.104008" y="205.504607" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="241.198151" y="208.003198" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="315.292295" y="208.626499" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="389.386438" y="210.668841" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="463.480582" y="211.068508" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="537.574725" y="212.869253" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="611.668869" y="213.192579" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="685.763012" y="213.664994" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="759.857155" y="213.608412" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_23">
+    <path d="M 93.009865 188.179285  L 167.104008 195.647232  L 241.198151 199.196469  L 315.292295 195.881791  L 389.386438 195.399447  L 463.480582 198.743225  L 537.574725 198.747634  L 611.668869 199.842827  L 685.763012 202.77216  L 759.857155 200.684944  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" d="M -0 2  L 2 -2  L -2 -2  z " style="stroke: #8c416d; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="93.009865" y="188.179285" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="167.104008" y="195.647232" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="241.198151" y="199.196469" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="315.292295" y="195.881791" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="389.386438" y="195.399447" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="463.480582" y="198.743225" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="537.574725" y="198.747634" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="611.668869" y="199.842827" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="685.763012" y="202.77216" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="759.857155" y="200.684944" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_24">
+    <path d="M 93.009865 186.625337  L 167.104008 196.747055  L 241.198151 197.130196  L 315.292295 196.402713  L 389.386438 192.499361  L 463.480582 202.087591  L 537.574725 200.702948  L 611.668869 202.192672  L 685.763012 206.682053  L 759.857155 206.631937  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" d="M -0.666667 2  L 0.666667 2  L 0.666667 0.666667  L 2 0.666667  L 2 -0.666667  L 0.666667 -0.666667  L 0.666667 -2  L -0.666667 -2  L -0.666667 -0.666667  L -2 -0.666667  L -2 0.666667  L -0.666667 0.666667  z " style="stroke: #525252; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="93.009865" y="186.625337" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="167.104008" y="196.747055" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="241.198151" y="197.130196" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="315.292295" y="196.402713" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="389.386438" y="192.499361" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="463.480582" y="202.087591" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="537.574725" y="200.702948" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="611.668869" y="202.192672" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="685.763012" y="206.682053" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="759.857155" y="206.631937" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-patch_3">
+    <path d="M 59.6675 218.612779  L 59.6675 97.966295  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-patch_4">
+    <path d="M 59.6675 218.612779  L 793.19952 218.612779  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_6">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="59.6675" y="91.966295" transform="rotate(-0 59.6675 91.966295)">India</text>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-legend_1">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_25">
+     <path d="M 237.719916 33.954362  L 248.719916 33.954362  L 259.719916 33.954362  " style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+     <g>
+      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="248.719916" y="33.954362" style="fill: #175b8c; stroke: #175b8c" />
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_7">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="268.519916" y="37.804362" transform="rotate(-0 268.519916 37.804362)">The Pitt 201–203</text>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_26">
+     <path d="M 237.719916 50.100299  L 248.719916 50.100299  L 259.719916 50.100299  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="248.719916" y="50.100299" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_8">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="268.519916" y="53.950299" transform="rotate(-0 268.519916 53.950299)">The Pitt 213–215</text>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_27">
+     <path d="M 383.528354 33.954362  L 394.528354 33.954362  L 405.528354 33.954362  " style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="394.528354" y="33.954362" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_9">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="414.328354" y="37.804362" transform="rotate(-0 414.328354 37.804362)">The Bear S05</text>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_28">
+     <path d="M 383.528354 50.100299  L 394.528354 50.100299  L 405.528354 50.100299  " style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="394.528354" y="50.100299" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_10">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="414.328354" y="53.950299" transform="rotate(-0 414.328354 53.950299)">The Bear S02</text>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_29">
+     <path d="M 510.337729 33.954362  L 521.337729 33.954362  L 532.337729 33.954362  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="521.337729" y="33.954362" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_11">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="541.137729" y="37.804362" transform="rotate(-0 541.137729 37.804362)">The Bear S03</text>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_30">
+     <path d="M 510.337729 50.100299  L 521.337729 50.100299  L 532.337729 50.100299  " style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="521.337729" y="50.100299" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_12">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="541.137729" y="53.950299" transform="rotate(-0 541.137729 53.950299)">The Bear S04</text>
+    </g>
+   </g>
+  </g>
+  <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-axes_2">
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-patch_5">
+    <path d="M 59.6675 368.1924  L 793.19952 368.1924  L 793.19952 247.545916  L 59.6675 247.545916  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-matplotlib.axis_3">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_11">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_31">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="93.009865" y="368.1924" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_12">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_32">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="167.104008" y="368.1924" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_13">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_33">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="241.198151" y="368.1924" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_14">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_34">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="315.292295" y="368.1924" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_15">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_35">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="389.386438" y="368.1924" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_16">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_36">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="463.480582" y="368.1924" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_17">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_37">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="537.574725" y="368.1924" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_18">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_38">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="611.668869" y="368.1924" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_19">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_39">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="685.763012" y="368.1924" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_20">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_40">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="759.857155" y="368.1924" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-matplotlib.axis_4">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-ytick_5">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_41">
+      <path d="M 59.6675 368.1924  L 793.19952 368.1924  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_42">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" x="59.6675" y="368.1924" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_13">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="372.751462" transform="rotate(-0 52.6675 372.751462)">0k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-ytick_6">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_43">
+      <path d="M 59.6675 328.439212  L 793.19952 328.439212  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_44">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" x="59.6675" y="328.439212" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_14">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="332.998274" transform="rotate(-0 52.6675 332.998274)">50k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-ytick_7">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_45">
+      <path d="M 59.6675 288.686023  L 793.19952 288.686023  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_46">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" x="59.6675" y="288.686023" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_15">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="293.245086" transform="rotate(-0 52.6675 293.245086)">100k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-ytick_8">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_47">
+      <path d="M 59.6675 248.932835  L 793.19952 248.932835  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_48">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" x="59.6675" y="248.932835" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_16">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="253.491898" transform="rotate(-0 52.6675 253.491898)">150k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_17">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="307.869158" transform="rotate(-90 16.318125 307.869158)">Adjusted weight</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_49">
+    <path d="M 93.009865 365.45261  L 167.104008 363.352847  L 241.198151 362.417057  L 315.292295 363.182703  L 389.386438 363.96266  L 463.480582 363.673257  L 537.574725 363.514244  L 611.668869 363.551612  L 685.763012 362.782786  L 759.857155 362.571299  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="93.009865" y="365.45261" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="167.104008" y="363.352847" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="241.198151" y="362.417057" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="315.292295" y="363.182703" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="389.386438" y="363.96266" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="463.480582" y="363.673257" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="537.574725" y="363.514244" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="611.668869" y="363.551612" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="685.763012" y="362.782786" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="759.857155" y="362.571299" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_50">
+    <path d="M 93.009865 363.010174  L 167.104008 361.349286  L 241.198151 357.785015  L 315.292295 362.052122  L 389.386438 362.854342  L 463.480582 363.429968  L 537.574725 363.412476  L 611.668869 363.670077  L 685.763012 364.093846  L 759.857155 364.989883  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="93.009865" y="363.010174" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="167.104008" y="361.349286" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="241.198151" y="357.785015" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="315.292295" y="362.052122" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="389.386438" y="362.854342" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="463.480582" y="363.429968" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="537.574725" y="363.412476" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="611.668869" y="363.670077" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="685.763012" y="364.093846" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="759.857155" y="364.989883" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_51">
+    <path d="M 93.009865 356.437382  L 167.104008 361.421637  L 241.198151 362.357427  L 315.292295 363.042772  L 389.386438 363.308323  L 463.480582 363.470516  L 537.574725 363.658151  L 611.668869 364.611432  L 685.763012 364.227417  L 759.857155 364.145525  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="93.009865" y="356.437382" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="167.104008" y="361.421637" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="241.198151" y="362.357427" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="315.292295" y="363.042772" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="389.386438" y="363.308323" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="463.480582" y="363.470516" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="537.574725" y="363.658151" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="611.668869" y="364.611432" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="685.763012" y="364.227417" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="759.857155" y="364.145525" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_52">
+    <path d="M 93.009865 353.992104  L 167.104008 359.084488  L 241.198151 360.094881  L 315.292295 360.897807  L 389.386438 361.938737  L 463.480582 362.573714  L 537.574725 363.59219  L 611.668869 363.794269  L 685.763012 364.591806  L 759.857155 364.59001  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="93.009865" y="353.992104" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="167.104008" y="359.084488" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="241.198151" y="360.094881" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="315.292295" y="360.897807" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="389.386438" y="361.938737" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="463.480582" y="362.573714" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="537.574725" y="363.59219" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="611.668869" y="363.794269" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="685.763012" y="364.591806" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="759.857155" y="364.59001" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_53">
+    <path d="M 93.009865 353.828792  L 167.104008 360.007551  L 241.198151 361.521598  L 315.292295 362.220864  L 389.386438 363.140579  L 463.480582 363.596469  L 537.574725 363.921852  L 611.668869 364.30808  L 685.763012 364.651099  L 759.857155 364.674907  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="93.009865" y="353.828792" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="167.104008" y="360.007551" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="241.198151" y="361.521598" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="315.292295" y="362.220864" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="389.386438" y="363.140579" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="463.480582" y="363.596469" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="537.574725" y="363.921852" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="611.668869" y="364.30808" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="685.763012" y="364.651099" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="759.857155" y="364.674907" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_54">
+    <path d="M 93.009865 353.20301  L 167.104008 360.447935  L 241.198151 361.741239  L 315.292295 361.946551  L 389.386438 361.159252  L 463.480582 363.034543  L 537.574725 362.921379  L 611.668869 363.637546  L 685.763012 364.365837  L 759.857155 364.425653  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="93.009865" y="353.20301" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="167.104008" y="360.447935" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="241.198151" y="361.741239" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="315.292295" y="361.946551" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="389.386438" y="361.159252" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="463.480582" y="363.034543" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="537.574725" y="362.921379" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="611.668869" y="363.637546" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="685.763012" y="364.365837" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="759.857155" y="364.425653" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-patch_6">
+    <path d="M 59.6675 368.1924  L 59.6675 247.545916  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-patch_7">
+    <path d="M 59.6675 368.1924  L 793.19952 368.1924  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_18">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="59.6675" y="241.545916" transform="rotate(-0 59.6675 241.545916)">Philippines</text>
+   </g>
+  </g>
+  <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-axes_3">
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-patch_8">
+    <path d="M 59.6675 517.77202  L 793.19952 517.77202  L 793.19952 397.125536  L 59.6675 397.125536  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-matplotlib.axis_5">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_21">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_55">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="93.009865" y="517.77202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_19">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="93.009865" y="533.890145" transform="rotate(-0 93.009865 533.890145)">1</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_22">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_56">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="167.104008" y="517.77202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_20">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="167.104008" y="533.890145" transform="rotate(-0 167.104008 533.890145)">2</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_23">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_57">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="241.198151" y="517.77202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_21">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="241.198151" y="533.890145" transform="rotate(-0 241.198151 533.890145)">3</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_24">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_58">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="315.292295" y="517.77202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_22">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="315.292295" y="533.890145" transform="rotate(-0 315.292295 533.890145)">4</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_25">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_59">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="389.386438" y="517.77202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_23">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="389.386438" y="533.890145" transform="rotate(-0 389.386438 533.890145)">5</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_26">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_60">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="463.480582" y="517.77202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_24">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="463.480582" y="533.890145" transform="rotate(-0 463.480582 533.890145)">6</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_27">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_61">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="537.574725" y="517.77202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_25">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="537.574725" y="533.890145" transform="rotate(-0 537.574725 533.890145)">7</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_28">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_62">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="611.668869" y="517.77202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_26">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="611.668869" y="533.890145" transform="rotate(-0 611.668869 533.890145)">8</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_29">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_63">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="685.763012" y="517.77202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_27">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="685.763012" y="533.890145" transform="rotate(-0 685.763012 533.890145)">9</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-xtick_30">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_64">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m009e2501a5" x="759.857155" y="517.77202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_28">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="759.857155" y="533.890145" transform="rotate(-0 759.857155 533.890145)">10</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_29">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="426.43351" y="549.503895" transform="rotate(-0 426.43351 549.503895)">Elapsed sampling week (each point is that seven-day interval)</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-matplotlib.axis_6">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-ytick_9">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_65">
+      <path d="M 59.6675 517.77202  L 793.19952 517.77202  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_66">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" x="59.6675" y="517.77202" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_30">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="522.331082" transform="rotate(-0 52.6675 522.331082)">0k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-ytick_10">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_67">
+      <path d="M 59.6675 478.018832  L 793.19952 478.018832  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_68">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" x="59.6675" y="478.018832" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_31">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="482.577894" transform="rotate(-0 52.6675 482.577894)">50k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-ytick_11">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_69">
+      <path d="M 59.6675 438.265644  L 793.19952 438.265644  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_70">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" x="59.6675" y="438.265644" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_32">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="442.824706" transform="rotate(-0 52.6675 442.824706)">100k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-ytick_12">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_71">
+      <path d="M 59.6675 398.512456  L 793.19952 398.512456  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_72">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m6b0521fb35" x="59.6675" y="398.512456" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_33">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="52.6675" y="403.071518" transform="rotate(-0 52.6675 403.071518)">150k</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_34">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="457.448778" transform="rotate(-90 16.318125 457.448778)">Adjusted weight</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_73">
+    <path d="M 93.009865 496.0151  L 167.104008 479.23846  L 241.198151 468.136189  L 315.292295 476.117834  L 389.386438 482.133287  L 463.480582 482.35829  L 537.574725 484.838889  L 611.668869 488.734701  L 685.763012 486.16426  L 759.857155 486.175391  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="93.009865" y="496.0151" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="167.104008" y="479.23846" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="241.198151" y="468.136189" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="315.292295" y="476.117834" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="389.386438" y="482.133287" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="463.480582" y="482.35829" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="537.574725" y="484.838889" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="611.668869" y="488.734701" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="685.763012" y="486.16426" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m0cfabb88ed" x="759.857155" y="486.175391" style="fill: #175b8c; stroke: #175b8c" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_74">
+    <path d="M 93.009865 486.10304  L 167.104008 470.167577  L 241.198151 449.926844  L 315.292295 471.676608  L 389.386438 477.515557  L 463.480582 481.664199  L 537.574725 482.083993  L 611.668869 485.153734  L 685.763012 487.573908  L 759.857155 493.944754  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="93.009865" y="486.10304" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="167.104008" y="470.167577" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="241.198151" y="449.926844" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="315.292295" y="471.676608" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="389.386438" y="477.515557" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="463.480582" y="481.664199" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="537.574725" y="482.083993" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="611.668869" y="485.153734" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="685.763012" y="487.573908" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m567847878a" x="759.857155" y="493.944754" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_75">
+    <path d="M 93.009865 432.063351  L 167.104008 455.55192  L 241.198151 468.802453  L 315.292295 475.0604  L 389.386438 477.835967  L 463.480582 481.49008  L 537.574725 482.706528  L 611.668869 493.554378  L 685.763012 491.5858  L 759.857155 492.038191  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="93.009865" y="432.063351" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="167.104008" y="455.55192" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="241.198151" y="468.802453" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="315.292295" y="475.0604" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="389.386438" y="477.835967" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="463.480582" y="481.49008" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="537.574725" y="482.706528" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="611.668869" y="493.554378" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="685.763012" y="491.5858" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m38bf5b1055" x="759.857155" y="492.038191" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_76">
+    <path d="M 93.009865 451.40129  L 167.104008 483.071963  L 241.198151 485.588516  L 315.292295 485.383743  L 389.386438 488.810998  L 463.480582 491.267377  L 537.574725 495.89004  L 611.668869 495.465225  L 685.763012 498.199126  L 759.857155 496.917498  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="93.009865" y="451.40129" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="167.104008" y="483.071963" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="241.198151" y="485.588516" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="315.292295" y="485.383743" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="389.386438" y="488.810998" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="463.480582" y="491.267377" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="537.574725" y="495.89004" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="611.668869" y="495.465225" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="685.763012" y="498.199126" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m09b4d3e2df" x="759.857155" y="496.917498" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_77">
+    <path d="M 93.009865 454.851324  L 167.104008 475.633539  L 241.198151 481.527477  L 315.292295 482.968335  L 389.386438 485.894141  L 463.480582 487.369389  L 537.574725 490.786356  L 611.668869 492.831246  L 685.763012 495.533956  L 759.857155 495.027804  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="93.009865" y="454.851324" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="167.104008" y="475.633539" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="241.198151" y="481.527477" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="315.292295" y="482.968335" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="389.386438" y="485.894141" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="463.480582" y="487.369389" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="537.574725" y="490.786356" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="611.668869" y="492.831246" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="685.763012" y="495.533956" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m840ec05fe5" x="759.857155" y="495.027804" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-line2d_78">
+    <path d="M 93.009865 410.051945  L 167.104008 457.640672  L 241.198151 461.069543  L 315.292295 467.450381  L 389.386438 468.644262  L 463.480582 480.67037  L 537.574725 480.118291  L 611.668869 485.773261  L 685.763012 491.80814  L 759.857155 493.977657  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="93.009865" y="410.051945" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="167.104008" y="457.640672" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="241.198151" y="461.069543" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="315.292295" y="467.450381" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="389.386438" y="468.644262" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="463.480582" y="480.67037" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="537.574725" y="480.118291" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="611.668869" y="485.773261" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="685.763012" y="491.80814" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-itu-2026-m35dfb26189" x="759.857155" y="493.977657" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-patch_9">
+    <path d="M 59.6675 517.77202  L 59.6675 397.125536  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-patch_10">
+    <path d="M 59.6675 517.77202  L 793.19952 517.77202  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_35">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="59.6675" y="391.125536" transform="rotate(-0 59.6675 391.125536)">Australia</text>
+   </g>
+  </g>
+  <g id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-text_36">
+   <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle" x="400.19976" y="17.077969" transform="rotate(-0 400.19976 17.077969)">2026 Internet-user scale · provisional 6.1 billion reference</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-p3cdde42d53">
+   <rect x="59.6675" y="97.966295" width="733.53202" height="120.646484" />
+  </clipPath>
+  <clipPath id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-pbf3ec091ac">
+   <rect x="59.6675" y="247.545916" width="733.53202" height="120.646484" />
+  </clipPath>
+  <clipPath id="mellon-7.6-pitt-bear-compare-weekly-itu-2026-p93bd20887a">
+   <rect x="59.6675" y="397.125536" width="733.53202" height="120.646484" />
+  </clipPath>
+ </defs>
+</svg>

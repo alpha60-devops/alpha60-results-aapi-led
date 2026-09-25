@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="598.583238pt" height="498.114062pt" viewBox="0 0 598.583238 498.114062" version="1.1" role="group" aria-label="The Pitt 213–215 versus The Bear S05. City share differences, weeks 2–11." class="analysis-svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="598.583238pt" height="498.114062pt" viewBox="0 0 598.583238 498.114062" version="1.1" role="group" aria-label="The Pitt 213–215 versus The Bear S05. City share differences, weeks 1–10." class="analysis-svg">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
@@ -161,99 +161,87 @@
     </g>
     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #343a40" x="371.167896" y="309.987028" transform="rotate(-0 371.167896 309.987028)">Australia</text>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-map-2-place-1" tabindex="0" data-tooltip="Delhi, India: The Pitt 213–215 13,931 (0.044% of world); The Bear S05 11,774 (0.032%); difference +0.012 percentage points. Weeks 2–11." aria-label="Delhi, India: The Pitt 213–215 13,931 (0.044% of world); The Bear S05 11,774 (0.032%); difference +0.012 percentage points. Weeks 2–11." role="img">
+   <g id="mellon-7.6-pitt-bear-compare-map-2-place-1" tabindex="0" data-tooltip="Delhi, India: The Pitt 213–215 13,988 (0.047% of world); The Bear S05 14,206 (0.037%); difference +0.010 percentage points. Weeks 1–10." aria-label="Delhi, India: The Pitt 213–215 13,988 (0.047% of world); The Bear S05 14,206 (0.037%); difference +0.010 percentage points. Weeks 1–10." role="img">
     <defs>
-     <path id="mellon-7.6-pitt-bear-compare-map-2-m204dfe6669" d="M 0 -4.609772  L -4.609772 4.609772  L 4.609772 4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
+     <path id="mellon-7.6-pitt-bear-compare-map-2-me7065805a7" d="M 0 -4.609772  L -4.609772 4.609772  L 4.609772 4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
     </defs>
     <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m204dfe6669" x="220.799746" y="107.80002" style="fill: #eddfd7; stroke: #343a40; stroke-width: 0.65" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-me7065805a7" x="220.799746" y="107.80002" style="fill: #f9f8f7; stroke: #343a40; stroke-width: 0.65" />
     </g>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-map-2-place-2" tabindex="0" data-tooltip="Chennai, India: The Pitt 213–215 9,538 (0.030% of world); The Bear S05 8,476 (0.023%); difference +0.007 percentage points. Weeks 2–11." aria-label="Chennai, India: The Pitt 213–215 9,538 (0.030% of world); The Bear S05 8,476 (0.023%); difference +0.007 percentage points. Weeks 2–11." role="img">
+   <g id="mellon-7.6-pitt-bear-compare-map-2-place-2" tabindex="0" data-tooltip="Chennai, India: The Pitt 213–215 9,305 (0.032% of world); The Bear S05 9,266 (0.024%); difference +0.007 percentage points. Weeks 1–10." aria-label="Chennai, India: The Pitt 213–215 9,305 (0.032% of world); The Bear S05 9,266 (0.024%); difference +0.007 percentage points. Weeks 1–10." role="img">
     <defs>
-     <path id="mellon-7.6-pitt-bear-compare-map-2-mc0d97ec6e8" d="M 0 -4.609772  L -4.609772 4.609772  L 4.609772 4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
+     <path id="mellon-7.6-pitt-bear-compare-map-2-m10e2be3667" d="M 0 -4.609772  L -4.609772 4.609772  L 4.609772 4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
     </defs>
     <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-mc0d97ec6e8" x="223.7538" y="166.477984" style="fill: #f2eae5; stroke: #343a40; stroke-width: 0.65" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m10e2be3667" x="223.7538" y="166.477984" style="fill: #faf9f9; stroke: #343a40; stroke-width: 0.65" />
     </g>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-map-2-place-3" tabindex="0" data-tooltip="Mumbai, India: The Pitt 213–215 10,934 (0.034% of world); The Bear S05 15,384 (0.042%); difference -0.007 percentage points. Weeks 2–11." aria-label="Mumbai, India: The Pitt 213–215 10,934 (0.034% of world); The Bear S05 15,384 (0.042%); difference -0.007 percentage points. Weeks 2–11." role="img">
-    <defs>
-     <path id="mellon-7.6-pitt-bear-compare-map-2-m69e5cd5d8c" d="M -0 4.609772  L 4.609772 -4.609772  L -4.609772 -4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m69e5cd5d8c" x="204.4321" y="143.539679" style="fill: #e4eaef; stroke: #343a40; stroke-width: 0.65" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-map-2-place-4" tabindex="0" data-tooltip="Bengaluru, India: The Pitt 213–215 11,660 (0.037% of world); The Bear S05 15,607 (0.042%); difference -0.006 percentage points. Weeks 2–11." aria-label="Bengaluru, India: The Pitt 213–215 11,660 (0.037% of world); The Bear S05 15,607 (0.042%); difference -0.006 percentage points. Weeks 2–11." role="img">
-    <defs>
-     <path id="mellon-7.6-pitt-bear-compare-map-2-mea62162393" d="M -0 4.609772  L 4.609772 -4.609772  L -4.609772 -4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-mea62162393" x="216.022099" y="166.925559" style="fill: #e9eef2; stroke: #343a40; stroke-width: 0.65" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-map-2-place-5" tabindex="0" data-tooltip="Manila, Philippines: The Pitt 213–215 8,745 (0.027% of world); The Bear S05 5,517 (0.015%); difference +0.012 percentage points. Weeks 2–11." aria-label="Manila, Philippines: The Pitt 213–215 8,745 (0.027% of world); The Bear S05 5,517 (0.015%); difference +0.012 percentage points. Weeks 2–11." role="img">
-    <defs>
-     <path id="mellon-7.6-pitt-bear-compare-map-2-ma4bd640942" d="M 0 -4.609772  L -4.609772 4.609772  L 4.609772 4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-ma4bd640942" x="340.556244" y="160.632808" style="fill: #ecddd5; stroke: #343a40; stroke-width: 0.65" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-map-2-place-6" tabindex="0" data-tooltip="Imus, Philippines: The Pitt 213–215 1,921 (0.006% of world); The Bear S05 543 (0.001%); difference +0.005 percentage points. Weeks 2–11." aria-label="Imus, Philippines: The Pitt 213–215 1,921 (0.006% of world); The Bear S05 543 (0.001%); difference +0.005 percentage points. Weeks 2–11." role="img">
-    <defs>
-     <path id="mellon-7.6-pitt-bear-compare-map-2-m2f02eea06e" d="M 0 -4.609772  L -4.609772 4.609772  L 4.609772 4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m2f02eea06e" x="340.426982" y="161.304344" style="fill: #f5efec; stroke: #343a40; stroke-width: 0.65" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-map-2-place-7" tabindex="0" data-tooltip="Paranaque City, Philippines: The Pitt 213–215 341 (0.001% of world); The Bear S05 1,209 (0.003%); difference -0.002 percentage points. Weeks 2–11." aria-label="Paranaque City, Philippines: The Pitt 213–215 341 (0.001% of world); The Bear S05 1,209 (0.003%); difference -0.002 percentage points. Weeks 2–11." role="img">
-    <defs>
-     <path id="mellon-7.6-pitt-bear-compare-map-2-m654d2f1de8" d="M -0 4.609772  L 4.609772 -4.609772  L -4.609772 -4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
-    </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m654d2f1de8" x="340.65797" y="161.104794" style="fill: #f4f6f7; stroke: #343a40; stroke-width: 0.65" />
-    </g>
-   </g>
-   <g id="mellon-7.6-pitt-bear-compare-map-2-place-8" tabindex="0" data-tooltip="Majayjay, Philippines: The Pitt 213–215 279 (0.001% of world); The Bear S05 549 (0.001%); difference -0.001 percentage points. Weeks 2–11." aria-label="Majayjay, Philippines: The Pitt 213–215 279 (0.001% of world); The Bear S05 549 (0.001%); difference -0.001 percentage points. Weeks 2–11." role="img">
+   <g id="mellon-7.6-pitt-bear-compare-map-2-place-3" tabindex="0" data-tooltip="Mumbai, India: The Pitt 213–215 10,533 (0.036% of world); The Bear S05 18,244 (0.048%); difference -0.012 percentage points. Weeks 1–10." aria-label="Mumbai, India: The Pitt 213–215 10,533 (0.036% of world); The Bear S05 18,244 (0.048%); difference -0.012 percentage points. Weeks 1–10." role="img">
     <defs>
      <path id="mellon-7.6-pitt-bear-compare-map-2-m633107c7a2" d="M -0 4.609772  L 4.609772 -4.609772  L -4.609772 -4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
     </defs>
     <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m633107c7a2" x="341.964192" y="162.395758" style="fill: #f7f8f9; stroke: #343a40; stroke-width: 0.65" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m633107c7a2" x="204.4321" y="143.539679" style="fill: #f7f8f9; stroke: #343a40; stroke-width: 0.65" />
     </g>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-map-2-place-9" tabindex="0" data-tooltip="Sydney, Australia: The Pitt 213–215 159,441 (0.500% of world); The Bear S05 156,562 (0.424%); difference +0.076 percentage points. Weeks 2–11." aria-label="Sydney, Australia: The Pitt 213–215 159,441 (0.500% of world); The Bear S05 156,562 (0.424%); difference +0.076 percentage points. Weeks 2–11." role="img">
+   <g id="mellon-7.6-pitt-bear-compare-map-2-place-4" tabindex="0" data-tooltip="Bengaluru, India: The Pitt 213–215 11,519 (0.039% of world); The Bear S05 18,247 (0.048%); difference -0.009 percentage points. Weeks 1–10." aria-label="Bengaluru, India: The Pitt 213–215 11,519 (0.039% of world); The Bear S05 18,247 (0.048%); difference -0.009 percentage points. Weeks 1–10." role="img">
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m633107c7a2" x="216.022099" y="166.925559" style="fill: #f7f8f9; stroke: #343a40; stroke-width: 0.65" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-map-2-place-5" tabindex="0" data-tooltip="Imus, Philippines: The Pitt 213–215 2,318 (0.008% of world); The Bear S05 543 (0.001%); difference +0.006 percentage points. Weeks 1–10." aria-label="Imus, Philippines: The Pitt 213–215 2,318 (0.008% of world); The Bear S05 543 (0.001%); difference +0.006 percentage points. Weeks 1–10." role="img">
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m10e2be3667" x="340.426982" y="161.304344" style="fill: #faf9f9; stroke: #343a40; stroke-width: 0.65" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-map-2-place-6" tabindex="0" data-tooltip="Cebu City, Philippines: The Pitt 213–215 4,918 (0.017% of world); The Bear S05 4,670 (0.012%); difference +0.004 percentage points. Weeks 1–10." aria-label="Cebu City, Philippines: The Pitt 213–215 4,918 (0.017% of world); The Bear S05 4,670 (0.012%); difference +0.004 percentage points. Weeks 1–10." role="img">
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m10e2be3667" x="348.964869" y="177.207392" style="fill: #faf9f9; stroke: #343a40; stroke-width: 0.65" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-map-2-place-7" tabindex="0" data-tooltip="Paranaque City, Philippines: The Pitt 213–215 341 (0.001% of world); The Bear S05 1,704 (0.004%); difference -0.003 percentage points. Weeks 1–10." aria-label="Paranaque City, Philippines: The Pitt 213–215 341 (0.001% of world); The Bear S05 1,704 (0.004%); difference -0.003 percentage points. Weeks 1–10." role="img">
     <defs>
-     <path id="mellon-7.6-pitt-bear-compare-map-2-m786fc71c19" d="M 0 -4.609772  L -4.609772 4.609772  L 4.609772 4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
+     <path id="mellon-7.6-pitt-bear-compare-map-2-m50c58c98cb" d="M -0 4.609772  L 4.609772 -4.609772  L -4.609772 -4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
     </defs>
     <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m786fc71c19" x="420.989935" y="345.931403" style="fill: #a44712; stroke: #343a40; stroke-width: 0.65" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m50c58c98cb" x="340.65797" y="161.104794" style="fill: #f9f9fa; stroke: #343a40; stroke-width: 0.65" />
     </g>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-map-2-place-10" tabindex="0" data-tooltip="Melbourne, Australia: The Pitt 213–215 141,823 (0.445% of world); The Bear S05 136,731 (0.370%); difference +0.075 percentage points. Weeks 2–11." aria-label="Melbourne, Australia: The Pitt 213–215 141,823 (0.445% of world); The Bear S05 136,731 (0.370%); difference +0.075 percentage points. Weeks 2–11." role="img">
+   <g id="mellon-7.6-pitt-bear-compare-map-2-place-8" tabindex="0" data-tooltip="Cainta, Philippines: The Pitt 213–215 211 (0.001% of world); The Bear S05 598 (0.002%); difference -0.001 percentage points. Weeks 1–10." aria-label="Cainta, Philippines: The Pitt 213–215 211 (0.001% of world); The Bear S05 598 (0.002%); difference -0.001 percentage points. Weeks 1–10." role="img">
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m50c58c98cb" x="340.956955" y="160.731319" style="fill: #f9f9fa; stroke: #343a40; stroke-width: 0.65" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-map-2-place-9" tabindex="0" data-tooltip="Melbourne, Australia: The Pitt 213–215 145,029 (0.492% of world); The Bear S05 161,553 (0.425%); difference +0.066 percentage points. Weeks 1–10." aria-label="Melbourne, Australia: The Pitt 213–215 145,029 (0.492% of world); The Bear S05 161,553 (0.425%); difference +0.066 percentage points. Weeks 1–10." role="img">
     <defs>
-     <path id="mellon-7.6-pitt-bear-compare-map-2-m6ae885c787" d="M 0 -4.609772  L -4.609772 4.609772  L 4.609772 4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
+     <path id="mellon-7.6-pitt-bear-compare-map-2-md9b4d64b2e" d="M 0 -4.609772  L -4.609772 4.609772  L 4.609772 4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
     </defs>
     <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m6ae885c787" x="402.897862" y="359.717466" style="fill: #a54a16; stroke: #343a40; stroke-width: 0.65" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-md9b4d64b2e" x="402.897862" y="359.717466" style="fill: #f4eeeb; stroke: #343a40; stroke-width: 0.65" />
     </g>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-map-2-place-11" tabindex="0" data-tooltip="Leeton, Australia: The Pitt 213–215 76 (0.000% of world); The Bear S05 379 (0.001%); difference -0.001 percentage points. Weeks 2–11." aria-label="Leeton, Australia: The Pitt 213–215 76 (0.000% of world); The Bear S05 379 (0.001%); difference -0.001 percentage points. Weeks 2–11." role="img">
+   <g id="mellon-7.6-pitt-bear-compare-map-2-place-10" tabindex="0" data-tooltip="Brisbane, Australia: The Pitt 213–215 81,699 (0.277% of world); The Bear S05 81,211 (0.214%); difference +0.063 percentage points. Weeks 1–10." aria-label="Brisbane, Australia: The Pitt 213–215 81,699 (0.277% of world); The Bear S05 81,211 (0.214%); difference +0.063 percentage points. Weeks 1–10." role="img">
+    <defs>
+     <path id="mellon-7.6-pitt-bear-compare-map-2-m2f02eea06e" d="M 0 -4.609772  L -4.609772 4.609772  L 4.609772 4.609772  z " style="stroke: #343a40; stroke-width: 0.65" />
+    </defs>
     <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m633107c7a2" x="407.927556" y="348.345376" style="fill: #f7f8f9; stroke: #343a40; stroke-width: 0.65" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m2f02eea06e" x="428.511767" y="322.828924" style="fill: #f5efec; stroke: #343a40; stroke-width: 0.65" />
     </g>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-map-2-place-12" tabindex="0" data-tooltip="Burwood, Australia: The Pitt 213–215 6 (0.000% of world); The Bear S05 232 (0.001%); difference -0.001 percentage points. Weeks 2–11." aria-label="Burwood, Australia: The Pitt 213–215 6 (0.000% of world); The Bear S05 232 (0.001%); difference -0.001 percentage points. Weeks 2–11." role="img">
+   <g id="mellon-7.6-pitt-bear-compare-map-2-place-11" tabindex="0" data-tooltip="Leeton, Australia: The Pitt 213–215 72 (0.000% of world); The Bear S05 348 (0.001%); difference -0.001 percentage points. Weeks 1–10." aria-label="Leeton, Australia: The Pitt 213–215 72 (0.000% of world); The Bear S05 348 (0.001%); difference -0.001 percentage points. Weeks 1–10." role="img">
     <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m633107c7a2" x="403.290423" y="359.840662" style="fill: #f7f8f9; stroke: #343a40; stroke-width: 0.65" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m50c58c98cb" x="407.927556" y="348.345376" style="fill: #f9f9fa; stroke: #343a40; stroke-width: 0.65" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-map-2-place-12" tabindex="0" data-tooltip="St Albans, Australia: The Pitt 213–215 497 (0.002% of world); The Bear S05 777 (0.002%); difference -0.000 percentage points. Weeks 1–10." aria-label="St Albans, Australia: The Pitt 213–215 497 (0.002% of world); The Bear S05 777 (0.002%); difference -0.000 percentage points. Weeks 1–10." role="img">
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-map-2-p40c75cba1c)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m50c58c98cb" x="402.4991" y="359.479656" style="fill: #f9f9fa; stroke: #343a40; stroke-width: 0.65" />
     </g>
    </g>
    <g id="mellon-7.6-pitt-bear-compare-map-2-text_4">
     <text style="font-size: 15px; font-family: 'DejaVu Sans'" transform="translate(164.698863 18.597656)">The Pitt 213–215 − The Bear S05</text>
-    <text style="font-size: 15px; font-family: 'DejaVu Sans'" transform="translate(164.698863 35.394375)">City share of worldwide downloader weight · weeks 2–11</text>
+    <text style="font-size: 15px; font-family: 'DejaVu Sans'" transform="translate(164.698863 35.394375)">City share of worldwide downloader weight · weeks 1–10</text>
    </g>
   </g>
   <g id="mellon-7.6-pitt-bear-compare-map-2-axes_2">
@@ -268,74 +256,94 @@
        <path id="mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8" />
       </defs>
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="172.885801" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="142.908084" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-map-2-text_5">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="172.885801" y="459.5925" transform="rotate(-0 172.885801 459.5925)">−0.06</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="142.908084" y="459.5925" transform="rotate(-0 142.908084 459.5925)">−1.00</text>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-map-2-xtick_2">
      <g id="mellon-7.6-pitt-bear-compare-map-2-line2d_9">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="218.637201" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="184.716063" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-map-2-text_6">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="218.637201" y="459.5925" transform="rotate(-0 218.637201 459.5925)">−0.04</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="184.716063" y="459.5925" transform="rotate(-0 184.716063 459.5925)">−0.75</text>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-map-2-xtick_3">
      <g id="mellon-7.6-pitt-bear-compare-map-2-line2d_10">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="264.3886" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="226.524042" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-map-2-text_7">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="264.3886" y="459.5925" transform="rotate(-0 264.3886 459.5925)">−0.02</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="226.524042" y="459.5925" transform="rotate(-0 226.524042 459.5925)">−0.50</text>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-map-2-xtick_4">
      <g id="mellon-7.6-pitt-bear-compare-map-2-line2d_11">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="310.14" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="268.332021" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-map-2-text_8">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="310.14" y="459.5925" transform="rotate(-0 310.14 459.5925)">0.00</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="268.332021" y="459.5925" transform="rotate(-0 268.332021 459.5925)">−0.25</text>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-map-2-xtick_5">
      <g id="mellon-7.6-pitt-bear-compare-map-2-line2d_12">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="355.8914" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="310.14" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-map-2-text_9">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="355.8914" y="459.5925" transform="rotate(-0 355.8914 459.5925)">0.02</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="310.14" y="459.5925" transform="rotate(-0 310.14 459.5925)">0.00</text>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-map-2-xtick_6">
      <g id="mellon-7.6-pitt-bear-compare-map-2-line2d_13">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="401.642799" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="351.947979" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-map-2-text_10">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="401.642799" y="459.5925" transform="rotate(-0 401.642799 459.5925)">0.04</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="351.947979" y="459.5925" transform="rotate(-0 351.947979 459.5925)">0.25</text>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-map-2-xtick_7">
      <g id="mellon-7.6-pitt-bear-compare-map-2-line2d_14">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="447.394199" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="393.755958" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-map-2-text_11">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="447.394199" y="459.5925" transform="rotate(-0 447.394199 459.5925)">0.06</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="393.755958" y="459.5925" transform="rotate(-0 393.755958 459.5925)">0.50</text>
      </g>
     </g>
-    <g id="mellon-7.6-pitt-bear-compare-map-2-text_12">
+    <g id="mellon-7.6-pitt-bear-compare-map-2-xtick_8">
+     <g id="mellon-7.6-pitt-bear-compare-map-2-line2d_15">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="435.563937" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-map-2-text_12">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="435.563937" y="459.5925" transform="rotate(-0 435.563937 459.5925)">0.75</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-map-2-xtick_9">
+     <g id="mellon-7.6-pitt-bear-compare-map-2-line2d_16">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-map-2-m009e2501a5" x="477.371916" y="443.474375" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-map-2-text_13">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="477.371916" y="459.5925" transform="rotate(-0 477.371916 459.5925)">1.00</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-map-2-text_14">
      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="310.14" y="474.446406" transform="rotate(-0 310.14 474.446406)">Difference in percentage points (orange ▲ positive; blue ▼ negative)</text>
     </g>
    </g>
@@ -345,7 +353,7 @@
     <path d="M 135.504 443.474375  L 135.504 434.742575  L 135.504 426.010775  L 484.776 426.010775  L 484.776 434.742575  L 484.776 443.474375  L 135.504 443.474375  z " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
    </g>
   </g>
-  <g id="mellon-7.6-pitt-bear-compare-map-2-text_13">
+  <g id="mellon-7.6-pitt-bear-compare-map-2-text_15">
    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="7.2" y="488.834375" transform="rotate(-0 7.2 488.834375)">Equal Earth · central meridian 120°E · regional crop · shared cities only</text>
   </g>
  </g>

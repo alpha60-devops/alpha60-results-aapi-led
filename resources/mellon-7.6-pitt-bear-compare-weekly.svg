@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.39952pt" height="558.572833pt" viewBox="0 0 800.39952 558.572833" version="1.1" role="group" aria-label="Weekly country shares. Common vertical scale; interval GeoJSON totals, not cumulative JSON prefixes." class="analysis-svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.39952pt" height="559.063158pt" viewBox="0 0 800.39952 559.063158" version="1.1" role="group" aria-label="Weekly country shares. Common vertical scale; interval GeoJSON totals, not cumulative JSON prefixes." class="analysis-svg">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
@@ -17,11 +17,11 @@
  </defs>
  <g id="mellon-7.6-pitt-bear-compare-weekly-figure_1">
   <g id="mellon-7.6-pitt-bear-compare-weekly-patch_1">
-   <path d="M 0 558.572833  L 800.39952 558.572833  L 800.39952 0  L 0 0  z " style="fill: #ffffff" />
+   <path d="M 0 559.063158  L 800.39952 559.063158  L 800.39952 -0  L 0 -0  z " style="fill: #ffffff" />
   </g>
   <g id="mellon-7.6-pitt-bear-compare-weekly-axes_1">
    <g id="mellon-7.6-pitt-bear-compare-weekly-patch_2">
-    <path d="M 37.44875 194.015837  L 793.19952 194.015837  L 793.19952 61.384225  L 37.44875 61.384225  z " style="fill: #ffffff" />
+    <path d="M 37.44875 208.772462  L 793.19952 208.772462  L 793.19952 83.274  L 37.44875 83.274  z " style="fill: #ffffff" />
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-matplotlib.axis_1">
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_1">
@@ -30,70 +30,70 @@
        <path id="mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8" />
       </defs>
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="71.801058" y="194.015837" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="71.801058" y="208.772462" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_2">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_2">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="148.139519" y="194.015837" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="148.139519" y="208.772462" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_3">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_3">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="224.477981" y="194.015837" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="224.477981" y="208.772462" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_4">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_4">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="300.816443" y="194.015837" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="300.816443" y="208.772462" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_5">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_5">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="377.154904" y="194.015837" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="377.154904" y="208.772462" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_6">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_6">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="453.493366" y="194.015837" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="453.493366" y="208.772462" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_7">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_7">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="529.831827" y="194.015837" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="529.831827" y="208.772462" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_8">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_8">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="606.170289" y="194.015837" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="606.170289" y="208.772462" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_9">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_9">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="682.508751" y="194.015837" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="682.508751" y="208.772462" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_10">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_10">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="758.847212" y="194.015837" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="758.847212" y="208.772462" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
@@ -101,575 +101,746 @@
    <g id="mellon-7.6-pitt-bear-compare-weekly-matplotlib.axis_2">
     <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_1">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_11">
-      <path d="M 37.44875 194.015837  L 793.19952 194.015837  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-pfa1c499a6e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+      <path d="M 37.44875 208.772462  L 793.19952 208.772462  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_12">
       <defs>
        <path id="mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8" />
       </defs>
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="194.015837" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="208.772462" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_1">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="198.5749" transform="rotate(-0 30.44875 198.5749)">0</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="213.331525" transform="rotate(-0 30.44875 213.331525)">0</text>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_2">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_13">
-      <path d="M 37.44875 150.435237  L 793.19952 150.435237  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-pfa1c499a6e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+      <path d="M 37.44875 170.199662  L 793.19952 170.199662  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_14">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="150.435237" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="170.199662" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_2">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="154.9943" transform="rotate(-0 30.44875 154.9943)">1</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="174.758724" transform="rotate(-0 30.44875 174.758724)">2</text>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_3">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_15">
-      <path d="M 37.44875 106.854638  L 793.19952 106.854638  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-pfa1c499a6e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+      <path d="M 37.44875 131.626861  L 793.19952 131.626861  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_16">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="106.854638" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="131.626861" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_3">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="111.4137" transform="rotate(-0 30.44875 111.4137)">2</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="136.185924" transform="rotate(-0 30.44875 136.185924)">4</text>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_4">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_17">
-      <path d="M 37.44875 63.274038  L 793.19952 63.274038  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-pfa1c499a6e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+      <path d="M 37.44875 93.054061  L 793.19952 93.054061  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_18">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="63.274038" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="93.054061" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_4">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="67.8331" transform="rotate(-0 30.44875 67.8331)">3</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="97.613123" transform="rotate(-0 30.44875 97.613123)">6</text>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-text_5">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="127.700031" transform="rotate(-90 16.318125 127.700031)">World share (%)</text>
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="146.023231" transform="rotate(-90 16.318125 146.023231)">World share (%)</text>
     </g>
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_19">
-    <path d="M 71.801058 159.468204  L 148.139519 161.032961  L 224.477981 166.295123  L 300.816443 168.041461  L 377.154904 168.346046  L 453.493366 172.02797  L 529.831827 171.56053  L 606.170289 166.191401  L 682.508751 166.550713  L 758.847212 167.740387  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-pfa1c499a6e)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <path d="M 71.801058 191.125063  L 148.139519 193.483561  L 224.477981 194.176037  L 300.816443 196.504784  L 377.154904 197.277618  L 453.493366 197.41241  L 529.831827 199.041829  L 606.170289 198.834966  L 682.508751 196.458882  L 758.847212 196.617894  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
     <defs>
-     <path id="mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" d="M 0 2.5  C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767  C 2.236584 1.29895 2.5 0.663008 2.5 0  C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767  C 1.29895 -2.236584 0.663008 -2.5 0 -2.5  C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767  C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0  C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767  C -1.29895 2.236584 -0.663008 2.5 0 2.5  z " style="stroke: #175b8c" />
+     <path id="mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" d="M 0 2  C 0.530406 2 1.03916 1.789267 1.414214 1.414214  C 1.789267 1.03916 2 0.530406 2 0  C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214  C 1.03916 -1.789267 0.530406 -2 0 -2  C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214  C -1.789267 -1.03916 -2 -0.530406 -2 0  C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214  C -1.03916 1.789267 -0.530406 2 0 2  z " style="stroke: #175b8c" />
     </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-pfa1c499a6e)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="71.801058" y="159.468204" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="148.139519" y="161.032961" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="224.477981" y="166.295123" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="300.816443" y="168.041461" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="377.154904" y="168.346046" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="453.493366" y="172.02797" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="529.831827" y="171.56053" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="606.170289" y="166.191401" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="682.508751" y="166.550713" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="758.847212" y="167.740387" style="fill: #175b8c; stroke: #175b8c" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="71.801058" y="191.125063" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="148.139519" y="193.483561" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="224.477981" y="194.176037" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="300.816443" y="196.504784" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="377.154904" y="197.277618" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="453.493366" y="197.41241" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="529.831827" y="199.041829" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="606.170289" y="198.834966" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="682.508751" y="196.458882" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="758.847212" y="196.617894" style="fill: #175b8c; stroke: #175b8c" />
     </g>
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_20">
-    <path d="M 71.801058 169.763991  L 148.139519 168.306056  L 224.477981 175.429949  L 300.816443 177.632116  L 377.154904 178.577511  L 453.493366 179.423512  L 529.831827 180.406041  L 606.170289 181.132507  L 682.508751 182.033294  L 758.847212 181.480906  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-pfa1c499a6e)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <path d="M 71.801058 195.985452  L 148.139519 198.039915  L 224.477981 197.394713  L 300.816443 200.54736  L 377.154904 201.521919  L 453.493366 201.9403  L 529.831827 202.314694  L 606.170289 202.749507  L 682.508751 203.071002  L 758.847212 203.469641  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
     <defs>
-     <path id="mellon-7.6-pitt-bear-compare-weekly-m64887f4846" d="M -2.5 2.5  L 2.5 2.5  L 2.5 -2.5  L -2.5 -2.5  z " style="stroke: #9b4318; stroke-linejoin: miter" />
+     <path id="mellon-7.6-pitt-bear-compare-weekly-m567847878a" d="M -2 2  L 2 2  L 2 -2  L -2 -2  z " style="stroke: #9b4318; stroke-linejoin: miter" />
     </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-pfa1c499a6e)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="71.801058" y="169.763991" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="148.139519" y="168.306056" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="224.477981" y="175.429949" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="300.816443" y="177.632116" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="377.154904" y="178.577511" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="453.493366" y="179.423512" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="529.831827" y="180.406041" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="606.170289" y="181.132507" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="682.508751" y="182.033294" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="758.847212" y="181.480906" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="71.801058" y="195.985452" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="148.139519" y="198.039915" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="224.477981" y="197.394713" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="300.816443" y="200.54736" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="377.154904" y="201.521919" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="453.493366" y="201.9403" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="529.831827" y="202.314694" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="606.170289" y="202.749507" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="682.508751" y="203.071002" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="758.847212" y="203.469641" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
     </g>
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_21">
-    <path d="M 71.801058 173.374997  L 148.139519 177.387622  L 224.477981 179.268755  L 300.816443 180.038767  L 377.154904 179.310653  L 453.493366 179.35527  L 529.831827 180.135089  L 606.170289 180.094911  L 682.508751 180.293184  L 758.847212 174.71864  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-pfa1c499a6e)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <path d="M 71.801058 193.877713  L 148.139519 199.63795  L 224.477981 201.41372  L 300.816443 202.246207  L 377.154904 202.586972  L 453.493366 202.264748  L 529.831827 202.284494  L 606.170289 202.629599  L 682.508751 202.611818  L 758.847212 202.699563  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
     <defs>
-     <path id="mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" d="M 0 -2.5  L -2.5 2.5  L 2.5 2.5  z " style="stroke: #606a24; stroke-linejoin: miter" />
+     <path id="mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" d="M 0 -2  L -2 2  L 2 2  z " style="stroke: #606a24; stroke-linejoin: miter" />
     </defs>
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-pfa1c499a6e)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="71.801058" y="173.374997" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="148.139519" y="177.387622" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="224.477981" y="179.268755" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="300.816443" y="180.038767" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="377.154904" y="179.310653" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="453.493366" y="179.35527" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="529.831827" y="180.135089" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="606.170289" y="180.094911" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="682.508751" y="180.293184" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="758.847212" y="174.71864" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="71.801058" y="193.877713" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="148.139519" y="199.63795" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="224.477981" y="201.41372" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="300.816443" y="202.246207" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="377.154904" y="202.586972" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="453.493366" y="202.264748" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="529.831827" y="202.284494" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="606.170289" y="202.629599" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="682.508751" y="202.611818" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="758.847212" y="202.699563" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_22">
+    <path d="M 71.801058 169.778073  L 148.139519 178.18092  L 224.477981 181.654688  L 300.816443 181.073341  L 377.154904 185.698892  L 453.493366 186.598755  L 529.831827 188.893901  L 606.170289 193.494827  L 682.508751 193.918476  L 758.847212 193.740728  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" d="M -0 2.828427  L 2.828427 0  L 0 -2.828427  L -2.828427 -0  z " style="stroke: #4d405d; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="71.801058" y="169.778073" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="148.139519" y="178.18092" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="224.477981" y="181.654688" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="300.816443" y="181.073341" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="377.154904" y="185.698892" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="453.493366" y="186.598755" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="529.831827" y="188.893901" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="606.170289" y="193.494827" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="682.508751" y="193.918476" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="758.847212" y="193.740728" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_23">
+    <path d="M 71.801058 172.450838  L 148.139519 179.899357  L 224.477981 185.293203  L 300.816443 183.75117  L 377.154904 184.877486  L 453.493366 190.208708  L 529.831827 189.334287  L 606.170289 190.622991  L 682.508751 192.624286  L 758.847212 188.516399  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" d="M -0 2  L 2 -2  L -2 -2  z " style="stroke: #8c416d; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="71.801058" y="172.450838" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="148.139519" y="179.899357" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="224.477981" y="185.293203" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="300.816443" y="183.75117" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="377.154904" y="184.877486" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="453.493366" y="190.208708" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="529.831827" y="189.334287" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="606.170289" y="190.622991" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="682.508751" y="192.624286" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="758.847212" y="188.516399" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_24">
+    <path d="M 71.801058 187.185614  L 148.139519 192.944773  L 224.477981 192.81065  L 300.816443 191.848527  L 377.154904 191.669442  L 453.493366 195.688753  L 529.831827 195.098882  L 606.170289 195.029963  L 682.508751 197.062352  L 758.847212 198.822981  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <defs>
+     <path id="mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" d="M -0.666667 2  L 0.666667 2  L 0.666667 0.666667  L 2 0.666667  L 2 -0.666667  L 0.666667 -0.666667  L 0.666667 -2  L -0.666667 -2  L -0.666667 -0.666667  L -2 -0.666667  L -2 0.666667  L -0.666667 0.666667  z " style="stroke: #525252; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="71.801058" y="187.185614" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="148.139519" y="192.944773" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="224.477981" y="192.81065" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="300.816443" y="191.848527" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="377.154904" y="191.669442" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="453.493366" y="195.688753" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="529.831827" y="195.098882" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="606.170289" y="195.029963" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="682.508751" y="197.062352" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="758.847212" y="198.822981" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
     </g>
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-patch_3">
-    <path d="M 37.44875 194.015837  L 37.44875 61.384225  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+    <path d="M 37.44875 208.772462  L 37.44875 83.274  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-patch_4">
-    <path d="M 37.44875 194.015837  L 793.19952 194.015837  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+    <path d="M 37.44875 208.772462  L 793.19952 208.772462  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-text_6">
-    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="37.44875" y="55.384225" transform="rotate(-0 37.44875 55.384225)">India</text>
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="37.44875" y="77.274" transform="rotate(-0 37.44875 77.274)">India</text>
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-legend_1">
-    <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_22">
-     <path d="M 217.11101 16.108281  L 228.11101 16.108281  L 239.11101 16.108281  " style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_25">
+     <path d="M 226.610541 16.108281  L 237.610541 16.108281  L 248.610541 16.108281  " style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
      <g>
-      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="228.11101" y="16.108281" style="fill: #175b8c; stroke: #175b8c" />
+      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="237.610541" y="16.108281" style="fill: #175b8c; stroke: #175b8c" />
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-text_7">
-     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="247.91101" y="19.958281" transform="rotate(-0 247.91101 19.958281)">The Pitt 201–203</text>
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="257.410541" y="19.958281" transform="rotate(-0 257.410541 19.958281)">The Pitt 201–203</text>
     </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_23">
-     <path d="M 362.919447 16.108281  L 373.919447 16.108281  L 384.919447 16.108281  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_26">
+     <path d="M 226.610541 32.254219  L 237.610541 32.254219  L 248.610541 32.254219  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
      <g>
-      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="373.919447" y="16.108281" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="237.610541" y="32.254219" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-text_8">
-     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="393.719448" y="19.958281" transform="rotate(-0 393.719448 19.958281)">The Pitt 213–215</text>
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="257.410541" y="36.104219" transform="rotate(-0 257.410541 36.104219)">The Pitt 213–215</text>
     </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_24">
-     <path d="M 508.727885 16.108281  L 519.727885 16.108281  L 530.727885 16.108281  " style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_27">
+     <path d="M 372.418979 16.108281  L 383.418979 16.108281  L 394.418979 16.108281  " style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
      <g>
-      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="519.727885" y="16.108281" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="383.418979" y="16.108281" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-text_9">
-     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="539.527885" y="19.958281" transform="rotate(-0 539.527885 19.958281)">The Bear S05</text>
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="403.218979" y="19.958281" transform="rotate(-0 403.218979 19.958281)">The Bear S05</text>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_28">
+     <path d="M 372.418979 32.254219  L 383.418979 32.254219  L 394.418979 32.254219  " style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="383.418979" y="32.254219" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-text_10">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="403.218979" y="36.104219" transform="rotate(-0 403.218979 36.104219)">The Bear S02</text>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_29">
+     <path d="M 499.228354 16.108281  L 510.228354 16.108281  L 521.228354 16.108281  " style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="510.228354" y="16.108281" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-text_11">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="530.028354" y="19.958281" transform="rotate(-0 530.028354 19.958281)">The Bear S03</text>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_30">
+     <path d="M 499.228354 32.254219  L 510.228354 32.254219  L 521.228354 32.254219  " style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+     <g>
+      <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="510.228354" y="32.254219" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-text_12">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="530.028354" y="36.104219" transform="rotate(-0 530.028354 36.104219)">The Bear S04</text>
     </g>
    </g>
   </g>
   <g id="mellon-7.6-pitt-bear-compare-weekly-axes_2">
    <g id="mellon-7.6-pitt-bear-compare-weekly-patch_5">
-    <path d="M 37.44875 355.580585  L 793.19952 355.580585  L 793.19952 222.948973  L 37.44875 222.948973  z " style="fill: #ffffff" />
+    <path d="M 37.44875 363.20406  L 793.19952 363.20406  L 793.19952 237.705598  L 37.44875 237.705598  z " style="fill: #ffffff" />
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-matplotlib.axis_3">
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_11">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_25">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_31">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="71.801058" y="355.580585" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="71.801058" y="363.20406" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_12">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_26">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_32">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="148.139519" y="355.580585" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="148.139519" y="363.20406" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_13">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_27">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_33">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="224.477981" y="355.580585" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="224.477981" y="363.20406" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_14">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_28">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_34">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="300.816443" y="355.580585" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="300.816443" y="363.20406" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_15">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_29">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_35">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="377.154904" y="355.580585" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="377.154904" y="363.20406" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_16">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_30">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_36">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="453.493366" y="355.580585" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="453.493366" y="363.20406" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_17">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_31">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_37">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="529.831827" y="355.580585" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="529.831827" y="363.20406" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_18">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_32">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_38">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="606.170289" y="355.580585" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="606.170289" y="363.20406" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_19">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_33">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_39">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="682.508751" y="355.580585" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="682.508751" y="363.20406" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_20">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_34">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_40">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="758.847212" y="355.580585" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="758.847212" y="363.20406" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
     </g>
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-matplotlib.axis_4">
     <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_5">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_35">
-      <path d="M 37.44875 355.580585  L 793.19952 355.580585  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p2ee6efa3c5)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_36">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="355.580585" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-text_10">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="360.139648" transform="rotate(-0 30.44875 360.139648)">0</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_6">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_37">
-      <path d="M 37.44875 311.999985  L 793.19952 311.999985  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p2ee6efa3c5)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_38">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="311.999985" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-text_11">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="316.559048" transform="rotate(-0 30.44875 316.559048)">1</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_7">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_39">
-      <path d="M 37.44875 268.419386  L 793.19952 268.419386  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p2ee6efa3c5)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_40">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="268.419386" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-text_12">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="272.978448" transform="rotate(-0 30.44875 272.978448)">2</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_8">
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_41">
-      <path d="M 37.44875 224.838786  L 793.19952 224.838786  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p2ee6efa3c5)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+      <path d="M 37.44875 363.20406  L 793.19952 363.20406  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_42">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="224.838786" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="363.20406" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_13">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="229.397848" transform="rotate(-0 30.44875 229.397848)">3</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="367.763123" transform="rotate(-0 30.44875 367.763123)">0</text>
      </g>
     </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-text_14">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="289.264779" transform="rotate(-90 16.318125 289.264779)">World share (%)</text>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_6">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_43">
+      <path d="M 37.44875 324.63126  L 793.19952 324.63126  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_44">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="324.63126" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-text_14">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="329.190322" transform="rotate(-0 30.44875 329.190322)">2</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_7">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_45">
+      <path d="M 37.44875 286.058459  L 793.19952 286.058459  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_46">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="286.058459" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-text_15">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="290.617522" transform="rotate(-0 30.44875 290.617522)">4</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_8">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_47">
+      <path d="M 37.44875 247.485659  L 793.19952 247.485659  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_48">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="247.485659" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-text_16">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="252.044721" transform="rotate(-0 30.44875 252.044721)">6</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-text_17">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="300.454829" transform="rotate(-90 16.318125 300.454829)">World share (%)</text>
     </g>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_43">
-    <path d="M 71.801058 344.584379  L 148.139519 346.361067  L 224.477981 347.578559  L 300.816443 348.860243  L 377.154904 348.877452  L 453.493366 348.066116  L 529.831827 347.308472  L 606.170289 345.887903  L 682.508751 345.600197  L 758.847212 345.640166  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p2ee6efa3c5)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p2ee6efa3c5)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="71.801058" y="344.584379" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="148.139519" y="346.361067" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="224.477981" y="347.578559" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="300.816443" y="348.860243" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="377.154904" y="348.877452" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="453.493366" y="348.066116" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="529.831827" y="347.308472" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="606.170289" y="345.887903" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="682.508751" y="345.600197" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="758.847212" y="345.640166" style="fill: #175b8c; stroke: #175b8c" />
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_49">
+    <path d="M 71.801058 357.335218  L 148.139519 358.337738  L 224.477981 359.124004  L 300.816443 359.662799  L 377.154904 360.230003  L 453.493366 360.237619  L 529.831827 359.878565  L 606.170289 359.543273  L 682.508751 358.914607  L 758.847212 358.787284  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="71.801058" y="357.335218" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="148.139519" y="358.337738" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="224.477981" y="359.124004" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="300.816443" y="359.662799" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="377.154904" y="360.230003" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="453.493366" y="360.237619" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="529.831827" y="359.878565" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="606.170289" y="359.543273" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="682.508751" y="358.914607" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="758.847212" y="358.787284" style="fill: #175b8c; stroke: #175b8c" />
     </g>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_44">
-    <path d="M 71.801058 338.557616  L 148.139519 339.038878  L 224.477981 344.706432  L 300.816443 346.26563  L 377.154904 347.181351  L 453.493366 348.225701  L 529.831827 348.39346  L 606.170289 348.925919  L 682.508751 349.529979  L 758.847212 349.482018  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p2ee6efa3c5)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p2ee6efa3c5)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="71.801058" y="338.557616" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="148.139519" y="339.038878" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="224.477981" y="344.706432" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="300.816443" y="346.26563" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="377.154904" y="347.181351" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="453.493366" y="348.225701" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="529.831827" y="348.39346" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="606.170289" y="348.925919" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="682.508751" y="349.529979" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="758.847212" y="349.482018" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_50">
+    <path d="M 71.801058 352.805342  L 148.139519 355.670621  L 224.477981 355.883601  L 300.816443 358.391752  L 377.154904 359.081768  L 453.493366 359.487016  L 529.831827 359.949189  L 606.170289 360.02343  L 682.508751 360.259067  L 758.847212 360.526392  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="71.801058" y="352.805342" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="148.139519" y="355.670621" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="224.477981" y="355.883601" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="300.816443" y="358.391752" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="377.154904" y="359.081768" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="453.493366" y="359.487016" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="529.831827" y="359.949189" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="606.170289" y="360.02343" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="682.508751" y="360.259067" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="758.847212" y="360.526392" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
     </g>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_45">
-    <path d="M 71.801058 346.850209  L 148.139519 347.936231  L 224.477981 348.799608  L 300.816443 349.051221  L 377.154904 348.845482  L 453.493366 348.897729  L 529.831827 348.865344  L 606.170289 349.229505  L 682.508751 348.783358  L 758.847212 347.698691  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p2ee6efa3c5)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p2ee6efa3c5)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="71.801058" y="346.850209" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="148.139519" y="347.936231" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="224.477981" y="348.799608" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="300.816443" y="349.051221" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="377.154904" y="348.845482" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="453.493366" y="348.897729" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="529.831827" y="348.865344" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="606.170289" y="349.229505" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="682.508751" y="348.783358" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="758.847212" y="347.698691" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_51">
+    <path d="M 71.801058 356.27981  L 148.139519 359.340471  L 224.477981 359.821085  L 300.816443 360.203169  L 377.154904 360.314519  L 453.493366 360.22347  L 529.831827 360.246592  L 606.170289 360.23226  L 682.508751 360.393418  L 758.847212 360.195978  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="71.801058" y="356.27981" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="148.139519" y="359.340471" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="224.477981" y="359.821085" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="300.816443" y="360.203169" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="377.154904" y="360.314519" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="453.493366" y="360.22347" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="529.831827" y="360.246592" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="606.170289" y="360.23226" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="682.508751" y="360.393418" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="758.847212" y="360.195978" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_52">
+    <path d="M 71.801058 339.230024  L 148.139519 341.948231  L 224.477981 342.507044  L 300.816443 342.970922  L 377.154904 345.039982  L 453.493366 346.689928  L 529.831827 347.282561  L 606.170289 350.807278  L 682.508751 352.394543  L 758.847212 352.383478  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="71.801058" y="339.230024" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="148.139519" y="341.948231" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="224.477981" y="342.507044" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="300.816443" y="342.970922" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="377.154904" y="345.039982" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="453.493366" y="346.689928" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="529.831827" y="347.282561" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="606.170289" y="350.807278" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="682.508751" y="352.394543" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="758.847212" y="352.383478" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_53">
+    <path d="M 71.801058 346.061449  L 148.139519 352.913776  L 224.477981 355.137363  L 300.816443 356.630851  L 377.154904 358.003896  L 453.493366 358.910167  L 529.831827 359.025301  L 606.170289 359.448145  L 682.508751 359.594003  L 758.847212 359.229763  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="71.801058" y="346.061449" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="148.139519" y="352.913776" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="224.477981" y="355.137363" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="300.816443" y="356.630851" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="377.154904" y="358.003896" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="453.493366" y="358.910167" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="529.831827" y="359.025301" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="606.170289" y="359.448145" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="682.508751" y="359.594003" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="758.847212" y="359.229763" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_54">
+    <path d="M 71.801058 353.088413  L 148.139519 357.598164  L 224.477981 358.410772  L 300.816443 358.444761  L 377.154904 358.59769  L 453.493366 359.120361  L 529.831827 359.179805  L 606.170289 359.391961  L 682.508751 359.448257  L 758.847212 360.075968  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p3423099b8f)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="71.801058" y="353.088413" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="148.139519" y="357.598164" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="224.477981" y="358.410772" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="300.816443" y="358.444761" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="377.154904" y="358.59769" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="453.493366" y="359.120361" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="529.831827" y="359.179805" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="606.170289" y="359.391961" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="682.508751" y="359.448257" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="758.847212" y="360.075968" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
     </g>
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-patch_6">
-    <path d="M 37.44875 355.580585  L 37.44875 222.948973  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+    <path d="M 37.44875 363.20406  L 37.44875 237.705598  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-patch_7">
-    <path d="M 37.44875 355.580585  L 793.19952 355.580585  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+    <path d="M 37.44875 363.20406  L 793.19952 363.20406  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-weekly-text_15">
-    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="37.44875" y="216.948973" transform="rotate(-0 37.44875 216.948973)">Philippines</text>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-text_18">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="37.44875" y="231.705598" transform="rotate(-0 37.44875 231.705598)">Philippines</text>
    </g>
   </g>
   <g id="mellon-7.6-pitt-bear-compare-weekly-axes_3">
    <g id="mellon-7.6-pitt-bear-compare-weekly-patch_8">
-    <path d="M 37.44875 517.145333  L 793.19952 517.145333  L 793.19952 384.513721  L 37.44875 384.513721  z " style="fill: #ffffff" />
+    <path d="M 37.44875 517.635658  L 793.19952 517.635658  L 793.19952 392.137196  L 37.44875 392.137196  z " style="fill: #ffffff" />
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-matplotlib.axis_5">
     <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_21">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_46">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_55">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="71.801058" y="517.145333" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-text_16">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="71.801058" y="533.263458" transform="rotate(-0 71.801058 533.263458)">2</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_22">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_47">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="148.139519" y="517.145333" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-text_17">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="148.139519" y="533.263458" transform="rotate(-0 148.139519 533.263458)">3</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_23">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_48">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="224.477981" y="517.145333" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-text_18">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="224.477981" y="533.263458" transform="rotate(-0 224.477981 533.263458)">4</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_24">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_49">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="300.816443" y="517.145333" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="71.801058" y="517.635658" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_19">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="300.816443" y="533.263458" transform="rotate(-0 300.816443 533.263458)">5</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="71.801058" y="533.753783" transform="rotate(-0 71.801058 533.753783)">1</text>
      </g>
     </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_25">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_50">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_22">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_56">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="377.154904" y="517.145333" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="148.139519" y="517.635658" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_20">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="377.154904" y="533.263458" transform="rotate(-0 377.154904 533.263458)">6</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="148.139519" y="533.753783" transform="rotate(-0 148.139519 533.753783)">2</text>
      </g>
     </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_26">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_51">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_23">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_57">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="453.493366" y="517.145333" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="224.477981" y="517.635658" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_21">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="453.493366" y="533.263458" transform="rotate(-0 453.493366 533.263458)">7</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="224.477981" y="533.753783" transform="rotate(-0 224.477981 533.753783)">3</text>
      </g>
     </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_27">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_52">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_24">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_58">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="529.831827" y="517.145333" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="300.816443" y="517.635658" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_22">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="529.831827" y="533.263458" transform="rotate(-0 529.831827 533.263458)">8</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="300.816443" y="533.753783" transform="rotate(-0 300.816443 533.753783)">4</text>
      </g>
     </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_28">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_53">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_25">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_59">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="606.170289" y="517.145333" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="377.154904" y="517.635658" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_23">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="606.170289" y="533.263458" transform="rotate(-0 606.170289 533.263458)">9</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="377.154904" y="533.753783" transform="rotate(-0 377.154904 533.753783)">5</text>
      </g>
     </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_29">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_54">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_26">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_60">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="682.508751" y="517.145333" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="453.493366" y="517.635658" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_24">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="682.508751" y="533.263458" transform="rotate(-0 682.508751 533.263458)">10</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="453.493366" y="533.753783" transform="rotate(-0 453.493366 533.753783)">6</text>
      </g>
     </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_30">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_55">
+    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_27">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_61">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="758.847212" y="517.145333" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="529.831827" y="517.635658" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_25">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="758.847212" y="533.263458" transform="rotate(-0 758.847212 533.263458)">11</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="529.831827" y="533.753783" transform="rotate(-0 529.831827 533.753783)">7</text>
      </g>
     </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-text_26">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="415.324135" y="548.877208" transform="rotate(-0 415.324135 548.877208)">Elapsed sampling week (each point is that seven-day interval)</text>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_28">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_62">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="606.170289" y="517.635658" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-text_26">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="606.170289" y="533.753783" transform="rotate(-0 606.170289 533.753783)">8</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_29">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_63">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="682.508751" y="517.635658" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-text_27">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="682.508751" y="533.753783" transform="rotate(-0 682.508751 533.753783)">9</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-xtick_30">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_64">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m009e2501a5" x="758.847212" y="517.635658" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-text_28">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="758.847212" y="533.753783" transform="rotate(-0 758.847212 533.753783)">10</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-text_29">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="415.324135" y="549.367533" transform="rotate(-0 415.324135 549.367533)">Elapsed sampling week (each point is that seven-day interval)</text>
     </g>
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-matplotlib.axis_6">
     <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_9">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_56">
-      <path d="M 37.44875 517.145333  L 793.19952 517.145333  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p992f2c07cb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_65">
+      <path d="M 37.44875 517.635658  L 793.19952 517.635658  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
      </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_57">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_66">
       <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="517.145333" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-text_27">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="521.704396" transform="rotate(-0 30.44875 521.704396)">0</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_10">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_58">
-      <path d="M 37.44875 473.564733  L 793.19952 473.564733  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p992f2c07cb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_59">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="473.564733" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-text_28">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="478.123796" transform="rotate(-0 30.44875 478.123796)">1</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_11">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_60">
-      <path d="M 37.44875 429.984134  L 793.19952 429.984134  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p992f2c07cb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_61">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="429.984134" style="stroke: #000000; stroke-width: 0.8" />
-      </g>
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-text_29">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="434.543196" transform="rotate(-0 30.44875 434.543196)">2</text>
-     </g>
-    </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_12">
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_62">
-      <path d="M 37.44875 386.403534  L 793.19952 386.403534  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p992f2c07cb)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
-     </g>
-     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_63">
-      <g>
-       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="386.403534" style="stroke: #000000; stroke-width: 0.8" />
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="517.635658" style="stroke: #000000; stroke-width: 0.8" />
       </g>
      </g>
      <g id="mellon-7.6-pitt-bear-compare-weekly-text_30">
-      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="390.962596" transform="rotate(-0 30.44875 390.962596)">3</text>
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="522.194721" transform="rotate(-0 30.44875 522.194721)">0</text>
      </g>
     </g>
-    <g id="mellon-7.6-pitt-bear-compare-weekly-text_31">
-     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="450.829527" transform="rotate(-90 16.318125 450.829527)">World share (%)</text>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_10">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_67">
+      <path d="M 37.44875 479.062858  L 793.19952 479.062858  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_68">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="479.062858" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-text_31">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="483.62192" transform="rotate(-0 30.44875 483.62192)">2</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_11">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_69">
+      <path d="M 37.44875 440.490057  L 793.19952 440.490057  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_70">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="440.490057" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-text_32">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="445.04912" transform="rotate(-0 30.44875 445.04912)">4</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-ytick_12">
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_71">
+      <path d="M 37.44875 401.917257  L 793.19952 401.917257  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_72">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m6b0521fb35" x="37.44875" y="401.917257" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-compare-weekly-text_33">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="406.476319" transform="rotate(-0 30.44875 406.476319)">6</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-compare-weekly-text_34">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="454.886427" transform="rotate(-90 16.318125 454.886427)">World share (%)</text>
     </g>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_64">
-    <path d="M 71.801058 429.591182  L 148.139519 437.908756  L 224.477981 450.610793  L 300.816443 460.521395  L 377.154904 464.617018  L 453.493366 464.245208  L 529.831827 465.386878  L 606.170289 460.512093  L 682.508751 461.044824  L 758.847212 463.966319  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p992f2c07cb)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p992f2c07cb)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="71.801058" y="429.591182" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="148.139519" y="437.908756" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="224.477981" y="450.610793" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="300.816443" y="460.521395" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="377.154904" y="464.617018" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="453.493366" y="464.245208" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="529.831827" y="465.386878" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="606.170289" y="460.512093" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="682.508751" y="461.044824" style="fill: #175b8c; stroke: #175b8c" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m78f09abc39" x="758.847212" y="463.966319" style="fill: #175b8c; stroke: #175b8c" />
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_73">
+    <path d="M 71.801058 471.030651  L 148.139519 478.888959  L 224.477981 482.569864  L 300.816443 488.191094  L 377.154904 492.576987  L 453.493366 494.389486  L 529.831827 494.224944  L 606.170289 494.730184  L 682.508751 492.57287  L 758.847212 492.808628  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)" style="fill: none; stroke: #175b8c; stroke-width: 1.7; stroke-linecap: square" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="71.801058" y="471.030651" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="148.139519" y="478.888959" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="224.477981" y="482.569864" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="300.816443" y="488.191094" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="377.154904" y="492.576987" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="453.493366" y="494.389486" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="529.831827" y="494.224944" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="606.170289" y="494.730184" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="682.508751" y="492.57287" style="fill: #175b8c; stroke: #175b8c" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m0cfabb88ed" x="758.847212" y="492.808628" style="fill: #175b8c; stroke: #175b8c" />
     </g>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_65">
-    <path d="M 71.801058 398.724251  L 148.139519 409.310841  L 224.477981 435.51245  L 300.816443 446.897478  L 377.154904 453.463991  L 453.493366 462.232046  L 529.831827 465.306553  L 606.170289 468.113807  L 682.508751 472.127805  L 758.847212 472.573179  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p992f2c07cb)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p992f2c07cb)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="71.801058" y="398.724251" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="148.139519" y="409.310841" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="224.477981" y="435.51245" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="300.816443" y="446.897478" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="377.154904" y="453.463991" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="453.493366" y="462.232046" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="529.831827" y="465.306553" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="606.170289" y="468.113807" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="682.508751" y="472.127805" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m64887f4846" x="758.847212" y="472.573179" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_74">
+    <path d="M 71.801058 454.088288  L 148.139519 465.228936  L 224.477981 469.913984  L 300.816443 481.509389  L 377.154904 486.547783  L 453.493366 489.453764  L 529.831827 493.334028  L 606.170289 494.694637  L 682.508751 495.936975  L 758.847212 497.713352  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="71.801058" y="454.088288" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="148.139519" y="465.228936" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="224.477981" y="469.913984" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="300.816443" y="481.509389" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="377.154904" y="486.547783" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="453.493366" y="489.453764" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="529.831827" y="493.334028" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="606.170289" y="494.694637" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="682.508751" y="495.936975" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m567847878a" x="758.847212" y="497.713352" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
     </g>
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_66">
-    <path d="M 71.801058 436.917319  L 148.139519 452.990671  L 224.477981 460.903109  L 300.816443 463.756115  L 377.154904 465.394244  L 453.493366 465.463642  L 529.831827 471.730984  L 606.170289 475.200439  L 682.508751 473.922182  L 758.847212 467.582289  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p992f2c07cb)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
-    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p992f2c07cb)">
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="71.801058" y="436.917319" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="148.139519" y="452.990671" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="224.477981" y="460.903109" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="300.816443" y="463.756115" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="377.154904" y="465.394244" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="453.493366" y="465.463642" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="529.831827" y="471.730984" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="606.170289" y="475.200439" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="682.508751" y="473.922182" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
-     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-mcf69e5937a" x="758.847212" y="467.582289" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_75">
+    <path d="M 71.801058 467.149279  L 148.139519 482.131108  L 224.477981 489.244298  L 300.816443 492.745912  L 377.154904 494.008497  L 453.493366 494.733444  L 529.831827 494.764156  L 606.170289 497.53774  L 682.508751 499.073132  L 758.847212 498.507445  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="71.801058" y="467.149279" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="148.139519" y="482.131108" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="224.477981" y="489.244298" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="300.816443" y="492.745912" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="377.154904" y="494.008497" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="453.493366" y="494.733444" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="529.831827" y="494.764156" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="606.170289" y="497.53774" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="682.508751" y="499.073132" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m38bf5b1055" x="758.847212" y="498.507445" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_76">
+    <path d="M 71.801058 405.58346  L 148.139519 436.653486  L 224.477981 435.37558  L 300.816443 427.79973  L 377.154904 433.516909  L 453.493366 439.734673  L 529.831827 441.901295  L 606.170289 454.760659  L 682.508751 458.874918  L 758.847212 454.99444  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)" style="fill: none; stroke-dasharray: 10.88,2.72,1.7,2.72; stroke-dashoffset: 0; stroke: #4d405d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="71.801058" y="405.58346" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="148.139519" y="436.653486" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="224.477981" y="435.37558" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="300.816443" y="427.79973" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="377.154904" y="433.516909" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="453.493366" y="439.734673" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="529.831827" y="441.901295" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="606.170289" y="454.760659" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="682.508751" y="458.874918" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m09b4d3e2df" x="758.847212" y="454.99444" style="fill: #4d405d; stroke: #4d405d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_77">
+    <path d="M 71.801058 442.541361  L 148.139519 464.657657  L 224.477981 473.806784  L 300.816443 479.325262  L 377.154904 484.821706  L 453.493366 489.231046  L 529.831827 491.230009  L 606.170289 493.519355  L 682.508751 494.965827  L 758.847212 491.937727  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)" style="fill: none; stroke-dasharray: 6.29,2.72; stroke-dashoffset: 0; stroke: #8c416d; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="71.801058" y="442.541361" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="148.139519" y="464.657657" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="224.477981" y="473.806784" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="300.816443" y="479.325262" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="377.154904" y="484.821706" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="453.493366" y="489.231046" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="529.831827" y="491.230009" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="606.170289" y="493.519355" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="682.508751" y="494.965827" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m840ec05fe5" x="758.847212" y="491.937727" style="fill: #8c416d; stroke: #8c416d; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-line2d_78">
+    <path d="M 71.801058 444.940353  L 148.139519 474.109074  L 224.477981 475.50505  L 300.816443 479.290875  L 377.154904 485.459364  L 453.493366 488.260672  L 529.831827 488.888248  L 606.170289 490.854901  L 682.508751 492.151889  L 758.847212 497.875647  " clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)" style="fill: none; stroke-dasharray: 1.7,2.805; stroke-dashoffset: 0; stroke: #525252; stroke-width: 1.7" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-compare-weekly-p354103ee6e)">
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="71.801058" y="444.940353" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="148.139519" y="474.109074" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="224.477981" y="475.50505" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="300.816443" y="479.290875" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="377.154904" y="485.459364" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="453.493366" y="488.260672" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="529.831827" y="488.888248" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="606.170289" y="490.854901" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="682.508751" y="492.151889" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-compare-weekly-m35dfb26189" x="758.847212" y="497.875647" style="fill: #525252; stroke: #525252; stroke-linejoin: miter" />
     </g>
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-patch_9">
-    <path d="M 37.44875 517.145333  L 37.44875 384.513721  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+    <path d="M 37.44875 517.635658  L 37.44875 392.137196  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
    </g>
    <g id="mellon-7.6-pitt-bear-compare-weekly-patch_10">
-    <path d="M 37.44875 517.145333  L 793.19952 517.145333  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+    <path d="M 37.44875 517.635658  L 793.19952 517.635658  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
    </g>
-   <g id="mellon-7.6-pitt-bear-compare-weekly-text_32">
-    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="37.44875" y="378.513721" transform="rotate(-0 37.44875 378.513721)">Australia</text>
+   <g id="mellon-7.6-pitt-bear-compare-weekly-text_35">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="37.44875" y="386.137196" transform="rotate(-0 37.44875 386.137196)">Australia</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="mellon-7.6-pitt-bear-compare-weekly-pfa1c499a6e">
-   <rect x="37.44875" y="61.384225" width="755.75077" height="132.631612" />
+  <clipPath id="mellon-7.6-pitt-bear-compare-weekly-p425f8b1d8c">
+   <rect x="37.44875" y="83.274" width="755.75077" height="125.498462" />
   </clipPath>
-  <clipPath id="mellon-7.6-pitt-bear-compare-weekly-p2ee6efa3c5">
-   <rect x="37.44875" y="222.948973" width="755.75077" height="132.631612" />
+  <clipPath id="mellon-7.6-pitt-bear-compare-weekly-p3423099b8f">
+   <rect x="37.44875" y="237.705598" width="755.75077" height="125.498462" />
   </clipPath>
-  <clipPath id="mellon-7.6-pitt-bear-compare-weekly-p992f2c07cb">
-   <rect x="37.44875" y="384.513721" width="755.75077" height="132.631612" />
+  <clipPath id="mellon-7.6-pitt-bear-compare-weekly-p354103ee6e">
+   <rect x="37.44875" y="392.137196" width="755.75077" height="125.498462" />
   </clipPath>
  </defs>
 </svg>

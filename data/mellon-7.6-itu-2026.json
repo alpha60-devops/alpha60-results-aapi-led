@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "method": "global-internet-user-scaling",
+  "reference_year": 2026,
+  "reference_users_billions": 6.1,
+  "reference_status": "provisional_project_estimate_not_official_ITU_2026",
+  "checked_at": "2026-09-24",
+  "formula": "adjusted_weight = raw_weight * reference_users_billions / source_year_users_billions",
+  "source_year_rule": "sample start year",
+  "vintage_policy": "Retain project-pinned as-published 2023 and 2024 estimates for compatibility; disclose later revisions separately.",
+  "project_source": {
+    "repository": "alpha60-data",
+    "commit": "dd8f18da3fe56025b21eca084e99a0af2a77c536",
+    "path": "itu/facts_and_figures.json",
+    "sha256": "302f0f874d5ed3ba2cb7f097c6d5eb3bcf153974087db90b0f5fcbdd16ccf685"
+  },
+  "years": {
+    "2023": {
+      "users_billions": 5.4,
+      "status": "official_estimate_as_published",
+      "source_url": "https://www.itu.int/en/mediacentre/Pages/PR-2023-11-27-facts-and-figures-measuring-digital-development.aspx"
+    },
+    "2024": {
+      "users_billions": 5.5,
+      "status": "official_estimate_as_published",
+      "source_url": "https://www.itu.int/en/mediacentre/Pages/PR-2024-11-27-facts-and-figures.aspx"
+    },
+    "2025": {
+      "users_billions": 6.0,
+      "status": "official_estimate_as_published",
+      "source_url": "https://www.itu.int/en/mediacentre/Pages/PR-2025-11-17-Facts-and-Figures.aspx"
+    },
+    "2026": {
+      "users_billions": 6.1,
+      "status": "provisional_project_estimate",
+      "source_url": "https://www.itu.int/en/ITU-D/Statistics/pages/facts/default.aspx"
+    }
+  },
+  "official_latest_checked": {
+    "year": 2025,
+    "url": "https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx"
+  },
+  "revision_sensitivity": {
+    "2024_users_billions": 5.8,
+    "source_url": "https://www.itu.int/en/mediacentre/Pages/PR-2025-11-17-Facts-and-Figures.aspx",
+    "description": "The 2025 release revises the 2024 estimate to 5.8 billion. This scenario replaces only the Bear S03 denominator."
+  }
+}

@@ -329,7 +329,7 @@ These are descriptive peaks within the selected ten bins, not release-day peaks 
 
 ## Projection choices
 
-1. **Equal Earth, centered at 180°E, cropped to 95°E–305°E and 8°S–76°N, puts East Asia and the USA on either side of the Pacific.** This page uses that geographic
+1. **Equal Earth, centered at 180°E, cropped to 95°E–305°E and 8°S–76°N, puts East Asia and the USA on either side of the Pacific.** The city-difference maps use that geographic
    preclip and central-meridian variant with the spherical Equal Earth equations
    through PROJ. It is an area-preserving display, not a density normalization.
    Cartofreako documents Equal Earth as an **exploration-only comparison method**,
@@ -339,8 +339,7 @@ These are descriptive peaks within the selected ten bins, not release-day peaks 
    existing geography. Its 70–160°E northern and southern octants place most of
    South/East Asia and Australia together. A Pacific/USA comparison crosses
    octants; retain visible cuts and split paths correctly. Use the same data,
-   colors and denominators when comparing layouts. This is a recommendation;
-   the maps above use Equal Earth.
+   colors and denominators when comparing layouts. This is a recommendation; the maps above use Equal Earth.
 
 References: [Cartofreako Equal Earth context](https://bdekoz.github.io/cartofreako/docs/pages/projections/equal-earth/context.html),
 [equations and implementation boundary](https://bdekoz.github.io/cartofreako/docs/pages/projections/equal-earth/implementation.html),
@@ -369,12 +368,12 @@ References: [Cartofreako Equal Earth context](https://bdekoz.github.io/cartofrea
   residence or verified audience. Wi-Fi versus cellular usage is not resolved.
 - **Hosting sensitivity:** subtract hosting from size in both country and global
   denominators. This removes one flag; it does not identify residential traffic.
-- **Maps:** geolocated city aggregates keyed by country and GeoNames ID, using
+- **Difference maps:** geolocated city aggregates keyed by country and GeoNames ID, using
   source representative coordinates. Only shared identified cities with at least
   100 combined downloader weight qualify. Show at most two positive and two
   negative differences per country, ranked by percentage-point difference.
   An absent or suppressed location is not zero. Triangles indicate sign;
-  color intensity encodes magnitude on a symmetric scale shared by the two maps.
+  color intensity encodes magnitude on a symmetric scale shared by all difference maps on this page.
   “Hot” and “cold” describe larger and smaller observed shares, without a test of
   statistical significance. They do not describe population-adjusted demand.
 - **Export:** all selected files declare H3 resolution 5 and minimum swarm size 3.
@@ -389,15 +388,15 @@ References: [Cartofreako Equal Earth context](https://bdekoz.github.io/cartofrea
 - [Calculation ledger: every interval, country, network field, city and source SHA-256](../data/mellon-7.6-analysis.json). All ten flags for both roles are retained.
 - [Godzilla Minus One: godzilla-minus-one-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2024/blob/92a3c99741588412cbc26644d1e3879b1d97740f/data/json/godzilla-minus-one-cumulative.json).
 - [Godzilla Minus One: godzilla-minus-one-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2024/blob/92a3c99741588412cbc26644d1e3879b1d97740f/docs/itemized/godzilla-minus-one-sample-cache-audit.md).
-- [Godzilla Minus One: weekly GeoJSON directory](https://github.com/alpha60-devops/alpha60-results-2024/tree/92a3c99741588412cbc26644d1e3879b1d97740f/data/geojson.week); exact ten filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
+- [Godzilla Minus One: first analyzed weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2024/blob/92a3c99741588412cbc26644d1e3879b1d97740f/data/geojson.week/godzilla-minus-one-week-00002.geojson.gz); matched and extended interval filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
 - [Godzilla x Kong: godzilla-x-kong-the-new-empire-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2024/blob/92a3c99741588412cbc26644d1e3879b1d97740f/data/json/godzilla-x-kong-the-new-empire-cumulative.json).
 - [Godzilla x Kong: godzilla-x-kong-the-new-empire-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2024/blob/92a3c99741588412cbc26644d1e3879b1d97740f/docs/itemized/godzilla-x-kong-the-new-empire-sample-cache-audit.md).
-- [Godzilla x Kong: weekly GeoJSON directory](https://github.com/alpha60-devops/alpha60-results-2024/tree/92a3c99741588412cbc26644d1e3879b1d97740f/data/geojson.week); exact ten filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
+- [Godzilla x Kong: first analyzed weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2024/blob/92a3c99741588412cbc26644d1e3879b1d97740f/data/geojson.week/godzilla-x-kong-the-new-empire-week-00002.geojson.gz); matched and extended interval filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
 - [Godzilla vs. Kong: godzilla-vs-kong-cumulative.json](https://github.com/alpha60-devops/alpha60-results-2021/blob/95af5fee975b04b25bad7f03aa5e1d571a939437/data/json/godzilla-vs-kong-cumulative.json).
 - [Godzilla vs. Kong: godzilla-vs-kong-sample-cache-audit.md](https://github.com/alpha60-devops/alpha60-results-2021/blob/95af5fee975b04b25bad7f03aa5e1d571a939437/docs/itemized/godzilla-vs-kong-sample-cache-audit.md).
-- [Godzilla vs. Kong: weekly GeoJSON directory](https://github.com/alpha60-devops/alpha60-results-2021/tree/95af5fee975b04b25bad7f03aa5e1d571a939437/data/geojson.week); exact ten filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
+- [Godzilla vs. Kong: first analyzed weekly GeoJSON](https://github.com/alpha60-devops/alpha60-results-2021/blob/95af5fee975b04b25bad7f03aa5e1d571a939437/data/geojson.week/godzilla-vs-kong-week-00002.geojson.gz); matched and extended interval filenames and hashes are in the ledger. Companion export version `2026-08-05`; IP-geolocation version `6:1777968300`.
 - [Basemap source](https://github.com/bdekoz/cartofreako/blob/ec201801a0386fc681c7637e26a838117ecf23de/src.wasm/cartofreako-cahill-keyes-land-110m.geojson); SHA-256 `7e3775f54f715d69ea7ddf91c4e270d195473250543a7a3e60f45002fe34dffa`. Natural Earth data are public domain.
-- [Download the analysis script](../resources/mellon-7.6-analyze.py). Run with `--source-root /path/to/checkouts --output /path/to/output`, with the annual repositories checked out at the ledger commits. It emits JSON only. [Figure and validation scripts (repository access required)](https://github.com/bdekoz/alpha60/tree/main/scripts): `render-mellon-7-6-aapi.py` and `check-mellon-7-6-aapi.py`.
+- [Download the analysis script](../resources/mellon-7.6-analyze.py) and [ITU configuration](../data/mellon-7.6-itu-2026.json). Run with `--source-root /path/to/checkouts --output /path/to/output --itu-config /path/to/mellon-7.6-itu-2026.json`, with the annual repositories checked out at the ledger commits. It emits JSON only. Then run the [extension script](../resources/mellon-7.6-extend.py) in the same directory as the analysis script with `--source-root /path/to/checkouts --ledger /path/to/output/analysis.json` to add extended intervals and by-BTIH resolution weights. [Figure and validation scripts (repository access required)](https://github.com/bdekoz/alpha60/tree/main/scripts): `render-mellon-7-6-aapi.py` and `check-mellon-7-6-aapi.py`.
 - [Toho's official Minus One announcement](https://godzilla.com/blogs/news/new-godzilla-minus-one-trailer-movie-tickets): identifies the film and director Takashi Yamazaki.
 - [Legendary: Godzilla vs. Kong](https://www.legendary.com/film/godzilla-vs-kong/) and [Godzilla x Kong: The New Empire](https://www.legendary.com/film/godzilla-x-kong-the-new-empire/): official film records and Warner Bros. distribution credits.
 - [Legendary and Warner Bros. franchise announcement](https://www.legendary.com/legendary-and-warner-bros-pictures-announce-cinematic-franchise-uniting-godzilla-king-kong-and-other-iconic-giant-monsters/): describes Legendary's Godzilla/Kong films and collaboration with Toho. The requested production contrast does not imply that the U.S. films have no Toho involvement.

@@ -1,0 +1,54 @@
+{
+  "boundary_source": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_0_countries.geojson",
+  "boundary_source_sha256": "239eec57ac17f100a11e2536cffc56752c318b50ae765b0918ff7aab4ce8f255",
+  "area_points_squared_per_weight": 0.012,
+  "countries": {
+    "PHL": {
+      "extent_lon_lat": [
+        116,
+        4,
+        127,
+        22
+      ],
+      "city_rows": 101,
+      "plotted_city_rows": 101,
+      "unlocated_or_outside_crop_downloader_weight": {
+        "ge1080": 0,
+        "lt1080": 0
+      }
+    },
+    "IND": {
+      "extent_lon_lat": [
+        67,
+        5,
+        99,
+        38
+      ],
+      "city_rows": 269,
+      "plotted_city_rows": 269,
+      "unlocated_or_outside_crop_downloader_weight": {
+        "ge1080": 0,
+        "lt1080": 0
+      }
+    },
+    "AUS": {
+      "extent_lon_lat": [
+        112,
+        -44,
+        154,
+        -10
+      ],
+      "city_rows": 51,
+      "plotted_city_rows": 51,
+      "unlocated_or_outside_crop_downloader_weight": {
+        "ge1080": 0,
+        "lt1080": 0
+      }
+    }
+  },
+  "projection": {
+    "commit": "ec201801a0386fc681c7637e26a838117ecf23de",
+    "header_sha256": "0c3b945711e655d4dd70208457bca2f400fd6edc0869f1a1c87ad57847f56ba2",
+    "url": "https://github.com/bdekoz/cartofreako/blob/ec201801a0386fc681c7637e26a838117ecf23de/src.projections/cart0freak0-cahill-keyes.h"
+  }
+}

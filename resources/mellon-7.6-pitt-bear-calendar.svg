@@ -1,0 +1,465 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="800.120633pt" height="583.699146pt" viewBox="0 0 800.120633 583.699146" version="1.1" role="group" aria-label="Pitt 213–215 and Bear S05 in the same calendar weeks. June 26 through September 10, 2026; country downloader world shares." class="analysis-svg">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Alpha60 Mellon 7.6</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="mellon-7.6-pitt-bear-calendar-figure_1">
+  <g id="mellon-7.6-pitt-bear-calendar-patch_1">
+   <path d="M 0 583.699146  L 800.120633 583.699146  L 800.120633 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="mellon-7.6-pitt-bear-calendar-axes_1">
+   <g id="mellon-7.6-pitt-bear-calendar-patch_2">
+    <path d="M 37.44875 207.376205  L 792.365663 207.376205  L 792.365663 69.925402  L 37.44875 69.925402  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-matplotlib.axis_1">
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_1">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_1">
+      <defs>
+       <path id="mellon-7.6-pitt-bear-calendar-m009e2501a5" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8" />
+      </defs>
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="71.763155" y="207.376205" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_2">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_2">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="277.649586" y="207.376205" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_3">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_3">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="483.536017" y="207.376205" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_4">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_4">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="620.793637" y="207.376205" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_5">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_5">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="758.051258" y="207.376205" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-matplotlib.axis_2">
+    <g id="mellon-7.6-pitt-bear-calendar-ytick_1">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_6">
+      <path d="M 37.44875 207.376205  L 792.365663 207.376205  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_7">
+      <defs>
+       <path id="mellon-7.6-pitt-bear-calendar-m6b0521fb35" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8" />
+      </defs>
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="207.376205" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="211.935267" transform="rotate(-0 30.44875 211.935267)">0</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-ytick_2">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_8">
+      <path d="M 37.44875 160.494196  L 792.365663 160.494196  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_9">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="160.494196" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="165.053259" transform="rotate(-0 30.44875 165.053259)">1</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-ytick_3">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_10">
+      <path d="M 37.44875 113.612188  L 792.365663 113.612188  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_11">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="113.612188" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="118.171251" transform="rotate(-0 30.44875 118.171251)">2</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-text_4">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="138.650803" transform="rotate(-90 16.318125 138.650803)">World share (%)</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-line2d_12">
+    <path d="M 71.763155 193.416433  L 140.391965 193.534504  L 209.020776 193.13033  L 277.649586 194.492803  L 346.278396 194.549985  L 414.907206 193.664175  L 483.536017 193.890775  L 552.164827 193.8689  L 620.793637 193.027143  L 689.422448 192.978865  L 758.051258 188.361057  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.5" />
+    <defs>
+     <path id="mellon-7.6-pitt-bear-calendar-mce8137406b" d="M -3 3  L 3 3  L 3 -3  L -3 -3  z " style="stroke: #9b4318; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)">
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="71.763155" y="193.416433" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="140.391965" y="193.534504" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="209.020776" y="193.13033" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="277.649586" y="194.492803" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="346.278396" y="194.549985" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="414.907206" y="193.664175" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="483.536017" y="193.890775" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="552.164827" y="193.8689" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="620.793637" y="193.027143" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="689.422448" y="192.978865" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="758.051258" y="188.361057" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-line2d_13">
+    <path d="M 71.763155 171.169565  L 140.391965 185.171737  L 209.020776 189.488334  L 277.649586 191.511971  L 346.278396 192.340314  L 414.907206 191.557043  L 483.536017 191.60504  L 552.164827 192.443933  L 620.793637 192.400711  L 689.422448 192.614005  L 758.051258 186.617166  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)" style="fill: none; stroke-dasharray: 1.5,2.475; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.5" />
+    <defs>
+     <path id="mellon-7.6-pitt-bear-calendar-m201298ef5d" d="M 0 -3  L -3 3  L 3 3  z " style="stroke: #606a24; stroke-linejoin: miter" />
+    </defs>
+    <g clip-path="url(#mellon-7.6-pitt-bear-calendar-p94ffe74426)">
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="71.763155" y="171.169565" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="140.391965" y="185.171737" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="209.020776" y="189.488334" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="277.649586" y="191.511971" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="346.278396" y="192.340314" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="414.907206" y="191.557043" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="483.536017" y="191.60504" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="552.164827" y="192.443933" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="620.793637" y="192.400711" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="689.422448" y="192.614005" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="758.051258" y="186.617166" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-patch_3">
+    <path d="M 37.44875 207.376205  L 37.44875 69.925402  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-patch_4">
+    <path d="M 37.44875 207.376205  L 792.365663 207.376205  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-text_5">
+    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="37.44875" y="63.925402" transform="rotate(-0 37.44875 63.925402)">India</text>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-legend_1">
+    <g id="mellon-7.6-pitt-bear-calendar-line2d_14">
+     <path d="M 278.206581 16.918125  L 290.206581 16.918125  L 302.206581 16.918125  " style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.5" />
+     <g>
+      <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="290.206581" y="16.918125" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-text_6">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="311.806581" y="21.118125" transform="rotate(-0 311.806581 21.118125)">The Pitt 213–215</text>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-line2d_15">
+     <path d="M 437.270331 16.918125  L 449.270331 16.918125  L 461.270331 16.918125  " style="fill: none; stroke-dasharray: 1.5,2.475; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.5" />
+     <g>
+      <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="449.270331" y="16.918125" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-text_7">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="470.870331" y="21.118125" transform="rotate(-0 470.870331 21.118125)">The Bear S05</text>
+    </g>
+   </g>
+  </g>
+  <g id="mellon-7.6-pitt-bear-calendar-axes_2">
+   <g id="mellon-7.6-pitt-bear-calendar-patch_5">
+    <path d="M 37.44875 374.823925  L 792.365663 374.823925  L 792.365663 237.373122  L 37.44875 237.373122  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-matplotlib.axis_3">
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_6">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_16">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="71.763155" y="374.823925" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_7">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_17">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="277.649586" y="374.823925" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_8">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_18">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="483.536017" y="374.823925" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_9">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_19">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="620.793637" y="374.823925" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_10">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_20">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="758.051258" y="374.823925" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-matplotlib.axis_4">
+    <g id="mellon-7.6-pitt-bear-calendar-ytick_4">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_21">
+      <path d="M 37.44875 374.823925  L 792.365663 374.823925  " clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_22">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="374.823925" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_8">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="379.382988" transform="rotate(-0 30.44875 379.382988)">0</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-ytick_5">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_23">
+      <path d="M 37.44875 327.941917  L 792.365663 327.941917  " clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_24">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="327.941917" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_9">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="332.50098" transform="rotate(-0 30.44875 332.50098)">1</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-ytick_6">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_25">
+      <path d="M 37.44875 281.059909  L 792.365663 281.059909  " clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_26">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="281.059909" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_10">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="285.618971" transform="rotate(-0 30.44875 285.618971)">2</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-text_11">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="306.098524" transform="rotate(-90 16.318125 306.098524)">World share (%)</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-line2d_27">
+    <path d="M 71.763155 368.1149  L 140.391965 368.2241  L 209.020776 368.010175  L 277.649586 368.901352  L 346.278396 368.91298  L 414.907206 368.618448  L 483.536017 368.077181  L 552.164827 367.83586  L 620.793637 368.249675  L 689.422448 367.697837  L 758.051258 366.140719  " clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.5" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)">
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="71.763155" y="368.1149" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="140.391965" y="368.2241" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="209.020776" y="368.010175" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="277.649586" y="368.901352" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="346.278396" y="368.91298" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="414.907206" y="368.618448" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="483.536017" y="368.077181" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="552.164827" y="367.83586" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="620.793637" y="368.249675" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="689.422448" y="367.697837" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="758.051258" y="366.140719" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-line2d_28">
+    <path d="M 71.763155 357.992232  L 140.391965 365.432187  L 209.020776 366.60048  L 277.649586 367.529261  L 346.278396 367.799935  L 414.907206 367.57861  L 483.536017 367.634815  L 552.164827 367.599978  L 620.793637 367.991724  L 689.422448 367.511781  L 758.051258 366.344946  " clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)" style="fill: none; stroke-dasharray: 1.5,2.475; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.5" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-calendar-pd748364414)">
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="71.763155" y="357.992232" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="140.391965" y="365.432187" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="209.020776" y="366.60048" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="277.649586" y="367.529261" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="346.278396" y="367.799935" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="414.907206" y="367.57861" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="483.536017" y="367.634815" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="552.164827" y="367.599978" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="620.793637" y="367.991724" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="689.422448" y="367.511781" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="758.051258" y="366.344946" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-patch_6">
+    <path d="M 37.44875 374.823925  L 37.44875 237.373122  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-patch_7">
+    <path d="M 37.44875 374.823925  L 792.365663 374.823925  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-text_12">
+    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="37.44875" y="231.373122" transform="rotate(-0 37.44875 231.373122)">Philippines</text>
+   </g>
+  </g>
+  <g id="mellon-7.6-pitt-bear-calendar-axes_3">
+   <g id="mellon-7.6-pitt-bear-calendar-patch_8">
+    <path d="M 37.44875 542.271646  L 792.365663 542.271646  L 792.365663 404.820843  L 37.44875 404.820843  z " style="fill: #ffffff" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-matplotlib.axis_5">
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_11">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_29">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="71.763155" y="542.271646" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_13">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="71.763155" y="558.389771" transform="rotate(-0 71.763155 558.389771)">2026-06-26</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_12">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_30">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="277.649586" y="542.271646" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_14">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="277.649586" y="558.389771" transform="rotate(-0 277.649586 558.389771)">2026-07-17</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_13">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_31">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="483.536017" y="542.271646" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_15">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="483.536017" y="558.389771" transform="rotate(-0 483.536017 558.389771)">2026-08-07</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_14">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_32">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="620.793637" y="542.271646" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_16">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="620.793637" y="558.389771" transform="rotate(-0 620.793637 558.389771)">2026-08-21</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-xtick_15">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_33">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m009e2501a5" x="758.051258" y="542.271646" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_17">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="758.051258" y="558.389771" transform="rotate(-0 758.051258 558.389771)">2026-09-04</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-text_18">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="414.907206" y="574.003521" transform="rotate(-0 414.907206 574.003521)">Seven-day interval start (last interval ends 2026-09-10)</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-matplotlib.axis_6">
+    <g id="mellon-7.6-pitt-bear-calendar-ytick_7">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_34">
+      <path d="M 37.44875 542.271646  L 792.365663 542.271646  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_35">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="542.271646" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_19">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="546.830708" transform="rotate(-0 30.44875 546.830708)">0</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-ytick_8">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_36">
+      <path d="M 37.44875 495.389638  L 792.365663 495.389638  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_37">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="495.389638" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_20">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="499.9487" transform="rotate(-0 30.44875 499.9487)">1</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-ytick_9">
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_38">
+      <path d="M 37.44875 448.507629  L 792.365663 448.507629  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.2; stroke-width: 0.8; stroke-linecap: square" />
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-line2d_39">
+      <g>
+       <use xlink:href="#mellon-7.6-pitt-bear-calendar-m6b0521fb35" x="37.44875" y="448.507629" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="mellon-7.6-pitt-bear-calendar-text_21">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end" x="30.44875" y="453.066692" transform="rotate(-0 30.44875 453.066692)">2</text>
+     </g>
+    </g>
+    <g id="mellon-7.6-pitt-bear-calendar-text_22">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle" x="16.318125" y="473.546244" transform="rotate(-90 16.318125 473.546244)">World share (%)</text>
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-line2d_40">
+    <path d="M 71.763155 492.042008  L 140.391965 493.18798  L 209.020776 494.720892  L 277.649586 497.653728  L 346.278396 499.986562  L 414.907206 498.460705  L 483.536017 497.844028  L 552.164827 496.955772  L 620.793637 499.420949  L 689.422448 497.257625  L 758.051258 488.429906  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #9b4318; stroke-width: 1.5" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)">
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="71.763155" y="492.042008" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="140.391965" y="493.18798" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="209.020776" y="494.720892" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="277.649586" y="497.653728" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="346.278396" y="499.986562" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="414.907206" y="498.460705" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="483.536017" y="497.844028" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="552.164827" y="496.955772" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="620.793637" y="499.420949" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="689.422448" y="497.257625" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-mce8137406b" x="758.051258" y="488.429906" style="fill: #9b4318; stroke: #9b4318; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-line2d_41">
+    <path d="M 71.763155 419.547714  L 140.391965 455.966032  L 209.020776 473.257006  L 277.649586 481.768843  L 346.278396 484.837976  L 414.907206 486.6002  L 483.536017 486.674856  L 552.164827 493.416974  L 620.793637 497.149255  L 689.422448 495.774164  L 758.051258 488.953999  " clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)" style="fill: none; stroke-dasharray: 1.5,2.475; stroke-dashoffset: 0; stroke: #606a24; stroke-width: 1.5" />
+    <g clip-path="url(#mellon-7.6-pitt-bear-calendar-p3968571e21)">
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="71.763155" y="419.547714" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="140.391965" y="455.966032" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="209.020776" y="473.257006" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="277.649586" y="481.768843" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="346.278396" y="484.837976" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="414.907206" y="486.6002" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="483.536017" y="486.674856" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="552.164827" y="493.416974" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="620.793637" y="497.149255" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="689.422448" y="495.774164" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+     <use xlink:href="#mellon-7.6-pitt-bear-calendar-m201298ef5d" x="758.051258" y="488.953999" style="fill: #606a24; stroke: #606a24; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-patch_9">
+    <path d="M 37.44875 542.271646  L 37.44875 404.820843  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-patch_10">
+    <path d="M 37.44875 542.271646  L 792.365663 542.271646  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="mellon-7.6-pitt-bear-calendar-text_23">
+    <text style="font-size: 14.4px; font-family: 'DejaVu Sans'; text-anchor: start" x="37.44875" y="398.820843" transform="rotate(-0 37.44875 398.820843)">Australia</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="mellon-7.6-pitt-bear-calendar-p94ffe74426">
+   <rect x="37.44875" y="69.925402" width="754.916913" height="137.450803" />
+  </clipPath>
+  <clipPath id="mellon-7.6-pitt-bear-calendar-pd748364414">
+   <rect x="37.44875" y="237.373122" width="754.916913" height="137.450803" />
+  </clipPath>
+  <clipPath id="mellon-7.6-pitt-bear-calendar-p3968571e21">
+   <rect x="37.44875" y="404.820843" width="754.916913" height="137.450803" />
+  </clipPath>
+ </defs>
+</svg>
