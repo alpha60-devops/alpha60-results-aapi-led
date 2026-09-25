@@ -44,6 +44,8 @@ Sample dates: 2018 to 2026
 - [AAPI and Asian-global: matched geographic comparisons](docs/asia-asian-where.html)
 - [The Pitt versus The Bear: India, Philippines and Australia](docs/pitt-bear-compare.html)
 - [Godzilla and Monarch: Japan, USA, China and South Korea](docs/godzilla.html)
+- [Fail: meta-compare aapi-led vs. white-led](https://github.com/bdekoz/alpha60/blob/main/docs/development/20260916_swarm_analysis_mellon_7.1_hex_space_cardinality_results.md)
+
 <div style="height: 50px;"></div>
 
 
